@@ -21,62 +21,61 @@
 [ENDBLOCK]
 Traveler
 [ENDBLOCK]
-やあ、久しぶり！
-セインガルドはどうだった？
+Hi, it's been a long time!
+How was Seinegald?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-なんの事だろうか。
-どなたかと勘違いしておられるのでは？
+I think you may have mistaken me 
+for someone else.
 [ENDBLOCK]
 Traveler
 [ENDBLOCK]
-何とぼけているんだよ。
-ほらほら、また話を聞かせてくれよ。
+Don't go away. Come on, let's talk 
+about it again.
 [ENDBLOCK]
 Traveler
 [ENDBLOCK]
-本当に別人なのか？
+Are you really a different person?
+[ENDBLOCK]
+Traveler
+[ENDBLOCK]
+I'm sorry.
 
 [ENDBLOCK]
-Traveler
+<Woodrow>
 [ENDBLOCK]
-これはすまない事をした。
-
+As you've realized your mistake.
+Don't worry about it...
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-勘違いだと気づいてくだされば、
-構いませんが……
-[ENDBLOCK]
-<Woodrow>
-[ENDBLOCK]
-あなたが会ったという人は、
-それほど私と似ているのですか？
+Do I really look that much like
+the person you had met before?
 [ENDBLOCK]
 Traveler
 [ENDBLOCK]
-ああ、そりゃ良く似ているよ。
+Yeah, that's right.
 [ENDBLOCK]
 Traveler
 [ENDBLOCK]
-もし、彼を知っている人が見たら、
-そりゃ面白い反応をすると思うな。
+If he see's you, he'll have 
+an interesting reaction.
 [ENDBLOCK]
 Traveler
 [ENDBLOCK]
-けど、彼は急いでいるみたいだったから、
-探し出すのは無理だと思うけどね。
+He seemed to be in a rush, so it 
+will be impossible to find him.
 [ENDBLOCK]
 Traveler
 [ENDBLOCK]
-そうだ！	だったら彼の事を
-知っている人を探してみなよ。
+That's right! Then you should find 
+somebody who might know him.
 [ENDBLOCK]
 Traveler
 [ENDBLOCK]
-絶対にみんな、
-彼と勘違いするはずさ。
+I'm sure they'll mistake 
+you for him.
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
@@ -93,12 +92,12 @@ Young Person
 くぅ！
 思い出せねえー!!
 [ENDBLOCK]
-Boy
+Girl
 [ENDBLOCK]
 ねえねえ、今日は
 占いの人、いないの？
 [ENDBLOCK]
-Boy
+Girl
 [ENDBLOCK]
 これは、前に占って
 もらった時のお礼ね。
@@ -168,7 +167,7 @@ Kid
 [ENDBLOCK]
 すまん、俺様もわからねぇ……
 [ENDBLOCK]
-銀髪少年
+Silver Haired Boy
 [ENDBLOCK]
 それにしても、なんだこいつら。
 [ENDBLOCK]
@@ -182,43 +181,43 @@ Kid
 おい、銀髪のチビちゃんよ。
 覚悟しろよ。俺様がとっちめてやる。
 [ENDBLOCK]
-ネルソン
+Nelson
 [ENDBLOCK]
-ロ、ロ……ニ……やばいよ。
+Lo-Loni this looks bad...
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-ロロニっていうのか、おめぇ。
+Ahh! So your name is Loloni! 
 [ENDBLOCK]
-ロロニ
+Loloni
 [ENDBLOCK]
-俺の名前は！
-……ってどうでもいいぜ。
+My name is...
+...Not important!
 [ENDBLOCK]
-ロロニ
+Loloni
 [ENDBLOCK]
-こんな頭悪いおっさんなんか、
-恐くねえよ。
-[ENDBLOCK]
-<Rutee>
-[ENDBLOCK]
-あんたたち！
-いいかげんにしなさい!!
+I ain't afraid of you, cue ball!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-こんな半裸のおじさんでも、
-あんたたちより年長者なのよ！
+Hey! Shape up, 
+show some respect!!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-ちゃんとあやまりなさい！
+He may be a half naked old 
+man, but he's your elder!
 [ENDBLOCK]
-ロロニ
+<Rutee>
+[ENDBLOCK]
+Now apologize to him, 
+and do it right!
+[ENDBLOCK]
+Loloni
 [ENDBLOCK]
 うっ……
 [ENDBLOCK]
-ロロニ
+Loloni
 [ENDBLOCK]
 うるせぇ！
 [ENDBLOCK]
@@ -273,7 +272,7 @@ Boy
 [ENDBLOCK]
 見つかっちゃった～。
 [ENDBLOCK]
-Boy
+Girl
 [ENDBLOCK]
 見つかっちゃった～。
 [ENDBLOCK]
@@ -282,103 +281,103 @@ Boy
 ここは、<Rutee>さんのお宅では
 ないようですわ。
 [ENDBLOCK]
-男性
+Man
 [ENDBLOCK]
 旅の方ですか？
 クレスタの街へようこそ。
 [ENDBLOCK]
-男性
+Man
 [ENDBLOCK]
 旅の方ですか？
 クレスタの街へようこそ。
 [ENDBLOCK]
-男性
+Man
 [ENDBLOCK]
 え、セインガルド軍の駐在兵が
 どこにいるかですって？
 [ENDBLOCK]
-男性
+Man
 [ENDBLOCK]
 ああ、彼なら噴水広場の
 そばで暮していますよ。
 [ENDBLOCK]
-男性
+Man
 [ENDBLOCK]
 旅の方ですか？
 クレスタの街へようこそ。
 [ENDBLOCK]
-男性
+Man
 [ENDBLOCK]
 よう、<Rutee>じゃないか。
 レンズハンターは廃業したって？
 [ENDBLOCK]
-男性
+Man
 [ENDBLOCK]
 旅の方ですか？
 クレスタの街へようこそ。
 [ENDBLOCK]
-男性
+Man
 [ENDBLOCK]
 あの空中都市ってのは、
 海の中から出てきたのか？
 [ENDBLOCK]
-男性
+Man
 [ENDBLOCK]
 なぜこんなにモンスターがいるんだ！
 [ENDBLOCK]
-男性
+Man
 [ENDBLOCK]
 王都から援軍さえ来てくれれば、
 なんとか持ちこたえられるか……
 [ENDBLOCK]
-男性
+Man
 [ENDBLOCK]
 レンズなら王都へ運んだぜ。
 よろしくな、<Rutee>！
 [ENDBLOCK]
-男性
+Man
 [ENDBLOCK]
 レンズは王都に運びました。
 世界を救ってください！
 [ENDBLOCK]
-Boy
+Girl
 [ENDBLOCK]
 この街は王都から離れている分、
 独自の文化が根付いているのよ。
 [ENDBLOCK]
-Boy
+Girl
 [ENDBLOCK]
 <Rutee>、また旅の話を聞かせてね。
 [ENDBLOCK]
-Boy
+Girl
 [ENDBLOCK]
 この街は王都から離れている分、
 独自の文化が根付いているのよ。
 [ENDBLOCK]
-Boy
+Girl
 [ENDBLOCK]
 空模様がどんどん変になってるわね。
 あの放送と関係あるんでしょ？
 [ENDBLOCK]
-Boy
+Girl
 [ENDBLOCK]
 た、助けて……
 [ENDBLOCK]
-Boy
+Girl
 [ENDBLOCK]
 ありがとう<Rutee>、
 あなたが来てくれなかったら……
 [ENDBLOCK]
-Boy
+Girl
 [ENDBLOCK]
 街を救っていただき
 ありがとうございました。
 [ENDBLOCK]
-Boy
+Girl
 [ENDBLOCK]
 <Rutee>、頑張ってね。
 [ENDBLOCK]
-Boy
+Girl
 [ENDBLOCK]
 <Rutee>の事
 守ってあげてください。
