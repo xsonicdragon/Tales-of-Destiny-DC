@@ -5,34 +5,32 @@
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-北の砂浜か……
+Northern beaches or...
 [ENDBLOCK]
-そうですね。
+Indeed.
 [ENDBLOCK]
-もしも、何もなかったら
-海水浴して帰りましょうか。
+If all else fails, let's go for a
+swim and go home, shall we?
 [ENDBLOCK]
-なぜ正体不明の
-モンスターが……？
+Why is there an unknown monster...?
 [ENDBLOCK]
-あ、でも坊ちゃん
-水着を持ってきてませんね。
+Ah, but Young master didn't bring his swimsuit.
 [ENDBLOCK]
-あ、これは困ったぞ。
+Oh, this is a problem.
 [ENDBLOCK]
-シャルをそのまま海に
-放置していくのは……
+You can't just leave Chal in
+the ocean like that.
 [ENDBLOCK]
-それはいい考え……
+That's a good idea...
 [ENDBLOCK]
-……じゃないですよ。
+...It's not.
 [ENDBLOCK]
-ちゃっかり僕の話に
-反応しないでくださいよ。
+Please don't respond to my story
+in such a flippant manner.
 [ENDBLOCK]
-何がちゃっかりだ。
-おまえが邪魔をするからだ。
+How is that flippant?
+It's because you keep interrupting me.
 [ENDBLOCK]
-だって、坊ちゃん。
-相手してくれないんだもん……<x00>
+Because, Young Master.
+You never play with me...<x00>
 [ENDBLOCK]
