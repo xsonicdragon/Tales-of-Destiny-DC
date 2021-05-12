@@ -29,7 +29,7 @@ A girl...?
 ????
 [ENDBLOCK]
 Hey! Why do you
-have that?!
+have that!?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -37,8 +37,8 @@ Huh? What's that?
 [ENDBLOCK]
 ????
 [ENDBLOCK]
-That sword! Give it to me.
-It's not for you to handle!
+That's the sword! Hey! Hand it over!
+It doesn't belong to you!
 [ENDBLOCK]
 ????
 [ENDBLOCK]
@@ -86,8 +86,8 @@ There's no time!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-This is bad...! I've got
-to get out of here, too.
+This is bad...! I better
+get out of here, too.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]

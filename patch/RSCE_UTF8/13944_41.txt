@@ -510,7 +510,7 @@ robbed deserve it, after all.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-What was that..?
+What was that...?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -572,13 +572,13 @@ there like that?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Sorry..it's just, it reminded me about 
+Sorry... it's just, it reminded me about 
 what <Baruk> said a while ago.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
 About how the people here "Still 
-dwell on the war so long ago".
+dwell on the past".
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -595,7 +595,7 @@ take it outside of town.
 <Stahn>
 [ENDBLOCK]
 Just now, a boy stole
-a lens from us...
+some lens from us...
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -833,7 +833,7 @@ It's just as dark outside too!?
 [ENDBLOCK]
 Foreigner
 [ENDBLOCK]
-Look at my muscles.... Hiccup.
+Look at my muscles... Hiccup.
 I'm supposed to be popular... Hiccup.
 [ENDBLOCK]
 <Chaltier>
@@ -858,7 +858,7 @@ they'd last this long.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-....
+...
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -906,7 +906,7 @@ I wonder if that's really true.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-Earlier..? You mean about the 
+Earlier...? You mean about the 
 people here living in the desert?
 [ENDBLOCK]
 <Lion>
@@ -1310,7 +1310,7 @@ Good job, getting what I needed!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x18><x66><x50><x2C><x00><x80>You will receive <TAG_077> Gald
+<TAG_007><x18><x66><x50><x2C><x00><x80>You received <TAG_077> Gald
 after taking the difference
 for the payment advance.
 

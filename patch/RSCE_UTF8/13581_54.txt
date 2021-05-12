@@ -613,7 +613,7 @@ getting impatient.
 <Chelsea>
 [ENDBLOCK]
  Jeeeez! Did you seriously call
- me back here just for that?!
+ me back here just for that!?
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
@@ -673,7 +673,7 @@ wanna get hungry on the way.
 <Woodrow>
 [ENDBLOCK]
 You'll get used to refilling
-your food in town as you use it up
+your food in town as you use it up.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]

@@ -91,14 +91,14 @@ I can only hope for the best.
 [ENDBLOCK]
 Mayor
 [ENDBLOCK]
-I'm grateful that the brave
-man acted as a guide.
+I'm very grateful that brave hero is
+teaching my grandson.
 [ENDBLOCK]
 Mayor
 [ENDBLOCK]
-My grandson will be successful. 
-He learned swordsmanship from 
-a brave man..
+My grandson is sure to be successful. 
+He's learning swordsmanship from 
+a great hero..
 [ENDBLOCK]
 Mayor
 [ENDBLOCK]
@@ -108,25 +108,25 @@ swordsmanship.
 [ENDBLOCK]
 Mayor
 [ENDBLOCK]
-I'm grateful that the brave
-man acted as a guide.
+I'm grateful that brave hero is
+teaching my grandson.
 [ENDBLOCK]
 Mayor
 [ENDBLOCK]
-My grandson will be successful. 
-I learned swordsmanship from 
-a brave man.
+My grandson is sure to be successful. 
+He's learning swordsmanship from 
+a great hero.
 [ENDBLOCK]
 Mayor
 [ENDBLOCK]
 What will happen 
-to the village?
+to our village?
 [ENDBLOCK]
 Mayor
 [ENDBLOCK]
-I hope the heroes would help
-me when I was in a dangerous
-situation with my back.
+I hope those heroes will help
+me if there is a dangerous
+situation in our midst.
 [ENDBLOCK]
 Mayor
 [ENDBLOCK]
@@ -140,8 +140,8 @@ more than just swordsmanship
 [ENDBLOCK]
 Chief's Daughter
 [ENDBLOCK]
-That "Self-Proclaimed" trio
-of heroes are obvious con artists.
+Those "self-proclaimed" trio
+of heroes are obviously con artists.
 [ENDBLOCK]
 Chief's Daughter
 [ENDBLOCK]
@@ -156,8 +156,8 @@ say that it's swordsmanship or study.
 [ENDBLOCK]
 Chief's Daughter
 [ENDBLOCK]
-That "self-proclaimed" heroic trio
-was really trying to escape, huh?
+Those "self-proclaimed" trio of heroes
+were really trying to escape, huh?
 [ENDBLOCK]
 Chief's Daughter
 [ENDBLOCK]
@@ -168,7 +168,7 @@ Chief's Daughter
 [ENDBLOCK]
 I knew that those three 
 "self-proclaimed" heroes 
-were not enough for us....
+were not enough for us...
 [ENDBLOCK]
 notice
 [ENDBLOCK]

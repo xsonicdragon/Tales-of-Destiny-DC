@@ -112,7 +112,7 @@ gap between the books.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>Dear Mr. Dalis,
+<TAG_005>Dear Mr. <Dalis>,
 ~~~~~~~~~~~~~~~
 			Your secret admirer
 [ENDBLOCK]
@@ -202,7 +202,7 @@ nothing here, though.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-This potted plant...... sure......
+This potted plant... sure...
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
@@ -212,7 +212,7 @@ has beautiful flowers.
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-The meaning of flowers is ......
+The meaning of flowers is ...
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -244,8 +244,8 @@ and whispered kind words to me.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-He looked so good
-eating my poelee.
+He looked so happy when
+he was eating my poelee.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -468,12 +468,12 @@ Did <Dalis> not notice <Mary>?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-That's not it. I think he knew
-and pretended not to know.
+That's not it. I think he knew,
+but pretended not to know.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Why are you doing that ......?
+Why would he do that...?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]

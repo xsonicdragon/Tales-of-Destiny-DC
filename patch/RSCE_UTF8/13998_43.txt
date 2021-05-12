@@ -64,8 +64,8 @@ Maid
 And who might you all be...? Oh,
 if I'm not mistaken, are you...
 [ENDBLOCK]
-<Lion> Magnus
-and his companions?
+<Lion> Magnus and
+his companions?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -87,13 +87,13 @@ Certainly.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-...This <Ilene> person sure is slow.
+This <Ilene> person sure is slow.
 I'm getting tired of waiting.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-<Mary>, where was that
-Softy Kreem stand again?
+<Mary>, where's that Softy
+Kreem stand again?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -119,7 +119,7 @@ I'll go too.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-How about you <Lion>?
+How about you, <Lion>?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -272,19 +272,19 @@ you to leave the house for me.
 <Lion>
 [ENDBLOCK]
 Still, it would be a 
-problem if Irene came
+problem if <Ilene> came
 back and no one was here.
 [ENDBLOCK]
 Maid
 [ENDBLOCK]
 Well, how about this?
-When Miss Irene comes back,
+When Miss <Ilene> comes back,
 I'll let her know you're in town.
 [ENDBLOCK]
 Maid
 [ENDBLOCK]
 I'll wait here in
-your place for Miss Irene!
+your place for Miss <Ilene>!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]

@@ -486,7 +486,7 @@ It's locked.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>The temple's private property 
+<TAG_005><center>The temple's private property 
 is off-limits to all visitors 
 except those concerned.
 [ENDBLOCK]
@@ -550,7 +550,7 @@ the thunder of judgment.]
 [ENDBLOCK]
 Gramps
 [ENDBLOCK]
-Maybe it's finaly time...
+Maybe it's finally time...
 [ENDBLOCK]
 Gramps
 [ENDBLOCK]
@@ -652,8 +652,8 @@ come back another time.
 [ENDBLOCK]
 Priest
 [ENDBLOCK]
-Entering the temple at night,
-is not allowed.
+Entering the temple at
+night,is not allowed.
 [ENDBLOCK]
 Priest
 [ENDBLOCK]
@@ -661,23 +661,23 @@ Please pick it up.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Is that this town's
-Straylize temple over there?
+Is that this town's Straylize 
+temple over there?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-Yes, it is.
-There's no mistaking it.
+Yes, it is.There's no
+mistaking it.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Alright!
-Well, let's get in there!
+Alright! Well, let's
+get in there!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-Wait! It would be
-foolish to just rush in!
+Wait! It would be foolish
+to just rush in!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -686,8 +686,8 @@ could be going on in there.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-I'll pretend to be a pilgrim
-and go in ahead.
+I'll pretend to be a pilgrim 
+and go on ahead.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -696,20 +696,18 @@ I'll unlock the back door for you.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Will it be ok
-for you to do that?
+Will it be ok for you to do that?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-Yes. It's not unusual
-for pilgrims to request
-sanctuary in holy places like this.
+Yes. It's not unusual for pilgrims to
+request sanctuary in holy places like
+this.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-During the day, I'll be
-quiet as a mouse.
-They won't suspect a thing.
+During the day, I'll be quiet as a 
+mouse. They won't suspect a thing.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -717,18 +715,16 @@ Don't do anything rash.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-I won't.
-Well then, until nightfall.
+I won't. Well then, until nightfall.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-OK, that's settled.
-How about we
+OK, that's settled. How about we
 take a break until it gets dark?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-Let's go wait at the Inn, then.
+Let's go wait at the inn, then.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -742,8 +738,8 @@ He'll wake up soon enough.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Hey, isn't <Lion> acting
-a little strange, suddenly?
+Hey, isn't <Lion> acting a
+little strange, suddenly?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -753,8 +749,8 @@ than the usually scary one?
 <Rutee>
 [ENDBLOCK]
 Even so, it's still kinda cruel
-to just leave him 
-on the ground like this...
+to just leave him on the ground
+like this...
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -793,7 +789,7 @@ you're back to normal.
 <Stahn>
 [ENDBLOCK]
 The sun came up
-while I was out..?
+while I was out...?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -817,8 +813,9 @@ Baruk, why are you here?
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-I heard you all had left Cherik.
-I got worried and followed after you.
+I heard you all had left
+Cherik. I got worried and
+followed after you.
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
@@ -833,7 +830,7 @@ been pretty tough since then.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-If Baruk hadn't come, we would
+If <Baruk> hadn't come, we would
 have been in real danger.
 [ENDBLOCK]
 <Philia>
@@ -865,7 +862,7 @@ You're all a burden.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-If I had worked with Baruk from the
+If I had worked with <Baruk> from the
 beginning, <Greybum> would already have
 been caught.
 [ENDBLOCK]
@@ -944,7 +941,7 @@ Oh my, they're in such a hurry.
 <Baruk>
 [ENDBLOCK]
 However...
-Isn't this convincing?
+Isn't this satisfying?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]

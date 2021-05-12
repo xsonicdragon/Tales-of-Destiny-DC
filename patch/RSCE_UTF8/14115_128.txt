@@ -442,7 +442,7 @@ this girl attack a soldier!
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-<Sir Fayte>!
+Sir <Fayte>!
 I'm not the killer!
 [ENDBLOCK]
 Girl
@@ -523,7 +523,7 @@ the time of the incident.
 [ENDBLOCK]
 Soldier.
 [ENDBLOCK]
-I think that's why Master Fayte 
+I think that's why Master <Fayte> 
 gave you all this time.
 [ENDBLOCK]
 Soldier.
@@ -617,7 +617,7 @@ no
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>A friend of Rihanna's
+<TAG_005>A friend of <Rihanna>'s
 tells me she's expecting a baby.
 [ENDBLOCK]
 
@@ -626,7 +626,7 @@ tells me she's expecting a baby.
 from you to help make this
 aquaveil a better country.
 
-							    Fayte Moreau
+							    <Fayte> Moreau
 [ENDBLOCK]
 
 [ENDBLOCK]
@@ -645,7 +645,7 @@ come to the boarding area.
 Girl
 [ENDBLOCK]
 This is Moreau Territory. You 
-couldn't have come at a worst time.
+couldn't have come at a worse time.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
@@ -784,7 +784,7 @@ good luck to <Johnny>.
 I'm never going to give up.
 Let's definitely take back the world.
 [ENDBLOCK]
-Hey, lady.
+Young lady
 [ENDBLOCK]
 Don't say anything out of the
 ordinary. You never know 
@@ -872,7 +872,7 @@ forgive <Tiberius>.
 Old Woman
 [ENDBLOCK]
 As long as <Tiberius> is alive
-and well. Something like this
+and well, something like this
 might happen again.
 [ENDBLOCK]
 Old Woman
@@ -1059,7 +1059,7 @@ call me a clown of sorts.
 <Rutee>
 [ENDBLOCK]
 ...As I thought, this 
-guy's definitely dodgy.
+guy's definitely fishy.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
@@ -1070,7 +1070,7 @@ from this country?
 <Johnny>
 [ENDBLOCK]
 Well, well... Then might
-you be the aids sent by
+you be the aides sent by
 your native land?
 [ENDBLOCK]
 <Philia>
@@ -1081,7 +1081,7 @@ the "Prince of Shiden"?
 <Johnny>
 [ENDBLOCK]
 I am as you say. However, I'm 
-certain I heard the aids were
+certain I heard the aides were
 a group of just three people
 [ENDBLOCK]
 <Johnny>
@@ -1092,7 +1092,7 @@ discovered if we stay out here.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Seriously, what are these "aids" 
+Seriously, what are these "aides" 
 you keep talking about? I’m not
 following this conversation at all.
 [ENDBLOCK]
@@ -1107,8 +1107,8 @@ about my soul overflowing♪
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-<Johnny>! You've been
-selling oil in this place!
+<Johnny>! So this is where 
+you've been loafing at!
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
@@ -1432,7 +1432,7 @@ Good job, getting what I needed!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x18><x66><x50><x2C><x00><x80>You will receive <TAG_077> Gald
+<TAG_007><x18><x66><x50><x2C><x00><x80>You received <TAG_077> Gald
 after taking the difference
 for the payment advance.
 
@@ -1669,7 +1669,7 @@ I'm indulging more and more.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-That's how much ......!
+That's how much ...!
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
@@ -1707,7 +1707,7 @@ the Moreau territory, right?
 [ENDBLOCK]
 Yes, I am, but a queen is 
 a lot different from what
-you imagine, Chelsea.
+you imagine, <Chelsea>.
 [ENDBLOCK]
 <Rihanna>
 [ENDBLOCK]

@@ -1,6 +1,6 @@
 <Woodrow>
 [ENDBLOCK]
-There he is.
+There he is!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -9,7 +9,7 @@ There he is.
 ???
 [ENDBLOCK]
 I didn't expect you to
-follow me this far.
+chase  me this far.
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
@@ -17,13 +17,13 @@ That voice...
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-They already know who
+We already know who
 you are. Why don't you take 
 off that hideous disguise?
 [ENDBLOCK]
 ???
 [ENDBLOCK]
-...You are a brave young lady.
+...You're one brave young lady.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -32,92 +32,94 @@ off that hideous disguise?
 <Philia>
 [ENDBLOCK]
 You were the mastermind behind all
-this, weren't you? What are you going
+of this, weren't you? What are you going
 to do with the Eye of Atamoni?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Are you going to pretend to be like 
-<Greybum> and control the monsters?
+Are you gonna be like <Greybum>
+and act like some kinda king of monsters?
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-Controlling monsters is just an 
-afterthought in the nature of the
-divine eye.
+Being able to control monsters
+is just a side benefit of the true
+power of the Eye of Atamoni...
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-Hmmm... What if all of this 
-was a set-up all along?
+Hahahahaha... What if I told you
+this was all my plan, all along?
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-And the one who seduced <Greybum>
-into stealing the Eye of Atamoni!
+Tempting <Greybum> and convincing
+him to steal the Eye of Atamoni...
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-And then you made me go around
-the world! What if this is all part
-of my plan!
+Having him take it
+all over the world...What if
+that was all part of my plan?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Why...?
+What...!?
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-I was going to take care of <Greybum> 
-when I was done with him anyway.
+I was going to get rid of <Greybum> 
+when I was done with him, anyway.
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-You have saved me a lot of trouble.
-I'm grateful for your help.
+In disposing of him for me, you saved me
+some effort. I'm quite grateful!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Don't be getting carried away.
-We didn't do it for you.
+We didn't do it for you!
+Don't be getting carried away!
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-You look a lot like your mother 
-when you get angry like that.
+That angry face of yours...
+Just like your dear mother.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-What?
+What...?
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-Well, I don't have much time. 
+Well! I'm a busy man, with little time.
 I'm sorry to leave you, but 
-it's time to say goodbye.
+I must be on my way, now!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
 ...<Lion>!
-Stop <Hugo>!
+Stop <Hugo>, please!!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Lion>, I knew it. You had 
+<Lion>, I knew it! You had 
 to have a plan, didn't you?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Hey, isn't that right? <Lion>!
+Right? That's right,
+isn't it, <Lion>?!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Lion>!	I knew it!
+<Lion>...!
+I knew it!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Go ahead, I'll hold
-them off here.
+Go on ahead.
+I'll hold them here.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -125,36 +127,37 @@ them off here.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-<Lion>, you... you!
+<Lion>, you...!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-<Chaltier>!	Hey!
-Answer me!	<Chaltier>!
+<Chaltier>!	What's going on?!
+Answer me,	<Chaltier>!!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
 <Lion>, you're kidding, right?
-It's just a joke, right?
+It's...just a joke, right?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-You know what you're 
-doing, don't you?
+Do you have any idea
+what you're doing?!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-I know what I'm doing.
-More than you do!
+Oh yes, I understand exactly what
+I'm doing, far more than you do!!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Haha, you won.
+Hah...Hah...
+I...won...?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Damn it! How did you 
-manage to fight me?
+Damn it! Why won't
+you just stay down?!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -163,17 +166,18 @@ Stay with me!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Hmm... one on one, I 
-wouldn't have lost. 
+Hmph...one on one, I 
+wouldn't have lost...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
 You idiot! Why are 
-you doing this...!
+you doing this...?
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-Don't blame the Young Master!
+Please don't blame
+Master <Lion>!
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
@@ -182,29 +186,32 @@ this to protect <Marian>!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-<Chaltier>, now you say something...
+<Chaltier>...now you
+say something...
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Chal, you talk too much.
+Chal! You're
+saying too much!!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Marian>...
+<Marian>...?
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-You've all met her at <Hugo>'s 
-house, didn't you?
+You all saw her at <Hugo>'s 
+manor, remember?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-You're the one who brought
+The maid who brought
 me <Dymlos>! <Lion>, you...
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-So they've taken her hostage, huh?
+So she's been
+taken hostage...
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
@@ -213,16 +220,17 @@ doing the right thing.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-But you're still a Swordian Master.
+You're still a
+Swordian Master!!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Say what you want.
+Say whatever you want!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
 ...I don't have a shred 
-of regret for what I'm doing.
+of regret for what I've done.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -235,7 +243,8 @@ over, I would still choose the same path!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-I'm not letting you through here.
+I'm not letting
+you through!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -243,7 +252,7 @@ This person you've become...
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-Why go that far...
+Why go that far...?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -253,25 +262,25 @@ Why are you so stubborn?!
 <Stahn>
 [ENDBLOCK]
 You're making a mistake!
-Hey, <Lion>! You're wrong!
+Do you hear me, <Lion>!? You're wrong!!!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Shut up... I've already made
-up my mind...
+Shut up!! I've already made
+up my mind...!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
 That's why I'm saying you're 
-wrong about being alone!
+wrong about being alone!!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Why can't you see that?
+Why can't you understand that?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-<Stahn>, look out!
+<Stahn>, be careful!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -279,7 +288,7 @@ Why can't you see that?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Don't come near me...
+Stay back...!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -289,23 +298,24 @@ do it all by yourself!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-We're friends!	We're friends!
-Why didn't you tell me? Why didn't
-you tell me? !
+We're friends! Friends!
+Why didn't you tell me? Why!?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Not any closer...
+I said
+stay back!!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-You're on your own! Suffering alone!
+You're on your own!
+Suffering alone!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
 Why are you the only one having
-a hard time! Why are you the only 
-one who gets hurt?
+a hard time!? Why are you the only 
+one getting hurt??
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -314,16 +324,17 @@ each other through hard times!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-How could you not know that?!
+How could you
+not know that?!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-...After all this time, you 
-still call me your friend?
+Even after everything...
+You still consider me your friend...?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Of course!
+Of course!!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -332,30 +343,30 @@ too late. Come with us.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-What's that?
+What...?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
 We're going to take it all back. 
 We'll take back the Eye of Atamoni,
-and Marian!
+and <Marian>!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-You, my friend...
+You...
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-You're a real piece of work.
+Seriously...
+You're a real piece of work...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Lion>!	You understand
-me, don't you?
+<Lion>! You understand me, right??
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-<Stahn>... I'm...
+<Stahn>...I...!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -364,25 +375,28 @@ to make up. Come on!
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-Earthquake?	In the 
-middle of nowhere?
+An earthquake?	In the 
+middle of nowhere??
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-<Hugo> You've started...
+That damn <Hugo>...!
+He's already begun!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Started...?	Are you saying that 
+Begun...?	Are you saying that 
 <Hugo> is causing this earthquake?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-Even with you still in here?
+Even though
+you're still here??
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-That's the type of person <Hugo> is.
+That's the type of
+person <Hugo> is...
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
@@ -395,13 +409,12 @@ Yes, sir!
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-No, no, no!	The ceiling collapsed
-on us. We can't get back to the 
-elevator!
+No, no, no!	The ceiling collapsed!
+We can't get back to the elevator!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-I don't know what to do!
+What're we gonna do!?
 We're gonna be buried alive!
 [ENDBLOCK]
 <Philia>
@@ -410,17 +423,17 @@ What's that sound?
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-The cave is collapsing, and 
-the seawater is flowing in.
+Seems the cave is collapsing, and 
+the seawater is flowing in...
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-Oh, no! This place will 
-soon be...
+No...! This place will be
+completely submerged!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-...There is still a way. 
+...There's a way out.
 Look over there.
 [ENDBLOCK]
 <Stahn>
@@ -433,7 +446,8 @@ It's an emergency lift.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I can't believe you found that thing!
+There's something
+Like that here??
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -459,58 +473,57 @@ to operate the lever here.
 <Lion>
 [ENDBLOCK]
 <Rutee>, I'll tell you what 
-you deserve to know.
+you deserve to know, now.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-What?
+What...?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-<Hugo>'s deceased wife's 
-name is Chris Katrea.
+<Hugo>'s deceased wife. 
+Her name was Chris Katrea.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Chris is also my mother...
+Chris was...also my mother...
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-I'm sorry.
-......!
+Wh-What!?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
 As much as I hate to admit it, 
-you and I have the exact same 
-blood in our veins.
+the same blood flows through our veins.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-You're lying...
+You're...lying...!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
 <Lion>, just get over here!
-We'll talk later!
+We'll talk later!!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-And <Stahn>.
+And you, <Stahn>!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
 You call me your friend, but I don't
-remember accepting that title.
+remember ever agreeing to that.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
 I...can't stand laid-back, careless,
-overly-friendly people like you...
+overly-friendly people like you...!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-So... I entrust the rest to you...
+And that's why...
+I leave the rest to you...
 [ENDBLOCK]
 Oberon Secret Factory
 [ENDBLOCK]

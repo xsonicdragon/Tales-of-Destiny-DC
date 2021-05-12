@@ -12,12 +12,12 @@
 差分：<x1D><x76><x08><x75><x48><x94><x8C><x80>, <x1D><x76><x0C><x75><x48><x98><x8C><x80>, <x1D><x76><x40><x10><x75><x48><x9C><x8C><x80>
 
 [ENDBLOCK]
-Here's the Draconis at ......!
-No, it's more <Lion> now.
+What's the Draconis doing here...!? 
+Whatever, finding <Lion> is our priority.
 
 [ENDBLOCK]
 The Draconis in this place.
-So I guess it's ......
+So I guess it's ...
 [ENDBLOCK]
 It's the Draconis.
 Then again...
@@ -25,10 +25,10 @@ Then again...
 The Draconis is here!
 So I guess I'll go to...
 [ENDBLOCK]
-Why does a place exist where 
-you can store the Draconis?
+Why is there a place to
+dock the Draconis here...?
 [ENDBLOCK]
-This is the Draconis....!
+This is the Draconis...!
 Oh my god.
 [ENDBLOCK]
 The fact that there's the Draconis here...
@@ -90,12 +90,12 @@ Don't get out of control.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-What did he say to you?
+What did he say? This can't be...
 I don't believe you, hey!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Why would he be my ......
+Why would he be my...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -111,7 +111,7 @@ Get off me!
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-<Stahn> Come on, man!
+<Stahn>! Come on, man!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -128,7 +128,7 @@ You're wasting his sacrifice!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-But ......!
+But ...!
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
@@ -142,7 +142,7 @@ Oh, I got you!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Wait, ......!
+Wait, ...!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -154,34 +154,33 @@ Is it some kind of factory?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-There is no such thing as a place 
-where you can store the stupid 
-...Draconis.
+No, a factory wouldn't have somewhere
+specifically to dock the Draconis like this.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-And where did <Hugo> and
+Also, where did <Hugo> and
 the others go?
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-Young Master, we need to find 
-<Marian> while we're at it.
+Master <Lion>, this might
+be our chance to find <Marian>!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-He abandoned me so easily. He doesn't
-think I'm in a place where I can be 
-easily found.
+The fact he just left me alone here
+tells me she's probably
+not somewhere easy to find.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-What do we do then?
+So then, what do we do?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-I don't know. But there must be
-something we can do.
+I don't know...but I'm
+not just gonna stand around.
 [ENDBLOCK]
 notice
 [ENDBLOCK]

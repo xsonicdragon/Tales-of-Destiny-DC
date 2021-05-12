@@ -226,18 +226,18 @@ Be prepared for it.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-Do you have the Battle record Book?
+Do you have the Battle Record book?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-Your skill is good enough,
-I will give you this.
+You seem reliable enough. 
+Here, take this with you.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
 This shows the [Definite Strike] 
 coordination that is effective 
-against monsters
+against the monsters.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -272,8 +272,8 @@ your skills some more.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-Oh, you rebels. How dare 
-you turn on the royal family.
+Those rebels, how dare they 
+turn on the royal family.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
@@ -281,7 +281,7 @@ Uh-uh.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-<King> Your Majesty... I'm sorry...
+Your Majesty... I'm sorry...
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
@@ -470,8 +470,8 @@ I swear it, too.
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-My soul is always with you,
-through hard times and happy.
+My soul is always with you, through
+both the good times, and the bad.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -479,7 +479,7 @@ So let's get going.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Nice to meet you, <Mary>!
+Good to see you again, <Mary>!
 Thank you, <Dalis>!
 [ENDBLOCK]
 <Dymlos>
@@ -805,7 +805,7 @@ Good job, getting what I needed!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x18><x66><x50><x2C><x00><x80>You will receive <TAG_077> Gald
+<TAG_007><x18><x66><x50><x2C><x00><x80>You received <TAG_077> Gald
 after taking the difference
 for the payment advance.
 
@@ -976,11 +976,11 @@ Depot
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-Oh, you're ......?
+Oh, you're ...?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-.....
+...
 [ENDBLOCK]
 select
 [ENDBLOCK]
@@ -1068,7 +1068,7 @@ really funny, <Mary>.
 [ENDBLOCK]
 Old Lady
 [ENDBLOCK]
-I'm going to visit Cyriil next time.
+I'm going to visit Cyril next time.
 I want to see <Dalis>'s face, again.
 [ENDBLOCK]
 <Mary>
@@ -1166,7 +1166,7 @@ Huh?
 Young Woman
 [ENDBLOCK]
 Hey, you. Why are
-you naked ......?
+you naked ...?
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]

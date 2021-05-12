@@ -468,8 +468,9 @@ set_drgn
 [ENDBLOCK]
 <Leader>
 [ENDBLOCK]
-いくら村長さんの所でも、
-この子を連れて入ったら迷惑よね。
+I don't care how many times I've been
+to the village chief's place, it would 
+be a nuisance to bring this child in.
 [ENDBLOCK]
 Glass
 [ENDBLOCK]
@@ -838,7 +839,7 @@ she finds out about <Stahn>.
 Chief's Wife
 [ENDBLOCK]
 Goodness, I wonder how the
-village will be affected....
+village will be affected...
 [ENDBLOCK]
 Chief's Wife
 [ENDBLOCK]
@@ -869,7 +870,7 @@ she finds out about <Stahn>.
 Chief's Wife
 [ENDBLOCK]
 Goodness, I wonder how the
-village will be affected....
+village will be affected...
 [ENDBLOCK]
 Chief's Wife
 [ENDBLOCK]
@@ -879,7 +880,7 @@ have everything you need.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-Whan an unusual creature. We've
+What an unusual creature. We've
 never seen one in the
 royal capital before.
 [ENDBLOCK]
@@ -897,7 +898,7 @@ the current situation there?
 Man
 [ENDBLOCK]
 It's not destroyed?
-Thank goodness....
+Thank goodness...
 [ENDBLOCK]
 Man
 [ENDBLOCK]

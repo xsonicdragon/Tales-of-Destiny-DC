@@ -43,7 +43,7 @@ Soldier
 [ENDBLOCK]
 Your Majesty, I have submitted 
 a proposal for the reserves of 
-the Castle, and I hope you will 
+the castle and I hope you will 
 take a look at it.
 [ENDBLOCK]
 <Woodrow>
@@ -815,7 +815,7 @@ Please take it easy on yourself.
 <Woodrow>
 [ENDBLOCK]
 Have you met up with <Chelsea> 
-or Darzen yet?
+or <Darzen> yet?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]

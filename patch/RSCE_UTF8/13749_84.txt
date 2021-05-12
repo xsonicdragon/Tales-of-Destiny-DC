@@ -8,12 +8,12 @@ see you again.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-Oh? Isn't <Lion>
+Oh? <Lion> isn't
 with you today?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-It's you guys again!
+Ugh it's you guys again!
 That's enough!
 [ENDBLOCK]
 Rude Soldier
@@ -23,7 +23,7 @@ he cried at his father <Hugo>.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-Yeah. And rumor has it that him and his
+Yeah. And rumor has it that he and his
 father are being hunted by the military.
 [ENDBLOCK]
 <Rutee>
@@ -32,29 +32,29 @@ father are being hunted by the military.
 [ENDBLOCK]
 Rude Soldier
 [ENDBLOCK]
-Huh? I can't hear 
-you very well.
+Huh? I'm afraid I can't 
+hear you.
 [ENDBLOCK]
 Rude Soldier
 [ENDBLOCK]
-Today is the day I'm  going
+Today is the day I'm going
 to make you my woman.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-You guys are so annoying.
+You guys are so freaking annoying.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-What did you say, woman!
+Wanna say that again, you bitch!?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-I'll say it again.
+Fine, I'll say it again.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-You're annoying!
+I said that you guys freaking ANNOYING!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -62,7 +62,7 @@ You're annoying!
 [ENDBLOCK]
 Rude Soldier
 [ENDBLOCK]
-.....
+...
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
@@ -273,7 +273,8 @@ Lord <Woodrow>.
 [ENDBLOCK]
 Manager
 [ENDBLOCK]
-You can place your order.
+You can place an order here
+if you want anything.
 [ENDBLOCK]
 Manager
 [ENDBLOCK]
@@ -286,7 +287,8 @@ I'm closing up for the night.
 [ENDBLOCK]
 Manager
 [ENDBLOCK]
-You can place your order.
+You can place an order here
+if you want anything.
 [ENDBLOCK]
 Manager
 [ENDBLOCK]
@@ -325,8 +327,8 @@ Have they learned what reality is?
 [ENDBLOCK]
 Clerk
 [ENDBLOCK]
-This is a business method called cosplay,
-it's very popular in the city.
+This is a business practice known as
+cosplay. It's quite popular in the city.
 [ENDBLOCK]
 Clerk
 [ENDBLOCK]
@@ -376,7 +378,7 @@ What's the matter, <Dymlos>?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-.....
+...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -454,15 +456,15 @@ What do you mean?
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-.....
+...
 [ENDBLOCK]
 <Igtenos>
 [ENDBLOCK]
-.....
+...
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-.....
+...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -594,7 +596,7 @@ So you're telling me to give up?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-.....
+...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -1022,7 +1024,7 @@ Good job, getting what I needed!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x18><x66><x50><x2C><x00><x80>You will receive <TAG_077> Gald
+<TAG_007><x18><x66><x50><x2C><x00><x80>You received <TAG_077> Gald
 after taking the difference
 for the payment advance.
 

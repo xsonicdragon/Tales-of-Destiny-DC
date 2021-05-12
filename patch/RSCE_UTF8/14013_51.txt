@@ -112,7 +112,7 @@ I can't do it, can I?
 [ENDBLOCK]
 Armor Shop
 [ENDBLOCK]
-I have good weapons.
+I carry some fine arms.
 Have a look around.
 [ENDBLOCK]
 Armor Shop
@@ -123,7 +123,7 @@ should be well prepared.
 [ENDBLOCK]
 Armor Shop
 [ENDBLOCK]
-I have good weapons.
+I carry some fine arms.
 Have a look around.
 [ENDBLOCK]
 Armor Shop
@@ -159,8 +159,8 @@ Make a purchase!
 [ENDBLOCK]
 Produce Merchant
 [ENDBLOCK]
-I'm worried about the produce crops,
-now that the sun is gone.
+Now that the sun is gone, I'm
+worried about our crop production.
 [ENDBLOCK]
 Kid
 [ENDBLOCK]
@@ -169,7 +169,8 @@ enough, you can get leftovers.
 [ENDBLOCK]
 Kid
 [ENDBLOCK]
-Take it home and eat together.
+I take what I can get here and
+eat it with my family back home.
 [ENDBLOCK]
 Kid
 [ENDBLOCK]
@@ -331,18 +332,18 @@ no matter what!
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-Do you have the Battle record Book?
+Do you have the Battle Record book?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-Your skill is good enough,
-I will give you this.
+You seem reliable enough. 
+Here, take this with you.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
 This shows the [Definite Strike] 
 coordination that is effective 
-against monsters
+against the monsters.
 [ENDBLOCK]
 Man
 [ENDBLOCK]

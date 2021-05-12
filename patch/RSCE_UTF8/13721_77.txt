@@ -42,7 +42,7 @@ your husband?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Oh, am I !?
+Oh, am I!?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -85,23 +85,23 @@ in Darilsheid.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-That man?
+That guy?
 [ENDBLOCK]
 Mother
 [ENDBLOCK]
-That's right. Even though he is a
-civilian employee, he is the one
+That's right. Even though he is only
+a civilian employee, he is the one
 who thinks about safety and
-happiness first.
+happiness first and foremost.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I didn't know.
+I had no idea.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-It's a surprising fact. The next
-time we meet, We'll make fun of
+It's a surprising fact. The next time
+we meet, We'll have a laugh about
 this story.
 [ENDBLOCK]
 <Stahn>
@@ -292,23 +292,23 @@ by the soldiers in the castle?
 [ENDBLOCK]
 Kid
 [ENDBLOCK]
-Wow! It's the Swordsman!
+Wow! It's that Swordsman!
 [ENDBLOCK]
 Kid
 [ENDBLOCK]
-Wow! It's the Swordsman!
+Wow! It's that Swordsman!
 [ENDBLOCK]
 Kid
 [ENDBLOCK]
-Wow! It's the Lens Hunter!
+Wow! It's that Lens Hunter!
 [ENDBLOCK]
 Kid
 [ENDBLOCK]
-Wow! It's the Warrior!
+Wow! It's that Warrior!
 [ENDBLOCK]
 Kid
 [ENDBLOCK]
-Wow! It's the Priestest!
+Wow! It's that Priestess!
 [ENDBLOCK]
 Kid
 [ENDBLOCK]
@@ -335,7 +335,7 @@ Good luck to you guys!
 [ENDBLOCK]
 Grandpa
 [ENDBLOCK]
-I don't really like Mr. Hugo. He's handsome
+I don't really like Mr. <Hugo>. He's handsome
 and he seems nice enough, but there's just 
 something "off" about him...
 [ENDBLOCK]
@@ -385,13 +385,13 @@ world somehow.
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-Did you see Mr. <Hugo>'s mansion? 
-A mansion suitable for a good businessman.
+Did you see Mr. <Hugo>'s mansion? Now that's
+a home suitable for a great businessman like him.
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-I want to live in such a
-big mansion someday.
+I want to live in a big mansion 
+like that someday.
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
@@ -405,13 +405,13 @@ I heard that he wasn't seen recently.
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-Did you see Mr. <Hugo>'s mansion? 
-A mansion suitable for a good businessman.
+Did you see Mr. <Hugo>'s mansion? Now that's
+a home suitable for a great businessman like him.
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-I want to live in such a
-big mansion someday.
+I want to live in a big mansion
+like that someday.
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
@@ -421,7 +421,7 @@ I'm thinking maybe Oberon Corporation.
 Young Man
 [ENDBLOCK]
 What happened to Mr. <Hugo>?
-I heard that he wasn't seen recently.
+I heard that hasn't been seen recently.
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
@@ -847,7 +847,7 @@ North of Darilsheid.
 [ENDBLOCK]
 There's a village called
 Armeida along the way.
-Let's head for there, first.
+Let's head there, first.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
@@ -1271,7 +1271,7 @@ the temple soon.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Philia>...It was really hard. Good work.
+<Philia>... It was really hard. Good work.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -1300,7 +1300,7 @@ it really helped me.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-Mr. <Stahn>. Excuse Me...
+<Stahn>. Excuse Me...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]

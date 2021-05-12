@@ -483,7 +483,7 @@ this girl attack a soldier!
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-<Sir Fayte>!
+Sir <Fayte>!
 I'm not the killer!
 [ENDBLOCK]
 Girl
@@ -564,7 +564,7 @@ the time of the incident.
 [ENDBLOCK]
 Soldier.
 [ENDBLOCK]
-I think that's why Master Fayte 
+I think that's why Master <Fayte> 
 gave you all this time.
 [ENDBLOCK]
 Soldier.
@@ -658,7 +658,7 @@ No
 Meat Merchant
 [ENDBLOCK]
 I'm from Shiden Territory. The port
-is blocked and I can't leave.
+is blocked so now I can't leave.
 [ENDBLOCK]
 Meat Merchant
 [ENDBLOCK]
@@ -718,7 +718,7 @@ Good luck everyone!
 Meat Merchant
 [ENDBLOCK]
 I'm from Shiden Territory. The port
-is blocked and I can't leave.
+is blocked so now I can't leave.
 [ENDBLOCK]
 Meat Merchant
 [ENDBLOCK]
@@ -848,8 +848,8 @@ Yo, hang in there!
 [ENDBLOCK]
 Fruit Merchant
 [ENDBLOCK]
-Those guys from Terazzi,
-I'll never forget this grudge.
+Those bastards from Terazzi...
+I'll never forgive them...
 [ENDBLOCK]
 Fruit Merchant
 [ENDBLOCK]
@@ -888,8 +888,8 @@ you take some of my fruit!
 [ENDBLOCK]
 Fruit Merchant
 [ENDBLOCK]
-Those guys from Terazzi,
-I'll never forget this grudge.
+Those bastards from Terazzi...
+I'll never forgive them...
 [ENDBLOCK]
 Fruit Merchant
 [ENDBLOCK]
@@ -935,7 +935,7 @@ avoid any rash actions.
 Soldier
 [ENDBLOCK]
 Dear Gino, I am so sorry for not
-being able to protect you.....!
+being able to protect you...!
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
@@ -1492,36 +1492,36 @@ notice
 [ENDBLOCK]
 
 [ENDBLOCK]
-定期船に乗りますか？
+Do you want to take the Ship?
 [ENDBLOCK]
-黒十字艦隊でお送りしましょうか？
+Shall I send you the Black Cross fleet?
 [ENDBLOCK]
 <TAG_007><x18><x66><x50><x4C><x00><x80>
 Yes
 No
 [ENDBLOCK]
-ダリルシェイド港
+Darilsheid Harbor
 
 [ENDBLOCK]
-チェリク港
+Cherik Harbor
 
 [ENDBLOCK]
-ノイシュタット港
+Neuestadt Harbor
 
 [ENDBLOCK]
-シデン港
+Shiden Harbor
 
 [ENDBLOCK]
-モリュウ港
+Moreau Harbor
 
 [ENDBLOCK]
-トウケイ港
+Terazzi Harbor
 
 [ENDBLOCK]
-スノーフリア港
+Frostheim Harbor
 
 [ENDBLOCK]
-<TAG_007>どちらに行きますか？
+<TAG_007>Where would you like to go?
 <x18><x66><x50><x2C><x00><x80><x18><x66><x50><x30><x00><x80><x18><x66><x50><x34><x00><x80><x18><x66><x50><x38><x00><x80><x18><x66><x50><x3C><x00><x80><x18><x66><x50><x40><x00><x80>
 [ENDBLOCK]
 

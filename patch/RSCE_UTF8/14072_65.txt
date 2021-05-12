@@ -606,12 +606,12 @@ No one's laughing at you.
 [ENDBLOCK]
 Adventurer
 [ENDBLOCK]
-....... just as I thought,
-they do look similar......
+... just as I thought,
+they do look similar...
 [ENDBLOCK]
 Adventurer
 [ENDBLOCK]
-...... What do you mean........?
+... What do you mean...?
 [ENDBLOCK]
 Adventurer
 [ENDBLOCK]
@@ -645,7 +645,7 @@ that looks just like the first one.
 Adventurer
 [ENDBLOCK]
 I wonder if there's any
-meaning to this picture.....
+meaning to this picture...
 I sure don't get it.
 [ENDBLOCK]
 Adventurer
@@ -680,7 +680,7 @@ I'll also introduce you to my friends.
 Adventurer
 [ENDBLOCK]
 The three of them are currently on
-Cyril, Straylise Temple, and Shiden.
+Cyril, Straylize Temple, and Shiden.
 [ENDBLOCK]
 Adventurer
 [ENDBLOCK]
@@ -688,7 +688,7 @@ Oh? Are you <Stahn> by any chance?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Huh, yes......
+Huh, yes...
 [ENDBLOCK]
 Adventurer
 [ENDBLOCK]
@@ -732,13 +732,13 @@ See you.
 I'll refer you to my friends,
 the ones who took the pictures.
 [ENDBLOCK]
-They are in Cyril, Straylise Temple,
+They are in Cyril, Straylize Temple,
 and Shiden.
 [ENDBLOCK]
 I'll refer you to my friends,
 the ones who took the pictures.
 [ENDBLOCK]
-They are in Neuestadt, Straylise Temple,
+They are in Neuestadt, Straylize Temple,
 and Shiden.
 [ENDBLOCK]
 I'll refer you to my friends,
@@ -784,13 +784,13 @@ to come through.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-Ae'ther War..... Such dreadful words.
+Ae'ther War... Such dreadful words.
 Who would wish for such a thing.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
 At this rate, the future on the
-surface is doomed......
+surface is doomed...
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
@@ -843,7 +843,7 @@ What is the young Lord doing here?
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-If I were to speak frankly.....
+If I were to speak frankly...
 
 [ENDBLOCK]
 Soldier

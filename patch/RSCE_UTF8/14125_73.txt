@@ -18,7 +18,7 @@
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-I'm pretty sure you're ......
+I'm pretty sure you're ...
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
@@ -49,7 +49,7 @@ useless music?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-.....
+...
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -58,7 +58,7 @@ tongue all of a sudden?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-.....
+...
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -68,7 +68,7 @@ such as yourselves.
 Man
 [ENDBLOCK]
 I don't know if you're a 
-friend of Master <Fayte>'s or 
+friend of Master <Fayte> or 
 what. but I don't like you.
 [ENDBLOCK]
 Man
@@ -138,7 +138,7 @@ this girl attack a soldier!
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-<Sir Fayte>!
+Sir <Fayte>!
 I'm not the killer!
 [ENDBLOCK]
 Girl
@@ -219,7 +219,7 @@ the time of the incident.
 [ENDBLOCK]
 Soldier.
 [ENDBLOCK]
-I think that's why Master Fayte 
+I think that's why Master <Fayte> 
 gave you all this time.
 [ENDBLOCK]
 Soldier.
@@ -272,7 +272,7 @@ the time of the incident.
 [ENDBLOCK]
 Soldier.
 [ENDBLOCK]
-I think that's why Master Fayte 
+I think that's why Master <Fayte> 
 gave you all this time.
 [ENDBLOCK]
 Soldier.
@@ -735,7 +735,7 @@ when the heroes come in!
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-...... No, he said there's 
+... No, he said there's 
 nothing he can do about it.
 [ENDBLOCK]
 Man

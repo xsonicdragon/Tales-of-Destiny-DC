@@ -159,7 +159,7 @@ devoted to our faith!
 <Batista>
 [ENDBLOCK]
 Heh, what a naive little girl.
-Even  from the beginning, I
+Even from the beginning, I
 never believed in the goddess.
 [ENDBLOCK]
 <Batista>
@@ -266,7 +266,7 @@ No need to apologize.
 <Philia>
 [ENDBLOCK]
 I don't think what <Batista>
-did is acceptable. But ......
+did is acceptable. But...
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -277,12 +277,12 @@ and a good mentor.
 <Philia>
 [ENDBLOCK]
 That's all I want to believe...
-Is it wrong for me to do this?
+Is it wrong for me to be like this?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-That's not true.
-I think <Philia> is fine with it.
+No, it isn't wrong. You're
+fine the way you are.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]

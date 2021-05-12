@@ -104,7 +104,7 @@ Wow, but why?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-Well, when you're rich. You have a
+Well, when you're rich, you have a
 lot of time and money on your hands.
 [ENDBLOCK]
 Boy
@@ -633,7 +633,7 @@ I'm not gonna ask.
 <Bacchus>
 [ENDBLOCK]
 But you should at least write a
-letter to your family. Lilith is
+letter to your family. <Lilith> is
 worried, you know?
 [ENDBLOCK]
 <Stahn>
@@ -681,8 +681,8 @@ It was yummy...
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Enough, let's get going
-to <Ilene>'s estate now.
+Enough, let's get going to
+<Ilene>'s estate already.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]

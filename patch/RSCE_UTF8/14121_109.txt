@@ -177,7 +177,7 @@ get to Terazzi?
 [ENDBLOCK]
 Not at all. Their waters
 have even tighter 
-security than Moreu.
+security than Moreau.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
@@ -225,7 +225,7 @@ your friend?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-Hey, I am a but a clown. I understand
+Hey, I am but a clown. I understand
 how you feel, but that's expecting
 too much of me.
 [ENDBLOCK]
@@ -239,7 +239,7 @@ Unbelievable...
 <Lion>
 [ENDBLOCK]
 Hey, brief us about the situation.
-We're the aids sent from Shiden.
+We're the aides sent from Shiden.
 [ENDBLOCK]
 Y-yes.
 [ENDBLOCK]
@@ -268,8 +268,8 @@ his plan all along.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Even though he said
-he wasn't going to help huh?
+Even though he said he
+wasn't going to help, huh?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -571,7 +571,7 @@ Hey, this armor is awesome.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-It's kind of ...... scary.
+It's kind of ... scary.
 [ENDBLOCK]
 Pretty Girl
 [ENDBLOCK]
@@ -585,7 +585,7 @@ my house is much scarier!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-I'm fine with all this......
+I'm fine with all this...
 [ENDBLOCK]
 Leader
 [ENDBLOCK]
@@ -603,7 +603,7 @@ Hey, let's do that.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-No, you can't...... Your
+No, you can't... Your
 father will punish you.
 [ENDBLOCK]
 Leader

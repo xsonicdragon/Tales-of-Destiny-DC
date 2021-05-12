@@ -584,17 +584,17 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-So how're we gonna
-get to the bottom of the sea?
+So how're we gonna get
+to the bottom of the sea?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Huh? We're not gonna swim?
+Huh? We're aren't gonna just swim there?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Uh..if you want. I'll
-let you go on ahead, though.
+Uh... if you want. I'll let you
+go ahead and try that.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
@@ -602,17 +602,17 @@ Everyone, raise us up, would you?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Woah! What is THAT thing?!
+Whoa! What is THAT thing?!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
 Don't panic. That's the Leviathan. Think
-of it as something similar to the Draconis.
+of it as something akin to the Draconis.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-We're gonna 
-ride it?! Awesome!!
+We're gonna ride that
+thing!? Awesome!!
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
@@ -633,7 +633,7 @@ Huh? I am...?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-Hm..?
+Hm...?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -642,13 +642,13 @@ a voice, just now...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Wouldn't it be better if
-<Philia> stayed here, though?
+Wouldn't it be better if <Philia>
+stayed here, though?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-I don't want her sailing
-off while we're down there.
+I don't want her sailing off
+while we're down there.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -758,7 +758,7 @@ I'm really happy, you see.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-...Happy..?
+...Happy...?
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
@@ -787,7 +787,7 @@ but they're just as important, as well.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-I..but, what if..?
+I...but, what if...?
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]

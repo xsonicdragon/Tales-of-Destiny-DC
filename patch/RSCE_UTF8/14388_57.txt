@@ -697,7 +697,7 @@ Once in a lifetime. Treasure it.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Strawberry ......?
+Strawberry ...?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
@@ -928,9 +928,8 @@ Seinegald a verklant blow.
 [ENDBLOCK]
 
 [ENDBLOCK]
-This is our power. Overwhelming, 
-the ultimate power that can only 
-be called truly divine!
+It's ours. The ultimate power that can only
+be called overwhelming and truly divine!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
@@ -949,7 +948,7 @@ Just where have you been!?
 [ENDBLOCK]
 You don't even write!
 Do you have any idea
-how sick with worry I was?!
+how worried sick I was?!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -1089,7 +1088,7 @@ That's a promise, right?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I'll be back. I'll be back.
+I'll be back.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]

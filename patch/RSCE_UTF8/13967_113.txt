@@ -43,7 +43,7 @@ nothing more than a cry for attention!
 [ENDBLOCK]
 Head Minister
 [ENDBLOCK]
-Hmmm....
+Hmmm...
 [ENDBLOCK]
 Angry Priest
 [ENDBLOCK]
@@ -94,7 +94,7 @@ Well...See ya.
 [ENDBLOCK]
 Priest
 [ENDBLOCK]
-Forgive me... Batista.
+Forgive me... <Batista>.
 [ENDBLOCK]
 
 [ENDBLOCK]
@@ -108,7 +108,7 @@ Cold, brimming with hatred...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Who was that, just now?
+Who was that just now?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -220,7 +220,7 @@ my thumb, I pressed my lips...
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>The "Calender of the Stars"
+<TAG_005>The "Calendar of the Stars"
 series will be on indefinite hiatus
 following this issue.
  - Editing Department
@@ -229,7 +229,7 @@ following this issue.
 [ENDBLOCK]
 <TAG_005>There's a paper on
 Calvalese economics published
-by the Baruk Foundation.
+by the <Baruk> Foundation.
 [ENDBLOCK]
 
 [ENDBLOCK]

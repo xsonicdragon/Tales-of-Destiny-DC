@@ -1,15 +1,14 @@
 # Tales of Destiny DC
-Tales of Destiny - Director's Cut (Patch)
+![image](https://user-images.githubusercontent.com/77897370/117694591-50db8180-b18d-11eb-852d-7aaedf63c962.png)
 
 # Livestream Event: 15 May 2021 @ 20:00 (8PM Eastern Time)
-More details to come!
 
 # Current Progress (First Draft)
-Scenario Files Translated: 97.85%
+Scenario Files Translated: 99.82%
 
-Menus: 95%
+Menus: 96%
 
-Skits: 626/711
+Skits: 700/711
 
 Discord: 
 https://discord.gg/NUvvgUtdXW

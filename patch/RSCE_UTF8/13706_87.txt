@@ -191,7 +191,6 @@ docked at Darilsheid port.
 <Dalis>
 [ENDBLOCK]
 Be careful out there, <Mary>.
-
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
@@ -285,8 +284,8 @@ the three nations are all here.
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-We should immediately establish a 
-system among nations and come up
+We should establish a system
+among nations and come up 
 with countermeasures.
 [ENDBLOCK]
 <Johnny>
@@ -306,9 +305,8 @@ We'll go up again.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Not just once, but many times if 
-we have to. We will not give up 
-until we defeat <Miktran>.
+Many times if we have to. We will
+not give up until we defeat <Miktran>.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -316,11 +314,11 @@ Right, <Dymlos>?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-Yes, that's right...
+Yes, that's right.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-Hi, everyone...
+Hi, everyone.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -333,7 +331,7 @@ What's happened?
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-Sorry, folks...
+Sorry, folks.
 Radisrol has fallen!
 [ENDBLOCK]
 <Dymlos>
@@ -342,8 +340,8 @@ What?
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-We tried our best to hold on,
-but they ultimately overan us.
+We tried our best, but they 
+ultimately overan us.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
@@ -546,7 +544,7 @@ I trust Your Majesty will do well."
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-...... and this message
+... and this message
 from Sir <Darzen>.
 [ENDBLOCK]
 <Dalis>
@@ -758,7 +756,7 @@ Majesty on your excellent work.
 <Chaltier>
 [ENDBLOCK]
 I feel kind of embarrassed
-when Dryden praises us...
+when <Dryden> praises us...
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -1100,7 +1098,7 @@ Leen, you haven't changed a bit.
 <Melina>
 [ENDBLOCK]
 Your Majesty. I'm not sure you 
-should spoil Leen like that.
+should spoil <Leen> like that.
 [ENDBLOCK]
 Leen
 [ENDBLOCK]
@@ -1115,7 +1113,7 @@ Stupid!	It's not like that!
 <Ashley>
 [ENDBLOCK]
 Come on, come on, let's not do this.
-I'm sure Leen likes <Melina>.
+I'm sure <Leen> likes <Melina>.
 [ENDBLOCK]
 <Ashley>
 [ENDBLOCK]
@@ -1146,7 +1144,7 @@ Majesties. Can't you stop them?
 [ENDBLOCK]
 Lewein
 [ENDBLOCK]
-So, Your Majesty, as Leen also asked,
+So, Your Majesty, as <Leen> also asked,
 why did you call us together?
 [ENDBLOCK]
 <King>
@@ -1163,7 +1161,7 @@ No, no, no.
 [ENDBLOCK]
 <Melina>
 [ENDBLOCK]
-Hey, Leen!
+Hey, <Leen>!
 Come on, say something, <Ascus>.
 [ENDBLOCK]
 <Ascus>
@@ -1298,7 +1296,7 @@ Did you say something?
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-What do you think, Ashley?
+What do you think, <Ashley>?
 [ENDBLOCK]
 <Ashley>
 [ENDBLOCK]

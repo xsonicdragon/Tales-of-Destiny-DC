@@ -512,7 +512,7 @@ them if they're from Calvalese.
 Item Shop
 [ENDBLOCK]
 If they find out I'm from Calvalese,
-I'm afraid I'll lose all my buisness.
+I'm afraid I'll lose all my business.
 [ENDBLOCK]
 Item Shop
 [ENDBLOCK]
@@ -536,7 +536,7 @@ The door is locked.
 Man
 [ENDBLOCK]
 There's a very beautiful
-woman at Hugo's Mansion.
+woman at <Hugo>'s Mansion.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -555,13 +555,13 @@ I can't believe it hit the city...
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-Damn, the sky is completely cover.
+Damn, the sky is completely covered.
 And there's nothing we can do about it.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
 <Marian> seems to have returned
-to Hugo's Mansion.
+to <Hugo>'s Mansion.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -571,13 +571,13 @@ has become more melancholy.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-I thought I would talk
-to <Marian>, But I can't.
+I thought I would try talking
+with <Marian>, But I couldn't.
 [ENDBLOCK]
 Item Shop
 [ENDBLOCK]
 Welcome.
-We're open until midnight.
+We're open til midnight.
 [ENDBLOCK]
 Item Shop
 [ENDBLOCK]
@@ -599,7 +599,7 @@ we'll keep the store going!
 Item Shop
 [ENDBLOCK]
 Welcome.
-We're open until midnight.
+We're open til midnight.
 [ENDBLOCK]
 Item Shop
 [ENDBLOCK]

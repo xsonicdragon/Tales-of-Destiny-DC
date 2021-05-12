@@ -375,7 +375,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Hey, Stahn!
+Hey, <Stahn>!
 You're looking good!
 [ENDBLOCK]
 <Stahn>
@@ -547,7 +547,7 @@ to hear her answer, after all...
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-...... So?
+... So?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
@@ -742,9 +742,8 @@ Seinegald a Belcrant blow.
 [ENDBLOCK]
 
 [ENDBLOCK]
-This is our power. Overwhelming, 
-the ultimate power that can only 
-be called truly divine!
+It's ours. The ultimate power that can only
+be called overwhelming and truly divine!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
@@ -763,7 +762,7 @@ Just where have you been!?
 [ENDBLOCK]
 You don't even write!
 Do you have any idea
-how sick with worry I was?!
+how worried sick I was?!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -853,13 +852,13 @@ Big brother...
 <Stahn>
 [ENDBLOCK]
 I'm torn though, because I'm
-supposed make my family happy, 
+supposed to make my family happy, 
 but then I make you cry.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
 But now that I've heard what's going 
-on, from <Philia>. I can't just let it go.
+on from <Philia>, I can't just let it go.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -903,7 +902,7 @@ That's a promise, right?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I'll be back. I'll be back.
+I'll be back.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]

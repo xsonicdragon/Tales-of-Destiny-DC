@@ -1145,12 +1145,12 @@ Yeah, I guess.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-......
+...
 [ENDBLOCK]
 ???
 [ENDBLOCK]
 We can get to the temple by going
-through the East gate, and then 
+through the east gate, and then 
 passing through the mountains.
 [ENDBLOCK]
 <Mary>
@@ -1358,7 +1358,7 @@ I'm opening up a can of whoop-ass!
 [ENDBLOCK]
 Grid
 [ENDBLOCK]
-No, that's a bit...
+No, that was...
 [ENDBLOCK]
 Grid
 [ENDBLOCK]

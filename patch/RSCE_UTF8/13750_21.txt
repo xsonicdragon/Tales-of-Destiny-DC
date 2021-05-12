@@ -1,265 +1,260 @@
 Only son
 [ENDBLOCK]
-やっぱり、お兄ちゃんだ！
+I knew it was you, mister!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-やっぱりって……
-俺たちが来るのを知ってたの？
+Huh...? Did you know we were coming?
 [ENDBLOCK]
 Only son
 [ENDBLOCK]
-だって僕、いっつも
-窓からお外を見てるんだもん。
+Y'see, I'm always watching
+from the window upstairs.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-こんなに真っ暗なのに？
+Even though it's all dark out?
 [ENDBLOCK]
 Young Mother
 [ENDBLOCK]
-坊や、二階へ上がっていなさい。
+Sweetie, please stay upstairs.
 [ENDBLOCK]
 Only son
 [ENDBLOCK]
-えー、なんで？
+Whaaat, but  why?
 [ENDBLOCK]
 Young Mother
 [ENDBLOCK]
-お願いだから。
+Because I asked you to.
 [ENDBLOCK]
 Young Mother
 [ENDBLOCK]
-……あなたたち、
-知ってたんでしょ？
+...You all know, don't you?
 [ENDBLOCK]
 Young Mother
 [ENDBLOCK]
-……飛行竜が墜落して、
-主人が既に亡くなっていた事を。
+...That my husband didn't make
+it when the Draconis crashed.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-……あんたはその話を
-知らないと思うわ。
+...You don't know that for sure.
 [ENDBLOCK]
 Young Mother
 [ENDBLOCK]
-この世に、もう希望なんて
-ないのかもしれませんね……
+There's no hope left anymore...
 [ENDBLOCK]
 Young Mother
 [ENDBLOCK]
-世界もこのありさまですし、
-主人も、もういません。
+The world is the way it is, and
+my husband isn't coming home...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-大丈夫ですよ。
+Everything will be okay.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ご主人もきっとどこかで生きています。
-それに世界は俺たちが救ってみせます！
+Your husband will definitely come back.
+And we'll fix the world for sure!
 [ENDBLOCK]
 Young Mother
 [ENDBLOCK]
-あなたは優しくて強いんですね……
+You're very kind and strong...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ええ、任せてください！
+Just leave everything to us!
 [ENDBLOCK]
 Young Mother
 [ENDBLOCK]
-でも……嘘つきだわ。
+But...you're also a liar.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-そんな……
+That's not...
 [ENDBLOCK]
 Only son
 [ENDBLOCK]
-ああ！	僕、お兄ちゃんの事
-知ってるよ！
+Aah! I know you guys!
 [ENDBLOCK]
 Only son
 [ENDBLOCK]
-世界を救うために旅を
-してるんでしょ！
+You're on an adventure
+to save the world!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-いやあ、そこまで言われると
-照れるな。
+Aha, it's kinda weird
+hearing it put like that.
 [ENDBLOCK]
 Only son
 [ENDBLOCK]
-だって僕、いっつも
-窓からお外を見てるから。
+Y'see, I'm always watching
+from the window upstairs.
 [ENDBLOCK]
 Only son
 [ENDBLOCK]
-お兄ちゃんたちが
-お城の方から来るのを見てたもん。
+I watched you guys
+come from the castle.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-こんなに真っ暗なのに外を見てたの？
+You were watching even
+though it's all dark out?
 [ENDBLOCK]
 Young Mother
 [ENDBLOCK]
-坊や、二階へ上がっていなさい。
+Sweetie, please stay upstairs.
 [ENDBLOCK]
 Only son
 [ENDBLOCK]
-えー、なんで？
+Whaaat, but  why?
 [ENDBLOCK]
 Young Mother
 [ENDBLOCK]
-お願いだから。
+Because I asked you to.
 [ENDBLOCK]
 Young Mother
 [ENDBLOCK]
-……あなたたちだったのね。
+...It was you all.
 
 [ENDBLOCK]
 Young Mother
 [ENDBLOCK]
-……私の主人は飛行竜の乗組員でした。
+...My husband belonged to
+the Draconis's crew.
 
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-……って事はもう……
+...Which means...
 
 [ENDBLOCK]
 Young Mother
 [ENDBLOCK]
-……私、聞きました。
-あなたたちが飛行竜に乗っていた事を。
+...I've heard.
+That you were aboard the Draconis.
 [ENDBLOCK]
 Young Mother
 [ENDBLOCK]
-もう、この世に希望なんて
-ないのかもしれませんね……
+There's no hope left anymore...
 [ENDBLOCK]
 Young Mother
 [ENDBLOCK]
-世界もこのありさまですし、
-主人も、もういません。
+The world is the way it is, and
+my husband isn't coming home...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-大丈夫ですよ。
+Everything will be okay.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ご主人もきっとどこかで生きています。
-それに世界は俺たちが救ってみせます！
+Your husband will definitely come back.
+And we'll fix the world for sure!
 [ENDBLOCK]
 Young Mother
 [ENDBLOCK]
-あなたは優しくて強いんですね……
+You're very kind and strong...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-ええ、任せてください！
+Just leave everything to us!
 [ENDBLOCK]
 Young Mother
 [ENDBLOCK]
-でも……嘘つきだわ。
+But...you're also a liar.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-そんな……
+That's not...
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-でも、あたしたちがあの現場にいようが、
-いまいが、結果は変わらなかったわ。
+Whether we were there or not,
+things would've turned out the same.
 [ENDBLOCK]
 Young Mother
 [ENDBLOCK]
-あの子、毎日窓から外を見ては、
-父親の帰りを待っています。
+He sits up there at the window
+every day, waiting for his father.
 [ENDBLOCK]
 Young Mother
 [ENDBLOCK]
-主人に少しでも似た人を見つけると、
-はしゃいで下りてくるんですよ。
+If he spots anyone that looks
+even slightly like him, he
+comes running down here.
 [ENDBLOCK]
 Young Mother
 [ENDBLOCK]
-「お母さん、お父さんが帰って
-きたよ！」って。
+"Mom look! Dad's back!"
+he'll tell me.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-じゃあ、あの子は
-父親の事を……
+Then you should...
 [ENDBLOCK]
 Only son
 [ENDBLOCK]
-お母さん！
-お父さんが帰ってきたよ！
+Mom look! Dad's back!
 [ENDBLOCK]
 Young Mother
 [ENDBLOCK]
-坊や、聞いて欲しい事があるの……
+Sweetie, I want you
+to please listen to me...
 
 [ENDBLOCK]
 Only son
 [ENDBLOCK]
-でも、お父さんが！
+But it's dad!
 [ENDBLOCK]
 Young Mother
 [ENDBLOCK]
-いい、よく聞いて。
+Please, just listen.
 [ENDBLOCK]
 Only son
 [ENDBLOCK]
-いやだよ、お父さんが！
+No, dad came back!
 [ENDBLOCK]
 Young Mother
 [ENDBLOCK]
-あなたのお父さんはね、
-もう死んで……
+Your father is...
+He's no longer...
 [ENDBLOCK]
-父親
+Father
 [ENDBLOCK]
-おいおい、まさか死んだ、
-なんて事言わないだろうな。
+Whoa there, you're not gonna say I'm
+no longer with the living, are you?
 [ENDBLOCK]
 Young Mother
 [ENDBLOCK]
-あなた！
+Dear!
 [ENDBLOCK]
 Only son
 [ENDBLOCK]
-わーい、お父さん
-お帰りなさーい。
+Yaaay! Welcome home, dad!
 [ENDBLOCK]
 Young Mother
 [ENDBLOCK]
-生きていたの……！
+You were alive...!
 [ENDBLOCK]
-父親
+Father
 [ENDBLOCK]
-当たり前だ。妻と子を幸せにするのが
-俺の役目だからな。
+Course I was. It's my duty
+to keep you both happy.
 [ENDBLOCK]
 Young Mother
 [ENDBLOCK]
-あなた！
+Dear!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-<Stahn>、行くわよ。
+<Stahn>, let's go.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-うん。
+Yeah.
 [ENDBLOCK]
 Young Mother
 [ENDBLOCK]

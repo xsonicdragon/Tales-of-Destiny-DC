@@ -50,7 +50,7 @@ Nope, never heard of them.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Rutee>, I met those
+<Rutee>, we met those
 guys back in Janos.
 [ENDBLOCK]
 Toshu
@@ -66,7 +66,6 @@ Why are you so excited?
 [ENDBLOCK]
 I mean, they're like a
 group of comedians. 
-やつらの事で。
 [ENDBLOCK]
 Toshu
 [ENDBLOCK]
@@ -544,18 +543,18 @@ to the world.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-Do you have the Battle record Book?
+Do you have the Battle Record book?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-Your skill is good enough,
-I will give you this.
+You seem reliable enough. 
+Here, take this with you.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
 This shows the [Definite Strike] 
 coordination that is effective 
-against monsters
+against the monsters.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -723,7 +722,7 @@ expect me to just abandon them.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-But why..? You live here in
+But why...? You live here in
 this harsh desert, you know
 what you must do to survive, right?
 [ENDBLOCK]
@@ -752,7 +751,7 @@ need a reason to help people.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-You don't...need a reason..?
+You don't...need a reason...?
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]

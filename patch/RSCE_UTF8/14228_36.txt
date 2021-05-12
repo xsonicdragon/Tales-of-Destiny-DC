@@ -319,7 +319,7 @@ I'll give you this.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Is this a ...... medicinal herb?
+Is this a ... medicinal herb?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
@@ -344,7 +344,7 @@ Oh, God!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Your in a fight to save the world.
+You're in a fight to save the world.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
@@ -454,7 +454,7 @@ Sailor
 [ENDBLOCK]
 I heard that the capital
 was attacked by some army
-and the <King> died.
+and that the <King> died.
 [ENDBLOCK]
 Sailor
 [ENDBLOCK]

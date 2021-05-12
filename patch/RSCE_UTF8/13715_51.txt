@@ -19,8 +19,7 @@
 Soldier
 [ENDBLOCK]
 Looking at the garden is comforting.
-It's a good way to get 
-your guard up.
+It's a good way to keep your spirits up.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
@@ -30,8 +29,7 @@ all thanks to Master <Lion>.
 Soldier
 [ENDBLOCK]
 Looking at the garden is comforting.
-It's a good way to get 
-your guard up.
+It's a good way to keep your spirits up.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
@@ -90,7 +88,7 @@ this place is going to be breached.
 Guard
 [ENDBLOCK]
 I'm sorry...
-We are just no good enough.
+We just aren't good enough.
 [ENDBLOCK]
 Guard
 [ENDBLOCK]
@@ -146,7 +144,7 @@ My father tends to it.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-The people at the Castle are
+The people at the castle are
 all on edge lately.
 [ENDBLOCK]
 Boy
@@ -157,7 +155,7 @@ How do we end this?
 Boy
 [ENDBLOCK]
 They say that it's dangerous
-to go outside the Castle.
+to go outside the castle.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]

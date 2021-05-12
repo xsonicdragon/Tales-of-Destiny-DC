@@ -370,7 +370,7 @@ Come on! Do something usefull!
 Young Person
 [ENDBLOCK]
 If you wanna live, don't go in there.
-It's filled with toxic gaz...
+It's filled with toxic gas...
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -413,7 +413,7 @@ Hey, you're foreigners right!?
 Young Person
 [ENDBLOCK]
 If you wanna live, don't go in there.
-It's filled with toxic gaz...
+It's filled with toxic gas...
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
@@ -1137,7 +1137,7 @@ Good job, getting what I needed!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><x18><x66><x50><x2C><x00><x80>You will receive <TAG_077> Gald
+<TAG_007><x18><x66><x50><x2C><x00><x80>You received <TAG_077> Gald
 after taking the difference
 for the payment advance.
 
