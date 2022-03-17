@@ -10,94 +10,96 @@ RECT[<TAG_075>] = <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-Your Majesty, the report on the 
-damage caused by the recent 
-<Greybum> Rebellion is here.
+Your Majesty, here is the
+report on the damage caused
+by the <Greybum> Rebellion.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-Yes, I'll look it over 
-as soon as I can.
+Thank you. I'll look
+over it once I am able.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-Your Majesty, I've prepared the 
-documents for the princess candidates,
-please be sure to read through them!
+Your Majesty! I've prepared a list of
+potential queen candidates. Please
+be sure to read through them!
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-I'm not sure I want to... 
-but I'll take a look.
+I'm not sure I want to...
+I mean, I'll be sure to.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-Your Majesty, the draft of
-the military budget for this
-year has been finalized.
+My liege! The military budget
+for this year has been drafted,
+and is awaiting your approval!
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-Understood.
+Very well.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-Your Majesty, I have submitted 
-a proposal for the reserves of 
-the castle and I hope you will 
-take a look at it.
+Your Highness, I have submitted
+a proposal regarding the castle
+reserves. I hope you will consider it!
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-Thank you. I'll keep that in mind.
+Thank you.
+I'll keep that in mind.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-I drew everyone 
-and His Majesty!
+King <Woodrow>! I drew a picture
+of you and your friends!
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-Wow! I'll definitely look at it.
+Really? I can't wait to see it.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-As you know, his father, Isaac,
-passed away during the recent
+You already know his father, King
+Isaac, passed away during the
 <Greybum> Rebellion.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-And his mother passed
-away before that...
+And before that, his
+mother succumbed to illness...
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-His Majesty was very young when he
-lost his mother, and he spent many
-days holed up in his room.
+King <Woodrow> was very young
+when that happened. He locked
+himself in his room, refusing to
+leave.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-And after three days
-and three nights...
+After three straight
+days and nights...
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-King Isaac dragged His Highness
-out of the room by force.
+His father forced the door
+open and dragged him out.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-That mild-mannered Lord Isaac?
+Mild-mannered King Isaac did that!?
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-Yes, and he scolded him severely.
+He certainly did. He scolded
+him harshly, too.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-"You have the nation in front of you 
+"You have the nation in front of you
 and the people behind you!", he said.
 [ENDBLOCK]
 <Stahn>
@@ -106,49 +108,54 @@ What does that mean?
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-If the king stops walking, the 
-people will stumble and the 
+If the king stops walking, the
+people will stumble and the
 nation will never prosper.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Tough life...
+That sounds
+really tough...
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-Kingship means existing between
-a country and its people.
+Being a king means being between
+a country and its people!
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-That's why when Master Isaac died, 
-he was able to suppress his anger 
+That's why when Master Isaac died,
+he was able to suppress his anger
 and hold back his grief.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-For the country, he had to 
-escape without looking back.
+He knew he had to escape,
+that it was his duty to
+Phandaria to survive.
 [ENDBLOCK]
 サブシナリオチェック:<x17><x72><x40><x20><x80>
 
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-Your Majesty, what is it?
+What is it, my liege?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-It looks like I have work to do.
+Well, it seems
+I've got a lot
+of work to do.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-You should have leave 
-such matters to me.
+Such matters are beneath you.
+I'd be happy to handle them.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-No, I've been asked to do it.
+That won't do.
+They asked me personally for help.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
@@ -161,8 +168,8 @@ Okay!!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I understand, 
-Do your best!
+Gotcha.
+Go get 'em!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -175,34 +182,36 @@ What is it?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-What happened to your
-family, <Woodrow>?
+What happened to <Woodrow>'s family?
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-Well, it looks 
+Well, it looks
 like you're back.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-Sorry to keep you 
-waiting. Now, let's go.
+Sorry to keep you
+waiting. Let's go.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-Ha, yes, just now!
+Yes my lady!
+At once, my lady!
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-I'm in a hurry to prepare a meal!
+Come now, chop chop!
+Get that food cookin'!
 [ENDBLOCK]
 Maid
 [ENDBLOCK]
-Yes, yes, I understand!
+A-Absolutely, at once!
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-I wonder if it's like this?
+Hm, I think
+I'm doing it right?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -210,20 +219,20 @@ I wonder if it's like this?
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-Lord <Woodrow>!
+King <Woodrow>!?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-<Chelsea>, what are 
+<Chelsea>, what are
 you doing here?
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-Umm, uh, that...
+I, uhm, You know...
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-<Chelsea>!
+<Chelsea>!!
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
@@ -231,23 +240,23 @@ Umm, uh, that...
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-That's not really how you 
-manage people in a castle.
+That's no way to
+treat the castle staff!
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-Yeah..
-I'm sorry.
+You're right.
+I'm sorry...
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-Come on, <Chelsea>. Let's go 
+Come on, <Chelsea>. Let's go
 back to the inn.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-<Chelsea>, did you enjoy your time
-being the queen?
+<Chelsea>, did you
+enjoy your time as queen?
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
@@ -255,31 +264,31 @@ Um...
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-Yeah! It was great!
+Yeah!
+It was great!
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005><center>The position of the book
-has been moved.
+<TAG_005><center>The book has been moved.
 [ENDBLOCK]
 
 [ENDBLOCK]
 <TAG_005><center>There is a biography of a once
-great ruler titled, "The Man Who 
+great ruler titled, "The Man Who
 Became a God and His Wife."
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-Is this... a thought trapped in a lens?
+Is this a memory trapped in a lens?
 [ENDBLOCK]
 <Greybum>
 [ENDBLOCK]
-<Hugo>...
-What are you thinking?
+That <Hugo>...
+What is he thinking?
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-What do you mean?
+My liege?
 [ENDBLOCK]
 <Greybum>
 [ENDBLOCK]
@@ -288,102 +297,106 @@ unsealing ancient ruins.
 [ENDBLOCK]
 <Greybum>
 [ENDBLOCK]
-But in hindsight, what was the point!?
+But why?
+What was the point?
 [ENDBLOCK]
 <Greybum>
 [ENDBLOCK]
-Dammit, I just don't understand...
+Damn it all, I
+just don't understand.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-<Greybum>...
+<Greybum>, sir...
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-Aren't you afraid?
+Are you afraid of him?
 [ENDBLOCK]
 <Greybum>
 [ENDBLOCK]
-What did you just say to me!?
+What was that!?
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-I apologize.
+I apologize!
 [ENDBLOCK]
 <Greybum>
 [ENDBLOCK]
-Me, afraid of <Hugo>...?
+Me? Afraid of <Hugo>?
 [ENDBLOCK]
 <Greybum>
 [ENDBLOCK]
-Please, that will never happen.
+What a joke!
+How laughable!
 [ENDBLOCK]
 <Greybum>
 [ENDBLOCK]
-I've been the one using <Hugo>!
-From the very beginning!
+I'm the one using <Hugo>!
+From the very start!
 [ENDBLOCK]
 <Greybum>
 [ENDBLOCK]
-Hmm. But it was bad enough that <Lion>
-detected my presence.
+Hahaha! Still, <Lion> having
+tracked me down is a problem...
 [ENDBLOCK]
 <Greybum>
 [ENDBLOCK]
-I'm going to make him regret
-trying to use me.
-
+I'll make <Hugo> regret
+trying to manipulate me!
 [ENDBLOCK]
 <Greybum>
 [ENDBLOCK]
-For in the Eyes of Atamoni, I shall 
-be king of the world!
+With the power of the
+Eye of Atamoni, I will
+rule over the world as its king!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Greybum>, you had us running
-around this entire time...
+<Greybum>... He was 
+a pawn from the beginning...
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-After all, we were too different.
-The other party was <Miktran>, 
-you know.
+In the end, he was outmatched.
+The one pulling the strings
+was <Miktran>, after all.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-Please hold on a moment.
-I'll be right with you.
+I'll be with
+you in a moment.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-...You seem really busy.
-Maybe I should come back later.
+You seem busy. Maybe
+I should come back later.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-Oh, it's you, Sir <Lion>.
+Oh, it's you, <Lion>.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-Please excuse me. I got
+Excuse me. I got
 a little caught up in a
 matter I'm investigating.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-It's no problem.
-What were you looking into?
+Forget it. So what
+were you looking into?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-The Eye of Atamoni sealing facility that
-we constructed with the Swordian's advice.
+The facility we sealed
+the Eye of Atamoni in at
+the advice of the Swordians.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-The facility that was built
-after we defeated <Greybum>...
+Right, not long after
+we defeated <Greybum>...
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -397,8 +410,7 @@ Well, it's nothing serious, but...
 <Woodrow>
 [ENDBLOCK]
 I was curious about the guardian
-of the Eye that the Swordians 
-placed there.
+the Swordians placed there.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -407,39 +419,36 @@ were looking into.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-I haven't been able to 
-find anything about
-this guardian, though.
+I haven't been able to
+find anything out, though.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
 <Chaltier>, do you perhaps
-know anything about that?
+know anything about it?
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-Speaking from what I recall, I don't
-actually know many details either.
+I don't know any details, I'm afraid.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-All I know is that the Guardians were
-used by people in my age whenever
-something needed to be protected.
+If I recall correctly, my people
+would use them for security.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-I apologize if my answer
-doesn't tell you much.
+I apologize, I know that
+goes without saying...
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-That's okay.
+It's okay.
 Don't worry about it.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-At the very least, you've
+At the least, you've
 given me somewhere to start.
 [ENDBLOCK]
 <Lion>
@@ -459,7 +468,7 @@ Hmm... Maybe... I dunno...
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-Oh! <Lion>! Long 
+Oh! <Lion>! Long
 time no see!
 [ENDBLOCK]
 <Chelsea>
@@ -500,7 +509,7 @@ Lord <Woodrow>'s mother.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-His...mother, huh?
+His... mother, huh?
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
@@ -518,11 +527,11 @@ get it either, <Lion>!
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-So!	
+So!
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-She's Lord <Woodrow>'s mother!
+She's King <Woodrow>'s mother!
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
@@ -576,21 +585,22 @@ made up his mind.
 <Darzen>
 [ENDBLOCK]
 Ah, right. I should call him
-"King <Woodrow>", now.
+"King <Woodrow>," now.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-The country seems more peaceful now.
-His rule is clearly taking effect already.
+The country seems more
+peaceful now. It's clear his
+rule is already having an effect.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-I guess it's because of 
+I guess it's because of
 <Woodrow>'s humanity.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-No, that's not 
+No, that's not
 the only thing.
 [ENDBLOCK]
 <Darzen>
@@ -600,8 +610,8 @@ hard to make up for his late father.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-He is an honorable man who 
-never neglects to work hard.
+He is an honorable man who
+never neglects his duties.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
@@ -615,7 +625,7 @@ be very happy to see you.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-His Majesty is in his room 
+His Majesty is in his room
 at the end of the corridor.
 [ENDBLOCK]
 回転開始→<x1D><x66><x10><x67><x74><x40><x58><xAB><x80>
@@ -632,12 +642,12 @@ at the end of the corridor.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005><center>A portrait of <Woodrow>'s 
+<TAG_005><center>A portrait of <Woodrow>'s
 mother hangs on the wall.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005><center>If you look closely, you can see
+<TAG_005><center>Looking closely, you can see
 that it is a ceremonial chair.
 [ENDBLOCK]
 <Darzen>
@@ -647,28 +657,30 @@ It's been a while.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-If you're looking for His 
-Majesty, he's in his room. 
+If you're looking for His
+Majesty, he's in his room.
 Please go and see him.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-<Woodrow>, as long as you are here,
-Phandaria will rise again and again.
+King <Woodrow>, so long as you
+reign, Phandaria will never fall.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-Rest assured, I will protect the castle
-even at the cost of my life.
+Rest assured, I will
+protect the castle even
+at the cost of my life!
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-I would like to thank you for your
-kind attention to His Majesty.
+I would like to thank you for
+keeping King <Woodrow> safe.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-Welcome home, Your Majesty!
+Welcome home,
+Your Majesty!
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
@@ -676,40 +688,40 @@ Welcome back, everyone.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-We are constantly watching the 
-movements of the aerial city in 
-our airspace.
+We are keeping a close eye
+on the Aeropoleis from here!
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-I couldn't stop Belcrant.
+We couldn't stop Belcrant.
 I'm sorry, Your Majesty.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-I couldn't stop Belcrant.
+We couldn't stop Belcrant...
 
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-Reports are coming in that monsters
-have descended on various areas.
+Reports of monster attacks
+have been frequent, lately.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-But don't worry. So far, 
-we have repelled them.
+Fear not, however. We've
+repelled each one.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-I would have loved for His Majesty's 
-father to have seen you.
+Your Highness, if only your
+father could see the great
+king you've become...
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-I would have loved for His 
-Majesty's father to have seen 
-what you look like now.
+Your Highness, if only your
+father could see the great
+king you've become...
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
@@ -721,8 +733,8 @@ Please leave the castle to us.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-Your Majesty, status 
-report on Seinegald?
+My liege!
+How is Seinegald...?
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
@@ -730,68 +742,68 @@ What is the world coming to?
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-We are currently gathering 
-information on the affected areas
-that were directly hit by Belcrant.
+We are currently gathering
+information on the locations
+that were targeted by Belcrant.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-If the light of day continues
-to be blocked, it will be fatal
-to our country.
+Our land will not survive
+long without the sun's light...
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-The fate of Phandaria rests 
+The fate of Phandaria rests
 in your hands, Your Majesty.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-The fate of Phandaria is 
-in your hands.
+The fate of Phandaria
+is in your hands.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-Welcome to our castle.
+Welcome to the castle.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-Be sure to come back, <Chelsea>.
-
+Be sure to return safe, <Chelsea>.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-We look forward to your return.
+We look forward
+to your return.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-<Alba>'s grandchild was friendly and 
-got along with everyone.
+<Alba>'s grandchild
+was a sweetheart.
+Everyone loved her.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-Even though it was inevitable, 
-it was a shame to see her go.
+We knew it was inevitable, but
+we're sorry to see her leave.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-Is <Alba> going to be safe?
-I'm worried about him.
+Is Master <Alba> going to be
+safe? I'm worried about him.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-Mr. <Alba> has sent a letter to 
-His Excellency <Darzen>.
+General <Darzen> has been
+receiving mail from Master <Alba>.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-I am relieved to hear that you 
-are safe and doing well.
+I was relived to hear
+he was doing well.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-This is the private quarters 
-of His Majesty.
+These are the king's
+private quarters.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
@@ -800,8 +812,8 @@ His Majesty's return at any time.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-The room is always ready for 
-His Majesty's return.
+The room is always ready
+for His Majesty's return.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
@@ -815,8 +827,8 @@ Please take it easy on yourself.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-Have you met up with <Chelsea> 
-or <Darzen> yet?
+Have you spoken to
+<Chelsea> or <Darzen> yet?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
@@ -830,13 +842,13 @@ but please enjoy your time here.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-Wow, <Lion>.
-It's been a while.
+Hiya, <Lion>!
+It's sure been a while!
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-The portrait on the wall is 
-Lord <Woodrow>'s mother.
+The portrait on the wall is
+of King <Woodrow>'s mother.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
@@ -850,22 +862,23 @@ I'm glad to see you're doing well.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-Welcome to our castle.
+Welcome to our castle!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Chelsea>? I didn't expect you 
-to be here.
+<Chelsea>? I didn't expect
+you to be here.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-After helping out in various ways,
-I ended up staying at the castle.
+Well, I ended up staying here
+after helping out with this
+and that, you know?
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-I've been doing back-breaking 
-work to help Lord <Woodrow>.
+I've been doing back-breaking
+work to help King <Woodrow>!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -873,22 +886,23 @@ Back...breaking?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-It means to do difficult work.
+You know that means
+she's been working hard!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Ahhh...
+Ahhh... Right...
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-Your Majesty, please accept my 
-heartfelt congratulations on your 
+Your Majesty, please accept my
+heartfelt congratulations on your
 recent accession to the throne.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-There's no need to be so formal. 
-We've been through so much 
+There's no need to be so formal.
+We've been through so much
 together, haven't we?
 [ENDBLOCK]
 <Woodrow>
@@ -907,46 +921,48 @@ I can't believe what happened.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-I never thought the facility would be 
-attacked by the Draconis.
+To think the sealing facility would
+be attacked by the Draconis...
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-Do you have any further 
-details about it, <Woodrow>?
+<Woodrow>, do you have any
+details about the attack?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-Unfortunately, I'm only as aware 
+Unfortunately, I'm only as aware
 of the situation as you are.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-I guess we'll just have to ask His 
-Majesty of Seinegald directly.
+It seems we'll need to speak to
+the king of Seinegald directly.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Then let's get going.
+Then let's
+get going.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-Of course, I'll be coming with you.
+I'll be coming with
+you, of course!
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-Where Lord <Woodrow> goes,
-<Chelsea> follows.
+Where King <Woodrow> goes,
+<Chelsea> follows!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Nice to meet you, miss.
+Nice to meetcha, kid!
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-Is it okay for you to leave the 
-country even though you just took
-the throne?
+Is it okay for you to leave
+the country even though
+you just took the throne?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
@@ -956,19 +972,18 @@ Don't worry. I'm leaving
 <Darzen>
 [ENDBLOCK]
 I, <Darzen>, will protect Your
-Majesty's absence even at the 
-cost of my own life.
+Majesty's absence even at
+the cost of my own life.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-This is the joint responsibility of 
-Seinegald and our country.
+This is the joint responsibility
+of Seinegald and Phandaria.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-As one of the parties involved, 
-I have a duty to get to the bottom
-of this.
+As one of the parties involved, it
+is my personal duty to investigate.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
@@ -976,9 +991,9 @@ By the way, Your Majesty.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-My apologies, Your Majesty, but
-there is something I need you to 
-take care of before you depart.
+My apologies but there is
+something I need you to take
+care of before you depart.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
@@ -986,13 +1001,13 @@ Mmm, I see.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-You heard the man. I'm sorry.
-If you could wait just a moment,
-please.
+Well, you heard him. If
+you don't mind, please
+wait here for a moment.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Woodrow> has a lot of work 
+<Woodrow> has a lot of work
 to do, doesn't he?
 [ENDBLOCK]
 <Dymlos>
@@ -1001,8 +1016,8 @@ That's what kings do.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-Excuse me, <Mary>, do you 
-have a minute?
+Excuse me, <Mary>, do
+you have a minute?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -1010,8 +1025,8 @@ I don't mind, I suppose...
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-What are <Mary> and <Chelsea>
-going on about?
+Where are <Mary> and
+<Chelsea> going, I wonder?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -1019,56 +1034,55 @@ I don't know...
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-You wanted to say something to me?
+You needed something from me?
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-I'm going to ask you a 
-straightforward question.
+I'm just gonna come
+out and ask it.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-<Mary>, are you on Lord 
+<Mary>, are you on King
 <Woodrow>'s side?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-So you're worried about the fact 
-that I fought against the royal 
-army two years ago?
+Ah. You're worried because I fought
+against the Royal Army before...
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-Don't worry about it. That matter 
-is no longer an issue.
+Please don't worry. We've
+put that behind us.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-Well then...
+I see...
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-Yeah. We're on the same side.
-I'll never be his enemy.
+So yes. We're on the same side.
+We will never be enemies.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-Well... I'm glad.
+Well... That's a relief!
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-What were you going to do 
-if I told you I wasn't?
+What would you have done
+if I had said otherwise?
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-Isn't it obvious?
+Well, that's obvious.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-In order to protect Lord <Woodrow>, 
-I would shoot you in the heart with 
-lightning speed.
+In order to protect King <Woodrow>,
+I would have immediately pierced
+your heart with an arrow.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -1076,14 +1090,14 @@ I see.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-I thought you were still a child, 
-but well... You've become a fine 
-woman.
+I thought you were still a child,
+but no... You've become such a
+fine young woman.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-...? What were you two talking 
-about out here?
+...Hm? What were you
+two discussing?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -1091,12 +1105,13 @@ It's a secret.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-That's right, it's a secret.
+That's right,
+it's a secret!
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-Sorry to keep you waiting.
-Now, let's leave the castle.
+Well, sorry to keep you waiting.
+Come, let's head out of the castle.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -1110,7 +1125,7 @@ Right.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Current Gald: <TAG_033>Gald
+<TAG_007>Current Gald: <TAG_033> Gald
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 Yes
@@ -1118,9 +1133,9 @@ No
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x49><x38><x80></color> 
 [ENDBLOCK]
-has joined the Party.
+has joined the party.
 [ENDBLOCK]
-is now an active 
+is now an active
 party member.
 [ENDBLOCK]
 can join the battle.
@@ -1143,9 +1158,9 @@ has left the party.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x49><x5C><x98><x80>
+<center>[<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x49><x5C><x98><x80>
 [ENDBLOCK]
-<x18><x65><x59><x58><x00><x80></color>.
+<x18><x65><x59><x58><x00><x80></color>]
 
 [ENDBLOCK]
 <x19><x69><x49><x4C><x80>'s party received
@@ -1176,7 +1191,7 @@ the <turquoise>Strongest Titles
 [ENDBLOCK]
 the <turquoise>Quiz Titles
 [ENDBLOCK]
-<x19><x69><x49><x4C><x80> has received
+<x19><x69><x49><x4C><x80> has received the title:
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -1257,53 +1272,49 @@ can now be used.
 notice
 [ENDBLOCK]
 <TAG_007>[Titles Description]
-Titles are one of the character parameters
-that can be set on a character. The
-specific set method is as follows.
+Titles are one of the character
+parameters that can be set. 
+The specific method is as follows.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>After opening the main menu,
 the character status will display.
-On this screen, hit <Square_ani> and you'll
-be able to change the character status.
+On this screen, press <Square_ani> to 
+change the character status.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>At the top of this screen, you'll see
-[Titles] On this screen, press <Triangle_ani> 
-and it'll let you pick from all the titles
-you've acquired.
+<TAG_007>At the top of this screen will be
+[Titles]. Press <Triangle_ani> to pick
+from all aquired titles.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>There are two purposes to titles. 
-The first is to [Set your title and 
-talk to the townspeople].
+<TAG_007>Titles serve two purposes:
+The first is to [affect dialogue 
+when talking to NPCs].
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>By setting a title, certain townspeople
-will take interest in you. When you talk
-to them several times, you might get
-interesting responses. When that
-happens, reset the title you have on
-and try talking to them again.
+<TAG_007>Set a title to have certain NPCs interested
+while passing them. When talking with NPCs
+multiple times you may get different responses.
+Change the title and try talking to them again.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Hint: When talking to townspeople, a
-[?] will appear over your character's
-head. If this happens, set a title that
-seems to be related to the dialogue, 
-and try talking to them again. 
+<TAG_007>Hint: When talking to certain NPCs, a [?] will 
+appear over the character's head. If this 
+happens, set a title that seems to be related
+to the dialogue, and try talking to them again.
 Something fun may happen.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>The second purpose of titles is...
+<TAG_007>The second purpose for titles is...
 to make your status screen look cool!
 When collecting titles, you might pick
 up one you like, so you can set it on
@@ -1311,15 +1322,15 @@ your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>[Rock Rally] is a game in which 
-players kick rocks on the field 
+<TAG_007>[Rock Rally] is a game in which
+players kick rocks on the field
 to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
-1: Kicking a rock outside the 
+1: Kicking a rock outside the
 	city will start the game.
 2: Battles don't affect the clearing
 	objective of the Rock Rally game.

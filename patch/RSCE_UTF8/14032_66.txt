@@ -126,7 +126,7 @@ the director's instructions.
 notice
 [ENDBLOCK]
 After the Director's instructions are given,
-press the correct acting button while the 
+press the correct acting button while the
 clock is ticking, and you will succeed.
 [ENDBLOCK]
 notice
@@ -171,7 +171,7 @@ I know you can do it.
 [ENDBLOCK]
 Rookie Director
 [ENDBLOCK]
-Alright, you're up!
+All right, you're up!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -294,7 +294,7 @@ actor someday! A true star!
 Rookie Director
 [ENDBLOCK]
 Well, for your first performance,
-it was alright.
+it was all right.
 [ENDBLOCK]
 Rookie Director
 [ENDBLOCK]
@@ -446,7 +446,7 @@ The Canvas has been unlocked.
 notice
 [ENDBLOCK]
 In <Chelsea>'s room at <Alba>'s Cabin.
-On the canvas you can see your 
+On the canvas you can see your
 friends' various faces.
 [ENDBLOCK]
 notice
@@ -457,7 +457,7 @@ rocks that fall around the world.
 notice
 [ENDBLOCK]
 At a hut near the center of Fitzgald.
-By examining the pressure points in 
+By examining the pressure points in
 that room, the stone will change.
 [ENDBLOCK]
 notice
@@ -586,7 +586,7 @@ by the arena to create a new game.
 [ENDBLOCK]
 Technician
 [ENDBLOCK]
-<Kongman> has been unable to fight 
+<Kongman> has been unable to fight
 in the arena for a while now.
 [ENDBLOCK]
 Technician
@@ -656,7 +656,7 @@ to play again.
 [ENDBLOCK]
 Technician
 [ENDBLOCK]
-<center>Do you want play 
+<center>Do you want play
 [Strange Shot]?
 Yes
 No
@@ -733,8 +733,9 @@ with the mascot!
 [ENDBLOCK]
 Technician
 [ENDBLOCK]
-From here on out, please enjoy both
-"Strange Shot" and "Your Majesty's Drum"!
+From here on out, please
+enjoy both "Strange Shot"
+and "Your Majesty's Drum!"
 [ENDBLOCK]
 Technician
 [ENDBLOCK]
@@ -752,7 +753,7 @@ No
 [ENDBLOCK]
 Information Desk
 [ENDBLOCK]
-Welcome. This is the reception area 
+Welcome. This is the reception area
 for those who wish to participate.
 [ENDBLOCK]
 Information Desk
@@ -780,7 +781,7 @@ participate in the battle.
 [ENDBLOCK]
 Information Desk
 [ENDBLOCK]
-The only items you can use in 
+The only items you can use in
 battle are the ones we give you.
 [ENDBLOCK]
 Information Desk
@@ -815,22 +816,22 @@ so please do not worry.
 [ENDBLOCK]
 Information Desk
 [ENDBLOCK]
-And that's it. From here,
-just participate and experience
-it for yourself.
+And that's it. From here, just
+participate and experience it
+for yourself.
 [ENDBLOCK]
 Information Desk
 [ENDBLOCK]
-One piece of advice, though:
-the battles here are continuous,
-and you never know when they will end.
+One piece of advice, though: battles
+here are continuous, and you never
+know when they will end.
 [ENDBLOCK]
 Information Desk
 [ENDBLOCK]
-Attacking may be important,
-but it is just as important
-to be able to defend and recover.
-Well, good luck to all of you!
+Attacking may be important, but it
+is just as important to be able to 
+defend and recover. Well, good
+luck to all of you!
 [ENDBLOCK]
 Information Desk
 [ENDBLOCK]
@@ -900,7 +901,7 @@ OUT arena_player_sel
 
 
 [ENDBLOCK]
-SOME ONE WONNNNNNNNN
+SOMEONE WONNNNNNNNN
 
 [ENDBLOCK]
 NO ONE WONNNNNNNNN
@@ -1081,7 +1082,7 @@ It's sealed by a strange power.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>It says 「Congratulations on your win」
+<TAG_005>It says [Congratulations on your win]
 [ENDBLOCK]
 select
 [ENDBLOCK]
@@ -1100,8 +1101,9 @@ new challengers at this time.
 [ENDBLOCK]
 Information Desk
 [ENDBLOCK]
-There's a lot of noise coming
-from the city. Is something wrong?
+There's a lot of noise
+coming from the city.
+Is something wrong?
 [ENDBLOCK]
 Information Desk
 [ENDBLOCK]
@@ -1176,47 +1178,47 @@ Challenger
 It's getting dark...
 Isn't it a bit early for that?
 [ENDBLOCK]
-Enthusiastic fan
+Enthusiastic Fan
 [ENDBLOCK]
 Duels are so thrilling!
 I love watching them!
 [ENDBLOCK]
-Enthusiastic fan
+Enthusiastic Fan
 [ENDBLOCK]
 Argh! Tickets for
 <Kongman>'s match were sold out!
 [ENDBLOCK]
-Enthusiastic fan
+Enthusiastic Fan
 [ENDBLOCK]
 Doesn't the city seem
 kind of noisy to you?
 [ENDBLOCK]
-Enthusiastic fan
+Enthusiastic Fan
 [ENDBLOCK]
-I couldn't watch <Kongman>'s match...
-*sob*... Hold me.
+I couldn't watch <Kongman>'s
+match... *sob*... Hold me.
 [ENDBLOCK]
-Enthusiastic fan
+Enthusiastic Fan
 [ENDBLOCK]
 Duels are so thrilling!
 I love watching them!
 [ENDBLOCK]
-Enthusiastic fan
+Enthusiastic Fan
 [ENDBLOCK]
 I'll definitely be watching.
 Seeing you lose will be hilarious!
 [ENDBLOCK]
-Enthusiastic fan
+Enthusiastic Fan
 [ENDBLOCK]
 What's wrong with you? You could at
 least apologize for bumping into me!
 [ENDBLOCK]
-Enthusiastic fan
+Enthusiastic Fan
 [ENDBLOCK]
 What am I doing here? It's not
 like I can do anything about it.
 [ENDBLOCK]
-Enthusiastic fan
+Enthusiastic Fan
 [ENDBLOCK]
 Whether the world returns
 to normal or not, I'm going
@@ -1239,7 +1241,7 @@ sold out in an instant.
 [ENDBLOCK]
 Challenger
 [ENDBLOCK]
-You need to knock <Kongman> 
+You need to knock <Kongman>
 down a few notches.
 [ENDBLOCK]
 Challenger
@@ -1263,7 +1265,7 @@ Hmph. I just picked up a win.
 [ENDBLOCK]
 Challenger
 [ENDBLOCK]
-You need to knock <Kongman> 
+You need to knock <Kongman>
 down a few notches.
 [ENDBLOCK]
 Challenger
@@ -1282,7 +1284,7 @@ going to challenge him to a match!
 [ENDBLOCK]
 Challenger
 [ENDBLOCK]
-Should we really be  
+Should we really be
 making a fuss here?
 [ENDBLOCK]
 Challenger
@@ -1294,7 +1296,7 @@ That's really something, huh?
 Old Man
 [ENDBLOCK]
 This is the waiting room. Please
-refrain from using it unless you 
+refrain from using it unless you
 are a competitor.
 [ENDBLOCK]
 Old Man
@@ -1361,12 +1363,12 @@ equivalent exchange.
 [ENDBLOCK]
 Rabbitz
 [ENDBLOCK]
-<TAG_007><x0E><x01><x00><x00><x00><x1A><x20><x72><x04><x98><x80>				<x17><x72><x40><x18><x28><xE8><x03><x88><x80> Gald
-<x1A><x20><x72><x08><x98><x80>		 <x17><x72><x40><x1C><x28><xE8><x03><x88><x80> Gald
-<x1A><x20><x72><x0C><x98><x80>		 <x17><x72><x40><x20><x28><xE8><x03><x88><x80> Gald
-<x1A><x20><x72><x40><x10><x98><x80>			<x17><x72><x40><x24><x28><xE8><x03><x88><x80> Gald
-<x1A><x20><x72><x40><x14><x98><x80>	<x17><x72><x40><x28><x28><xE8><x03><x88><x80> Gald
-やめる
+<TAG_007>  <x0E><x01><x00><x00><x00><x1A><x20><x72><x04><x98><x80>		 <x17><x72><x40><x18><x28><xE8><x03><x88><x80> Gald
+<x1A><x20><x72><x08><x98><x80>			 <x17><x72><x40><x1C><x28><xE8><x03><x88><x80> Gald
+<x1A><x20><x72><x0C><x98><x80>				<x17><x72><x40><x20><x28><xE8><x03><x88><x80> Gald
+<x1A><x20><x72><x40><x10><x98><x80>			 <x17><x72><x40><x24><x28><xE8><x03><x88><x80> Gald
+<x1A><x20><x72><x40><x14><x98><x80>		  <x17><x72><x40><x28><x28><xE8><x03><x88><x80> Gald
+Done
 [ENDBLOCK]
 Rabbitz
 [ENDBLOCK]
@@ -1390,7 +1392,7 @@ Sorrys, pal.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Current Gald: <TAG_033>Gald
+<TAG_007>Current Gald: <TAG_033> Gald
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 Yes
@@ -1398,9 +1400,9 @@ No
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x49><x20><x80></color> 
 [ENDBLOCK]
-has joined the Party.
+has joined the party.
 [ENDBLOCK]
-is now an active 
+is now an active
 party member.
 [ENDBLOCK]
 can join the battle.
@@ -1423,9 +1425,9 @@ has left the party.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x49><x44><x98><x80>
+<center>[<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x49><x44><x98><x80>
 [ENDBLOCK]
-<x18><x65><x59><x40><x00><x80></color>.
+<x18><x65><x59><x40><x00><x80></color>]
 
 [ENDBLOCK]
 <x19><x69><x49><x34><x80>'s party received
@@ -1456,7 +1458,7 @@ the <turquoise>Strongest Titles
 [ENDBLOCK]
 the <turquoise>Quiz Titles
 [ENDBLOCK]
-<x19><x69><x49><x34><x80> has received
+<x19><x69><x49><x34><x80> has received the title:
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -1537,53 +1539,49 @@ can now be used.
 notice
 [ENDBLOCK]
 <TAG_007>[Titles Description]
-Titles are one of the character parameters
-that can be set on a character. The
-specific set method is as follows.
+Titles are one of the character
+parameters that can be set. 
+The specific method is as follows.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>After opening the main menu,
 the character status will display.
-On this screen, hit <Square_ani> and you'll
-be able to change the character status.
+On this screen, press <Square_ani> to 
+change the character status.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>At the top of this screen, you'll see
-[Titles] On this screen, press <Triangle_ani> 
-and it'll let you pick from all the titles
-you've acquired.
+<TAG_007>At the top of this screen will be
+[Titles]. Press <Triangle_ani> to pick
+from all aquired titles.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>There are two purposes to titles. 
-The first is to [Set your title and 
-talk to the townspeople].
+<TAG_007>Titles serve two purposes:
+The first is to [affect dialogue 
+when talking to NPCs].
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>By setting a title, certain townspeople
-will take interest in you. When you talk
-to them several times, you might get
-interesting responses. When that
-happens, reset the title you have on
-and try talking to them again.
+<TAG_007>Set a title to have certain NPCs interested
+while passing them. When talking with NPCs
+multiple times you may get different responses.
+Change the title and try talking to them again.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Hint: When talking to townspeople, a
-[?] will appear over your character's
-head. If this happens, set a title that
-seems to be related to the dialogue, 
-and try talking to them again. 
+<TAG_007>Hint: When talking to certain NPCs, a [?] will 
+appear over the character's head. If this 
+happens, set a title that seems to be related
+to the dialogue, and try talking to them again.
 Something fun may happen.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>The second purpose of titles is...
+<TAG_007>The second purpose for titles is...
 to make your status screen look cool!
 When collecting titles, you might pick
 up one you like, so you can set it on
@@ -1591,15 +1589,15 @@ your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>[Rock Rally] is a game in which 
-players kick rocks on the field 
+<TAG_007>[Rock Rally] is a game in which
+players kick rocks on the field
 to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
-1: Kicking a rock outside the 
+1: Kicking a rock outside the
 	city will start the game.
 2: Battles don't affect the clearing
 	objective of the Rock Rally game.

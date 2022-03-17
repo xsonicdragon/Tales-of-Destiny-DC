@@ -27,8 +27,8 @@ the presence of his royal majesty.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
+Ah, the Swordian Masters.
 We've been waiting for you.
-Master Swordian, this is yours.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
@@ -37,8 +37,8 @@ let everyone in.
 [ENDBLOCK]
 Lady
 [ENDBLOCK]
-It will be so lonely
-without you here, <Lion>.
+It's so lonely here
+without you, <Lion>.
 [ENDBLOCK]
 Lady
 [ENDBLOCK]
@@ -51,8 +51,8 @@ Of course, I don't believe them...
 [ENDBLOCK]
 Lady
 [ENDBLOCK]
-The cause of all this suffering is
-<Hugo>'s doing, not <Lion>'s.
+The cause of all this suffering
+is <Hugo>'s doing, not <Lion>'s.
 [ENDBLOCK]
 Lady
 [ENDBLOCK]
@@ -71,7 +71,7 @@ the future rests on your shoulders.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-It seems the king really 
+It seems the king really
 trusts you. Who are you?
 [ENDBLOCK]
 <Hugo>
@@ -86,7 +86,7 @@ young woman like yourself.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Th-The CEO of 
+Th-The CEO of
 Oberon Company?
 [ENDBLOCK]
 <Stahn>
@@ -111,9 +111,9 @@ You're lively as always, <Reynolds>.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-As requested, I brought the prisoner
-monitoring device. There are
-two types though.
+As requested, I brought the
+prisoner monitoring devices.
+There are two types though.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
@@ -138,7 +138,7 @@ Okay! The Tiara model.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-They're ready. 
+They're ready.
 Now try pressing
 this switch.
 [ENDBLOCK]
@@ -153,7 +153,7 @@ shock them whenever you want!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-This is no joke! You can't make 
+This is no joke! You can't make
 us wear that, this is dangerous!
 [ENDBLOCK]
 <Rutee>
@@ -162,9 +162,9 @@ Uwaagaagagagaga!!
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-And that is what happens if they try
-to forcibly remove it. There's even
-a transmitter that constantly
+And that is what happens if they
+try to forcibly remove it. There's
+even a transmitter that constantly
 relays their location!
 [ENDBLOCK]
 <Reynolds>
@@ -231,8 +231,8 @@ heard about this.
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-You are to bring
-the prisoners to him.
+You are to bring the
+prisoners to him.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -246,14 +246,14 @@ of greater crimes.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-I've only heard they were guilty of
-blackmail and extortion.
+I've only heard they were guilty
+of blackmail and extortion.
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-Surely you know of
-the Draconis Incident
-from the other day.
+Surely you know of the
+Draconis Incident from
+the other day.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -267,9 +267,9 @@ You don't mean...!
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-That's right. His Majesty
-and Lord <Dryden> will
-interrogate them directly.
+That's right. His Majesty and
+Lord <Dryden> will interrogate
+them directly.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -330,8 +330,8 @@ Execution...!?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-You do know their names,
-right <Hugo>?
+You do know their
+names, right <Hugo>?
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
@@ -349,8 +349,8 @@ belonged to me.
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-I never thought I'd get
-it back. I'm quite grateful, <Lion>.
+I never thought I'd get it back.
+I'm quite grateful, <Lion>.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -366,8 +366,8 @@ Yes, sir.
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-Prepare the criminals
-to be moved. Understood?
+Prepare the criminals to
+be moved. Understood?
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
@@ -409,8 +409,8 @@ not to burden this guy.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Let me make
-one thing clear.
+Let me make one
+thing clear.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -419,7 +419,8 @@ be assigned to you two.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-How will you carry out your duty?
+How will you carry
+out your duty?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -428,19 +429,19 @@ who gets the promotion that way.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-In the end, it's my job to clean up
-whatever mess you make,
-so do whatever you feel is best.
+In the end, it's my job to clean
+up whatever mess you make, so
+do whatever you feel is best.
 [ENDBLOCK]
 Jobs
 [ENDBLOCK]
-All right! In that
-case, I'll do it my way!
+All right! In that case,
+I'll do it my way!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Not so fast. This is about the two
-of you working together
+Not so fast. This is about the
+two of you working together
 to get the job done.
 [ENDBLOCK]
 Will
@@ -449,18 +450,20 @@ The two... of us?
 [ENDBLOCK]
 Jobs
 [ENDBLOCK]
-That's impossible! Will and I can't
-even agree on who pays for lunch!
+That's impossible! Will and
+I can't even agree on who
+pays for lunch!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Fine. I have no use
-for either of you, then.
+Fine. I have no use for
+either of you, then.
 [ENDBLOCK]
 Jobs
 [ENDBLOCK]
-Woah, hold up, I get it. We're
-supposed to learn to work together.
+Woah, hold up, I get it. 
+We're supposed to learn
+to work together.
 [ENDBLOCK]
 Will
 [ENDBLOCK]
@@ -470,7 +473,8 @@ So, do you have a plan in mind?
 <Lion>
 [ENDBLOCK]
 Don't overthink it.
-We have a job to do.
+We have a job to 
+do.
 [ENDBLOCK]
 Will
 [ENDBLOCK]
@@ -479,12 +483,12 @@ Okay, let's go, Jobs.
 [ENDBLOCK]
 Jobs
 [ENDBLOCK]
-Hey! You just said we'd
-make decisions like this together!
+Hey! You just said we'd make
+decisions like this together!
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-Are those two going to be okay?
+<center>Are those two going to be okay?
 Neither seem like the leader type...
 [ENDBLOCK]
 <Lion>
@@ -494,17 +498,17 @@ Let's head for Harmentz, too.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Current Gald: <TAG_033>Gald
+<TAG_007>Current Gald: <TAG_033> Gald
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 Yes
 No
 [ENDBLOCK]
-<TAG_007><S03><turquoise><TAG_013ac></color>
+<TAG_007><S03><turquoise><TAG_013ac></color> 
 [ENDBLOCK]
- joined the Party.
+has joined the party.
 [ENDBLOCK]
-is now an active 
+is now an active
 party member.
 [ENDBLOCK]
 can join the battle.
@@ -527,9 +531,9 @@ has left the party.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xB8><x98><x80>
+<center>[<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xB8><x98><x80>
 [ENDBLOCK]
-<x18><x65><x58><xB4><x00><x80></color>.
+<x18><x65><x58><xB4><x00><x80></color>]
 
 [ENDBLOCK]
 <x19><x69><x48><xA8><x80>'s party received
@@ -560,7 +564,7 @@ the <turquoise>Strongest Titles
 [ENDBLOCK]
 the <turquoise>Quiz Titles
 [ENDBLOCK]
-<x19><x69><x48><xA8><x80> has received
+<x19><x69><x48><xA8><x80> has received the title:
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -641,53 +645,49 @@ can now be used.
 notice
 [ENDBLOCK]
 <TAG_007>[Titles Description]
-Titles are one of the character parameters
-that can be set on a character. The
-specific set method is as follows.
+Titles are one of the character
+parameters that can be set. 
+The specific method is as follows.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>After opening the main menu,
 the character status will display.
-On this screen, hit <Square_ani> and you'll
-be able to change the character status.
+On this screen, press <Square_ani> to 
+change the character status.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>At the top of this screen, you'll see
-[Titles] On this screen, press <Triangle_ani> 
-and it'll let you pick from all the titles
-you've acquired.
+<TAG_007>At the top of this screen will be
+[Titles]. Press <Triangle_ani> to pick
+from all aquired titles.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>There are two purposes to titles. 
-The first is to [Set your title and 
-talk to the townspeople].
+<TAG_007>Titles serve two purposes:
+The first is to [affect dialogue 
+when talking to NPCs].
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>By setting a title, certain townspeople
-will take interest in you. When you talk
-to them several times, you might get
-interesting responses. When that
-happens, reset the title you have on
-and try talking to them again.
+<TAG_007>Set a title to have certain NPCs interested
+while passing them. When talking with NPCs
+multiple times you may get different responses.
+Change the title and try talking to them again.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Hint: When talking to townspeople, a
-[?] will appear over your character's
-head. If this happens, set a title that
-seems to be related to the dialogue, 
-and try talking to them again. 
+<TAG_007>Hint: When talking to certain NPCs, a [?] will 
+appear over the character's head. If this 
+happens, set a title that seems to be related
+to the dialogue, and try talking to them again.
 Something fun may happen.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>The second purpose of titles is...
+<TAG_007>The second purpose for titles is...
 to make your status screen look cool!
 When collecting titles, you might pick
 up one you like, so you can set it on
@@ -695,15 +695,15 @@ your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>[Rock Rally] is a game in which 
-players kick rocks on the field 
+<TAG_007>[Rock Rally] is a game in which
+players kick rocks on the field
 to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
-1: Kicking a rock outside the 
+1: Kicking a rock outside the
 	city will start the game.
 2: Battles don't affect the clearing
 	objective of the Rock Rally game.
@@ -729,7 +729,7 @@ the beloved General <Dryden>!
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-What are you people doing!? 
+What are you people doing!?
 Are you trying to disrespect me?
 [ENDBLOCK]
 <Stahn>
@@ -738,13 +738,13 @@ Uh, I'm sorry...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Mary> really had no intention 
+<Mary> really had no intention
 of making fun of you!
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
 What do you mean by
-"making fun of me"!?
+"making fun of me!?"
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -778,7 +778,7 @@ emergency that put the nation at risk...
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-That's not it... I just 
+That's not it... I just
 always sound angry. That's all.
 [ENDBLOCK]
 <Dryden>
@@ -788,7 +788,7 @@ if you'll excuse me, I have to leave!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Feels like I've 
+Feels like I've
 angered him again...
 [ENDBLOCK]
 <Mary>

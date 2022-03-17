@@ -16,8 +16,7 @@ CUBE0<x17><x72><x00><x21><x8B><x80>の状態
 ×××××××××××××××××××××
 
 [ENDBLOCK]
-A new valve.
-We can use this to
+A new valve. We can use this to
 get the water system working.
 [ENDBLOCK]
 It's a new valve...
@@ -53,9 +52,9 @@ Default
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-There's a device to control
-the water level, but no 
-valve is installed.
+There's a device to control 
+the water level, but no valve
+is installed.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -131,7 +130,7 @@ WALL_2なり!!
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-<Johnny>... Thanks 
+<Johnny>... Thanks
 for coming for me.
 [ENDBLOCK]
 <Fayte>
@@ -140,13 +139,13 @@ Who're they?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-Don't worry. These people 
+Don't worry. These people
 are my backup. ...Uninvited
 as they may be.
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-Is that so? In that case, 
+Is that so? In that case,
 thank you for your help.
 [ENDBLOCK]
 <Fayte>
@@ -165,13 +164,13 @@ Yes...
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-I know this is sudden, but we
-have a request for you.
+I know this is sudden, but
+we have a request for you.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-We need to go to Terazzi. 
-Can you take us there with 
+We need to go to Terazzi.
+Can you take us there with
 your Black Cross Armada?
 [ENDBLOCK]
 <Fayte>
@@ -180,13 +179,13 @@ Terazzi...?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-Ah, I see.
-So that's how it is.
+Ah, I see. So that's
+how it is.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-We have to
-capture <Greybum>!
+We have to capture
+<Greybum>!
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
@@ -194,8 +193,8 @@ But...
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-It'll be fine.
-If anyone can do it, they can.
+It'll be fine. If anyone
+can do it, they can.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
@@ -208,13 +207,13 @@ going with them.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-Can you even refuse? You're
-the one who told me we 
-should fight together.
+Can you even refuse? You're the
+one who told me we should fight
+together.
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-Of course you 
+Of course you
 would say that...
 [ENDBLOCK]
 <Fayte>
@@ -239,7 +238,7 @@ I'm in your debt!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Current Gald: <TAG_033>Gald
+<TAG_007>Current Gald: <TAG_033> Gald
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 Yes
@@ -247,9 +246,9 @@ No
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x48><x5C><x80></color> 
 [ENDBLOCK]
-has joined the Party.
+has joined the party.
 [ENDBLOCK]
-is now an active 
+is now an active
 party member.
 [ENDBLOCK]
 can join the battle.
@@ -272,9 +271,9 @@ has left the party.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><x80><x98><x80>
+<center>[<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><x80><x98><x80>
 [ENDBLOCK]
-<x18><x65><x58><x7C><x00><x80></color>.
+<x18><x65><x58><x7C><x00><x80></color>]
 
 [ENDBLOCK]
 <x19><x69><x48><x70><x80>'s party received
@@ -305,7 +304,7 @@ the <turquoise>Strongest Titles
 [ENDBLOCK]
 the <turquoise>Quiz Titles
 [ENDBLOCK]
-<x19><x69><x48><x70><x80> has received
+<x19><x69><x48><x70><x80> has received the title:
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -386,53 +385,49 @@ can now be used.
 notice
 [ENDBLOCK]
 <TAG_007>[Titles Description]
-Titles are one of the character parameters
-that can be set on a character. The
-specific set method is as follows.
+Titles are one of the character
+parameters that can be set. 
+The specific method is as follows.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>After opening the main menu,
 the character status will display.
-On this screen, hit <Square_ani> and you'll
-be able to change the character status.
+On this screen, press <Square_ani> to 
+change the character status.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>At the top of this screen, you'll see
-[Titles] On this screen, press <Triangle_ani> 
-and it'll let you pick from all the titles
-you've acquired.
+<TAG_007>At the top of this screen will be
+[Titles]. Press <Triangle_ani> to pick
+from all aquired titles.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>There are two purposes to titles. 
-The first is to [Set your title and 
-talk to the townspeople].
+<TAG_007>Titles serve two purposes:
+The first is to [affect dialogue 
+when talking to NPCs].
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>By setting a title, certain townspeople
-will take interest in you. When you talk
-to them several times, you might get
-interesting responses. When that
-happens, reset the title you have on
-and try talking to them again.
+<TAG_007>Set a title to have certain NPCs interested
+while passing them. When talking with NPCs
+multiple times you may get different responses.
+Change the title and try talking to them again.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Hint: When talking to townspeople, a
-[?] will appear over your character's
-head. If this happens, set a title that
-seems to be related to the dialogue, 
-and try talking to them again. 
+<TAG_007>Hint: When talking to certain NPCs, a [?] will 
+appear over the character's head. If this 
+happens, set a title that seems to be related
+to the dialogue, and try talking to them again.
 Something fun may happen.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>The second purpose of titles is...
+<TAG_007>The second purpose for titles is...
 to make your status screen look cool!
 When collecting titles, you might pick
 up one you like, so you can set it on
@@ -440,15 +435,15 @@ your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>[Rock Rally] is a game in which 
-players kick rocks on the field 
+<TAG_007>[Rock Rally] is a game in which
+players kick rocks on the field
 to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
-1: Kicking a rock outside the 
+1: Kicking a rock outside the
 	city will start the game.
 2: Battles don't affect the clearing
 	objective of the Rock Rally game.

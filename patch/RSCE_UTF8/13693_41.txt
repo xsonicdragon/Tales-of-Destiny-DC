@@ -43,8 +43,9 @@ Haa... this is the worst.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-I get why they took <Atwight>, but did
-they really have to take my money, too?
+I get why they took <Atwight>,
+but did they really have to 
+take my money, too?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -53,13 +54,15 @@ is kinda fun!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-It's always fun and 
-games with you, <Mary>.
+It's always fun
+and games with
+you, <Mary>.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-What's wrong, <Stahn>? You haven't
-said a word for a while now.
+What's wrong, <Stahn>? You 
+haven't said a word for a 
+while now.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -108,7 +111,7 @@ Shut up and come with me.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Current Gald: <TAG_033>Gald
+<TAG_007>Current Gald: <TAG_033> Gald
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 Yes
@@ -116,9 +119,9 @@ No
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x48><xC0><x80></color> 
 [ENDBLOCK]
-has joined the Party.
+has joined the party.
 [ENDBLOCK]
-is now an active 
+is now an active
 party member.
 [ENDBLOCK]
 can join the battle.
@@ -141,9 +144,9 @@ has left the party.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xE4><x98><x80>
+<center>[<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xE4><x98><x80>
 [ENDBLOCK]
-<x18><x65><x58><xE0><x00><x80></color>.
+<x18><x65><x58><xE0><x00><x80></color>]
 
 [ENDBLOCK]
 <x19><x69><x48><xD4><x80>'s party received
@@ -174,7 +177,7 @@ the <turquoise>Strongest Titles
 [ENDBLOCK]
 the <turquoise>Quiz Titles
 [ENDBLOCK]
-<x19><x69><x48><xD4><x80> has received
+<x19><x69><x48><xD4><x80> has received the title:
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -255,53 +258,49 @@ can now be used.
 notice
 [ENDBLOCK]
 <TAG_007>[Titles Description]
-Titles are one of the character parameters
-that can be set on a character. The
-specific set method is as follows.
+Titles are one of the character
+parameters that can be set. 
+The specific method is as follows.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>After opening the main menu,
 the character status will display.
-On this screen, hit <Square_ani> and you'll
-be able to change the character status.
+On this screen, press <Square_ani> to 
+change the character status.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>At the top of this screen, you'll see
-[Titles] On this screen, press <Triangle_ani> 
-and it'll let you pick from all the titles
-you've acquired.
+<TAG_007>At the top of this screen will be
+[Titles]. Press <Triangle_ani> to pick
+from all aquired titles.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>There are two purposes to titles. 
-The first is to [Set your title and 
-talk to the townspeople].
+<TAG_007>Titles serve two purposes:
+The first is to [affect dialogue 
+when talking to NPCs].
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>By setting a title, certain townspeople
-will take interest in you. When you talk
-to them several times, you might get
-interesting responses. When that
-happens, reset the title you have on
-and try talking to them again.
+<TAG_007>Set a title to have certain NPCs interested
+while passing them. When talking with NPCs
+multiple times you may get different responses.
+Change the title and try talking to them again.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Hint: When talking to townspeople, a
-[?] will appear over your character's
-head. If this happens, set a title that
-seems to be related to the dialogue, 
-and try talking to them again. 
+<TAG_007>Hint: When talking to certain NPCs, a [?] will 
+appear over the character's head. If this 
+happens, set a title that seems to be related
+to the dialogue, and try talking to them again.
 Something fun may happen.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>The second purpose of titles is...
+<TAG_007>The second purpose for titles is...
 to make your status screen look cool!
 When collecting titles, you might pick
 up one you like, so you can set it on
@@ -309,15 +308,15 @@ your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>[Rock Rally] is a game in which 
-players kick rocks on the field 
+<TAG_007>[Rock Rally] is a game in which
+players kick rocks on the field
 to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
-1: Kicking a rock outside the 
+1: Kicking a rock outside the
 	city will start the game.
 2: Battles don't affect the clearing
 	objective of the Rock Rally game.
@@ -466,7 +465,7 @@ The Canvas has been unlocked.
 notice
 [ENDBLOCK]
 In <Chelsea>'s room at <Alba>'s Cabin.
-On the canvas you can see your 
+On the canvas you can see your
 friends' various faces.
 [ENDBLOCK]
 notice
@@ -477,7 +476,7 @@ rocks that fall around the world.
 notice
 [ENDBLOCK]
 At a hut near the center of Fitzgald.
-By examining the pressure points in 
+By examining the pressure points in
 that room, the stone will change.
 [ENDBLOCK]
 notice
@@ -561,7 +560,7 @@ Well, it's nice to meet you.
 Chatty Old Man
 [ENDBLOCK]
 Hmmm. Contact with people is a
-once in a lifetime opportunity. 
+once in a lifetime opportunity.
 Treasure it.
 
 [ENDBLOCK]
@@ -616,7 +615,7 @@ Who the hell are you?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-You're a terrible person for 
+You're a terrible person for
 being in a place like this.
 [ENDBLOCK]
 Prisoner
@@ -631,13 +630,13 @@ Sorry!
 [ENDBLOCK]
 I... I didn't mean it.
 [ENDBLOCK]
-Prisoner.
+Prisoner
 [ENDBLOCK]
 I'm not angry.
 [ENDBLOCK]
 Prisoner
 [ENDBLOCK]
-You've made me out to be a 
+You've made me out to be a
 horrible person. Just because
 I'm a prisoner.
 [ENDBLOCK]
@@ -651,12 +650,12 @@ why you're in jail?
 <Rutee>, that's rude.
 You can't be sure.
 [ENDBLOCK]
-Prisoner.
+Prisoner
 [ENDBLOCK]
 You know what you're
 doing, don't you?
 [ENDBLOCK]
-Prisoner.
+Prisoner
 [ENDBLOCK]
 We take a look at a person's title
 or position and make the assumption
@@ -708,7 +707,7 @@ Prisoner
 That's humanity! Always
 making assumptions...
 [ENDBLOCK]
-Prisoner.
+Prisoner
 [ENDBLOCK]
 By changing your title,
 people will in turn change
@@ -740,10 +739,10 @@ Prisoner
 You're the only one, aren't you?
 Don't look at me!
 [ENDBLOCK]
-Prisoner.
+Prisoner
 [ENDBLOCK]
-What is it?
-Did you want to change your title?
+What is it? Did you want
+to change your title?
 [ENDBLOCK]
 <x19><x72><x00><x80>
 [ENDBLOCK]
@@ -752,15 +751,15 @@ Did you want to change your title?
 [ENDBLOCK]
 
 [ENDBLOCK]
-	
+
 [ENDBLOCK]
-		
+
 [ENDBLOCK]
-			
+
 [ENDBLOCK]
-				
+
 [ENDBLOCK]
-					
+
 [ENDBLOCK]
 Free title change
 [ENDBLOCK]
@@ -859,6 +858,6 @@ Free title change
  create Mbox!!!!!!!!
 
 [ENDBLOCK]
-<TAG_007><x06><xF8><x00><x00><x00><x18><x66><x50><x44><x00><x80><TAG_069><x18><x66><x50><x4C><x00><x80><x18><x66><x50><x50><x00><x80><x18><x66><x50><x54><x00><x80><x18><x66><x50><x58><x00><x80><x18><x66><x50><x5C><x00><x80><x18><x66><x50><x60><x00><x80><x18><x66><x50><x64><x00><x80><x18><x66><x50><x68><x00><x80></color>Confirm	
+<TAG_007><x06><xF8><x00><x00><x00><x18><x66><x50><x44><x00><x80><TAG_069><x18><x66><x50><x4C><x00><x80><x18><x66><x50><x50><x00><x80><x18><x66><x50><x54><x00><x80><x18><x66><x50><x58><x00><x80><x18><x66><x50><x5C><x00><x80><x18><x66><x50><x60><x00><x80><x18><x66><x50><x64><x00><x80><x18><x66><x50><x68><x00><x80></color>Confirm
 <x00>
 [ENDBLOCK]

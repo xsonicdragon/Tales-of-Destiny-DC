@@ -1,8 +1,8 @@
 <Dalis>
 [ENDBLOCK]
-You don't look so good...
-Everything that's happening
-must be exhausting for you.
+The color of your complexion is
+worrisome... I suppose that's to be
+expected after everything.
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
@@ -10,7 +10,7 @@ How about taking a short rest?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-Yeah, that sounds good.
+Yeah, you're probably right.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -33,7 +33,7 @@ Thanks.
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-...Ugh, hmmm.
+...Nnngh.
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
@@ -41,12 +41,12 @@ Thanks.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-He's been calling your 
-name in his sleep, <Mary>.
+Has he been calling your
+name in his sleep, <Mary>?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-<Dalis>... You should be 
+<Dalis>... You should be
 ashamed of yourself.
 [ENDBLOCK]
 <Mary>
@@ -56,31 +56,31 @@ ashamed of yourself.
 <Dalis>
 [ENDBLOCK]
 Ma-<Mary>...
-That outfit is...
+That outfit...
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-Isn't it cute?
-We're all in this together.
+Cute, isn't it.
+I have many more with me.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-I've always wanted to live 
+I've always wanted to live
 surrounded by cute things.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
 My dream has finally come true!
-Doesn't that make you happy?
+Isn't that great, <Dalis>?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-Yes! And <Dalis>.
-You can wear this.
+That's right!
+You can wear this, <Dalis>.
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-No, no, I'll pass.
+I-I don't know...
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -89,11 +89,11 @@ You'll look great.♪
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-...and stop it!
+...St-stop that!
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-<S07>Woohoo!
+<S07>A-a-aaah!
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -102,39 +102,38 @@ You look like you're doing well.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Hmph. Likewise. 
-Looks like you're living well.
+Hmph.
+You seem like you're living well.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-Yeah. It's thanks to you
-letting me come back here.
+I am. I have you to thank.
+After all you let me go.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-I've been able to live
-peacefully with <Dalis>.
+My life has become very peaceful
+living here with <Dalis.>
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-So where is <Dalis> right now?
+Speaking of <Dalis>,
+where is he now?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-If you're looking for him,
-he's at the guard tower on
-the North side of town.
+He recently set out to
+the northern guard tower.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-He's been undergoing medical
-treatment at the Frostheim
-Hot Springs lately as well.
+He's undergoing medical treatment
+at the Frostheim hot springs.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-He's getting better,
-little by little.
+Little by little his
+condition is improving.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -149,7 +148,7 @@ You should stay for dinner tonight!
 <Mary>
 [ENDBLOCK]
 I make one mean
-Beast Meat Poele, you know!
+Beast Meat Poelee, you know!
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -158,7 +157,8 @@ to stay the night if it gets late.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-No, that's not necessary.
+There's no need.
+I won't be staying long.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -166,27 +166,25 @@ Why is that?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-I have a job to do as well.
+I have a job to do.
 I don't have time for a long visit.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-I see...that's a shame.
+I see... That's a shame.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Well then,
-I need to get going.
+Now, I must be off.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-Sure. Come visit
-again sometime.
+Don't be a stranger.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-I'm sure <Dalis> would also be
-happy to see you anytime, <Lion>.
+I'm sure <Dalis> would love
+to host you soon.
 [ENDBLOCK]
 
 [ENDBLOCK]
@@ -205,7 +203,7 @@ Let's pretend we didn't see this.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>Gently, you put the love 
+<TAG_005>Gently, you put the love
 letter back in its place.
 [ENDBLOCK]
 
@@ -215,7 +213,7 @@ memories of <Dalis> and <Mary>.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>The snow-white grass is dying.
+<TAG_005>The snow white grass is dying.
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
@@ -229,24 +227,23 @@ been helpful?
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-I'm feeling much better, thanks
-to the hot spring bath.
+I'm feeling much better.
+Those hot springs work wonders.
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-I'll take care of Cyril. I'll keep
-the people from getting upset.
+Entrust Cyril to me.
+I'll keep the people safe.
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
 I think I'll go to the castle and
-discuss a way out with <Darzen>.
+discuss strategies with <Darzen>.
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-We can't afford to make the people
-of Cyril any more uncomfortable
-than they already are.
+We can't afford to have the people
+of Cyril continue living in turmoil.
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
@@ -272,12 +269,12 @@ you have done for me.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-Have a good journey.
-See you later.
+I hope that we can be
+together again soon.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-There's no need to rush things. 
+There's no need to rush things.
 We have plenty of time.
 [ENDBLOCK]
 <Mary>
@@ -287,7 +284,7 @@ Is that okay, <Dalis>?
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Current Gald: <TAG_033>Gald
+<TAG_007>Current Gald: <TAG_033> Gald
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 Yes
@@ -295,9 +292,9 @@ No
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x48><x04><x80></color> 
 [ENDBLOCK]
-has joined the Party.
+has joined the party.
 [ENDBLOCK]
-is now an active 
+is now an active
 party member.
 [ENDBLOCK]
 can join the battle.
@@ -320,9 +317,9 @@ has left the party.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><x28><x98><x80>
+<center>[<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><x28><x98><x80>
 [ENDBLOCK]
-<x18><x65><x58><x24><x00><x80></color>.
+<x18><x65><x58><x24><x00><x80></color>]
 
 [ENDBLOCK]
 <x19><x69><x48><x18><x80>'s party received
@@ -353,7 +350,7 @@ the <turquoise>Strongest Titles
 [ENDBLOCK]
 the <turquoise>Quiz Titles
 [ENDBLOCK]
-<x19><x69><x48><x18><x80> has received
+<x19><x69><x48><x18><x80> has received the title:
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -434,53 +431,49 @@ can now be used.
 notice
 [ENDBLOCK]
 <TAG_007>[Titles Description]
-Titles are one of the character parameters
-that can be set on a character. The
-specific set method is as follows.
+Titles are one of the character
+parameters that can be set. 
+The specific method is as follows.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>After opening the main menu,
 the character status will display.
-On this screen, hit <Square_ani> and you'll
-be able to change the character status.
+On this screen, press <Square_ani> to 
+change the character status.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>At the top of this screen, you'll see
-[Titles] On this screen, press <Triangle_ani> 
-and it'll let you pick from all the titles
-you've acquired.
+<TAG_007>At the top of this screen will be
+[Titles]. Press <Triangle_ani> to pick
+from all aquired titles.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>There are two purposes to titles. 
-The first is to [Set your title and 
-talk to the townspeople].
+<TAG_007>Titles serve two purposes:
+The first is to [affect dialogue 
+when talking to NPCs].
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>By setting a title, certain townspeople
-will take interest in you. When you talk
-to them several times, you might get
-interesting responses. When that
-happens, reset the title you have on
-and try talking to them again.
+<TAG_007>Set a title to have certain NPCs interested
+while passing them. When talking with NPCs
+multiple times you may get different responses.
+Change the title and try talking to them again.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Hint: When talking to townspeople, a
-[?] will appear over your character's
-head. If this happens, set a title that
-seems to be related to the dialogue, 
-and try talking to them again. 
+<TAG_007>Hint: When talking to certain NPCs, a [?] will 
+appear over the character's head. If this 
+happens, set a title that seems to be related
+to the dialogue, and try talking to them again.
 Something fun may happen.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>The second purpose of titles is...
+<TAG_007>The second purpose for titles is...
 to make your status screen look cool!
 When collecting titles, you might pick
 up one you like, so you can set it on
@@ -488,15 +481,15 @@ your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>[Rock Rally] is a game in which 
-players kick rocks on the field 
+<TAG_007>[Rock Rally] is a game in which
+players kick rocks on the field
 to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
-1: Kicking a rock outside the 
+1: Kicking a rock outside the
 	city will start the game.
 2: Battles don't affect the clearing
 	objective of the Rock Rally game.

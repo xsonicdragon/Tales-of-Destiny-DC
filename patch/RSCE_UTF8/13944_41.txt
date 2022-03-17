@@ -544,7 +544,7 @@ freedom, our happiness!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Wh-What did you say??
+Wh-What did you say!?
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -572,12 +572,12 @@ there like that?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Sorry... it's just, it reminded me about 
+Sorry... it's just, it reminded me about
 what <Baruk> said a while ago.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-About how the people here still 
+About how the people here still
 dwell on the past.
 [ENDBLOCK]
 <Rutee>
@@ -604,7 +604,7 @@ They show up here from time to time.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-"Junkland"?
+"Junkland?"
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -623,8 +623,8 @@ about it, either.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>Local Speciality
-<center>[Doctoleaf Beer]
+<TAG_005><center>Local Speciality
+[Doctoleaf Beer]
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -639,7 +639,7 @@ Got a problem with that?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-When he said "the people of the Earth",
+When he said "the people of the Earth,"
 doesn't that include us?
 [ENDBLOCK]
 Man
@@ -688,8 +688,8 @@ I want to see the sun again. Please!
 Bar Hostess
 [ENDBLOCK]
 Alcohol doesn't solve anything,
-but for some people
-it's their only escape.
+but for some people it's their
+only escape.
 [ENDBLOCK]
 Bar Hostess
 [ENDBLOCK]
@@ -714,8 +714,8 @@ We'll have a toast together.
 Bar Hostess
 [ENDBLOCK]
 Alcohol doesn't solve anything,
-but for some people
-it's their only escape.
+but for some people it's their
+only escape.
 [ENDBLOCK]
 Bar Hostess
 [ENDBLOCK]
@@ -744,7 +744,7 @@ Oho, welcome, cutie~
 Clerk
 [ENDBLOCK]
 That drunk over there moved
-here from Cherik with his family 
+here from Cherik with his family
 about six months ago.
 [ENDBLOCK]
 Clerk
@@ -790,7 +790,7 @@ I need a drink or something.
 Old Man
 [ENDBLOCK]
 That foolish foreigner...
-He doesn't realise all
+He doesn't realize all
 she wants is for him to spend money.
 [ENDBLOCK]
 Old Man
@@ -812,18 +812,18 @@ her do something about it!"
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-They stood there, silent. At that 
+They stood there, silent. At that
 moment I knew there was no Goddess!
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
 There may not be gods, but there
-are definitely heroes. You're a 
+are definitely heroes. You're a
 shining beacon of hope.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-I'll be out of town for 
+I'll be out of town for
 the rest of the day.
 [ENDBLOCK]
 Boy
@@ -841,18 +841,19 @@ What's wrong, Master <Lion>?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Hey, Chal. The people here 
+Hey, Chal. The people here
 are incredible, aren't they?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
 Living normally in a desert
-like this... I wouldn't last a day.
+like this... I wouldn't last a
+day.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-You're certainly right. If they didn't
-work together, I doubt
+<center>You're certainly right. If they
+didn't work together, I doubt
 they'd last this long.
 [ENDBLOCK]
 <Lion>
@@ -861,14 +862,14 @@ they'd last this long.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Chal... I know I've said
-this a lot, but... I absolutely
-must succeed in this mission.
+Chal... I know I've said this a
+lot, but... I absolutely must 
+succeed in this mission.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-Indeed. I know it means
-a great deal to you, Master <Lion>
+<center>Indeed. I know it means a great
+deal to you, Master <Lion>
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -877,8 +878,8 @@ I can stop being <Hugo>'s son...
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-...I'll finally become known for
-my own deeds, as <Lion> Magnus.
+...I'll finally become known for my
+own deeds, as <Lion> Magnus.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -891,8 +892,8 @@ with <Marian>, right?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-What are you
-even asking, Chal?
+What are you even
+asking, Chal?
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
@@ -905,13 +906,13 @@ I wonder if that's really true.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-Hm...? You mean about the 
-people here living in the desert?
+<center>Hm...? You mean about the people
+here living in the desert?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Yeah. How the people here are able
-to live by working together...
+Yeah. How the people here are
+able to live by working together...
 I'm not so certain about that...
 [ENDBLOCK]
 <Lion>
@@ -926,9 +927,9 @@ from what you think, Chal.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-What if... in order to
-maintain resources... they
-abandoned those who were a burden?
+What if... in order to maintain
+resources... they abandoned 
+those who were a burden?
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
@@ -942,7 +943,8 @@ these people are strong.
 <Lion>
 [ENDBLOCK]
 No, it's the opposite, right?
-Only the strong can survive, here.
+Only the strong can survive,
+here.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
@@ -951,13 +953,14 @@ Why are you saying this...?
 <Lion>
 [ENDBLOCK]
 I don't know... but I get the feeling
-that someday I'll be forced
-to make a similar decision...
+that someday I'll be forced to make
+a similar decision...
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-...And when that time comes...
-what if I make the wrong decision?
+...And when that time
+comes... what if I make
+the wrong decision?
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
@@ -965,25 +968,25 @@ Master <Lion>...
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-Don't worry. I know you'll
+<center>Don't worry. I know you'll
 make the right choice.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
 What's more, I'll always
-be by your side, too.
+ be by your side, too.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-So, no matter what happens,
-you just decide whatever
-you believe to be right.
+<center>So, no matter what happens,
+you just decide whatever you
+believe to be right.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-And if that turns out to be the
-wrong choice? Well, I'll be there
-to shoulder that burden with you.
+ And if that turns out to be the
+wrong choice? Well, I'll be there to
+ shoulder that burden with you.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -992,7 +995,7 @@ Thank you, Chal...
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Current Gald: <TAG_033>Gald
+<TAG_007>Current Gald: <TAG_033> Gald
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 Yes
@@ -1000,9 +1003,9 @@ No
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x49><xF0><x80></color> 
 [ENDBLOCK]
-has joined the Party.
+has joined the party.
 [ENDBLOCK]
-is now an active 
+is now an active
 party member.
 [ENDBLOCK]
 can join the battle.
@@ -1025,9 +1028,9 @@ has left the party.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x4A><x14><x98><x80>
+<center>[<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x4A><x14><x98><x80>
 [ENDBLOCK]
-<x18><x65><x5A><x10><x00><x80></color>.
+<x18><x65><x5A><x10><x00><x80></color>]
 
 [ENDBLOCK]
 <x19><x69><x4A><x04><x80>'s party received
@@ -1058,7 +1061,7 @@ the <turquoise>Strongest Titles
 [ENDBLOCK]
 the <turquoise>Quiz Titles
 [ENDBLOCK]
-<x19><x69><x4A><x04><x80> has received
+<x19><x69><x4A><x04><x80> has received the title:
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -1139,53 +1142,49 @@ can now be used.
 notice
 [ENDBLOCK]
 <TAG_007>[Titles Description]
-Titles are one of the character parameters
-that can be set on a character. The
-specific set method is as follows.
+Titles are one of the character
+parameters that can be set. 
+The specific method is as follows.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>After opening the main menu,
 the character status will display.
-On this screen, hit <Square_ani> and you'll
-be able to change the character status.
+On this screen, press <Square_ani> to 
+change the character status.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>At the top of this screen, you'll see
-[Titles] On this screen, press <Triangle_ani> 
-and it'll let you pick from all the titles
-you've acquired.
+<TAG_007>At the top of this screen will be
+[Titles]. Press <Triangle_ani> to pick
+from all aquired titles.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>There are two purposes to titles. 
-The first is to [Set your title and 
-talk to the townspeople].
+<TAG_007>Titles serve two purposes:
+The first is to [affect dialogue 
+when talking to NPCs].
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>By setting a title, certain townspeople
-will take interest in you. When you talk
-to them several times, you might get
-interesting responses. When that
-happens, reset the title you have on
-and try talking to them again.
+<TAG_007>Set a title to have certain NPCs interested
+while passing them. When talking with NPCs
+multiple times you may get different responses.
+Change the title and try talking to them again.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Hint: When talking to townspeople, a
-[?] will appear over your character's
-head. If this happens, set a title that
-seems to be related to the dialogue, 
-and try talking to them again. 
+<TAG_007>Hint: When talking to certain NPCs, a [?] will 
+appear over the character's head. If this 
+happens, set a title that seems to be related
+to the dialogue, and try talking to them again.
 Something fun may happen.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>The second purpose of titles is...
+<TAG_007>The second purpose for titles is...
 to make your status screen look cool!
 When collecting titles, you might pick
 up one you like, so you can set it on
@@ -1193,15 +1192,15 @@ your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>[Rock Rally] is a game in which 
-players kick rocks on the field 
+<TAG_007>[Rock Rally] is a game in which
+players kick rocks on the field
 to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
-1: Kicking a rock outside the 
+1: Kicking a rock outside the
 	city will start the game.
 2: Battles don't affect the clearing
 	objective of the Rock Rally game.
@@ -1223,7 +1222,7 @@ notice
 Hello, my name is <TAG_053>. I manage
 the trading here in <TAG_054>.
 [ENDBLOCK]
-You're not done yet? Please 
+You're not done yet? Please
 don't tell me you're quitting.
 [ENDBLOCK]
 If you're not too busy, maybe you
@@ -1253,7 +1252,7 @@ Want the job?
 Accept
 Decline
 [ENDBLOCK]
-In the meantime, I'll advance 
+In the meantime, I'll advance
 you a portion of the reward.
 
 [ENDBLOCK]
@@ -1282,13 +1281,14 @@ It's a no brainer, right?
 [ENDBLOCK]
 You could at least give me an answer.
 [ENDBLOCK]
-I see you've received a job from
-<TAG_055> at <x18><x66><x50><x20><x00><x80>.
+I see you've received a job
+from <TAG_055> at <x18><x66><x50><x20><x00><x80>.
 [ENDBLOCK]
 The request is for <TAG_035> <x1A><x72><x0C><x80>.
 
 [ENDBLOCK]
-I'll be quick about it.
+I promise I won't take 
+too much of your time.
 
 [ENDBLOCK]
 <x18><x66><x50><x20><x00><x80> is located in
@@ -1296,7 +1296,8 @@ the town of <x18><x66><x50><x24><x00><x80>.
 
 [ENDBLOCK]
 Please obtain <TAG_035> <x1A><x72><x0C><x80>,
-and deliver it as soon as you can.
+and deliver it as soon as
+you can.
 
 [ENDBLOCK]
 Good job, getting what I needed!
@@ -1317,11 +1318,11 @@ You don't have the necessary
 number of items...
 
 [ENDBLOCK]
-Please bring me  <TAG_075> <x1A><x72><x40><x10><x80>.
+Please bring me <TAG_075> <x1A><x72><x40><x10><x80>.
 [ENDBLOCK]
-If you back out and don't
-finish a job, you'll have to pay
-a penalty for breach of contract.
+If you back out and don't finish
+a job, you'll have to pay a penalty
+for breach of contract.
 [ENDBLOCK]
 You know you have to pay a penalty
 due to a breach of contract, right?
@@ -1334,7 +1335,8 @@ You can't be serious. You're not
 having second thoughts, are you?
 [ENDBLOCK]
 I must say,
-I'm a little disappointed...
+I must say, I'm a little
+disappointed...
 
 [ENDBLOCK]
 I am charging a cancellation
@@ -1351,7 +1353,7 @@ The contract cannot be cancelled until
 the breach of contract fee is paid.
 [ENDBLOCK]
 In the meantime, I'm going to ask
-you to pay me the money you 
+you to pay me the money you
 have as an annoyance fee.
 [ENDBLOCK]
 notice
@@ -1391,7 +1393,7 @@ you have as an annoyance fee.
 notice
 [ENDBLOCK]
 <TAG_007>I charged <TAG_075> Gald
-for cancelling. 
+for cancelling.
 
 [ENDBLOCK]
 Get the Gald together
@@ -1402,9 +1404,9 @@ Well, good luck.
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>Continue the job
+<TAG_007>Continue the Job
 Confirm Details
-Quit the job
+Quit the Job
 
 [ENDBLOCK]
 Janos

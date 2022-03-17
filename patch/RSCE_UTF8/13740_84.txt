@@ -53,14 +53,14 @@ in Cyril.
 [ENDBLOCK]
 Lady
 [ENDBLOCK]
-Is that so?
-Sorry for the misunderstanding.
+Is that so? Sorry for
+the misunderstanding.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-Don't worry about it. 
-More importantly, what
-were you talking about just now?
+Don't worry about it. More
+importantly, what were you
+talking about just now?
 [ENDBLOCK]
 Mother
 [ENDBLOCK]
@@ -131,8 +131,8 @@ At this rate, we'll run out of Gald.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-<Stahn>. I can't believe this,
-ask him why!
+<Stahn>. I can't believe this.
+Ask him why!
 [ENDBLOCK]
 Lens Shopkeeper
 [ENDBLOCK]
@@ -201,14 +201,14 @@ South: Exit
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>When you come to the royal
+<TAG_005><center>When you come to the royal
 capital, please stay at our hotel.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>A bar directly managed by
-the hotel. Please feel free
-to use it.
+<TAG_005><center>A bar directly managed
+by the hotel. Please feel
+free to use it.
 [ENDBLOCK]
 select
 [ENDBLOCK]
@@ -236,7 +236,7 @@ We'll take care of this!
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-Please don't worry about us, 
+Please don't worry about us,
 have a good night.
 [ENDBLOCK]
 Soldier
@@ -270,18 +270,20 @@ Huh! Yah!
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-This is Darilsheid, the capital of
-Seinegald. But... you already knew that.
+This is Darilsheid, the capital
+of Seinegald. But... you already
+knew that.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-This is Darilsheid, the capital of
-Seinegald. But... you already knew that.
+This is Darilsheid, the capital
+of Seinegald. It's a vibrant
+and gorgeous city.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-He asked me if I wanted
-to go on a trip with him.
+He asked me if I'd like to
+go on a date with him.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
@@ -290,7 +292,7 @@ What in the world is going on?
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-...No more... we're all doomed.
+...No more... We're all doomed.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
@@ -313,11 +315,11 @@ So, do your best!
 Girl
 [ENDBLOCK]
 It's up to you to decide whether
-or not the earth will be destroyed.
+or not the Earth will be destroyed.
 [ENDBLOCK]
 Kid
 [ENDBLOCK]
-Hey, weren't you guys captured 
+Hey, weren't you guys captured
 by the soldiers at the castle?
 [ENDBLOCK]
 Kid
@@ -326,16 +328,16 @@ Wow, it's Mr. <Lion>!
 [ENDBLOCK]
 Kid
 [ENDBLOCK]
-Hey, weren't you guys captured 
+Hey, weren't you guys captured
 by the soldiers at the castle?
 [ENDBLOCK]
 Kid
 [ENDBLOCK]
-Wow! It's that Swordsman!
+Wow! It's that swordsman!
 [ENDBLOCK]
 Kid
 [ENDBLOCK]
-Wow! It's that Swordsman!
+Wow! It's that swordsman!
 [ENDBLOCK]
 Kid
 [ENDBLOCK]
@@ -374,7 +376,7 @@ Good luck to you guys!
 [ENDBLOCK]
 Grandpa
 [ENDBLOCK]
-I don't really like Mr. <Hugo>. Sure, 
+I don't really like Mr. <Hugo>. Sure,
 he's a successful businessman, but
 there's something "off" about him...
 [ENDBLOCK]
@@ -400,7 +402,7 @@ he used to hang around here.
 Old Man
 [ENDBLOCK]
 He just suddenly went somewhere.
-I hope he's alright...
+I hope he's all right...
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
@@ -435,7 +437,7 @@ big mansion someday.
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-...Brrrr! 
+...Brrrr!
 It's gonna be cold tonight.
 [ENDBLOCK]
 Young Man
@@ -476,7 +478,8 @@ monsters enter the city...
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-Please! I need your help!
+Please, I beg you! We're counting
+on everyone's strength!
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
@@ -484,8 +487,9 @@ Today, the city is at peace.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-It seems that a platoon just left for
-the village of Harmentz, what's going on?
+It seems that a platoon just left
+for the village of Harmentz, what's
+going on?
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
@@ -553,8 +557,8 @@ The city is peaceful today.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-It's a shame, because I was
-looking forward to working with him.
+It's a shame, because I was looking
+forward to working with him.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
@@ -578,7 +582,7 @@ Please do your duty.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-Wahh! it's <Lion>! Wahhh!
+Kyaa~! It's <Lion>! Kyaaa~!
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
@@ -589,7 +593,7 @@ Girl
 [ENDBLOCK]
 The number of <Lion>'s fans has
 increased recently, but I was the
-one who fell in love with him.
+one who fell in love with him first.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
@@ -618,8 +622,8 @@ talking about you.
 [ENDBLOCK]
 Lady
 [ENDBLOCK]
-Are you <Lion>? Wow, you're
-a beautiful guy even up close!
+Are you <Lion>? Wow, you're a
+beautiful guy even up close!
 [ENDBLOCK]
 Lady
 [ENDBLOCK]
@@ -644,7 +648,7 @@ has completed another important mission.
 [ENDBLOCK]
 Lady
 [ENDBLOCK]
-I haven't seen <Lion> lately, I wonder 
+I haven't seen <Lion> lately, I wonder
 if he's gone to some far-off place.
 [ENDBLOCK]
 Lady
@@ -668,8 +672,9 @@ Don't you dare lose!
 [ENDBLOCK]
 Mother
 [ENDBLOCK]
-<Lion>, I wish you great success. After
-all, the era of the Seven Generals is over.
+<Lion>, I wish you great success.
+After all, the era of the Seven 
+Generals is over.
 [ENDBLOCK]
 Mother
 [ENDBLOCK]
@@ -693,8 +698,8 @@ my futon today.
 [ENDBLOCK]
 Mother
 [ENDBLOCK]
-The castle seems to
-be in a state of unrest.
+The castle seems to be
+in a state of unrest.
 [ENDBLOCK]
 Mother
 [ENDBLOCK]
@@ -723,8 +728,9 @@ was attacked by monsters.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-It seems that it was in the process of
-carrying some very important cargo!
+It seems that it was in the
+process of carrying some
+very important cargo!
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -775,14 +781,14 @@ in the castle to breach the outer shell.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-Damn, why... When I saw that
-light, tears came pouring out.
+Damn, why...? When I saw that light,
+I couldn't hold back my tears.
 [ENDBLOCK]
 Lens Shopkeeper
 [ENDBLOCK]
 Do you know the General?
 I was surprised to see you
-talking to him normally.
+talking with him so casually.
 [ENDBLOCK]
 Lens Shopkeeper
 [ENDBLOCK]
@@ -792,7 +798,7 @@ Lens Shopkeeper
 [ENDBLOCK]
 Do you know the General?
 I was surprised to see you
-talking to him normally.
+talking with him so casually.
 [ENDBLOCK]
 Lens Shopkeeper
 [ENDBLOCK]
@@ -800,20 +806,24 @@ We buy lens here.
 [ENDBLOCK]
 Worker
 [ENDBLOCK]
-Do you have a <ITEM_065>, 
-<ITEM_066>, <ITEM_067>, 
-<ITEM_068> and a <ITEM_069>?
+Do you happen to have 
+the items listed here?
+<center><ITEM_065> 
+<ITEM_066>
+<ITEM_067> 
+<ITEM_068>  
+<ITEM_069>
 [ENDBLOCK]
-If you procure the necessary items
-and bring them here, we will mix them
-together and give you an <ITEM_Elixir>.
+If you procure these liquids and bring
+them here, we will mix them together 
+and give you an <ITEM_Elixir>.
 [ENDBLOCK]
-You have all
-the ingredients.
+You have all the
+ingredients.
 
 [ENDBLOCK]
-<TAG_007>Would you like to replace the
-material with an <ITEM_Elixir>?
+<TAG_007>Would you like to exchange
+the liquids for an <ITEM_Elixir>?
 
 [ENDBLOCK]
 Exchange One
@@ -841,8 +851,8 @@ Please return once you
 have the ingredients,
 
 [ENDBLOCK]
-[<ITEM_Elixir>] acquired but 
-you can hold any more.
+[<ITEM_Elixir>] acquired but you
+can't hold any more.
 
 [ENDBLOCK]
 <Philia>
@@ -1013,7 +1023,7 @@ Can you hear me, <Miktran>?
 <Stahn>
 [ENDBLOCK]
 You must feel pretty good looking
-down at the earth from up there!
+down at the Earth from up there!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -1111,7 +1121,7 @@ I want to protect this world.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I want to protect this world, 
+I want to protect this world,
 where the people I love are!
 [ENDBLOCK]
 <Dymlos>
@@ -1223,7 +1233,7 @@ to the King as soon as possible.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Current Gald: <TAG_033>Gald
+<TAG_007>Current Gald: <TAG_033> Gald
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 Yes
@@ -1231,9 +1241,9 @@ No
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x48><xC0><x80></color> 
 [ENDBLOCK]
-has joined the Party.
+has joined the party.
 [ENDBLOCK]
-is now an active 
+is now an active
 party member.
 [ENDBLOCK]
 can join the battle.
@@ -1256,9 +1266,9 @@ has left the party.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xE4><x98><x80>
+<center>[<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xE4><x98><x80>
 [ENDBLOCK]
-<x18><x65><x58><xE0><x00><x80></color>.
+<x18><x65><x58><xE0><x00><x80></color>]
 
 [ENDBLOCK]
 <x19><x69><x48><xD4><x80>'s party received
@@ -1289,7 +1299,7 @@ the <turquoise>Strongest Titles
 [ENDBLOCK]
 the <turquoise>Quiz Titles
 [ENDBLOCK]
-<x19><x69><x48><xD4><x80> has received
+<x19><x69><x48><xD4><x80> has received the title:
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -1370,53 +1380,49 @@ can now be used.
 notice
 [ENDBLOCK]
 <TAG_007>[Titles Description]
-Titles are one of the character parameters
-that can be set on a character. The
-specific set method is as follows.
+Titles are one of the character
+parameters that can be set. 
+The specific method is as follows.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>After opening the main menu,
 the character status will display.
-On this screen, hit <Square_ani> and you'll
-be able to change the character status.
+On this screen, press <Square_ani> to 
+change the character status.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>At the top of this screen, you'll see
-[Titles] On this screen, press <Triangle_ani> 
-and it'll let you pick from all the titles
-you've acquired.
+<TAG_007>At the top of this screen will be
+[Titles]. Press <Triangle_ani> to pick
+from all aquired titles.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>There are two purposes to titles. 
-The first is to [Set your title and 
-talk to the townspeople].
+<TAG_007>Titles serve two purposes:
+The first is to [affect dialogue 
+when talking to NPCs].
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>By setting a title, certain townspeople
-will take interest in you. When you talk
-to them several times, you might get
-interesting responses. When that
-happens, reset the title you have on
-and try talking to them again.
+<TAG_007>Set a title to have certain NPCs interested
+while passing them. When talking with NPCs
+multiple times you may get different responses.
+Change the title and try talking to them again.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Hint: When talking to townspeople, a
-[?] will appear over your character's
-head. If this happens, set a title that
-seems to be related to the dialogue, 
-and try talking to them again. 
+<TAG_007>Hint: When talking to certain NPCs, a [?] will 
+appear over the character's head. If this 
+happens, set a title that seems to be related
+to the dialogue, and try talking to them again.
 Something fun may happen.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>The second purpose of titles is...
+<TAG_007>The second purpose for titles is...
 to make your status screen look cool!
 When collecting titles, you might pick
 up one you like, so you can set it on
@@ -1424,15 +1430,15 @@ your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>[Rock Rally] is a game in which 
-players kick rocks on the field 
+<TAG_007>[Rock Rally] is a game in which
+players kick rocks on the field
 to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
-1: Kicking a rock outside the 
+1: Kicking a rock outside the
 	city will start the game.
 2: Battles don't affect the clearing
 	objective of the Rock Rally game.

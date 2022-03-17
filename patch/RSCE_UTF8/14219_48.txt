@@ -65,7 +65,6 @@ Old Lady
 [ENDBLOCK]
 You're going out
 of town by yourself?
-
 [ENDBLOCK]
 Old Lady
 [ENDBLOCK]
@@ -85,7 +84,7 @@ for a while, but I'm relieved now.
 [ENDBLOCK]
 Old Lady
 [ENDBLOCK]
-What does Aeth'er War even mean?
+What does "Aeth'er War" even mean?
 What did we do to deserve this?
 [ENDBLOCK]
 Old Lady
@@ -95,39 +94,39 @@ saved up. If this keeps up, then...
 [ENDBLOCK]
 Old Lady
 [ENDBLOCK]
-Rumor has it they're working
-on quite the weapon at Seinegald.
+Rumor has it Seinegald is
+working on quite the weapon.
 [ENDBLOCK]
-Daughter
+Girl
 [ENDBLOCK]
 Where are you
 off to, miss lady?
 [ENDBLOCK]
-Daughter
+Girl
 [ENDBLOCK]
 Why is everyone hurt?
 Who did this to them?
 [ENDBLOCK]
-Daughter
+Girl
 [ENDBLOCK]
 The new king's name is <Woodrow>.
 [ENDBLOCK]
-Daughter
+Girl
 [ENDBLOCK]
 There's something weird
 floating in the sky...?
 [ENDBLOCK]
-Daughter
+Girl
 [ENDBLOCK]
 Why is the sky filled
 with weird stuff?
 [ENDBLOCK]
-Daughter
+Girl
 [ENDBLOCK]
 Did I drop a
 lens around here?
 [ENDBLOCK]
-Daughter
+Girl
 [ENDBLOCK]
 You can go up to that thing
 in the sky? That's awesome!
@@ -144,14 +143,14 @@ care about him a lot!
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-I heard there was
-a rebellion at the capital.
-That's all I know right now, though.
+I heard there was a rebellion at the
+capital. That's all I know right now,
+though.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
 It all worked out in the end,
-but the fact remains that 
+but the fact remains that
 our capital fell to the rebels.
 [ENDBLOCK]
 Soldier
@@ -162,7 +161,7 @@ to remember that.
 Soldier
 [ENDBLOCK]
 How do we stop an
-attack from the air?
+attack from the sky?
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
@@ -187,8 +186,8 @@ city from the rebels.
 [ENDBLOCK]
 Weapon Shop
 [ENDBLOCK]
-The better prepared you are,
-the better off you are.
+The more prepared you are,
+the better off you'll be.
 [ENDBLOCK]
 Weapon Shop
 [ENDBLOCK]
@@ -197,8 +196,8 @@ city from the rebels.
 [ENDBLOCK]
 Weapon Shop
 [ENDBLOCK]
-The better prepared you are,
-the better off you are.
+The more prepared you are,
+the better off you'll be.
 [ENDBLOCK]
 Weapon Shop
 [ENDBLOCK]
@@ -208,9 +207,9 @@ island Southeast of here.
 [ENDBLOCK]
 Item Shop
 [ENDBLOCK]
-If you want to help
-the wounded, make sure
-you're well stocked, first.
+If you want to help the wounded,
+make sure you're well stocked,
+first.
 [ENDBLOCK]
 Item Shop
 [ENDBLOCK]
@@ -219,8 +218,9 @@ Make sure you're prepared.
 [ENDBLOCK]
 Uniques Shop
 [ENDBLOCK]
-If you're going to go help the
-wounded, you'd better be ready.
+If you're going to go help
+the wounded, you'd better
+be ready.
 [ENDBLOCK]
 Uniques Shop
 [ENDBLOCK]
@@ -239,8 +239,8 @@ Take this.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-It'll show you how to perform
-a「Definite Strike」on monsters.
+It'll show you how to perform a
+[Definite Strike] on monsters.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -249,16 +249,16 @@ Take good care of it.
 notice
 [ENDBLOCK]
 You can perform a Definite Strike
-by setting [Definite Strike] to 
-"ON" from the Customize menu
-in the Main menu.
+by setting [Definite Strike] to "ON"
+from the Customize menu in the 
+Main menu.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 You can also view each monster's
 Definite Strike in the Monster Book
-if Definite Strike is "ON".
+if Definite Strike is "ON."
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -275,7 +275,7 @@ honed your skills more.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-Those rebels, how dare they 
+Those rebels, how dare they
 turn on the royal family...
 [ENDBLOCK]
 Soldier
@@ -288,8 +288,8 @@ Forgive me... King Isaac...
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-Who is that <Greybum> guy? How 
-can he so easily control monsters?
+Who is that <Greybum> guy? How can
+he so easily control monsters?
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
@@ -303,8 +303,8 @@ One where only the chosen are welcome!
 [ENDBLOCK]
 
 [ENDBLOCK]
-We will now realize our foiled
-dream from a thousand years ago!
+We will now realize our dream that
+was foiled a thousand years ago!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -317,8 +317,9 @@ Some of them are hurt, too!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Like they were forced to flee
-with nothing but the clothes on their back...
+Like they were forced to
+flee with nothing but the
+clothes on their back...
 [ENDBLOCK]
 <Alba>
 [ENDBLOCK]
@@ -355,9 +356,9 @@ They must still be in the forest!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-That's terrible!!
-<Stahn>, we have to hurry
-and save them right away!
+That's terrible!! <Stahn>,
+we have to hurry and 
+save them right away!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -366,11 +367,12 @@ Yeah!
 <Stahn>
 [ENDBLOCK]
 I guess this is goodbye, <Mary>.
-I'm sorry to have to leave you here.
+I'm sorry to have to leave you
+here.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-Y-Yeah...Thanks.
+Y-Yeah... Thanks.
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
@@ -383,13 +385,13 @@ What do you mean, <Dalis>?
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-You know very well that <Mary> 
+You know very well that <Mary>
 is good at what she does.
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-I know she'll be
-a big help to you.
+I know she'll be a
+big help to you.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -410,15 +412,14 @@ But... You know... I...!
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-Since the day we met,
-I've lived a life
-of bliss with you.
+Since the day we met, My life
+has been filled with bliss.
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
 I don't want our life
-together to be cut short,
-so please... help them.
+together to be cut short.
+So please... help them.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -426,8 +427,8 @@ so please... help them.
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-Besides, we owe you a
-debt of gratitude, <Stahn>.
+Besides, we owe you a debt
+of gratitude, <Stahn>.
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
@@ -436,24 +437,23 @@ somehow, after all.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-Then... I'll go.
-I'll help <Stahn> and
+Then... I'll go. I'll help <Stahn> and
 the others protect this world.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Mary>, are you sure you
-want to do this?
+<Mary>, are you sure
+you want to do this?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-What, would you
-rather I stay behind?
+What, would you rather
+I stay behind?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-Certainly not! You're 
-more than welcome to join us!
+Certainly not! You're more
+than welcome to join us!
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -465,9 +465,9 @@ This, I swear.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-That though our bodies be a
-great distance apart,
-our hearts remain one.
+Though our bodies may be a
+great distance apart, our
+hearts remain as one.
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
@@ -475,26 +475,28 @@ I, too, swear.
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-Though misery and joy,
-my soul is bound to you, forever.
+Through misery and joy,
+my soul is bound to you,
+forever.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-Alright. Let's get going!
+All right. Let's get going!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Good to have you again, <Mary>!
-Thank you, <Dalis>!
+Good to have you again, 
+<Mary>! Thank you, <Dalis>!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
 Let's hurry to see <Woodrow>.
-He should be at Heidelberg, right?
+He should be at Heidelberg,
+right?
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Current Gald: <TAG_033>Gald
+<TAG_007>Current Gald: <TAG_033> Gald
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 Yes
@@ -502,9 +504,9 @@ No
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x48><xA8><x80></color> 
 [ENDBLOCK]
-has joined the Party.
+has joined the party.
 [ENDBLOCK]
-is now an active 
+is now an active
 party member.
 [ENDBLOCK]
 can join the battle.
@@ -527,9 +529,9 @@ has left the party.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xCC><x98><x80>
+<center>[<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xCC><x98><x80>
 [ENDBLOCK]
-<x18><x65><x58><xC8><x00><x80></color>.
+<x18><x65><x58><xC8><x00><x80></color>]
 
 [ENDBLOCK]
 <x19><x69><x48><xBC><x80>'s party received
@@ -560,7 +562,7 @@ the <turquoise>Strongest Titles
 [ENDBLOCK]
 the <turquoise>Quiz Titles
 [ENDBLOCK]
-<x19><x69><x48><xBC><x80> has received
+<x19><x69><x48><xBC><x80> has received the title:
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -641,53 +643,49 @@ can now be used.
 notice
 [ENDBLOCK]
 <TAG_007>[Titles Description]
-Titles are one of the character parameters
-that can be set on a character. The
-specific set method is as follows.
+Titles are one of the character
+parameters that can be set. 
+The specific method is as follows.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>After opening the main menu,
 the character status will display.
-On this screen, hit <Square_ani> and you'll
-be able to change the character status.
+On this screen, press <Square_ani> to 
+change the character status.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>At the top of this screen, you'll see
-[Titles] On this screen, press <Triangle_ani> 
-and it'll let you pick from all the titles
-you've acquired.
+<TAG_007>At the top of this screen will be
+[Titles]. Press <Triangle_ani> to pick
+from all aquired titles.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>There are two purposes to titles. 
-The first is to [Set your title and 
-talk to the townspeople].
+<TAG_007>Titles serve two purposes:
+The first is to [affect dialogue 
+when talking to NPCs].
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>By setting a title, certain townspeople
-will take interest in you. When you talk
-to them several times, you might get
-interesting responses. When that
-happens, reset the title you have on
-and try talking to them again.
+<TAG_007>Set a title to have certain NPCs interested
+while passing them. When talking with NPCs
+multiple times you may get different responses.
+Change the title and try talking to them again.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Hint: When talking to townspeople, a
-[?] will appear over your character's
-head. If this happens, set a title that
-seems to be related to the dialogue, 
-and try talking to them again. 
+<TAG_007>Hint: When talking to certain NPCs, a [?] will 
+appear over the character's head. If this 
+happens, set a title that seems to be related
+to the dialogue, and try talking to them again.
 Something fun may happen.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>The second purpose of titles is...
+<TAG_007>The second purpose for titles is...
 to make your status screen look cool!
 When collecting titles, you might pick
 up one you like, so you can set it on
@@ -695,15 +693,15 @@ your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>[Rock Rally] is a game in which 
-players kick rocks on the field 
+<TAG_007>[Rock Rally] is a game in which
+players kick rocks on the field
 to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
-1: Kicking a rock outside the 
+1: Kicking a rock outside the
 	city will start the game.
 2: Battles don't affect the clearing
 	objective of the Rock Rally game.
@@ -725,7 +723,7 @@ notice
 Hello, my name is <TAG_053>. I manage
 the trading here in <TAG_054>.
 [ENDBLOCK]
-You're not done yet? Please 
+You're not done yet? Please
 don't tell me you're quitting.
 [ENDBLOCK]
 If you're not too busy, maybe you
@@ -755,7 +753,7 @@ Want the job?
 Accept
 Decline
 [ENDBLOCK]
-In the meantime, I'll advance 
+In the meantime, I'll advance
 you a portion of the reward.
 
 [ENDBLOCK]
@@ -784,13 +782,14 @@ It's a no brainer, right?
 [ENDBLOCK]
 You could at least give me an answer.
 [ENDBLOCK]
-I see you've received a job from
-<TAG_055> at <x18><x66><x50><x20><x00><x80>.
+I see you've received a job
+from <TAG_055> at <x18><x66><x50><x20><x00><x80>.
 [ENDBLOCK]
 The request is for <TAG_035> <x1A><x72><x0C><x80>.
 
 [ENDBLOCK]
-I'll be quick about it.
+I promise I won't take 
+too much of your time.
 
 [ENDBLOCK]
 <x18><x66><x50><x20><x00><x80> is located in
@@ -798,7 +797,8 @@ the town of <x18><x66><x50><x24><x00><x80>.
 
 [ENDBLOCK]
 Please obtain <TAG_035> <x1A><x72><x0C><x80>,
-and deliver it as soon as you can.
+and deliver it as soon as
+you can.
 
 [ENDBLOCK]
 Good job, getting what I needed!
@@ -819,11 +819,11 @@ You don't have the necessary
 number of items...
 
 [ENDBLOCK]
-Please bring me  <TAG_075> <x1A><x72><x40><x10><x80>.
+Please bring me <TAG_075> <x1A><x72><x40><x10><x80>.
 [ENDBLOCK]
-If you back out and don't
-finish a job, you'll have to pay
-a penalty for breach of contract.
+If you back out and don't finish
+a job, you'll have to pay a penalty
+for breach of contract.
 [ENDBLOCK]
 You know you have to pay a penalty
 due to a breach of contract, right?
@@ -836,7 +836,8 @@ You can't be serious. You're not
 having second thoughts, are you?
 [ENDBLOCK]
 I must say,
-I'm a little disappointed...
+I must say, I'm a little
+disappointed...
 
 [ENDBLOCK]
 I am charging a cancellation
@@ -853,7 +854,7 @@ The contract cannot be cancelled until
 the breach of contract fee is paid.
 [ENDBLOCK]
 In the meantime, I'm going to ask
-you to pay me the money you 
+you to pay me the money you
 have as an annoyance fee.
 [ENDBLOCK]
 notice
@@ -893,7 +894,7 @@ you have as an annoyance fee.
 notice
 [ENDBLOCK]
 <TAG_007>I charged <TAG_075> Gald
-for cancelling. 
+for cancelling.
 
 [ENDBLOCK]
 Get the Gald together
@@ -904,9 +905,9 @@ Well, good luck.
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>Continue the job
+<TAG_007>Continue the Job
 Confirm Details
-Quit the job
+Quit the Job
 
 [ENDBLOCK]
 Janos
@@ -1005,7 +1006,7 @@ again, see what happens...
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-Eeek! I'm sorry, I'm sorry!
+Eeek! I'm sorry! I'm sorry!
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
@@ -1013,8 +1014,8 @@ Hey, are you from Seinegald?
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-If so, do you know a
-swordsman by the name of <Lion>?
+If so, do you know a knight
+by the name of <Lion>?
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
@@ -1023,19 +1024,19 @@ from a distance, once.
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-I utterly adore him,
-he's so dreamy!
+I utterly adore him.
+He's so dreamy!
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-He's got such a small body, yet he's
-so graceful on the battlefield 
-with all those strong men in tow.
+He has such a small body, yet he's
+so graceful on the battlefield with
+all those strong men in tow.
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
 So I've come up with the
-perfect title for Sir <Lion>.
+perfect title for <Lion>.
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
@@ -1044,7 +1045,7 @@ Young Woman
 Young Woman
 [ENDBLOCK]
 I may be a girl, but if
-it was Sir <Lion>, then...
+it was <Lion>, then...
 [ENDBLOCK]
 Old Lady
 [ENDBLOCK]
@@ -1061,13 +1062,13 @@ Who are you...?
 [ENDBLOCK]
 Old Lady
 [ENDBLOCK]
-It has, Mary.
-I heard you lost your memory.
+It has, <Mary>. I heard you
+lost your memory.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-Yep. Made lots of room
-in my head, that's for sure.
+Yep. Made lots of room in
+my head, that's for sure.
 [ENDBLOCK]
 Old Lady
 [ENDBLOCK]
@@ -1077,13 +1078,13 @@ funny, <Mary>.
 Old Lady
 [ENDBLOCK]
 I wanted to see <Dalis>'s handsome
-face again, so I'll be
-visiting Cyril sometime soon!
+face again, so I'll be visiting
+Cyril sometime soon!
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-I'm sure he's
-looking forward to it!
+I'm sure he's looking
+forward to it!
 [ENDBLOCK]
 Old Lady
 [ENDBLOCK]
@@ -1111,8 +1112,7 @@ when he was just a little brat.
 [ENDBLOCK]
 Old Lady
 [ENDBLOCK]
-Well, you have
-quite the memory...
+Well, you have quite the memory...
 [ENDBLOCK]
 Old Lady
 [ENDBLOCK]
@@ -1125,9 +1125,8 @@ Thank you.
 [ENDBLOCK]
 Old Lady
 [ENDBLOCK]
-Keep <Dalis> in line.
-I want to hold his 
-child in my arms soon!
+Keep <Dalis> in line. I want to hold
+his child in my arms soon!
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
@@ -1144,8 +1143,8 @@ Sorry, no autographs on my down time.
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-Your bare chest 
-makes me uncomfortable.
+Your bare chest is making
+me uncomfortable.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
@@ -1158,8 +1157,7 @@ Not this one...
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Gahaha!
-You can't be serious!
+Gahaha! You can't be serious!
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
@@ -1181,8 +1179,8 @@ wearing a shirt?
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
-I'm sure your companions
-are wondering the same thing.
+I'm sure your companions are
+wondering the same thing.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]

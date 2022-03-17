@@ -24,8 +24,8 @@ reset---------
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Yo, blondie! 
-That sword you've got...
+Yo, blondie! That
+sword you've got...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -59,8 +59,8 @@ I'm not!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-Idiot! You can't just
-blurt that out!
+<center>Idiot! You can't just
+blurt that out.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -86,7 +86,7 @@ to swat flies!
 Boy
 [ENDBLOCK]
 Wow. I knew that sword was lame,
-but you're lamer. I suppose
+but you're even lamer. I suppose
 you're perfect for each other...
 [ENDBLOCK]
 Old Man
@@ -163,7 +163,7 @@ Whaddaya say, man?
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-That's our <Kongman>! 
+That's our <Kongman>!
 The hero of the city!
 [ENDBLOCK]
 Old Man
@@ -191,7 +191,8 @@ I need help with.
 <Rutee>
 [ENDBLOCK]
 Oh! A damsel in distress?
-Come on, come on, let's hear it!
+Come on, come on, let's
+hear it!
 [ENDBLOCK]
 Older Sister
 [ENDBLOCK]
@@ -226,7 +227,7 @@ Well, let me tell you this.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Even if it's not by blood, 
+Even if it's not by blood,
 he's still your brother.
 [ENDBLOCK]
 Older Sister
@@ -243,8 +244,8 @@ Yeah.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Welp, guess you just
-gotta worry about it now!
+Welp, guess it's yours 
+to worry about now!
 [ENDBLOCK]
 Older Sister
 [ENDBLOCK]
@@ -266,18 +267,19 @@ Yeah. My brother and I were fine.
 [ENDBLOCK]
 Older Sister
 [ENDBLOCK]
-Also, I thought about what you
-said, and I get it now!
+Also, I thought about what 
+you said, and I get it now!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Well now, you're
-pretty smart, huh?
+Well now, you're pretty
+smart, huh?
 [ENDBLOCK]
 Older Sister
 [ENDBLOCK]
-I was more worried about my brother
-than myself when I was running from
+I was more worried about
+my brother than myself 
+when I was running from
 the monsters.
 [ENDBLOCK]
 Older Sister
@@ -316,7 +318,7 @@ Are you from Calvalese?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-Yeah, I am. 
+Yeah, I am.
 No need to whisper.
 [ENDBLOCK]
 Man
@@ -340,7 +342,7 @@ still fightin' on, huh...
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-Alright. Here.
+All right. Here.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -431,8 +433,8 @@ Maybe he's doing well there.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-You seem like a decent guy.
-Why don'tcha challenge me, bro?
+You seem like a decent guy. Why
+don'tcha challenge me, bro?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -456,13 +458,14 @@ the prizes to the winner.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Wow! 
+Wow!
 But why?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-Well, when you're rich, you have a
-lot of time and money on your hands.
+Well, when you're rich, you
+have a lot of time and
+money on your hands.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -471,8 +474,8 @@ that's enough.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Let me know
-when you're ready, bro!
+Let me know when
+you're ready, bro!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -481,13 +484,13 @@ so pay attention.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-You sure you
-wanna race, dude?
+You sure you wanna
+race, dude?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-It doesn't matter.
-Who's this guy, anyway?
+It doesn't matter. Who's 
+this guy, anyway?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -829,8 +832,8 @@ I'll explain the course.
 [ENDBLOCK]
 You start here.
 [ENDBLOCK]
-I'll walk you through the
-course once. Pay attention, now!
+I'll walk you through the course
+once. Pay attention, now!
 [ENDBLOCK]
 We start across the fountain.
 [ENDBLOCK]
@@ -849,8 +852,8 @@ before crossing the fountain.
 Then back at the start.
 That's the goal.
 [ENDBLOCK]
-Don't even think
-about cheating, or I'll know!
+Don't even think about
+cheating, or I'll know!
 [ENDBLOCK]
 We run 2 laps. Don't forget!
 [ENDBLOCK]
@@ -876,7 +879,7 @@ How was Seinegald?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-I think you may have mistaken 
+I think you may have mistaken
 me for someone else.
 [ENDBLOCK]
 Traveler
@@ -896,7 +899,7 @@ Sorry about that...
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-It's alright. No harm, no foul.
+It's all right. No harm, no foul.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
@@ -1101,13 +1104,13 @@ Well... Goodbye, then...
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Thank you so much for
-coming with me on my errand!
+Thank you so much for coming
+with me on my errand!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Hey, just tell me
-one thing, would you?
+Hey, just tell me one
+thing, would you?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
@@ -1115,8 +1118,8 @@ What is it?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Just what exactly do you intend
-to do with that "Legendary Carrot"?
+Just what exactly do you intend to
+do with that "Legendary Carrot?"
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
@@ -1160,8 +1163,8 @@ such dumb things...
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-I need to go. I have
-something I need to do here.
+I need to go. I have something
+I need to do here.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
@@ -1180,7 +1183,7 @@ It is a resting place for residents.
 
 [ENDBLOCK]
 <TAG_005>Neustadt New Business Opportunity
-    For more information, 
+    For more information,
    inquire at Oberon Corp. HQ.
 [ENDBLOCK]
 Dummy Store
@@ -1220,7 +1223,7 @@ completely blocked off...
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-Thank you for coming! 
+Thank you for coming!
 Please save this city!
 [ENDBLOCK]
 Gentleman
@@ -1230,9 +1233,9 @@ this a beautiful town?
 [ENDBLOCK]
 Gentleman
 [ENDBLOCK]
-Even now, this city
-doesn't come close
-to Darilsheid's prosperity.
+Even now, this city doesn't
+come close to Darilsheid's
+prosperity.
 [ENDBLOCK]
 Gentleman
 [ENDBLOCK]
@@ -1241,14 +1244,14 @@ this a beautiful town?
 [ENDBLOCK]
 Gentleman
 [ENDBLOCK]
-Where did that armada come from!?
-At this rate,
-the city will be destroyed!
+Where did that armada come
+from!? At this rate, the city
+will be destroyed!
 [ENDBLOCK]
 Gentleman
 [ENDBLOCK]
-I'll pay you anything!
-Just do something about that armada!
+I'll pay you anything! Just do
+something about that armada!
 [ENDBLOCK]
 Gentleman
 [ENDBLOCK]
@@ -1271,8 +1274,8 @@ Our hero! Save us!
 [ENDBLOCK]
 Lens Shop
 [ENDBLOCK]
-Welcome! We allow you to 
-redeem your lens.
+Welcome! We allow you
+to redeem your lens.
 [ENDBLOCK]
 Lens Shop
 [ENDBLOCK]
@@ -1282,7 +1285,8 @@ me to stay put...
 Boy
 [ENDBLOCK]
 This city only got big by
-sucking the money outta Seinegald!
+sucking the money outta
+Seinegald!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -1343,19 +1347,19 @@ do to those savages!
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-I know it wasn't that
-savage muscle guy from the
-arena who kept the peace here!
+I know it wasn't that savage
+muscle guy from the arena 
+who kept the peace here!
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-All cities are the same
-when attacked from above like that...
+All cities are the same when
+attacked from above like that...
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-Will humanity have
-no choice but to perish?
+Will humanity have no
+choice but to perish?
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
@@ -1366,7 +1370,7 @@ with the natives of this city.
 Mother
 [ENDBLOCK]
 The Oberon Corporation
-is responsible for the 
+is responsible for the
 rapid growth of this city.
 [ENDBLOCK]
 Mother
@@ -1381,8 +1385,8 @@ have been leading those ruffians!
 [ENDBLOCK]
 Mother
 [ENDBLOCK]
-Ms. <Ilene> hasn't
-been around for a while.
+Ms. <Ilene> hasn't been
+around for a while.
 [ENDBLOCK]
 Mother
 [ENDBLOCK]
@@ -1416,8 +1420,8 @@ city, she gets really mad.
 Child
 [ENDBLOCK]
 I heard that a lotta people are
-suddenly complaining
-about the Oberon Corporation.
+suddenly complaining about
+the Oberon Corporation.
 [ENDBLOCK]
 Child
 [ENDBLOCK]
@@ -1431,18 +1435,18 @@ about sunburns, right?
 [ENDBLOCK]
 Child
 [ENDBLOCK]
-When will things be back to
-normal outside?
+When will things be back
+to normal outside?
 [ENDBLOCK]
 Accessory Shop
 [ENDBLOCK]
-How about a jewel? I'm
+How about a jewel? I'm pretty
 confident in the product line.
 [ENDBLOCK]
 Accessory Shop
 [ENDBLOCK]
-You're going after the armada, right?
-Please rely on our store.
+You're going after the armada,
+right? Please rely on our store.
 [ENDBLOCK]
 Accessory Shop
 [ENDBLOCK]
@@ -1450,8 +1454,9 @@ Our shop is always open.
 [ENDBLOCK]
 Old Woman
 [ENDBLOCK]
-The climate is great, and there is so much
-to do. This city is a great place to live.
+The climate is nice, and there
+is so much to do. This city is
+a great place to live.
 [ENDBLOCK]
 Old Woman
 [ENDBLOCK]
@@ -1461,9 +1466,10 @@ other a little better.
 [ENDBLOCK]
 Old Woman
 [ENDBLOCK]
-As the gap between rich and poor grew
-in size, so too did the animosity the
-people felt towards Oberon.
+As the gap between rich and
+poor grew in size, so too did
+the animosity the people felt
+towards Oberon.
 [ENDBLOCK]
 Old Woman
 [ENDBLOCK]
@@ -1476,8 +1482,8 @@ we need to unite...
 [ENDBLOCK]
 Old Woman
 [ENDBLOCK]
-Without Ms. <Ilene>,
-it would be very difficult.
+Without Ms. <Ilene>, it
+would be very difficult.
 [ENDBLOCK]
 Old Woman
 [ENDBLOCK]
@@ -1521,31 +1527,36 @@ Race so we can see the sun!
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-You should race that kid. If you 
-think that's all he is, you're 
-in for a world of hurt.
+You should race that kid. If you
+think that's all he is, you're in for
+a world of hurt.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-You're asking me if I'm going to 
+You're asking me if I'm going to
 gamble in this situation? I gamble
 BECAUSE of situations like this!
 [ENDBLOCK]
 Oberon Employee
 [ENDBLOCK]
-You will need the following materials:
-<ITEM_065>, <ITEM_066>, <ITEM_067>,
-<ITEM_068>, <ITEM_069>. Proceed?
+Do you happen to have 
+the items listed here?
+<center><ITEM_065> 
+<ITEM_066>
+<ITEM_067> 
+<ITEM_068>  
+<ITEM_069>
 [ENDBLOCK]
-When you have everything ready, 
-please bring the materials and 
-we'll exchange them for <ITEM_Elixir>.
+If you procure these liquids and bring
+them here, we will mix them together 
+and give you an <ITEM_Elixir>.
 [ENDBLOCK]
-You have all the materials.
+You have all the
+ingredients.
 
 [ENDBLOCK]
-<TAG_007>Do you want to exchange the
-materials for the <ITEM_Elixir>?
+<TAG_007>Would you like to exchange
+the liquids for an <ITEM_Elixir>?
 
 [ENDBLOCK]
 Replace One
@@ -1573,8 +1584,8 @@ Please come back when you
 have all the materials.
 
 [ENDBLOCK]
-Can can't carry
-anymore <ITEM_Elixir>.
+Can't carry anymore
+<ITEM_Elixir>.
 
 [ENDBLOCK]
 <Stahn>
@@ -1583,7 +1594,7 @@ This is...!?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-Could it be that these monsters
+ Could it be that these monsters
 are being controlled by <Greybum>?
 [ENDBLOCK]
 <Clemente>
@@ -1592,7 +1603,7 @@ There's a high possibility.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-Normally monsters would never
+<center>Normally monsters would never
 organize and attack a human town.
 [ENDBLOCK]
 <Ilene>
@@ -1610,15 +1621,16 @@ arena! You'll be safe there!
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-You all, please! Please help
-the townspeople to the arena!
+You all, please! Please help the
+townspeople to the arena!
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
 Help me! Please help me!
 [ENDBLOCK]
 Out of my way you bum!
-You poor are all in the way!
+You vermin are always
+in the way!
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
@@ -1632,7 +1644,7 @@ I-I'm sorry...
 Frantic Man
 [ENDBLOCK]
 This is terrible! Someone released
-the monsters into the arena!
+monsters into the arena!
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
@@ -1640,14 +1652,14 @@ What!?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Oh no, we've
-got to get back!
+Oh no, we've got
+to get back!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Since we've come all this way to
-Neustadt, why don't we say hello
-to <Ilene>?
+Since we've come all this
+way to Neustadt, why don't
+we say hello to <Ilene>?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -1670,8 +1682,8 @@ gone somewhere?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-We don't have time for
-a detour. Let's get to the
+We don't have time for a
+detour. Let's head for the
 port and get on the boat.
 [ENDBLOCK]
 <Stahn>
@@ -1686,13 +1698,13 @@ so many big, beautiful buildings.
 <Rutee>
 [ENDBLOCK]
 With the Oberon Corporation's
-funding, it looks like this
-place has grown quickly.
+funding, it looks like this place
+has grown quickly.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-I had no idea it
-was this developed...
+I had no idea it was
+this developed...
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -1758,8 +1770,8 @@ back to the village?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-...I'm probably
-not coming back.
+...I'm probably not
+coming back.
 [ENDBLOCK]
 <Bacchus>
 [ENDBLOCK]
@@ -1801,8 +1813,8 @@ Okay, see you around.
 <Stahn>
 [ENDBLOCK]
 I didn't want to needlessly
-worry them, so I kept
-quiet about <Greybum>...
+worry them, so I kept quiet
+about <Greybum>...
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
@@ -1855,8 +1867,9 @@ all over the place!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Damn, where are <Stahn> and the others?
-I can't take care of this by myself...!
+Damn, where are <Stahn> and
+the others? I can't take care
+of this by myself...!
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
@@ -1869,19 +1882,19 @@ at a time like this, Chal?
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-Oh, no, nothing. You're right.
+ Oh, no, nothing. You're right.
 I wonder where everyone went?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
 I'm also worried about <Ilene>.
-Hopefully she's alright.
+Hopefully she's all right.
 [ENDBLOCK]
 Child
 [ENDBLOCK]
 <Ilene> just left for the arena
-with a group of people I've never
-seen before.
+with a group of people I've
+never seen before.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -1898,13 +1911,14 @@ Okay, go.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-Do you think the people with <Ilene>,
+<center>Do you think the people with <Ilene>,
 are <Stahn> and the others?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-That's something to hope for.
-Alright, let's head for the arena.
+That's something to hope
+for. All right, let's head 
+for the arena.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -1916,9 +1930,9 @@ No
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x80><xDC><x18><x80></color> 
 [ENDBLOCK]
-has joined the Party.
+has joined the party.
 [ENDBLOCK]
-is now an active 
+is now an active
 party member.
 [ENDBLOCK]
 can join the battle.
@@ -1941,9 +1955,9 @@ has left the party.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x80><x00><x19><x98><x80>
+<center>[<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x80><x00><x19><x98><x80>
 [ENDBLOCK]
-<x18><x65><x90><xFC><x18><x00><x80></color>
+<x18><x65><x90><xFC><x18><x00><x80></color>]
 [ENDBLOCK]
 <x19><x69><x80><xF0><x18><x80>'s party received
 [ENDBLOCK]
@@ -1973,7 +1987,7 @@ the <turquoise>Strongest Titles
 [ENDBLOCK]
 the <turquoise>Quiz Titles
 [ENDBLOCK]
-<x19><x69><x80><xF0><x18><x80> has received
+<x19><x69><x80><xF0><x18><x80> has received the title:
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -2057,53 +2071,49 @@ can now be used.
 notice
 [ENDBLOCK]
 <TAG_007>[Titles Description]
-Titles are one of the character parameters
-that can be set on a character. The
-specific set method is as follows.
+Titles are one of the character
+parameters that can be set. 
+The specific method is as follows.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>After opening the main menu,
 the character status will display.
-On this screen, hit <Square_ani> and you'll
-be able to change the character status.
+On this screen, press <Square_ani> to 
+change the character status.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>At the top of this screen, you'll see
-[Titles] On this screen, press <Triangle_ani> 
-and it'll let you pick from all the titles
-you've acquired.
+<TAG_007>At the top of this screen will be
+[Titles]. Press <Triangle_ani> to pick
+from all aquired titles.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>There are two purposes to titles. 
-The first is to [Set your title and 
-talk to the townspeople].
+<TAG_007>Titles serve two purposes:
+The first is to [affect dialogue 
+when talking to NPCs].
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>By setting a title, certain townspeople
-will take interest in you. When you talk
-to them several times, you might get
-interesting responses. When that
-happens, reset the title you have on
-and try talking to them again.
+<TAG_007>Set a title to have certain NPCs interested
+while passing them. When talking with NPCs
+multiple times you may get different responses.
+Change the title and try talking to them again.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Hint: When talking to townspeople, a
-[?] will appear over your character's
-head. If this happens, set a title that
-seems to be related to the dialogue, 
-and try talking to them again. 
+<TAG_007>Hint: When talking to certain NPCs, a [?] will 
+appear over the character's head. If this 
+happens, set a title that seems to be related
+to the dialogue, and try talking to them again.
 Something fun may happen.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>The second purpose of titles is...
+<TAG_007>The second purpose for titles is...
 to make your status screen look cool!
 When collecting titles, you might pick
 up one you like, so you can set it on
@@ -2111,15 +2121,15 @@ your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>[Rock Rally] is a game in which 
-players kick rocks on the field 
+<TAG_007>[Rock Rally] is a game in which
+players kick rocks on the field
 to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
-1: Kicking a rock outside the 
+1: Kicking a rock outside the
 	city will start the game.
 2: Battles don't affect the clearing
 	objective of the Rock Rally game.

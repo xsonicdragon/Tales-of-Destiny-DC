@@ -1,7 +1,7 @@
 
 [ENDBLOCK]
-<TAG_005>There's a book titled
-"History of Lens for Dummies."
+<TAG_005>There's a book titled:
+"A History of Lens for Dummies."
 [ENDBLOCK]
 <IGNORE>
 [ENDBLOCK]
@@ -70,8 +70,8 @@ allowing greater safety and comfort.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>There's a book titled
-"The Dawn of Seinegald's Glory - 
+<TAG_005>There's a book titled:
+"The Dawn of Seinegald's Glory -
 Finley and the Seven Generals."
 [ENDBLOCK]
 select
@@ -82,15 +82,15 @@ No
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>It's not unreasonable to say
-that Seinegald owes its great influence
+<TAG_005>It's not unreasonable to say that
+Seinegald owes its great influence
 to the might of the "Seven Generals."
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>"So long as even a single
-of the seven pillars still stands,
-the kingdom shall never fall."
+<TAG_005>"So long as even a single of the
+seven pillars still stands, the
+kingdom shall never fall."
 [ENDBLOCK]
 
 [ENDBLOCK]
@@ -106,12 +106,12 @@ himself the name <Finlay> the Fierce.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>There's a series of research
-books titled "Otto's Botanical Records."
+<TAG_005><center>There's a series of research books
+titled "Otto's Botanical Records."
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>There's a book from Seinegald titled
+<TAG_005>There's a book from Seinegald titled:
 "World Topography."
 [ENDBLOCK]
 select
@@ -164,7 +164,7 @@ statehood due to its history.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>There's a book titled
+<TAG_005>There's a book titled:
 "The World-Famous Arena."
 [ENDBLOCK]
 select
@@ -189,7 +189,7 @@ the current champion...
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>There's a book titled
+<TAG_005>There's a book titled:
 "Lens Hunters: A Profession.
 [ENDBLOCK]
 select
@@ -221,7 +221,7 @@ Atamoni are lined up here.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>There's a book titled
+<TAG_005>There's a book titled:
 "The Truth Behind Calvalese."
 [ENDBLOCK]
 select
@@ -232,31 +232,31 @@ No
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>Some claim the people
-of Calvalese were driven there
-after a war from the distant past.
+<TAG_005><center>Some claim the people of Calvalese
+were driven there after a war from
+the distant past.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>However, not even the
-oldest records are able
-to substaniate these claims.
+<TAG_005><center>However, not even the oldest
+records are able to substaniate
+these claims.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>Calvalese has repeatedly
-denounced other countries
-on the basis of a fictional war.
-Surely the future of such a country...
+<TAG_005><center>Calvalese has repeatedly denounced
+other countries on the basis of a 
+fictional war. Surely the future of
+such a country...
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>Numerous treatises on
-Lens's military uses are lined up.
+<TAG_005><center>Numerous treatises on Lens's
+military uses are lined up.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>There's a book titled
+<TAG_005>There's a book titled:
 "Calendar of the Stars."
 [ENDBLOCK]
 select
@@ -291,14 +291,14 @@ her head to the sky. I lifted my head.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>A great flaming mass,
-so great it seemed to block out
-the entire sky as it careened toward us.
+<TAG_005>A great flaming mass, so great it
+seemed to block out the entire
+sky as it careened toward us.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>As I would later learn, hundreds
-of meteorites fell upon our planet that day...
+<TAG_005>As I would later learn, hundreds of
+meteorites fell upon our planet that day...
 [ENDBLOCK]
 -----flag_check
 
@@ -369,7 +369,7 @@ been preparation for a rebellion.
 [ENDBLOCK]
 Priest
 [ENDBLOCK]
-Was <Greybum> acting in 
+Was <Greybum> acting in
 anticipation of this situation?
 [ENDBLOCK]
 Priest
@@ -461,7 +461,7 @@ Minister
 [ENDBLOCK]
 I heard that in the last Aeth'er
 war, a savior appeared and saved
-the earth from its plight...
+the Earth from its plight...
 [ENDBLOCK]
 Minister
 [ENDBLOCK]
@@ -470,7 +470,7 @@ you remind me of him.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Current Gald: <TAG_033>Gald
+<TAG_007>Current Gald: <TAG_033> Gald
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 Yes
@@ -478,9 +478,9 @@ No
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x48><x2C><x80></color> 
 [ENDBLOCK]
-has joined the Party.
+has joined the party.
 [ENDBLOCK]
-is now an active 
+is now an active
 party member.
 [ENDBLOCK]
 can join the battle.
@@ -503,9 +503,9 @@ has left the party.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><x50><x98><x80>
+<center>[<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><x50><x98><x80>
 [ENDBLOCK]
-<x18><x65><x58><x4C><x00><x80></color>.
+<x18><x65><x58><x4C><x00><x80></color>]
 
 [ENDBLOCK]
 <x19><x69><x48><x40><x80>'s party received
@@ -536,7 +536,7 @@ the <turquoise>Strongest Titles
 [ENDBLOCK]
 the <turquoise>Quiz Titles
 [ENDBLOCK]
-<x19><x69><x48><x40><x80> has received
+<x19><x69><x48><x40><x80> has received the title:
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -617,53 +617,49 @@ can now be used.
 notice
 [ENDBLOCK]
 <TAG_007>[Titles Description]
-Titles are one of the character parameters
-that can be set on a character. The
-specific set method is as follows.
+Titles are one of the character
+parameters that can be set. 
+The specific method is as follows.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>After opening the main menu,
 the character status will display.
-On this screen, hit <Square_ani> and you'll
-be able to change the character status.
+On this screen, press <Square_ani> to 
+change the character status.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>At the top of this screen, you'll see
-[Titles] On this screen, press <Triangle_ani> 
-and it'll let you pick from all the titles
-you've acquired.
+<TAG_007>At the top of this screen will be
+[Titles]. Press <Triangle_ani> to pick
+from all aquired titles.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>There are two purposes to titles. 
-The first is to [Set your title and 
-talk to the townspeople].
+<TAG_007>Titles serve two purposes:
+The first is to [affect dialogue 
+when talking to NPCs].
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>By setting a title, certain townspeople
-will take interest in you. When you talk
-to them several times, you might get
-interesting responses. When that
-happens, reset the title you have on
-and try talking to them again.
+<TAG_007>Set a title to have certain NPCs interested
+while passing them. When talking with NPCs
+multiple times you may get different responses.
+Change the title and try talking to them again.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Hint: When talking to townspeople, a
-[?] will appear over your character's
-head. If this happens, set a title that
-seems to be related to the dialogue, 
-and try talking to them again. 
+<TAG_007>Hint: When talking to certain NPCs, a [?] will 
+appear over the character's head. If this 
+happens, set a title that seems to be related
+to the dialogue, and try talking to them again.
 Something fun may happen.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>The second purpose of titles is...
+<TAG_007>The second purpose for titles is...
 to make your status screen look cool!
 When collecting titles, you might pick
 up one you like, so you can set it on
@@ -671,15 +667,15 @@ your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>[Rock Rally] is a game in which 
-players kick rocks on the field 
+<TAG_007>[Rock Rally] is a game in which
+players kick rocks on the field
 to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
-1: Kicking a rock outside the 
+1: Kicking a rock outside the
 	city will start the game.
 2: Battles don't affect the clearing
 	objective of the Rock Rally game.
@@ -700,7 +696,7 @@ notice
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-Ah~ I wonder if there's anyone out 
+Ah~ I wonder if there's anyone out
 there with a FULL POWER ROYAL AURA!
 [ENDBLOCK]
 Frantz
@@ -730,7 +726,7 @@ There there, <Stahn>.
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-My name is Frantz. 
+My name is Frantz.
 Believe it or not,
 I'm an archaeologist.
 [ENDBLOCK]
@@ -759,7 +755,7 @@ What is?
 Frantz
 [ENDBLOCK]
 Y'see, I'm researching the
-"Four Secrets of the World".
+"Four Secrets of the World."
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -803,13 +799,13 @@ You guys seem to like it though.
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-Two, I'm poor! You guys seem loaded 
+Two, I'm poor! You guys seem loaded
 though, so you should have no problems
 funding the trip.
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-Three, above all else, I'm curious. 
+Three, above all else, I'm curious.
 That curiosity is what is necessary
 to excel in this field!
 [ENDBLOCK]
@@ -839,7 +835,7 @@ your journey, please come and see me!
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-Ah~ I wonder if there's anyone out 
+Ah~ I wonder if there's anyone out
 there with a FULL POWER ROYAL AURA!
 [ENDBLOCK]
 Frantz
@@ -888,11 +884,11 @@ Darilsheid to start.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Alright.
+All right.
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-Of course... 
+Of course...
 I would ask that you foot
 the bill for my traveling
 expenses, King <Woodrow>.
@@ -946,7 +942,7 @@ Frantz
 [ENDBLOCK]
 Turns out, there's a massive
 dragon, known as the
-"Messenger of the Gods",
+"Messenger of the Gods,"
 living under the sea here!
 [ENDBLOCK]
 <Rutee>
@@ -1021,7 +1017,7 @@ you called the Leviathan, after all.
 <Stahn>
 [ENDBLOCK]
 Sorry, Frantz.
-I shoulda realised sooner.
+I shoulda realized sooner.
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
@@ -1049,7 +1045,7 @@ At last, the time has come!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Wh-What is it, Frantz..!?
+Wh-What is it, Frantz...!?
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]

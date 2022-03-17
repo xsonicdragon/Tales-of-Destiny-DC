@@ -34,9 +34,9 @@ little about it in the past, but...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Then can you tell me anything about
-it? I'd never ever heard of it until 
-recently, so...
+Then can you tell me anything
+about it? I'd never ever heard
+of it until recently, so...
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -55,13 +55,14 @@ but it's based on real history.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-A war between... Earth and... Heaven?
-Is that right?
+A war between... Earth and...
+Heaven? Is that right?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-It's exactly as it sounds. It was a
-war that split the world in two.
+It's exactly as it sounds.
+It was a war that split 
+the world in two.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -72,7 +73,7 @@ of the Aeth'er Wars.
 <Stahn>
 [ENDBLOCK]
 "The source of the great calamity
-that befell the world".
+that befell the world."
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -82,8 +83,8 @@ overwhelming presence.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-We cannot allow its power
-to be unleashed on the world.
+We cannot allow its power to
+be unleashed on the world.
 We have to get it back!
 [ENDBLOCK]
 <Stahn>
@@ -93,8 +94,8 @@ We have to get it back!
 <Stahn>
 [ENDBLOCK]
 <Philia>, you're really smart, right?
-From here on out, please teach me
-everything you know, okay?
+From here on out, please teach
+me everything you know, okay?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -111,26 +112,26 @@ Are you doing okay?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-If we're going to be chasing 
+If we're going to be chasing
 <Greybum>, I have a proposal.
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-As long as they possess the Eye of
-Atamoni, we'll need to strengthen
-ourselves.
+<center>As long as they possess the
+Eye of Atamoni, we'll need 
+to strengthen ourselves.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-Actually, there should be a place in
-the sea nearby where a Swordian
-is sleeping.
+Actually, there should be a
+place in the sea nearby where
+a Swordian is sleeping.
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-If I'm correct, it's inside a ship that
-sunk into the sea near the Second
-Continent a long time ago.
+ If I'm correct, it's inside a ship
+ that sunk into the sea near the 
+Second Continent a long time ago.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
@@ -152,8 +153,8 @@ This is a great opportunity.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-And this time, I can pawn it
-off for sure.
+And this time, I can
+pawn it off for sure.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -184,15 +185,15 @@ you very much.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-Thanks to your consideration for me,
-I've calmed down quite a bit.
+Thanks to your consideration
+for me, I've calmed down quite
+a bit.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-There's still plenty of things I don't 
-know, but if there is anything you'd
-like to know about from now on,
-just ask.
+There's still plenty I've yet to learn,
+but if there is anything you'd like to
+know about from now on, just ask.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -213,9 +214,9 @@ What did I do?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-You don't even realize it? Well,
-that's fine. That's just the kind
-of person you are.
+You don't even realize it, do you? 
+Well, that's fine. That's just the
+kind of person you are.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -233,8 +234,8 @@ Yes, you're right.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-About <Greybum>, what was he
-like back at the temple?
+About <Greybum>, what was
+he like back at the temple?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -249,8 +250,8 @@ many devout followers, but...
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-That reminds me. We didn't
-see <Batista> in Calviola at all.
+That reminds me. We didn't see
+<Batista> in Calviola at all.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -264,7 +265,7 @@ him to be my mentor, but...
 [ENDBLOCK]
 <Batista>
 [ENDBLOCK]
-<Philia>, you'd dare disobey 
+<Philia>, you'd dare disobey
 High Priest <Greybum>?
 Foolish girl.
 [ENDBLOCK]
@@ -293,8 +294,8 @@ What's wrong, <Lion>?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Lion>'s face didn't look so good.
-Think he'll be okay?
+<Lion>'s face didn't look so
+good. Think he'll be okay?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -307,38 +308,38 @@ but what kinda place is it?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-Actually, Aquaveil isn't just
-one single state.
+Actually, Aquaveil isn't
+just one single state.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
 It's the general name for a
 group of allied provinces:
-Shiden, Moreau, and Terazzi. 
+Shiden, Moreau, and Terazzi.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
 The countries are made up
-of many islands, and 
-they come and go by boat.
+of many islands, and they
+come and go by boat.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Ilene> said that
-they were hostile?
+<Ilene> said that they
+were hostile?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-Well, they've imposed a
-policy of national isolation.
-It's almost impossible for anyone
-to make contact with them.
+Well, they've imposed a policy of
+national isolation. It's almost
+impossible for anyone to make
+contact with them.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-Their relations with Seinegald are
-particularly bad. She was probably
-referring to that.
+Their relations with Seinegald
+are particularly bad. She was
+probably referring to that.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -375,8 +376,8 @@ my help for this one!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-By the way, <Philia>.
-Why'd you come get me first?
+By the way, <Philia>. Why'd
+you come get me first?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -384,13 +385,13 @@ Huh? I... That's...
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-I'm sorry!
-I didn't disturb you, did I?
+I'm sorry! I didn't
+disturb you, did I?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Damn you, <Stahn>!
-Don't you be mean to <Philia>!
+Damn you, <Stahn>! Don't
+you be mean to <Philia>!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -403,19 +404,19 @@ join up with <Lion> first.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I mean, he'd
-be closer, right?
+I mean, he'd be
+closer, right?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Lion> is... We have no 
+<Lion> is... We have no
 idea where he went.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-<Philia> had asked the <King>
-and the General, but they
-couldn't give us a clear answer.
+<Philia> had asked the <King> and
+the General, but they couldn't
+give us a clear answer.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -452,8 +453,8 @@ He's too good-natured.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-I told him before,
-he's too trusting of others...
+I told him before, he's
+too trusting of others...
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
@@ -461,13 +462,13 @@ he's too trusting of others...
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-<Stahn> has a lot of compassion
-for people. That's why he's suffering.
+<Stahn> has a lot of compassion for
+people. That's why he's suffering.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-It's up to all of
-us to support him.
+It's up to all of us
+to support him.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
@@ -475,7 +476,7 @@ Right.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Current Gald: <TAG_033>Gald
+<TAG_007>Current Gald: <TAG_033> Gald
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 Yes
@@ -483,9 +484,9 @@ No
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x48><x64><x80></color> 
 [ENDBLOCK]
-has joined the Party.
+has joined the party.
 [ENDBLOCK]
-is now an active 
+is now an active
 party member.
 [ENDBLOCK]
 can join the battle.
@@ -508,9 +509,9 @@ has left the party.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><x88><x98><x80>
+<center>[<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><x88><x98><x80>
 [ENDBLOCK]
-<x18><x65><x58><x84><x00><x80></color>.
+<x18><x65><x58><x84><x00><x80></color>]
 
 [ENDBLOCK]
 <x19><x69><x48><x78><x80>'s party received
@@ -541,7 +542,7 @@ the <turquoise>Strongest Titles
 [ENDBLOCK]
 the <turquoise>Quiz Titles
 [ENDBLOCK]
-<x19><x69><x48><x78><x80> has received
+<x19><x69><x48><x78><x80> has received the title:
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -622,53 +623,49 @@ can now be used.
 notice
 [ENDBLOCK]
 <TAG_007>[Titles Description]
-Titles are one of the character parameters
-that can be set on a character. The
-specific set method is as follows.
+Titles are one of the character
+parameters that can be set. 
+The specific method is as follows.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>After opening the main menu,
 the character status will display.
-On this screen, hit <Square_ani> and you'll
-be able to change the character status.
+On this screen, press <Square_ani> to 
+change the character status.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>At the top of this screen, you'll see
-[Titles] On this screen, press <Triangle_ani> 
-and it'll let you pick from all the titles
-you've acquired.
+<TAG_007>At the top of this screen will be
+[Titles]. Press <Triangle_ani> to pick
+from all aquired titles.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>There are two purposes to titles. 
-The first is to [Set your title and 
-talk to the townspeople].
+<TAG_007>Titles serve two purposes:
+The first is to [affect dialogue 
+when talking to NPCs].
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>By setting a title, certain townspeople
-will take interest in you. When you talk
-to them several times, you might get
-interesting responses. When that
-happens, reset the title you have on
-and try talking to them again.
+<TAG_007>Set a title to have certain NPCs interested
+while passing them. When talking with NPCs
+multiple times you may get different responses.
+Change the title and try talking to them again.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Hint: When talking to townspeople, a
-[?] will appear over your character's
-head. If this happens, set a title that
-seems to be related to the dialogue, 
-and try talking to them again. 
+<TAG_007>Hint: When talking to certain NPCs, a [?] will 
+appear over the character's head. If this 
+happens, set a title that seems to be related
+to the dialogue, and try talking to them again.
 Something fun may happen.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>The second purpose of titles is...
+<TAG_007>The second purpose for titles is...
 to make your status screen look cool!
 When collecting titles, you might pick
 up one you like, so you can set it on
@@ -676,15 +673,15 @@ your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>[Rock Rally] is a game in which 
-players kick rocks on the field 
+<TAG_007>[Rock Rally] is a game in which
+players kick rocks on the field
 to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
-1: Kicking a rock outside the 
+1: Kicking a rock outside the
 	city will start the game.
 2: Battles don't affect the clearing
 	objective of the Rock Rally game.

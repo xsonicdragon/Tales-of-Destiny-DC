@@ -1,6 +1,6 @@
 <King>
 [ENDBLOCK]
-<Lion>, I'm counting on you to 
+<Lion>, I'm counting on you to
 investigate Straylize Temple.
 [ENDBLOCK]
 <King>
@@ -10,7 +10,7 @@ Temple as soon as possible.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-You must do whatever it takes 
+You must do whatever it takes
 to regain the Eye of Atamoni.
 I'm counting on you.
 [ENDBLOCK]
@@ -25,7 +25,7 @@ I'm counting on you, <Lion>.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-<Lion>, I'm counting on you to 
+<Lion>, I'm counting on you to
 investigate Straylize Temple.
 [ENDBLOCK]
 <King>
@@ -35,18 +35,18 @@ Temple as soon as possible.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-You must do whatever it takes 
+You must do whatever it takes
 to regain the Eye of Atamoni.
 I'm counting on you.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-...Getting the Eye of Atamoni back is 
+...Getting the Eye of Atamoni back is
 our first priority. Don't forget that.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-<Hugo>... have you been 
+<Hugo>... have you been
 deceiving me all this time?
 [ENDBLOCK]
 <King>
@@ -60,7 +60,7 @@ but please go see <Reynolds>.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-Our country will do everything in 
+Our country will do everything in
 our power to support your actions.
 [ENDBLOCK]
 <King>
@@ -80,7 +80,7 @@ to meet His Majesty's expectations.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-Cresta is a city east 
+Cresta is a city east
 of the royal capital.
 [ENDBLOCK]
 <Dryden>
@@ -101,7 +101,7 @@ would not have happened.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-Now that I think about it, the 
+Now that I think about it, the
 dispersal of the Seven Generals
 was also part of <Hugo>'s plan.
 [ENDBLOCK]
@@ -121,14 +121,14 @@ I need you to hold out until then.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-The entrance to the laboratory is 
+The entrance to the laboratory is
 in the courtyard of the castle.
 Be careful.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-We are sending out directives to 
-every city in the country and 
+We are sending out directives to
+every city in the country and
 collecting lens.
 [ENDBLOCK]
 <Dryden>
@@ -143,7 +143,7 @@ place tomorrow morning.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-I believe you will be victorious, 
+I believe you will be victorious,
 Swordian masters.
 [ENDBLOCK]
 Soldier
@@ -178,7 +178,7 @@ aren't you?
 <Dryden>
 [ENDBLOCK]
 You are in the presence of His
-Majesty the King! All of you,
+Majesty, the King! All of you,
 show some respect!
 [ENDBLOCK]
 <Rutee>
@@ -212,8 +212,9 @@ soldiers in his lands is inexcusable.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-For crimes against the crown, a 
-severe punishment must be prepared!
+For crimes against the crown,
+a severe punishment must be
+prepared!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -235,12 +236,12 @@ the escort of one of our ships.
 <Dryden>
 [ENDBLOCK]
 So then, why did you have
-it in your possesion?
+it in your possession?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Um... Well, a bunch of things
-happened, and...
+Um... Well, a bunch of 
+things happened, and...
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
@@ -281,9 +282,9 @@ wield the Swordians.
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-They possess unique abilities.
-I wonder if we are being too reckless
-and rash in their judgement.
+They possess unique abilities. I wonder
+if we are being too reckless and rash
+in their judgement.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -371,33 +372,33 @@ what it might be, but...
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-Just how important is this
-Eye of Atamoni?
+Just how important is
+this Eye of Atamoni?
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-It is said that it's the source
-of the great calamity that befell
+It is said that it's the source of
+the great calamity that befell
 the world long ago.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-We've been left with this warning: 
+We've been left with this warning:
 "The Eye of Atamoni must never see
 the light of day again."
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
 If that's the case, we must
-dispatch a team immediately, 
+dispatch a team immediately,
 under my command.
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-Wait. You may be the General, 
-but if you thoughtlessly dispatch
-the army, it will cause a panic 
-among our citizens.
+Wait. You may be the General, but
+if you thoughtlessly dispatch the
+army, it will cause a panic among
+our citizens.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
@@ -406,10 +407,10 @@ propose we do?
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-We should at least confer with
-the other Seven Generals, but right
-now they're all in the middle
-of other missions.
+We should at least confer with the
+other Seven Generals, but right
+now they're all in the middle of
+other missions.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
@@ -465,8 +466,8 @@ the Eye of Atamoni.
 <Hugo>
 [ENDBLOCK]
 Since they're all relics from
-ancient times, their abilities may
-prove useful to us.
+ancient times, their abilities
+may prove useful to us.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
@@ -496,7 +497,7 @@ your son to take all the credit.
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-I would never do such a thing. 
+I would never do such a thing.
 However, there are no other
 candidates for this, currently.
 [ENDBLOCK]
@@ -511,21 +512,21 @@ Hmm...
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-At the least, it would give us
-the ability to keep tabs on
-these three.
+At the least, it would give
+us the ability to keep tabs
+on these three.
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-As long as they wear the device that
-<Reynolds> has created, we should
-have no cause for concern.
+As long as they wear that device
+<Reynolds> created, we should have
+no cause for concern.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-Very well. Since this is a state
-of emergency, we'll go with
-<Hugo>'s plan.
+Very well. Since this is a
+state of emergency, we'll
+go with <Hugo>'s plan.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
@@ -537,14 +538,14 @@ Yes.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-You will go to the temple, and
-bring these people along.
+You will take these people with
+you, and go to the temple.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-If anything threatens the 
-Eye of Atamoni, do everything
-in your power to secure it.
+If anything threatens the Eye
+of Atamoni, do everything in
+your power to secure it.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -557,8 +558,8 @@ this before we knew it...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I'll do my best! I look forward
-to working with you as a knight!
+I'll do my best! I look forward to
+working with you as a knight!
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
@@ -567,18 +568,18 @@ taking the time to gather here.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-I'm sorry for this blunder.
-Really, I can't even begin to apologize.
+I'm sorry for this blunder. Really,
+I can't even begin to apologize.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-First of all, please let us know 
+First of all, please let us know
 the details of the situation.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-Who used a Draconis to steal 
-the Eye of Atamoni?
+Who used a Draconis to
+steal the Eye of Atamoni?
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
@@ -615,35 +616,35 @@ who took the Eye of Atamoni.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-There's no way <Lion> would 
+There's no way <Lion> would
 do something like that!
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-Unfortunately, what 
+Unfortunately, what
 <Dryden> says is true.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-The other day, <Lion> took the 
+The other day, <Lion> took the
 Draconis that was in the castle.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-Shortly thereafter, we received a 
-report that the Eye of Atamoni had 
+Shortly thereafter, we received a
+report that the Eye of Atamoni had
 been stolen. There can be no doubt.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-What was <Chaltier> doing? 
+What was <Chaltier> doing?
 There was no way he could just
 sit back and let that happen.
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
 It's like I'm trapped in
-a horrible nightamre...
+a horrible nightmare...
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
@@ -667,15 +668,15 @@ the Draconis was headed?
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-While we waited for you to assemble,
-we used every resource at our
-dispoal to conduct a thorough search.
+While we waited for you to assemble, we
+used every resource at our disposal to
+conduct a thorough search.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-As a result, we have a rough 
-idea of where to look. It's a
-small island northeast of here.
+As a result, we have a rough idea
+of where to look. It's a small island
+northeast of here.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
@@ -696,7 +697,7 @@ to just raid the place?
 <Dryden>
 [ENDBLOCK]
 Such a large display of force would
-certain be noticed. If we allow them
+certainly be noticed. If we allow them
 to escape, we will lose everything.
 [ENDBLOCK]
 <Woodrow>
@@ -710,8 +711,8 @@ all to infiltrate the Oberon factory.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-If you find the Eye of Atamoni,
-I want you to retrieve it at all costs.
+If you find the Eye of Atamoni, I
+want you to retrieve it at all costs.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
@@ -726,7 +727,7 @@ difficult... you may use deadly force.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-That means we may 
+That means we may
 have to fight <Lion>.
 [ENDBLOCK]
 <King>
@@ -736,8 +737,8 @@ difficult to fight a former ally.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-But as long as the matter involves
-the Eye of Atamoni, it is unavoidable. 
+But as long as the matter involves the
+Eye of Atamoni, it is unavoidable.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -753,19 +754,19 @@ the Eye of Atamoni, it is unavoidable.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-We've been through a lot. 
-We retrived the Eye of Atamoni
+We've been through so much. We
+retrieved the Eye of Atamoni
 from <Greybum> together.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-There is no way that <Lion> would 
+There is no way that <Lion> would
 be anything like <Greybum>!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I don't want to assume that <Lion> 
-is the bad guy and act accordingly!
+I don't want to assume that <Lion> is
+the bad guy and act accordingly!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
@@ -774,7 +775,7 @@ time for sentimentality!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I'm not done talking. 
+I'm not done talking.
 Shut up and listen!
 [ENDBLOCK]
 <Dymlos>
@@ -783,8 +784,8 @@ Shut up and listen!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I'm sure <Lion> has 
-some plan for this.
+I'm sure <Lion> has some
+ reason for this.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -793,7 +794,7 @@ factory to find out what it is.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-...Getting the Eye of Atamoni back is 
+...Getting the Eye of Atamoni back is
 our first priority. Don't forget that.
 [ENDBLOCK]
 <Stahn>
@@ -820,14 +821,14 @@ reclaiming the Eye of Atamoni!
 [ENDBLOCK]
 Furthermore, I would like to
 thank His Highness, <Woodrow>,
-for the direct conveyance of the 
-Eye of Atamoni.
+for the direct conveyance of
+the Eye of Atamoni.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-Let's put together a policy on 
-how to store the Eye of Atamoni
-as soon as possible.
+Let's put together a policy on how
+to store the Eye of Atamoni as
+soon as possible.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
@@ -850,12 +851,14 @@ Sir!
 <King>
 [ENDBLOCK]
 You've completed your mission,
-while also looking after these criminals. 
+while also looking after these
+criminals.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-It is unfortunate that one was lost.
-However, you've done a wonderful job.
+It is unfortunate that one
+was lost. However, you've
+done a wonderful job.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -918,7 +921,7 @@ and meet more people.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-And you can't do that 
+And you can't do that
 if you're a knight?
 [ENDBLOCK]
 <Stahn>
@@ -928,8 +931,8 @@ after my own ideals first.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Because of that...
-Now's not the right time...
+Because of that... Now's
+not the right time...
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
@@ -938,13 +941,15 @@ Now's not the right time...
 <Stahn>
 [ENDBLOCK]
 I will return to my hometown.
-Then I'll think about what to do next.
+Then I'll think about what to 
+do next.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-I understand. We'll place the matter
-of knighthood on hold. We can
-discuss it again once the time is right.
+I understand. We'll place the
+matter of knighthood on hold.
+We can discuss it again once
+the time is right.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
@@ -957,14 +962,14 @@ Your Majesty...
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-However, you will return
-<Dymlos> to me. That blade
-is property of this kingdom.
+However, you will return <Dymlos>
+to me. That blade is property of
+this kingdom.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-If you return, we will hand
-him back to you. Understand?
+If you return, we will hand him
+back to you. Understand?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -973,15 +978,15 @@ selfish. Thank you!
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-Well then... King <Woodrow>, 
-I would like to begin our 
+Well then... King <Woodrow>,
+I would like to begin our
 discussion immediately.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-Certainly. Let's begin by
-asking the Swordians for
-their opinions on the matter.
+Certainly. Let's begin by asking the
+Swordians for their opinions on the
+matter.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -996,8 +1001,8 @@ of the Eye of Atamoni?
 <Lion>
 [ENDBLOCK]
 Regarding that, I must apologize
-that I have an urgent request
-to ask of you, Your Highness.
+that I have an urgent request to
+ask of you, Your Highness.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
@@ -1005,26 +1010,27 @@ Very well. Go on.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-I will get to the point.
-The Eye of Atamoni was stolen
-away from a room within the temple.
+I will get to the point. The Eye of
+Atamoni was stolen away from a 
+room within the temple.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-WHAT!? Curse that <Hugo>!
-Such is the result of believing
-the words of a snake.
+WHAT!? Curse that <Hugo>! Such
+is the result of believing the 
+words of a snake.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
 As I feared. Regardless of
-how talented you are, it was foolish
-of me to leave this to a mere child.
+how talented you are, it was
+foolish of me to leave this to
+a mere child.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-..<Dryden>! Call for
-General <Dryden> at once!
+..<Dryden>! Call for General
+<Dryden> at once!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -1032,8 +1038,8 @@ Your Majesty!
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-Sir <Lion>, your role in this
-is complete. You are dismissed.
+Sir <Lion>, your role in this is
+complete. You are dismissed.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -1042,15 +1048,15 @@ I have to say!
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-I have no time to listen
-to your excuses. We must
-act without delay!
+I have no time to listen to
+your excuses. We must act
+without delay!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Your Highness, I will not make
-excuses. However, I
-also refuse to give up.
+Your Highness, I will not
+make excuses. However, 
+I also refuse to give up.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
@@ -1058,31 +1064,31 @@ What's that?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-The true culprit was
-the High Priest, <Greybum>.
+The true culprit was the
+High Priest, <Greybum>.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-He is currently heading
-for Calvalese, and with him,
-the Eye of Atamoni, itself.
+He is currently heading for
+Calvalese, and with him, the
+Eye of Atamoni, itself.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-Calvalese..!?
+Calvalese...!?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Furthermore, I have in my
-custody an eyewitness,
-one who saw <Greybum> in the act.
+Furthermore, I have in my custody an
+eyewitness, one who saw <Greybum> in
+the act.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Were you to allow me
-use of a ship, your Highness,
-I vow that I would return
-the Eye of Atamoni, without fail!
+Were you to allow me use of 
+a ship, your Highness, I vow
+that I would return the Eye
+of Atamoni, without fail!
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
@@ -1090,14 +1096,14 @@ I see...
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-...In that case, very well.
-I will have a ship prepared.
+...In that case, very well. I
+will have a ship prepared.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
 However, it will require some time
-to arrange this. I trust
-that this will not be an issue?
+to arrange this. I trust that this
+will not be an issue?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -1114,7 +1120,8 @@ Seems so...
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-Now then, I must ask you something.
+Now then, I must ask
+you something.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -1140,19 +1147,18 @@ Now, answer me.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-That puts me at ease.
-However, why is <Hugo> not with you?
+That puts me at ease. However,
+why is <Hugo> not with you?
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-It's rather irresponsible
-of him to leave this to you, alone.
+It's rather irresponsible of him 
+to leave this to you, alone.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-That's... awful!
-Just because Master <Lion>
-is alone, that doesn't mean-
+<center>That's... awful! Just because Master
+<Lion> is alone, that doesn't mean-
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -1164,8 +1170,9 @@ But...!
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-Your Majesty! I would ask that you
-not judge my character behind my back!
+Your Majesty! I would ask that
+you not judge my character 
+behind my back!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -1173,8 +1180,8 @@ not judge my character behind my back!
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-Ah, President <Hugo>.
-Why hide in the shadows?
+Ah, President <Hugo>. Why
+hide in the shadows?
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
@@ -1194,13 +1201,13 @@ prepared for immediate depature.
 <King>
 [ENDBLOCK]
 Oho, that's just like you, <Hugo>.
-You've left no detail
-out at all, have you?
+You've left no detail out at all,
+have you?
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-Sir <Lion>. Like I said,
-It would take time for me
+Sir <Lion>. Like I said, It
+would take time for me
 to prepare a boat.
 [ENDBLOCK]
 <King>
@@ -1245,8 +1252,8 @@ to the temple before nightfall.
 <King>
 [ENDBLOCK]
 To you, this may seem a simple task.
-However, understand that it is
-still of the utmost importance.
+However, understand that it is still
+of the utmost importance.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
@@ -1279,8 +1286,8 @@ Is this really gonna be okay?
 [ENDBLOCK]
 Will
 [ENDBLOCK]
-Jobs...that's why they 
-say you'll never be a captain...
+Jobs...that's why they say
+you'll never be a captain...
 [ENDBLOCK]
 Will
 [ENDBLOCK]
@@ -1313,8 +1320,9 @@ Hmph...
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-...As I explained to you two earlier,
-I will be promoting one of you to captain.
+...As I explained to you two
+earlier, I will be promoting
+one of you to captain.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
@@ -1327,15 +1335,15 @@ You're allowing me to decide?
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-We had a difference
-of opinion as to which of
-these two should be promoted.
+We had a difference of opinion
+as to which of these two should
+be promoted.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-In the end, we decided that
-you could be trusted to
-make that decision.
+In the end, we agreed that you
+could be trusted to make that 
+decision.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
@@ -1349,20 +1357,20 @@ then I accept.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-Please forgive us for 
-burdening our Hedge Knight's
-shoulders with this matter.
+Please forgive us for burdening
+our Hedge Knight's shoulders with
+this matter.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-Once your duty is completed,
-we will expect you to nominate
-one of these men for promotion.
+Once your duty is completed, we will
+expect you to nominate one of these
+men for promotion.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Understood.
-That will be no issue.
+Understood. That
+will be no issue.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
@@ -1370,8 +1378,8 @@ Jobs. Will.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-This mission will determine which
-of you two will be promoted to Captain.
+This mission will determine which of
+you two will be promoted to Captain.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
@@ -1389,8 +1397,8 @@ Roger that!
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-So, the mission was
-completed without incident.
+So, the mission was completed
+without incident.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
@@ -1451,13 +1459,13 @@ for any good leader.
 <Dryden>
 [ENDBLOCK]
 Hmmm. It sounds like we are on
-the same page. Still, Sir <Lion>, I
-want to hear your opinion.
+the same page. Still, Sir <Lion>,
+I want to hear your opinion.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
 Jobs or Will?
-Which one is more qualified 
+Which one is more qualified
 to be Captain?
 [ENDBLOCK]
 select
@@ -1486,8 +1494,8 @@ choice for promotion.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-Please, explain your
-reason for choosing him.
+Please, explain your reason
+for choosing him.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -1497,9 +1505,9 @@ counterproductive for a soldier.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-That's not true. Job's focus
-on the well-being of his companions
-is what brings about success.
+That's not true. Job's focus on the
+well-being of his companions is 
+what brings about success.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
@@ -1508,19 +1516,20 @@ What do you mean?
 <Lion>
 [ENDBLOCK]
 I learned something when the
-<Greybum> Incident took
-me around the world.
+<Greybum> Incident took me 
+around the world.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-You cannot overcome everything alone.
-It's important to have reliable companions.
+You cannot overcome everything
+alone. It's important to have 
+reliable companions.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-The more powerful the foe,
-the more important it becomes
-to have friends you can trust.
+The more powerful the foe, the
+more important it becomes to 
+have friends you can trust.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -1530,9 +1539,9 @@ the greatest benefit.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-This is just my opinion,
-but if I were with Jobs,
-I would know he had my back.
+This is just my opinion, but if
+I were with Jobs, I would know
+he had my back.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
@@ -1541,8 +1550,8 @@ Hmmm...I see...
 <Dryden>
 [ENDBLOCK]
 Very well, Sir <Lion>. Per your
-recommendation. Jobs will
-be promoted to Captain.
+recommendation. Jobs will be
+promoted to Captain.
 [ENDBLOCK]
 Jobs
 [ENDBLOCK]
@@ -1563,8 +1572,8 @@ he'll make Captain, someday, too.
 [ENDBLOCK]
 Jobs
 [ENDBLOCK]
-Well, okay. Thank you. I'll
-be aimin' to be like you, you know!
+Well, okay. Thank you. I'll be aimin'
+to be like you, you know!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -1572,8 +1581,8 @@ Hmph...
 [ENDBLOCK]
 Jobs
 [ENDBLOCK]
-Also, I'm glad to know
-you agreed with me, y'know?
+Also, I'm glad to know you
+agreed with me, y'know?
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
@@ -1582,8 +1591,8 @@ has already been decided.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-It'll be a tough one, but
-I'm sure you're up to the task.
+It'll be a tough one, but I'm
+sure you're up to the task.
 [ENDBLOCK]
 Jobs
 [ENDBLOCK]
@@ -1596,13 +1605,14 @@ choice for promotion.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-Please, explain your
-reason for choosing him.
+Please, explain your reason
+for choosing him.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
 While escorting the Bishop through
-the forest, we were ambushed by a monster.
+the forest, we were ambushed by a
+monster.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -1612,8 +1622,9 @@ facing it down alone.
 <Lion>
 [ENDBLOCK]
 Despite this, he made the right
-call to withdraw, knowing that fighting
-would put the Bishop, and the mission, at risk.
+call to withdraw, knowing that 
+fighting would put the Bishop, 
+and the mission, at risk.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -1622,14 +1633,15 @@ easy decision to make.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-One's emotions can easily get the
-better of them, clouding their judgment.
+One's emotions can easily get
+the better of them, clouding 
+their judgment.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
 Will, however, kept his cool.
-He acted rationally, even
-in the heat of the moment.
+He acted rationally, even in
+the heat of the moment.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -1644,8 +1656,8 @@ Hmmm...I see...
 <Dryden>
 [ENDBLOCK]
 Very well, Sir <Lion>. Per your
-recommendation. Will will
-be promoted to Captain.
+recommendation. Jobs will be
+promoted to Captain.
 [ENDBLOCK]
 Will
 [ENDBLOCK]
@@ -1672,7 +1684,7 @@ Thank you very much, Sir <Lion>.
 [ENDBLOCK]
 Will
 [ENDBLOCK]
-I will continue to devote myself 
+I will continue to devote myself
 to becoming more like you.
 [ENDBLOCK]
 <Lion>
@@ -1681,8 +1693,9 @@ Hmph...
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-Well, then, Captain Will. Your first
-assignment has already been decided.
+Well, then, Captain Will. Your
+first assignment has already
+been decided.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
@@ -1700,8 +1713,9 @@ reporting for duty.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-Thank you for coming, and for handling
-your previous mission with expertise.
+Thank you for coming, and for
+handling your previous mission
+with expertise.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -1709,14 +1723,14 @@ You are too kind, my liege.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-Now then, I shall brief
-you on your next mission.
+Now then, I shall brief you
+on your next mission.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-Early this morning, we received
-an urgent report from the
-soldiers stationed at Cresta.
+Early this morning, we received an
+urgent report from the soldiers 
+stationed at Cresta.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
@@ -1725,8 +1739,8 @@ had been sighted in the area.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-Therefore, I would like
-you to investigate this sighting.
+Therefore, I would like you
+to investigate this sighting.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -1749,14 +1763,14 @@ and difficult to interpret.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-Fortunately, it doesn't seem
-that Cresta has been attacked.
+Fortunately, it doesn't seem that
+Cresta has been attacked.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-However, we do require
-more specific information
-before we can act.
+However, we do require more
+specific information before
+we can act.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -1765,8 +1779,8 @@ this to be a scouting mission.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-Indeed. I do understand
-this may be beneath you, but...
+Indeed. I do understand this
+may be beneath you, but...
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -1781,8 +1795,8 @@ soldiers with you, this time.
 <Dryden>
 [ENDBLOCK]
 Therefore, if this monster does
-show itself, you are under
-no obligation to engage.
+show itself, you are under no
+obligation to engage.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -1799,9 +1813,10 @@ Master <Lion>...
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-At any rate, it is imperative that
-we understand what is truly going on.
-It is requested that you depart at once.
+At any rate, it is imperative that we
+understand what is truly going on.
+It is requested that you depart at
+once.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -1810,7 +1825,7 @@ Leave it to me.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Current Gald: <TAG_033>Gald
+<TAG_007>Current Gald: <TAG_033> Gald
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 Yes
@@ -1818,9 +1833,9 @@ No
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x48><x88><x80></color> 
 [ENDBLOCK]
-has joined the Party.
+has joined the party.
 [ENDBLOCK]
-is now an active 
+is now an active
 party member.
 [ENDBLOCK]
 can join the battle.
@@ -1843,9 +1858,9 @@ has left the party.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xAC><x98><x80>
+[<center><turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xAC><x98><x80>
 [ENDBLOCK]
-<x18><x65><x58><xA8><x00><x80></color>.
+<x18><x65><x58><xA8><x00><x80></color>]
 
 [ENDBLOCK]
 <x19><x69><x48><x9C><x80>'s party received
@@ -1876,7 +1891,7 @@ the <turquoise>Strongest Titles
 [ENDBLOCK]
 the <turquoise>Quiz Titles
 [ENDBLOCK]
-<x19><x69><x48><x9C><x80> has received
+<x19><x69><x48><x9C><x80> has received the title:
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -1957,53 +1972,49 @@ can now be used.
 notice
 [ENDBLOCK]
 <TAG_007>[Titles Description]
-Titles are one of the character parameters
-that can be set on a character. The
-specific set method is as follows.
+Titles are one of the character
+parameters that can be set. 
+The specific method is as follows.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>After opening the main menu,
 the character status will display.
-On this screen, hit <Square_ani> and you'll
-be able to change the character status.
+On this screen, press <Square_ani> to 
+change the character status.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>At the top of this screen, you'll see
-[Titles] On this screen, press <Triangle_ani> 
-and it'll let you pick from all the titles
-you've acquired.
+<TAG_007>At the top of this screen will be
+[Titles]. Press <Triangle_ani> to pick
+from all aquired titles.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>There are two purposes to titles. 
-The first is to [Set your title and 
-talk to the townspeople].
+<TAG_007>Titles serve two purposes:
+The first is to [affect dialogue 
+when talking to NPCs].
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>By setting a title, certain townspeople
-will take interest in you. When you talk
-to them several times, you might get
-interesting responses. When that
-happens, reset the title you have on
-and try talking to them again.
+<TAG_007>Set a title to have certain NPCs interested
+while passing them. When talking with NPCs
+multiple times you may get different responses.
+Change the title and try talking to them again.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Hint: When talking to townspeople, a
-[?] will appear over your character's
-head. If this happens, set a title that
-seems to be related to the dialogue, 
-and try talking to them again. 
+<TAG_007>Hint: When talking to certain NPCs, a [?] will 
+appear over the character's head. If this 
+happens, set a title that seems to be related
+to the dialogue, and try talking to them again.
 Something fun may happen.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>The second purpose of titles is...
+<TAG_007>The second purpose for titles is...
 to make your status screen look cool!
 When collecting titles, you might pick
 up one you like, so you can set it on
@@ -2011,15 +2022,15 @@ your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>[Rock Rally] is a game in which 
-players kick rocks on the field 
+<TAG_007>[Rock Rally] is a game in which
+players kick rocks on the field
 to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
-1: Kicking a rock outside the 
+1: Kicking a rock outside the
 	city will start the game.
 2: Battles don't affect the clearing
 	objective of the Rock Rally game.
@@ -2040,12 +2051,12 @@ notice
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-Your Majesty, I present to 
+Your Majesty, I present to
 you the Seven Generals.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-It's been months since last we've 
+It's been months since last we've
 had you all gather like this.
 [ENDBLOCK]
 <Leen>
@@ -2055,7 +2066,7 @@ What do you want this time!?
 [ENDBLOCK]
 <Lewein>
 [ENDBLOCK]
-<Leen>, how dare you speak to 
+<Leen>, how dare you speak to
 His Majesty in such a way?
 [ENDBLOCK]
 <King>
@@ -2080,7 +2091,7 @@ Idiot! That's not what I-
 <Ashley>
 [ENDBLOCK]
 Come on, you two, calm down.
-It's clear <Leen> likes <Melina>.
+It's clear <Leen> likes you.
 [ENDBLOCK]
 <Ashley>
 [ENDBLOCK]
@@ -2169,7 +2180,7 @@ You are dismissed.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-I never thought the world 
+I never thought the world
 would turn out like this.
 [ENDBLOCK]
 <Stahn>
@@ -2199,8 +2210,8 @@ the world to its former glory...
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-However, I don't know if I will ever 
-be able to see this peaceful country 
+However, I don't know if I will ever
+be able to see this peaceful country
 again with my own eyes.
 [ENDBLOCK]
 <King>
@@ -2209,7 +2220,7 @@ As expected, he...
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-Somebody! Get the <Queen> 
+Somebody! Get the <Queen>
 and <Ashley> down here.
 [ENDBLOCK]
 <Ashley>
@@ -2241,7 +2252,7 @@ What...?
 [ENDBLOCK]
 <Queen>
 [ENDBLOCK]
-My husband and were not blessed
+My husband and I were not blessed
 with any children. Therefore...
 [ENDBLOCK]
 <Ashley>
@@ -2255,8 +2266,9 @@ offered this to <Finlay>.
 [ENDBLOCK]
 <King>
 [ENDBLOCK]
-If you are truly <Finlay>'s little brother,
-it is the only obvious choice.
+If you are truly <Finlay>'s
+little brother, it is the
+only obvious choice.
 [ENDBLOCK]
 <Ashley>
 [ENDBLOCK]
@@ -2299,13 +2311,14 @@ If you'll excuse me...
 <King>
 [ENDBLOCK]
 I never thought the world would
-turn out like this. If only his brother
-were here. 
+turn out like this. If only his
+brother were here...
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-I was hoping to see the fire in 
-his cold, strong will.
+He always maintained his composure,
+but I know that within his soul there
+was a burning passion.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -2317,7 +2330,7 @@ his cold, strong will.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-<Lion>, he's a friend of 
+<Lion>, he's a friend of
 my brother's, right?
 [ENDBLOCK]
 <Stahn>
@@ -2352,7 +2365,7 @@ once he had matured a little more.
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-We had planned to have <Lion> 
+We had planned to have <Lion>
 serve as the new Seventh General.
 [ENDBLOCK]
 <Stahn>
@@ -2365,6 +2378,7 @@ But that dream has all but faded...
 [ENDBLOCK]
 <Dryden>
 [ENDBLOCK]
-I was hoping to see the fire in 
-his cold, strong will.<x00>
+He always maintained his composure,
+but I know that within his soul there
+was a burning passion. <x00>
 [ENDBLOCK]

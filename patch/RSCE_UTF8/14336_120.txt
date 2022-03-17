@@ -10,94 +10,96 @@ RECT[<TAG_075>] = <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-Your Majesty, the report on the 
-damage caused by the recent 
-<Greybum> Rebellion is here.
+Your Majesty, here is the
+report on the damage caused
+by the <Greybum> Rebellion.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-Yes, I'll look it over 
-as soon as I can.
+Thank you. I'll look
+over it once I am able.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-Your Majesty, I've prepared the documents
-for the queen candidates, please be sure
-to read through them!
+Your Majesty! I've prepared a list of
+potential queen candidates. Please
+be sure to read through them!
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-I'm not sure I want to... 
-but I'll take a look.
+I'm not sure I want to...
+I mean, I'll be sure to.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-Your Majesty, the draft of
-the military budget for this
-year has been finalized.
+My liege! The military budget
+for this year has been drafted,
+and is awaiting your approval!
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-Understood.
+Very well.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-Your Majesty, I have submitted 
-a proposal for the reserves of 
-the castle, and I hope you will 
-take a look at it.
+Your Highness, I have submitted
+a proposal regarding the castle
+reserves. I hope you will consider it!
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-Thank you. I'll keep that in mind.
+Thank you.
+I'll keep that in mind.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-I drew everyone 
-and His Majesty!
+King <Woodrow>! I drew a picture
+of you and your friends!
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-Wow! I'll definitely look at it.
+Really? I can't wait to see it.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-As you know, his father, Isaac,
-passed away during the recent
+You already know his father, King
+Isaac, passed away during the
 <Greybum> Rebellion.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-And his mother passed
-away before that...
+And before that, his
+mother succumbed to illness...
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-His Majesty was very young when he
-lost his mother, and he spent many
-days holed up in his room.
+King <Woodrow> was very young
+when that happened. He locked
+himself in his room, refusing to
+leave.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-And after three days
-and three nights...
+After three straight
+days and nights...
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-King Isaac dragged His Highness
-out of the room by force.
+His father forced the door
+open and dragged him out.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-That mild-mannered Lord Isaac?
+Mild-mannered King Isaac did that!?
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-Yes, and he scolded him severely.
+He certainly did. He scolded
+him harshly, too.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-"You have the nation in front of you 
+"You have the nation in front of you
 and the people behind you!", he said.
 [ENDBLOCK]
 <Stahn>
@@ -106,49 +108,54 @@ What does that mean?
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-If the king stops walking, the 
-people will stumble and the 
+If the king stops walking, the
+people will stumble and the
 nation will never prosper.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Tough life...
+That sounds
+really tough...
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-Kingship means existing between
-a country and its people.
+Being a king means being between
+a country and its people!
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-That's why when Master Isaac died, 
-he was able to suppress his anger 
+That's why when Master Isaac died,
+he was able to suppress his anger
 and hold back his grief.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-For the country, he had to 
-escape without looking back.
+He knew he had to escape,
+that it was his duty to
+Phandaria to survive.
 [ENDBLOCK]
 サブシナリオチェック:<x17><x72><x40><x20><x80>
 
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-Your Majesty, what is it?
+What is it, my liege?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-It looks like I have work to do.
+Well, it seems
+I've got a lot
+of work to do.
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-You should have leave 
-such matters to me.
+Such matters are beneath you.
+I'd be happy to handle them.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-No, I've been asked to do it.
+That won't do.
+They asked me personally for help.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
@@ -161,8 +168,8 @@ Okay!!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I understand, 
-Do your best!
+Gotcha.
+Go get 'em!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -179,13 +186,13 @@ What happened to <Woodrow>'s family?
 [ENDBLOCK]
 <Darzen>
 [ENDBLOCK]
-Well, it looks 
+Well, it looks
 like you're back.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-Sorry to keep you 
-waiting. Now, let's go.
+Sorry to keep you
+waiting. Let's go.
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
@@ -199,23 +206,23 @@ shines bright enough for this...
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Hmm, This reminds
-me last time...
+Shines, huh?
+Heh, I wonder...
 
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Yeah, this is fine.
+Yeah, let's do it!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Yo! I'm the Star of Champions!!
+Yo! I'm the shining Star
+of all champions, Mighty <Kongman>!
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-Woah! Even someone as ordinary
-as me can tell, you carry with you
-the aura of a star!
+Woah! That posture! That confidence!
+No doubt about it, you're a star!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -223,15 +230,14 @@ So who exactly are you?
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-Oh excuse me! I'm just someone 
-who's been considering sponsoring
-a contest in this town.
+Oh, excuse me!
+I'm someone who's thinking
+about sponsering a contest here.
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-If we had someone like you on board,
-then without a doubt it would draw
-many people to it!
+If you were onboard with it,
+I know it'd draw a huge crowd!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
@@ -244,12 +250,13 @@ of contest, exactly?
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-It's a Snowland contest.
+A strongman competition!
+I call it the "Blizzard Bowl!"
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
 The contest will be tomorrow,
-and we'll hold it here. 
+and we'll hold it here.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
@@ -263,7 +270,8 @@ you on tomorrow, <Kongman>!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Hey, what's going on here?
+Hey, what's
+going on here?
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
@@ -276,18 +284,18 @@ THE WINNER IS MIGHTY KONGMAN (Age 39)
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-Congrats, here is the
+Congrats. Here is the
 championship prize.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<center>WE HEREBY RECOGNIZE YOU AS "YETI",
-THE INAGURAL SNOWLAND GAMES CHAMPION.
+<center>WE HEREBY RECOGNIZE YOU, YETI,
+AS THE INAGURAL BLIZZARD BOWL CHAMPION.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-What the hell!? The Star of
-Champions is a Yeti now!?
+I'm the Star of Champions,
+not some Yeti! What gives!?
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
@@ -295,7 +303,8 @@ Welcome.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-Goodbye, Your Majesty!
+Safe travels,
+Your Majesty!
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
@@ -303,13 +312,13 @@ Take care, everyone!
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-Leave the defense of the
+Leave defending the
 castle to us, Your Majesty!
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-Leave the defense
-of the castle to us.
+Leave defending
+the castle to us.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
@@ -318,7 +327,8 @@ fall again, no matter what.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-If Belcrant hits the castle...
+If Belcrant
+hits the castle...
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
@@ -332,14 +342,13 @@ ride the Draconis?
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-You're the one who helped me. Thank
-you so much for your help back then.
+You're the ones from back then!
+Thank you so much for your help!
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
 You're the ones who saved
-His Majesty. Thank you very
-much for your help.
+the king! Thank you so much!
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
@@ -353,12 +362,13 @@ you to take care of His Majesty.
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-His Excellency <Darzen> is also
-here. You don't have to worry.
+General <Darzen> is also here.
+You don't have to worry.
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-Your Majesty, you're safe!
+Your Majesty!
+You're safe!
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
@@ -372,8 +382,8 @@ what should I do now?
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-You can count on His
-Majesty for this one!
+We can count on
+King <Woodrow> for this!
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
@@ -385,11 +395,11 @@ His Majesty is in the back.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-Safe return, Your Majesty!
+Safe travels, Your Majesty!
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-Your Majesty. I look forward
+My liege! I look forward
 to working with you.
 [ENDBLOCK]
 Soldier
@@ -404,26 +414,27 @@ to our country.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-Oh no, our country
+Damn! Phandaria
 was hit by Belcrant!
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
 I won't let the monsters
-invade this castle.
+invade this castle!
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-Safe return, Your Majesty!
+Come back safe,
+Your Majesty!
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-Come back for sure, everyone!
+Be safe, everyone!
 [ENDBLOCK]
 Peddler
 [ENDBLOCK]
-The king here is very friendly, so it's
-easy for me to do business with him.
+The king here is very cordial. He's
+very easy to do business with.
 [ENDBLOCK]
 Peddler
 [ENDBLOCK]
@@ -432,26 +443,25 @@ Thank you for everything.
 [ENDBLOCK]
 Peddler
 [ENDBLOCK]
-The king here is very friendly, so it's
-easy for me to do business with him.
+The king here is very cordial. He's
+very easy to do business with.
 [ENDBLOCK]
 Peddler
 [ENDBLOCK]
-I hope that this peace
-will last forever.
+I hope this peace lasts forever.
 [ENDBLOCK]
 Peddler
 [ENDBLOCK]
-Peace is a fleeting thing...
+Alas, peace is so fleeting...
 [ENDBLOCK]
 Peddler
 [ENDBLOCK]
 I'm rooting for you,
-Your Majesty!
+King <Woodrow>!
 [ENDBLOCK]
 Peddler
 [ENDBLOCK]
-We're rooting
+I'm rooting
 for you guys!
 [ENDBLOCK]
 
@@ -460,7 +470,7 @@ for you guys!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Current Gald: <TAG_033>Gald
+<TAG_007>Current Gald: <TAG_033> Gald
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 Yes
@@ -468,9 +478,9 @@ No
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x48><x88><x80></color> 
 [ENDBLOCK]
-has joined the Party.
+has joined the party.
 [ENDBLOCK]
-is now an active 
+is now an active
 party member.
 [ENDBLOCK]
 can join the battle.
@@ -493,9 +503,9 @@ has left the party.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xAC><x98><x80>
+[<center><turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xAC><x98><x80>
 [ENDBLOCK]
-<x18><x65><x58><xA8><x00><x80></color>.
+<x18><x65><x58><xA8><x00><x80></color>]
 
 [ENDBLOCK]
 <x19><x69><x48><x9C><x80>'s party received
@@ -526,7 +536,7 @@ the <turquoise>Strongest Titles
 [ENDBLOCK]
 the <turquoise>Quiz Titles
 [ENDBLOCK]
-<x19><x69><x48><x9C><x80> has received
+<x19><x69><x48><x9C><x80> has received the title:
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -607,53 +617,49 @@ can now be used.
 notice
 [ENDBLOCK]
 <TAG_007>[Titles Description]
-Titles are one of the character parameters
-that can be set on a character. The
-specific set method is as follows.
+Titles are one of the character
+parameters that can be set. 
+The specific method is as follows.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>After opening the main menu,
 the character status will display.
-On this screen, hit <Square_ani> and you'll
-be able to change the character status.
+On this screen, press <Square_ani> to 
+change the character status.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>At the top of this screen, you'll see
-[Titles] On this screen, press <Triangle_ani> 
-and it'll let you pick from all the titles
-you've acquired.
+<TAG_007>At the top of this screen will be
+[Titles]. Press <Triangle_ani> to pick
+from all aquired titles.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>There are two purposes to titles. 
-The first is to [Set your title and 
-talk to the townspeople].
+<TAG_007>Titles serve two purposes:
+The first is to [affect dialogue 
+when talking to NPCs].
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>By setting a title, certain townspeople
-will take interest in you. When you talk
-to them several times, you might get
-interesting responses. When that
-happens, reset the title you have on
-and try talking to them again.
+<TAG_007>Set a title to have certain NPCs interested
+while passing them. When talking with NPCs
+multiple times you may get different responses.
+Change the title and try talking to them again.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Hint: When talking to townspeople, a
-[?] will appear over your character's
-head. If this happens, set a title that
-seems to be related to the dialogue, 
-and try talking to them again. 
+<TAG_007>Hint: When talking to certain NPCs, a [?] will 
+appear over the character's head. If this 
+happens, set a title that seems to be related
+to the dialogue, and try talking to them again.
 Something fun may happen.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>The second purpose of titles is...
+<TAG_007>The second purpose for titles is...
 to make your status screen look cool!
 When collecting titles, you might pick
 up one you like, so you can set it on
@@ -661,15 +667,15 @@ your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>[Rock Rally] is a game in which 
-players kick rocks on the field 
+<TAG_007>[Rock Rally] is a game in which
+players kick rocks on the field
 to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
-1: Kicking a rock outside the 
+1: Kicking a rock outside the
 	city will start the game.
 2: Battles don't affect the clearing
 	objective of the Rock Rally game.

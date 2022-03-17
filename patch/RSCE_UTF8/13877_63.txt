@@ -466,8 +466,7 @@ Ugh...
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-Are you alright, 
-Master <Lion>?
+Are you all right, Master <Lion>?
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
@@ -476,14 +475,13 @@ that you get motion sick so easily...
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-...Listen up, Chal.
-You absolutely will NOT 
-tell any of the others about this.
+...Listen up, Chal. You absolutely
+will NOT tell any of the others 
+about this.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-Well, sure, I won't
-tell anyone, but...
+Well, sure, I won't tell anyone, but...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -491,8 +489,8 @@ Heyyy! <Lion>!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Huh? You okay?
-You don't look so good...
+Huh? You okay? You 
+don't look so good...
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -537,13 +535,14 @@ And she's so kind... and pretty...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Hey <Lion>. Do you have 
+Hey <Lion>. Do you have
 anyone you like?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
 D-Don't ask me
-something so stupid!
+something so
+stupid!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -559,20 +558,19 @@ Besides, I have no interest in-
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-You know, before
-I realized it, <Ilene>
+You know, before I realized it, <Ilene>
 was all I could think about...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I wonder if this
-is what they call love?
+I wonder if this is what
+they call love?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-You two seem to be
-enjoying yourselves.
-What were you discussing?
+You two seem to be enjoying
+yourselves. What were you
+discussing?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -591,7 +589,8 @@ Huh? Was I?
 <Philia>
 [ENDBLOCK]
 <Stahn>, you and <Lion>
-sure are getting along well!
+sure are getting along 
+well!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -621,18 +620,19 @@ overly-friendly people like you.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-If I go over there, I'd just be
-a wet blanket. Hah, kinda ironic, eh?
+If I go over there, I'd
+just be a wet blanket.
+Hah, kinda ironic, eh?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-I see. If that's the case, then 
+I see. If that's the case, then
 I'll stay here by your side.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-You don't have
-to worry about me.
+You don't have to
+worry about me.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -653,14 +653,14 @@ I can see the coast!
 [ENDBLOCK]
 Captain
 [ENDBLOCK]
-We're alongside the coast 
-of Shiden. Any further and 
+We're alongside the coast
+of Shiden. Any further and
 we'll cross the border.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-All right. Let's switch to
-the rowboat and get to Shiden!
+All right. Let's switch to the
+rowboat and get to Shiden!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
@@ -677,12 +677,12 @@ No matter what happens.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-Aaah, I love looking
+<center>Aaah, I love looking
 out at the open sea!
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-We should enjoy this, Master <Lion>.
+<center>We should enjoy this, Master <Lion>.
 It's been so long since the last
 time we were on a boat like this!
 [ENDBLOCK]
@@ -697,7 +697,7 @@ the Eye of Atamoni, no matter what.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-...Young Master, there's something
+<center>...Young Master, there's something
 I'd like to ask, if I may.
 [ENDBLOCK]
 <Lion>
@@ -706,13 +706,13 @@ What is it?
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-Are you ever going to tell
+<center>Are you ever going to tell
 <Rutee> that you're her brother?
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-It doesn't seem like she
-knows at all...
+<center>It doesn't seem like
+she knows at all...
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -721,9 +721,8 @@ I have no reason to tell her.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-But, listen. Remember what
-<Hugo> said, about <Rutee>
-potentially being executed.
+<center>But, listen. Remember what <Hugo> said,
+about <Rutee> potentially being executed.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
@@ -737,12 +736,12 @@ Quite a bit, in fact...
 <Lion>
 [ENDBLOCK]
 More than that. How to put it?
-It's as if I got a glimpse
-at his true feelings towards me.
+It's as if I got a glimpse at his
+true feelings towards me.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-I know what you mean.
+<center>I know what you mean.
 ...Huh?
 [ENDBLOCK]
 <Lion>
@@ -751,16 +750,16 @@ I know what you mean.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-<Dymlos> is calling.
+<center><Dymlos> is calling.
 Let's head back inside.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-...Urp..!
+...Urp...!
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-Oh, right. You get motion sick,
+<center>Oh, right. You get motion sick,
 don't you, Young Master?
 [ENDBLOCK]
 <Lion>
@@ -794,14 +793,14 @@ Aquaveil certainly is far away.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-That reminds me. You
-were in Aquaveil before
-we met, weren't you, Chal?
+That reminds me. You were
+in Aquaveil before we met,
+weren't you, Chal?
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-That's right... however, I don't
-have very fond memories of the place.
+That's right... however, I don't have
+very fond memories of the place.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -814,12 +813,11 @@ to talk about it?
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-It's just not a
-very happy story.
+It's just not a very happy story.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-You know, you, <Stahn> and the others
+<center>You know, you, <Stahn> and the others
 handled the incident in Neustadt really well.
 [ENDBLOCK]
 <Lion>
@@ -829,13 +827,12 @@ the subject!
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-Hah! I can still barely believe it.
-Master <Lion>, willingly working with others?
+Hah! I can still barely believe it. Master
+  <Lion>, willingly working with others?
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-You seemed to be
-really enjoying it.
+You seemed to be really enjoying it.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -871,7 +868,7 @@ Master <Lion>...?
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Current Gald: <TAG_033>Gald
+<TAG_007>Current Gald: <TAG_033> Gald
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 Yes
@@ -879,9 +876,9 @@ No
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x49><x04><x80></color> 
 [ENDBLOCK]
-has joined the Party.
+has joined the party.
 [ENDBLOCK]
-is now an active 
+is now an active
 party member.
 [ENDBLOCK]
 can join the battle.
@@ -904,9 +901,9 @@ has left the party.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x49><x28><x98><x80>
+<center>[<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x49><x28><x98><x80>
 [ENDBLOCK]
-<x18><x65><x59><x24><x00><x80></color>.
+<x18><x65><x59><x24><x00><x80></color>]
 
 [ENDBLOCK]
 <x19><x69><x49><x18><x80>'s party received
@@ -937,7 +934,7 @@ the <turquoise>Strongest Titles
 [ENDBLOCK]
 the <turquoise>Quiz Titles
 [ENDBLOCK]
-<x19><x69><x49><x18><x80> has received
+<x19><x69><x49><x18><x80> has received the title:
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -1018,53 +1015,49 @@ can now be used.
 notice
 [ENDBLOCK]
 <TAG_007>[Titles Description]
-Titles are one of the character parameters
-that can be set on a character. The
-specific set method is as follows.
+Titles are one of the character
+parameters that can be set. 
+The specific method is as follows.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>After opening the main menu,
 the character status will display.
-On this screen, hit <Square_ani> and you'll
-be able to change the character status.
+On this screen, press <Square_ani> to 
+change the character status.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>At the top of this screen, you'll see
-[Titles] On this screen, press <Triangle_ani> 
-and it'll let you pick from all the titles
-you've acquired.
+<TAG_007>At the top of this screen will be
+[Titles]. Press <Triangle_ani> to pick
+from all aquired titles.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>There are two purposes to titles. 
-The first is to [Set your title and 
-talk to the townspeople].
+<TAG_007>Titles serve two purposes:
+The first is to [affect dialogue 
+when talking to NPCs].
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>By setting a title, certain townspeople
-will take interest in you. When you talk
-to them several times, you might get
-interesting responses. When that
-happens, reset the title you have on
-and try talking to them again.
+<TAG_007>Set a title to have certain NPCs interested
+while passing them. When talking with NPCs
+multiple times you may get different responses.
+Change the title and try talking to them again.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Hint: When talking to townspeople, a
-[?] will appear over your character's
-head. If this happens, set a title that
-seems to be related to the dialogue, 
-and try talking to them again. 
+<TAG_007>Hint: When talking to certain NPCs, a [?] will 
+appear over the character's head. If this 
+happens, set a title that seems to be related
+to the dialogue, and try talking to them again.
 Something fun may happen.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>The second purpose of titles is...
+<TAG_007>The second purpose for titles is...
 to make your status screen look cool!
 When collecting titles, you might pick
 up one you like, so you can set it on
@@ -1072,15 +1065,15 @@ your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>[Rock Rally] is a game in which 
-players kick rocks on the field 
+<TAG_007>[Rock Rally] is a game in which
+players kick rocks on the field
 to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
-1: Kicking a rock outside the 
+1: Kicking a rock outside the
 	city will start the game.
 2: Battles don't affect the clearing
 	objective of the Rock Rally game.

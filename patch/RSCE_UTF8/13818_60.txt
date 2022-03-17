@@ -1,7 +1,7 @@
 
 [ENDBLOCK]
-<TAG_005>There's a book titled
-"History of Lens for Dummies."
+<TAG_005><center>There's a book titled:
+"A History of Lens for Dummies."
 [ENDBLOCK]
 <IGNORE>
 [ENDBLOCK]
@@ -42,8 +42,8 @@ allowing greater safety and comfort.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>There's a book titled
-"The Dawn of Seinegald's Glory - 
+<TAG_005>There's a book titled:
+"The Dawn of Seinegald's Glory -
 Finley and the Seven Generals."
 [ENDBLOCK]
 select
@@ -54,15 +54,15 @@ No
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>It's not unreasonable to say
-that Seinegald owes its great influence
+<TAG_005>It's not unreasonable to say that
+Seinegald owes its great influence
 to the might of the "Seven Generals."
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>"So long as even a single
-of the seven pillars still stands,
-the kingdom shall never fall."
+<TAG_005>"So long as even a single of the
+seven pillars still stands, the
+kingdom shall never fall."
 [ENDBLOCK]
 
 [ENDBLOCK]
@@ -78,12 +78,12 @@ himself the name <Finlay> the Fierce.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>There's a series of research
-books titled "Otto's Botanical Records."
+<TAG_005><center>There's a series of research books
+titled "Otto's Botanical Records."
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>There's a book from Seinegald titled
+<TAG_005>There's a book from Seinegald titled:
 "World Topography."
 [ENDBLOCK]
 select
@@ -136,7 +136,7 @@ statehood due to its history.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>There's a book titled
+<TAG_005>There's a book titled:
 "The World-Famous Arena."
 [ENDBLOCK]
 select
@@ -161,7 +161,7 @@ the current champion...
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>There's a book titled
+<TAG_005>There's a book titled:
 "Lens Hunters: A Profession."
 [ENDBLOCK]
 select
@@ -192,7 +192,7 @@ Atamoni are lined up here.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>There's a book titled
+<TAG_005>There's a book titled:
 "The Truth Behind Calvalese."
 [ENDBLOCK]
 select
@@ -203,31 +203,31 @@ No
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>Some claim the people
-of Calvalese were driven there
-after a war from the distant past.
+<TAG_005><center>Some claim the people of Calvalese
+were driven there after a war from
+the distant past.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>However, not even the
-oldest records are able
-to substaniate these claims.
+<TAG_005><center>However, not even the oldest
+records are able to substaniate
+these claims.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>Calvalese has repeatedly
-denounced other countries
-on the basis of a fictional war.
-Surely the future of such a country...
+<TAG_005><center>Calvalese has repeatedly denounced
+other countries on the basis of a 
+fictional war. Surely the future of
+such a country...
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>Numerous treatises on
-Lens's military uses are lined up.
+<TAG_005><center>Numerous treatises on Lens's
+military uses are lined up.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>There's a book titled
+<TAG_005>There's a book titled:
 "Calendar of the Stars."
 [ENDBLOCK]
 select
@@ -262,38 +262,39 @@ her head to the sky. I lifted my head.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>A great flaming mass,
-so great it seemed to block out
-the entire sky as it careened toward us.
+<TAG_005>A great flaming mass, so great it
+seemed to block out the entire
+sky as it careened toward us.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>As I would later learn, hundreds
-of meteorites fell upon our planet that day...
+<TAG_005>As I would later learn, hundreds of
+meteorites fell upon our planet that day...
 [ENDBLOCK]
 Priest
 [ENDBLOCK]
-To get to the cathedral, leave this
-room and proceed to the first
-floor door.
+To get to the cathedral, leave
+this room and proceed to the
+first floor door.
 [ENDBLOCK]
 Priest
 [ENDBLOCK]
-It seems that there are still
-monsters, so please be careful.
+It seems that there are 
+still monsters, so please
+be careful.
 [ENDBLOCK]
 Priest
 [ENDBLOCK]
-<Philia>, you are not responsible...
+<Philia>, don't blame yourself...
 [ENDBLOCK]
 Priest
 [ENDBLOCK]
-If you have already decided,
-I will support you.
+If you've made your decision,
+I'll support you fully.
 [ENDBLOCK]
 Priest
 [ENDBLOCK]
-We heard from <Ayles>.
+Bishop <Ayles> told us everything.
 Please be carful.
 [ENDBLOCK]
 <Ayles>
@@ -302,8 +303,8 @@ Please be carful.
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-Thank you everyone,
-for saving <Philia>.
+Thank you for saving
+<Philia>, everyone.
 [ENDBLOCK]
 -----flag_check
 
@@ -349,8 +350,8 @@ discovery:<x17><x15><x7B><x80>
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-The destination is the Aquaveil
-Forest. I'm counting on you.
+Check out the forest at Aquaveil.
+I'm counting on you, you know!
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
@@ -359,13 +360,13 @@ of Calviola.
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-I'unno! But! I know you gotta go
-to an island east of Seinegald!
+All I know is you gotta go to
+an island east of Seinegald!
 [ENDBLOCK]
 Priest
 [ENDBLOCK]
-<Greybum> was good at winning people's
-hearts and had gained many followers.
+<Greybum> knew how to win people
+over. Many flocked to him.
 [ENDBLOCK]
 Priest
 [ENDBLOCK]
@@ -374,28 +375,28 @@ been preparation for a rebellion.
 [ENDBLOCK]
 Priest
 [ENDBLOCK]
-Was <Greybum> acting in 
+Was <Greybum> acting in
 anticipation of this situation?
 [ENDBLOCK]
 Priest
 [ENDBLOCK]
-People should not be allowed to pick and
-choose who gets to live and who doesn't.
+It is no mortal's place to decide
+who lives and who dies!
 [ENDBLOCK]
 Minister
 [ENDBLOCK]
 We must work with Bishop <Ayles>
-to get the temple back to normal.
+to return the temple to normal.
 [ENDBLOCK]
 Minister
 [ENDBLOCK]
-Although ostensibly rebuilt,
-the scars of the rebellion still remain.
+The temple's been physically rebuilt,
+yet the scars of the rebellion remain...
 [ENDBLOCK]
 Minister
 [ENDBLOCK]
-I had no idea that the wounds of the
-previous rebellion would still be healing...
+I never thought those scars
+would take so long to heal.
 [ENDBLOCK]
 Minister
 [ENDBLOCK]
@@ -409,23 +410,23 @@ reassure those people.
 [ENDBLOCK]
 Priest
 [ENDBLOCK]
-I resisted <Greybum>, but was
-beaten to a pulp by his men...
+I tried to stand up to <Greybum>,
+but his mean beat me unconscious...
 [ENDBLOCK]
 Priest
 [ENDBLOCK]
-It's a wonder I'm still alive.
+It's a miracle I still live.
 [ENDBLOCK]
 Priest
 [ENDBLOCK]
-Now that I think about it, <Batista> has
-always been a very sketchy person.
+Now that I think about it, <Batista>
+always seemed to be sketchy to me.
 [ENDBLOCK]
 Priest
 [ENDBLOCK]
 I heard that <Greybum> was being
 manipulated by the mastermind
-behind the whole mess.
+behind this whole mess.
 [ENDBLOCK]
 Priest
 [ENDBLOCK]
@@ -444,18 +445,18 @@ take care of the Eye of Atamoni.
 Minister
 [ENDBLOCK]
 Please bring back the Eye
-of Atamoni. Thank you.
+of Atamoni. I beg you!
 [ENDBLOCK]
 Minister
 [ENDBLOCK]
-There's a lot of documents in
-this temple. In a sense, it is
+There are a lot of documents in
+this temple. You might say it's
 a temple of human knowledge.
 [ENDBLOCK]
 Minister
 [ENDBLOCK]
 The term "Aeth'er War" was
-indeed found in the literature.
+indeed penned in literature.
 [ENDBLOCK]
 Minister
 [ENDBLOCK]
@@ -466,7 +467,7 @@ Minister
 [ENDBLOCK]
 I heard that in the last Aeth'er
 war, a savior appeared and saved
-the earth from its plight...
+the Earth from its plight...
 [ENDBLOCK]
 Minister
 [ENDBLOCK]
@@ -509,18 +510,18 @@ but... Oh, Atamoni preserve us!
 <Ayles>
 [ENDBLOCK]
 We had no choice but to surrender
-to <Greybum>. He had us
-locked in here, as you see us now.
+to <Greybum>. He had us locked in
+here, as you see us now.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-What happened to
-the Eye of Atamoni?
+What happened to the
+Eye of Atamoni?
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-How do you
-know that name!?
+How do you know
+that name!?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -529,32 +530,33 @@ to know that.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Our objective is to confirm the
-whereabouts of the Eye of Atamoni.
-Now, will you take us to see it?
+Our objective is to confirm
+the whereabouts of the Eye
+of Atamoni. Now, will you 
+take us to see it?
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-I will not. You're talking about
-the greatest secret of this temple.
-I cannot show it to outsiders.
+I will not. You're talking about the
+greatest secret of this temple. I 
+cannot show it to outsiders.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-I've told you already that
-we were ordered to do this.
+I've told you already that we
+were ordered to do this.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
 You know the consequences of
-obstructing official
-Kingdom business, don't you?
+obstructing official Kingdom
+business, don't you?
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-...I do. Very well.
-I shall guide you. Please
-take me to the cathedral.
+...I do. Very well. I shall 
+guide you. Please take 
+me to the cathedral.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -562,7 +564,7 @@ Thank you so much!
 [ENDBLOCK]
 <Batista>
 [ENDBLOCK]
-<Philia>? What are you 
+<Philia>? What are you
 doing at this late hour?
 [ENDBLOCK]
 <Philia>
@@ -572,9 +574,8 @@ dragged on a little bit.
 [ENDBLOCK]
 <Batista>
 [ENDBLOCK]
-Jeez, what a slow girl. 
-...Well, no matter. I'll help
-you as well.
+Jeez, what a slow girl. ...Well,
+no matter. I might as well help.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -590,7 +591,7 @@ disp object ---> <TAG_031>
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Current Gald: <TAG_033>Gald
+<TAG_007>Current Gald: <TAG_033> Gald
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 Yes
@@ -598,9 +599,9 @@ No
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x47><xEC><x80></color> 
 [ENDBLOCK]
-has joined the Party.
+has joined the party.
 [ENDBLOCK]
-is now an active 
+is now an active
 party member.
 [ENDBLOCK]
 can join the battle.
@@ -623,9 +624,9 @@ has left the party.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><x10><x98><x80>
+<center>[<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><x10><x98><x80>
 [ENDBLOCK]
-<x18><x65><x58><x0C><x00><x80></color>.
+<x18><x65><x58><x0C><x00><x80></color>]
 
 [ENDBLOCK]
 <x19><x69><x48><x00><x80>'s party received
@@ -656,7 +657,7 @@ the <turquoise>Strongest Titles
 [ENDBLOCK]
 the <turquoise>Quiz Titles
 [ENDBLOCK]
-<x19><x69><x48><x00><x80> has received
+<x19><x69><x48><x00><x80> has received the title:
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -737,53 +738,49 @@ can now be used.
 notice
 [ENDBLOCK]
 <TAG_007>[Titles Description]
-Titles are one of the character parameters
-that can be set on a character. The
-specific set method is as follows.
+Titles are one of the character
+parameters that can be set. 
+The specific method is as follows.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>After opening the main menu,
 the character status will display.
-On this screen, hit <Square_ani> and you'll
-be able to change the character status.
+On this screen, press <Square_ani> to 
+change the character status.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>At the top of this screen, you'll see
-[Titles] On this screen, press <Triangle_ani> 
-and it'll let you pick from all the titles
-you've acquired.
+<TAG_007>At the top of this screen will be
+[Titles]. Press <Triangle_ani> to pick
+from all aquired titles.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>There are two purposes to titles. 
-The first is to [Set your title and 
-talk to the townspeople].
+<TAG_007>Titles serve two purposes:
+The first is to [affect dialogue 
+when talking to NPCs].
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>By setting a title, certain townspeople
-will take interest in you. When you talk
-to them several times, you might get
-interesting responses. When that
-happens, reset the title you have on
-and try talking to them again.
+<TAG_007>Set a title to have certain NPCs interested
+while passing them. When talking with NPCs
+multiple times you may get different responses.
+Change the title and try talking to them again.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Hint: When talking to townspeople, a
-[?] will appear over your character's
-head. If this happens, set a title that
-seems to be related to the dialogue, 
-and try talking to them again. 
+<TAG_007>Hint: When talking to certain NPCs, a [?] will 
+appear over the character's head. If this 
+happens, set a title that seems to be related
+to the dialogue, and try talking to them again.
 Something fun may happen.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>The second purpose of titles is...
+<TAG_007>The second purpose for titles is...
 to make your status screen look cool!
 When collecting titles, you might pick
 up one you like, so you can set it on
@@ -791,15 +788,15 @@ your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>[Rock Rally] is a game in which 
-players kick rocks on the field 
+<TAG_007>[Rock Rally] is a game in which
+players kick rocks on the field
 to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
-1: Kicking a rock outside the 
+1: Kicking a rock outside the
 	city will start the game.
 2: Battles don't affect the clearing
 	objective of the Rock Rally game.
@@ -820,7 +817,7 @@ notice
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-Ah~ I wonder if there's anyone out 
+Ah~ I wonder if there's anyone out
 there with a FULL POWER ROYAL AURA!
 [ENDBLOCK]
 Frantz
@@ -850,7 +847,7 @@ There there, <Stahn>.
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-My name is Frantz. 
+My name is Frantz.
 Believe it or not,
 I'm an archaeologist.
 [ENDBLOCK]
@@ -879,11 +876,11 @@ What is?
 Frantz
 [ENDBLOCK]
 Y'see, I'm researching the
-"Four Secrets of the World".
+"Four Secrets of the World."
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-It is said that in the world there are 
+It is said that in the world there are
 four spots, locations unconfirmed, known
 only as the "Four Secrets of the World"...
 [ENDBLOCK]
@@ -923,13 +920,13 @@ You guys seem to like it though.
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-Two, I'm poor! You guys seem loaded 
+Two, I'm poor! You guys seem loaded
 though, so you should have no problems
 funding the trip.
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-Three, above all else, I'm curious. 
+Three, above all else, I'm curious.
 That curiosity is what is necessary
 to excel in this field!
 [ENDBLOCK]
@@ -959,7 +956,7 @@ your journey, please come and see me!
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-Ah~ I wonder if there's anyone out 
+Ah~ I wonder if there's anyone out
 there with a FULL POWER ROYAL AURA!
 [ENDBLOCK]
 Frantz
@@ -1008,11 +1005,11 @@ Darilsheid to start.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Alright.
+All right.
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
-Of course... 
+Of course...
 I would ask that you foot
 the bill for my traveling
 expenses, King <Woodrow>.
@@ -1066,7 +1063,7 @@ Frantz
 [ENDBLOCK]
 Turns out, there's a massive
 dragon, known as the
-"Messenger of the Gods",
+"Messenger of the Gods,"
 living under the sea here!
 [ENDBLOCK]
 <Rutee>
@@ -1141,7 +1138,7 @@ you called the Leviathan, after all.
 <Stahn>
 [ENDBLOCK]
 Sorry, Frantz.
-I shoulda realised sooner.
+I shoulda realized sooner.
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
@@ -1169,7 +1166,7 @@ At last, the time has come!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Wh-What is it, Frantz..!?
+Wh-What is it, Frantz...!?
 [ENDBLOCK]
 Frantz
 [ENDBLOCK]
@@ -1363,7 +1360,7 @@ tense, Franz...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Oh wait I get it! 
+Oh wait I get it!
 You've found the next
 of the Four Secrets!?
 [ENDBLOCK]

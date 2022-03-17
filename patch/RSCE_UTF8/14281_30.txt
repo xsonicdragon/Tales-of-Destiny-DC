@@ -1,8 +1,8 @@
 <Dalis>
 [ENDBLOCK]
-You don't look so good...
-Everything that's happening
-must be exhausting for you.
+The color of your complexion is
+worrisome... I suppose that's to be
+expected after everything.
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
@@ -10,7 +10,7 @@ How about taking a short rest?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-Yeah, that sounds good.
+Yeah, you're probably right.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -19,39 +19,38 @@ You look like you're doing well.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Hmph. Likewise. 
-Looks like you're living well.
+Hmph.
+You seem like you're living well.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-Yeah. It's thanks to you
-letting me come back here.
+I am. I have you to thank.
+After all you let me go.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-I've been able to live
-peacefully with <Dalis>.
+My life has become very peaceful
+living here with <Dalis.>
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-So where is <Dalis> right now?
+Speaking of <Dalis>,
+where is he now?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-If you're looking for him,
-he's at the guard tower on
-the North side of town.
+He recently set out to
+the northern guard tower.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-He's been undergoing medical
-treatment at the Frostheim
-Hot Springs lately as well.
+He's undergoing medical treatment
+at the Frostheim hot springs.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-He's getting better,
-little by little.
+Little by little his
+condition is improving.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -66,7 +65,7 @@ You should stay for dinner tonight!
 <Mary>
 [ENDBLOCK]
 I make one mean
-Beast Meat Poele, you know!
+Beast Meat Poelee, you know!
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -75,7 +74,8 @@ to stay the night if it gets late.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-No, that's not necessary.
+There's no need.
+I won't be staying long.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -83,31 +83,29 @@ Why is that?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-I have a job to do as well.
+I have a job to do.
 I don't have time for a long visit.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-I see...that's a shame.
+I see... That's a shame.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Well then,
-I need to get going.
+Now, I must be off.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-Sure. Come visit
-again sometime.
+Don't be a stranger.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-I'm sure <Dalis> would also be
-happy to see you anytime, <Lion>.
+I'm sure <Dalis> would love
+to host you soon.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005><center>I found a love letter in the
+<TAG_005><center>You find a love letter in the
 gap between the books.
 [ENDBLOCK]
 
@@ -122,7 +120,7 @@ Let's pretend we didn't see this.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>Gently, you put the love 
+<TAG_005>Gently, you put the love
 letter back in its place.
 [ENDBLOCK]
 
@@ -132,7 +130,7 @@ memories of <Dalis> and <Mary>.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>The snow-white grass is dying.
+<TAG_005>The snow white grass is dying.
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
@@ -146,24 +144,23 @@ been helpful?
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-I'm feeling much better, thanks
-to the hot spring bath.
+I'm feeling much better.
+Those hot springs work wonders.
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-I'll take care of Cyril. I'll keep
-the people from getting upset.
+Entrust Cyril to me.
+I'll keep the people safe.
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
 I think I'll go to the castle and
-discuss a way out with <Darzen>.
+discuss strategies with <Darzen>.
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-We can't afford to make the people
-of Cyril any more uncomfortable
-than they already are.
+We can't afford to have the people
+of Cyril continue living in turmoil.
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
@@ -189,8 +186,8 @@ you have done for me.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-Have a good journey.
-See you later.
+I hope that we can be
+together again soon.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -198,22 +195,24 @@ This house!
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-This is where I live. There's
-nothing here, though.
+This is where I live. It
+isn't much, but it's mine.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-This potted plant... sure looks...
+This potted plant...
+It reminds me of
+something...
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-Snow white grass. It's a specialty
-of the Heidelberg Mountains and
-has beautiful flowers.
+Snow white grass. It is native to
+the Heidelberg Mountains. It has
+the most beautiful flowers.
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-The meaning of these flowers is...
+According to floriography, it means...
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -221,27 +220,27 @@ The meaning of these flowers is...
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-He and I laughed and talked
-about how we were going to 
-fill... this house with flowers.
+The two of us... wanted to
+fill this home with flowers.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-That guy is...
+You two...
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-This kitchen...
+In this kitchen...
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-I came home early because I 
+I came home early because I
 wanted to watch you cook.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-While I was cooking, he would whisper
-sweet nothings into my ear.
+He would come home, whispering
+sweet nothings into my ear as I
+cooked.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -254,20 +253,21 @@ he was eating my poelee.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-On cold nights, I spent time
-huddled together with him in
-front of the fireplace.
+On cold nights, we would huddle
+together in front of the fireplace.
+It was like time stood still.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-There were nights that I
-would just watch him sleep.
+Some nights I had the good
+fortune of watching him sleep
+peacefully through the night...
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
 This house is filled with
-treasures from the days I 
-spent with him.
+treasures from the days
+I spent with him.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -280,12 +280,13 @@ Ugh...
 <Mary>
 [ENDBLOCK]
 It's painful... One memory after
-another, overflowing with...!
+another, it's overwhelming...!
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-It's like a torrent of... My chest...
-feels like it's about to burst...!
+It won't stop... My chest...
+I feel like it's about to 
+burst...!
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
@@ -309,8 +310,8 @@ I'm...!
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-Sorry, guys.
-I'm so distraught...
+Sorry, guys. I lost control
+for a moment there...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -327,8 +328,8 @@ Who is that guy?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-He's the owner of this sword.
-His name is...
+He's the owner of this
+dagger. His name is...
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -336,9 +337,8 @@ His name is...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-As I recall, the person we
-met earlier... was also called
-Captain <Dalis>.
+Wasn't the guy we met earlier
+named Captain <Dalis>?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -367,19 +367,20 @@ wanted to change this country.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-Many people dreamed of the future
+Many people longed for the future
 of this country as he described it.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
 A large number of people gathered
 under him, and soon they became
-the "Cyril Volunteer Army".
+the "Cyril Volunteer Army."
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-My purpose in life was to be
-there for him and support him.
+My purpose in life was
+to be there for him and
+support him.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -387,9 +388,9 @@ And...?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-I wonder how long ago it was.
-The city was suddenly besieged
-by the royal army.
+How many years have passed
+since then...? When my city was
+besieged by the royal army...
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -397,17 +398,19 @@ The Royal Army?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-You mean the upheaval
-two years ago.
+You mean the civil
+war two years ago.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-<Dalis> was the leader of the volunteer
-army and led everyone in a heroic battle.
+<Dalis> was the leader of the
+volunteer army and led them
+in a heroic battle.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-Shoulder to shoulder we fought as one.
+Shoulder to shoulder
+we fought as one.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -421,12 +424,14 @@ How did that happen?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-I don't know the exact reason.
-The only thing I can say for sure is...
+I don't know the exact
+reason. The only thing
+I can say for sure is...
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-It was <Woodrow>'s father,
+It was the work of
+<Woodrow>'s father,
 <King> Isaac.
 [ENDBLOCK]
 <Stahn>
@@ -435,23 +440,23 @@ No way.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Tell me your story first.
-And then what happened?
+Now back to the story.
+What happened next?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
 I fled with <Dalis> to the great river
-to the north, but we were hunted
-down by the royal army.
+up north, but we were hunted down
+by the royal army.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
 In a desperate gamble,
-<Dalis> tried to save me.
+<Dalis> tried to save me...
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-By pushing me off a cliff.
+...by pushing me off a cliff.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -460,16 +465,18 @@ that you lost your memory?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-I'm sure that's what happened.
+I suppose that is possible...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Did <Dalis> not recognize <Mary>?
+How could <Dalis> not
+recognize <Mary>?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-That's not it. I think he knew,
-but pretended not to know.
+I don't think that's what
+happened. He knew, but
+pretended not to know.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -478,20 +485,21 @@ Why would he do that...?
 <Dymlos>
 [ENDBLOCK]
 It seems that this man, <Dalis>, is
-also deeply involved in this rebellion.
+deeply involved in this rebellion.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-Does this mean that <Dalis> has
-teamed up with <Greybum>?
+Does this mean that <Dalis>
+is assisting <Greybum>?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-I don't know.
+I don't understand... any of it...
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-Should I really have come back here?
+Was it a mistake...
+coming back here?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -501,13 +509,13 @@ one thing to do.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-You can ask him directly for
-the answer. It's the fastest way.
+Ask him directly for an answer.
+It's the fastest way.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-That's right. As I recall, he said
-he was going back to Heidelberg.
+I agree. As I recall, he said he
+was going back to Heidelberg.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -519,29 +527,31 @@ Let's go after him, <Mary>.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-...Thank you, both of you. I think
-those words gave me courage.
+Thank you, both of you... With
+everyone by my side, I may have
+the courage to see this through.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-<Dalis> Vincent is his name?
-I've heard of him too.
+I have heard the name
+<Dalis> Vincent before.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-He advocated for the independence
-of Cyril and was the cause of the
+He's the one that advocated for Cyril's
+independence and was the cause of the
 uprising two years ago.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-If he's so dangerous, 
-why did you let him go?
+If he's so dangerous, then why
+  is he doing as he pleases?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-I was told that he was imprisoned.
-I don't know the details, either.
+I only knew of his imprisonment.
+There's more to this than meets
+the eye.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -550,7 +560,7 @@ it here isn't going to do any good.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-...It's a messy situation.
+What a situation this has grown into...
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
@@ -558,7 +568,7 @@ Yes, I know.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Current Gald: <TAG_033>Gald
+<TAG_007>Current Gald: <TAG_033> Gald
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 Yes
@@ -566,9 +576,9 @@ No
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x48><x28><x80></color> 
 [ENDBLOCK]
-has joined the Party.
+has joined the party.
 [ENDBLOCK]
-is now an active 
+is now an active
 party member.
 [ENDBLOCK]
 can join the battle.
@@ -591,9 +601,9 @@ has left the party.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><x4C><x98><x80>
+<center>[<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><x4C><x98><x80>
 [ENDBLOCK]
-<x18><x65><x58><x48><x00><x80></color>.
+<x18><x65><x58><x48><x00><x80></color>]
 
 [ENDBLOCK]
 <x19><x69><x48><x3C><x80>'s party received
@@ -624,7 +634,7 @@ the <turquoise>Strongest Titles
 [ENDBLOCK]
 the <turquoise>Quiz Titles
 [ENDBLOCK]
-<x19><x69><x48><x3C><x80> has received
+<x19><x69><x48><x3C><x80> has received the title:
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -705,53 +715,49 @@ can now be used.
 notice
 [ENDBLOCK]
 <TAG_007>[Titles Description]
-Titles are one of the character parameters
-that can be set on a character. The
-specific set method is as follows.
+Titles are one of the character
+parameters that can be set. 
+The specific method is as follows.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>After opening the main menu,
 the character status will display.
-On this screen, hit <Square_ani> and you'll
-be able to change the character status.
+On this screen, press <Square_ani> to 
+change the character status.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>At the top of this screen, you'll see
-[Titles] On this screen, press <Triangle_ani> 
-and it'll let you pick from all the titles
-you've acquired.
+<TAG_007>At the top of this screen will be
+[Titles]. Press <Triangle_ani> to pick
+from all aquired titles.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>There are two purposes to titles. 
-The first is to [Set your title and 
-talk to the townspeople].
+<TAG_007>Titles serve two purposes:
+The first is to [affect dialogue 
+when talking to NPCs].
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>By setting a title, certain townspeople
-will take interest in you. When you talk
-to them several times, you might get
-interesting responses. When that
-happens, reset the title you have on
-and try talking to them again.
+<TAG_007>Set a title to have certain NPCs interested
+while passing them. When talking with NPCs
+multiple times you may get different responses.
+Change the title and try talking to them again.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Hint: When talking to townspeople, a
-[?] will appear over your character's
-head. If this happens, set a title that
-seems to be related to the dialogue, 
-and try talking to them again. 
+<TAG_007>Hint: When talking to certain NPCs, a [?] will 
+appear over the character's head. If this 
+happens, set a title that seems to be related
+to the dialogue, and try talking to them again.
 Something fun may happen.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>The second purpose of titles is...
+<TAG_007>The second purpose for titles is...
 to make your status screen look cool!
 When collecting titles, you might pick
 up one you like, so you can set it on
@@ -759,15 +765,15 @@ your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>[Rock Rally] is a game in which 
-players kick rocks on the field 
+<TAG_007>[Rock Rally] is a game in which
+players kick rocks on the field
 to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
-1: Kicking a rock outside the 
+1: Kicking a rock outside the
 	city will start the game.
 2: Battles don't affect the clearing
 	objective of the Rock Rally game.

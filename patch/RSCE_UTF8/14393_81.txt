@@ -375,22 +375,22 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Hey, <Stahn>!
-You're looking good!
+Yo, <Stahn>! You're
+lookin' as hearty as always!!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Thanks, <Kongman>.
+You too, <Kongman>!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I'm really happy to see 
-you all again like this.
+I'm really glad you guys
+could come and visit like this.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Huh? <Woodrow>, did you start 
-growing a beard?
+Huh? Hey, <Woodrow>,
+are you growing a beard...?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
@@ -400,12 +400,13 @@ think? Does it suit me?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Yeah, it's cool. It'll look even 
-better when it's longer.
+Yeah, it looks cool!
+It'll look even better
+once it grows more!
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-That's right!
+That's right, that's right!
 King <Woodrow>'s the best!
 [ENDBLOCK]
 <Stahn>
@@ -419,8 +420,8 @@ Livin' with my grampa, as always.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-♪ I'm ready for bow practice, bride
-training, and friendly competition ♪
+Bow training, house-keeping, I'm learning
+all I need to be the best queen ever!!♪
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -449,7 +450,7 @@ you better hit up my arena!
 <Stahn>
 [ENDBLOCK]
 Oh, <Kongman>, they let you
-be the champion again? 
+be the champion again?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
@@ -474,7 +475,7 @@ woman of unparalleled beauty.
 <Stahn>
 [ENDBLOCK]
 <Philia>, you seem a little different.
-Like you're just a little more grown up.
+Like you're just a little more grown up?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -498,18 +499,18 @@ since then, huh...
 <Philia>
 [ENDBLOCK]
 "I want us to all meet at
-my house one year from today"
+my house one year from today."
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
 When you said that, <Stahn>,
 I wasn't sure if it could happen.
-I was a little worried but...
+I was a little worried, but...
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-Seems we all
-had the time.
+Seems everyone
+was able to come.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -528,17 +529,18 @@ looking for, <Stahn>?
 <Stahn>
 [ENDBLOCK]
 It's just, I kinda hoped <Rutee>
-would be here but...
+would be here, but...
 There's no way she's coming.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-What makes you think that?
+Why do you think that is?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Because she just up and
-vanished a year ago...
+Because a year ago,
+she just up and
+vanished without a word...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -584,7 +586,7 @@ So... Whaddaya mean, after all?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Look out below! 
+Look out below!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -602,7 +604,7 @@ Good grief, you're pathetic!
 <Rutee>
 [ENDBLOCK]
 Did you really think I wasn't
-coming just cuz of that!?
+coming just 'cause of that!?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -610,14 +612,13 @@ I think you owe me an apology.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Anyone would think so after 
-you just up and vanished like that!
+Anyone would think so after
+you just left like that!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-I have my reasons, too.
-I've come all this way to 
-prepare for this.
+I was looking forward to this, you know!
+Sheesh. I even got all packed and ready...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -639,7 +640,7 @@ dope next to me, <Stahn> Aileron...
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Starting today, we're going 
+Starting today, we're going
 on a journey together!
 [ENDBLOCK]
 <Stahn>
@@ -672,7 +673,7 @@ Nice!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-I don't know what's going to 
+I don't know what's going to
 happen next, but from now on,
 we're in this together!
 [ENDBLOCK]
@@ -691,7 +692,7 @@ Take care of each other,
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-I'm looking forward 
+I'm looking forward
 to your success.
 [ENDBLOCK]
 <Mary>
@@ -755,18 +756,18 @@ Big bro...!
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Don't you "I'm home!" me!
-Just where have you been!?
+Don't you "I'm home!" 
+me! Just where have
+you been!?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-You didn't even write!
-Do you have any idea
-how worried sick I was!?
+You didn't even write! Do you have
+any idea how worried sick I was!?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I'm sorry. Just calm down, and 
+I'm sorry. Just calm down, and
 I'll never leave you again, okay?
 [ENDBLOCK]
 <Lilith>
@@ -779,7 +780,7 @@ Really.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-It's a promise, okay?
+That's a promise, right?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -787,8 +788,9 @@ I promise.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Then I forgive you.
-...Welcome back, big bro!
+Then I forgive you. 
+...Welcome back, big
+bro!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -804,22 +806,22 @@ Yeah...?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-You're usually a bit of a doofus, 
-but when it comes down to it, 
+You're usually a bit of a doofus,
+but when it comes down to it,
 you were always dependable.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Whenever I had a problem, you would 
-rush over and help me out.
+Whenever I had a problem,
+you'd always come running...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Was I really?
+Did I really?
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-I'm sure that <Philia> 
+I'm sure that <Philia>
 feels the same way.
 [ENDBLOCK]
 <Stahn>
@@ -828,7 +830,8 @@ feels the same way.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I'm going. I've already decided.
+I'm going.
+I've already decided.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
@@ -836,29 +839,30 @@ I'm going. I've already decided.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-It's partly because the king 
-asked me to, but that isn't the
-only reason.
+Sure, it's partly because the
+King summoned me, but
+that's not the only reason.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-The most important reason is 
-because I want to do it.
+I'm going because...
+Because I want to.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Big brother...
+Big bro...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I'm torn though, because I'm
-supposed to make my family happy, 
-but then I'm making you cry.
+I know I'm supposed to make
+my family happy, and that all
+I've done is make you cry...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-But now that I've heard what's going 
-on from <Philia>, I can't just let it go.
+...But now that I've heard from
+<Philia> about what's happened,
+I can't just let it be!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -875,8 +879,8 @@ work it out with Grandpa.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-"Never abandon a person in need" is 
-the Aileron family motto, isn't it?
+"Never abandon a person in need."
+It's the Aileron family motto, isn't it?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -888,9 +892,9 @@ But remember this.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-This is where you will come home to.
-No matter what happens, make sure 
-you come back safely.
+You will come home, someday. Above
+everything, you make sure you come
+back to us safely.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -902,16 +906,18 @@ That's a promise, right?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I'll be back.
+I promise.
+I will return.
 [ENDBLOCK]
 <Lilith>
 [ENDBLOCK]
-Yeah! Then we should go back into
-the house and get ready real quick!
+Okay! In that case, let's hurry
+back inside. You've got some
+packing to do!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Current Gald: <TAG_033>Gald
+<TAG_007>Current Gald: <TAG_033> Gald
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 Yes
@@ -919,9 +925,9 @@ No
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x49><x0C><x80></color> 
 [ENDBLOCK]
-has joined the Party.
+has joined the party.
 [ENDBLOCK]
-is now an active 
+is now an active
 party member.
 [ENDBLOCK]
 can join the battle.
@@ -944,9 +950,9 @@ has left the party.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x49><x30><x98><x80>
+<center>[<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x49><x30><x98><x80>
 [ENDBLOCK]
-<x18><x65><x59><x2C><x00><x80></color>.
+<x18><x65><x59><x2C><x00><x80></color>]
 
 [ENDBLOCK]
 <x19><x69><x49><x20><x80>'s party received
@@ -977,7 +983,7 @@ the <turquoise>Strongest Titles
 [ENDBLOCK]
 the <turquoise>Quiz Titles
 [ENDBLOCK]
-<x19><x69><x49><x20><x80> has received
+<x19><x69><x49><x20><x80> has received the title:
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -1058,53 +1064,49 @@ can now be used.
 notice
 [ENDBLOCK]
 <TAG_007>[Titles Description]
-Titles are one of the character parameters
-that can be set on a character. The
-specific set method is as follows.
+Titles are one of the character
+parameters that can be set. 
+The specific method is as follows.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>After opening the main menu,
 the character status will display.
-On this screen, hit <Square_ani> and you'll
-be able to change the character status.
+On this screen, press <Square_ani> to 
+change the character status.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>At the top of this screen, you'll see
-[Titles] On this screen, press <Triangle_ani> 
-and it'll let you pick from all the titles
-you've acquired.
+<TAG_007>At the top of this screen will be
+[Titles]. Press <Triangle_ani> to pick
+from all aquired titles.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>There are two purposes to titles. 
-The first is to [Set your title and 
-talk to the townspeople].
+<TAG_007>Titles serve two purposes:
+The first is to [affect dialogue 
+when talking to NPCs].
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>By setting a title, certain townspeople
-will take interest in you. When you talk
-to them several times, you might get
-interesting responses. When that
-happens, reset the title you have on
-and try talking to them again.
+<TAG_007>Set a title to have certain NPCs interested
+while passing them. When talking with NPCs
+multiple times you may get different responses.
+Change the title and try talking to them again.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Hint: When talking to townspeople, a
-[?] will appear over your character's
-head. If this happens, set a title that
-seems to be related to the dialogue, 
-and try talking to them again. 
+<TAG_007>Hint: When talking to certain NPCs, a [?] will 
+appear over the character's head. If this 
+happens, set a title that seems to be related
+to the dialogue, and try talking to them again.
 Something fun may happen.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>The second purpose of titles is...
+<TAG_007>The second purpose for titles is...
 to make your status screen look cool!
 When collecting titles, you might pick
 up one you like, so you can set it on
@@ -1112,15 +1114,15 @@ your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>[Rock Rally] is a game in which 
-players kick rocks on the field 
+<TAG_007>[Rock Rally] is a game in which
+players kick rocks on the field
 to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
-1: Kicking a rock outside the 
+1: Kicking a rock outside the
 	city will start the game.
 2: Battles don't affect the clearing
 	objective of the Rock Rally game.

@@ -30,7 +30,7 @@ building a nest?
 [ENDBLOCK]
 Clerk
 [ENDBLOCK]
-Yeah, that's right. Every year, 
+Yeah, that's right. Every year,
 they lay their eggs on our roof.
 [ENDBLOCK]
 <Mary>
@@ -80,13 +80,14 @@ both strange kids.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-But, <Mary>, that bird 
+But, <Mary>, that bird
 is still a newlywed.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
 What are you saying, <Stahn>?
-These birds are more than we expected.
+These birds are more than
+we expected.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -140,22 +141,22 @@ two eggs?
 [ENDBLOCK]
 Clerk
 [ENDBLOCK]
-The other egg 
+The other egg
 didn't make it.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Is that so...
+Is that so...?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-I hope that at least the 
+I hope that at least the
 remaining chicks will leave
 the nest in good health.
 [ENDBLOCK]
 Clerk
 [ENDBLOCK]
-I think it's time for 
+I think it's time for
 you to leave the nest.
 [ENDBLOCK]
 <Mary>
@@ -190,8 +191,8 @@ They don't join their children.
 [ENDBLOCK]
 Clerk
 [ENDBLOCK]
-The chicks' parents will fly
-off and find a place to die together.
+The chicks' parents will fly off
+and find a place to die together.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -199,10 +200,9 @@ What? Why?
 [ENDBLOCK]
 Clerk
 [ENDBLOCK]
-I don't know why, but I guess 
-once they've finished raising
-their chicks, they no longer
-have a role in this world.
+I don't know why, but I guess once
+they've finished raising their chicks,
+they have no purpose in this world.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -210,14 +210,13 @@ I see...
 [ENDBLOCK]
 Clerk
 [ENDBLOCK]
-Even the birds that just
-left the nest will share
-the same fate next year.
+Even the birds that just left the nest
+will share the same fate next year.
 [ENDBLOCK]
 Clerk
 [ENDBLOCK]
-Through this cycle, the
-future of their lineage is made.
+Through this cycle, the future
+of their lineage is made.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -225,9 +224,9 @@ Yeah, it's not sad.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Thoughts connect lives and
-create the future. I wonder 
-if that's what our role is.
+Thoughts connect lives and create 
+the future. I wonder if that's what
+our role is.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -288,13 +287,15 @@ Ladies, are you travelers?
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-This is Harmentz, a village 
-full of greenery and water.
+This is Harmentz, a village
+where crystal clear water
+flows and plant life grows.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-This is Harmentz, a village 
-full of greenery and water.
+This is Harmentz, a village
+where crystal clear water
+flows and plant life grows.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -321,13 +322,15 @@ Ladies, are you travelers?
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-This is Harmentz, a village 
-full of greenery and water.
+This is Harmentz, a village
+where crystal clear water
+flows and plant life grows.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-This is Harmentz, a village 
-full of greenery and water.
+This is Harmentz, a village
+where crystal clear water
+flows and plant life grows.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -369,26 +372,26 @@ continue to run this store.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-If you want to go to the royal
-capital Darilsheid, simply
-leave this village and go east.
+If you want to go to the royal capital
+Darilsheid, simply leave this village
+and go east.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-I was also surprised that 
-only three guys took 
-out that many soldiers...
+I was also surprised that
+only three guys took out
+that many soldiers...
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-I'm even more amazed 
+I'm even more amazed
 that you caught them.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-If you want to go to the royal
-capital Darilsheid, simply
-leave this village and go east.
+If you want to go to the royal capital
+Darilsheid, simply leave this village
+and go east.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
@@ -410,7 +413,7 @@ I hope you guys win.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Thanks to <Walt>,
+It's thanks to <Walt> that
 this village is thriving.
 [ENDBLOCK]
 Boy
@@ -420,18 +423,18 @@ that guy, but I'm grateful to him.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Thanks to <Walt>,
+It's thanks to <Walt> that
 this village is thriving.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Thanks to Mr. <Walt>'s decision,
-the peace of the village was preserved.
+Thanks to Mr. <Walt>'s decision, the
+peace of the village was preserved.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Thanks to <Walt>. 
-This village is thriving
+It's thanks to <Walt> that
+this village is thriving.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -440,7 +443,7 @@ that guy, but I'm grateful to him.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Thanks to <Walt>,
+It's thanks to <Walt> that
 this village is thriving.
 [ENDBLOCK]
 Boy
@@ -455,14 +458,15 @@ safe. I knew we could rely on him.
 [ENDBLOCK]
 Grandma
 [ENDBLOCK]
-The people of Seinegald are deeply
-devout. That is why the Straylize
-Temple was built.
+The people of Seinegald are
+deeply devout. That is why the
+Straylize Temple was built.
 [ENDBLOCK]
 Grandma
 [ENDBLOCK]
-I thought this was a time of peace, 
-but I didn't realize these kids were fighting.
+I thought this was a time of
+peace, but I didn't realize 
+these kids were fighting.
 [ENDBLOCK]
 Grandma
 [ENDBLOCK]
@@ -471,9 +475,9 @@ us save Seinegald...
 [ENDBLOCK]
 Grandma
 [ENDBLOCK]
-The people of Seinegald are deeply
-devout. That is why the Straylize
-Temple was built.
+The people of Seinegald are
+deeply devout. That is why the
+Straylize Temple was built.
 [ENDBLOCK]
 Grandma
 [ENDBLOCK]
@@ -483,12 +487,12 @@ us save Seinegald...
 Grandma
 [ENDBLOCK]
 Not only do we have to ask God
-for help, but we also have to 
+for help, but we also have to
 make an effort ourselves.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Current Gald: <TAG_033>Gald
+<TAG_007>Current Gald: <TAG_033> Gald
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 Yes
@@ -496,9 +500,9 @@ No
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x48><xA8><x80></color> 
 [ENDBLOCK]
-has joined the Party.
+has joined the party.
 [ENDBLOCK]
-is now an active 
+is now an active
 party member.
 [ENDBLOCK]
 can join the battle.
@@ -521,9 +525,9 @@ has left the party.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xCC><x98><x80>
+<center>[<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xCC><x98><x80>
 [ENDBLOCK]
-<x18><x65><x58><xC8><x00><x80></color>.
+<x18><x65><x58><xC8><x00><x80></color>]
 
 [ENDBLOCK]
 <x19><x69><x48><xBC><x80>'s party received
@@ -554,7 +558,7 @@ the <turquoise>Strongest Titles
 [ENDBLOCK]
 the <turquoise>Quiz Titles
 [ENDBLOCK]
-<x19><x69><x48><xBC><x80> has received
+<x19><x69><x48><xBC><x80> has received the title:
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -635,53 +639,49 @@ can now be used.
 notice
 [ENDBLOCK]
 <TAG_007>[Titles Description]
-Titles are one of the character parameters
-that can be set on a character. The
-specific set method is as follows.
+Titles are one of the character
+parameters that can be set. 
+The specific method is as follows.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>After opening the main menu,
 the character status will display.
-On this screen, hit <Square_ani> and you'll
-be able to change the character status.
+On this screen, press <Square_ani> to 
+change the character status.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>At the top of this screen, you'll see
-[Titles] On this screen, press <Triangle_ani> 
-and it'll let you pick from all the titles
-you've acquired.
+<TAG_007>At the top of this screen will be
+[Titles]. Press <Triangle_ani> to pick
+from all aquired titles.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>There are two purposes to titles. 
-The first is to [Set your title and 
-talk to the townspeople].
+<TAG_007>Titles serve two purposes:
+The first is to [affect dialogue 
+when talking to NPCs].
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>By setting a title, certain townspeople
-will take interest in you. When you talk
-to them several times, you might get
-interesting responses. When that
-happens, reset the title you have on
-and try talking to them again.
+<TAG_007>Set a title to have certain NPCs interested
+while passing them. When talking with NPCs
+multiple times you may get different responses.
+Change the title and try talking to them again.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Hint: When talking to townspeople, a
-[?] will appear over your character's
-head. If this happens, set a title that
-seems to be related to the dialogue, 
-and try talking to them again. 
+<TAG_007>Hint: When talking to certain NPCs, a [?] will 
+appear over the character's head. If this 
+happens, set a title that seems to be related
+to the dialogue, and try talking to them again.
 Something fun may happen.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>The second purpose of titles is...
+<TAG_007>The second purpose for titles is...
 to make your status screen look cool!
 When collecting titles, you might pick
 up one you like, so you can set it on
@@ -689,15 +689,15 @@ your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>[Rock Rally] is a game in which 
-players kick rocks on the field 
+<TAG_007>[Rock Rally] is a game in which
+players kick rocks on the field
 to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
-1: Kicking a rock outside the 
+1: Kicking a rock outside the
 	city will start the game.
 2: Battles don't affect the clearing
 	objective of the Rock Rally game.

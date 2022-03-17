@@ -1,83 +1,87 @@
-Barista
+Barkeep
 [ENDBLOCK]
-The rebels come here often, too.
-Don't say too much about them.
+The rebels come here a lot
+too. Best mind your mouth
+around them.
 [ENDBLOCK]
-Barista
-[ENDBLOCK]
-Welcome!
-[ENDBLOCK]
-Barista
-[ENDBLOCK]
-Your Majesty! We are honored to have
-you visit us in this kind of establishment.
-[ENDBLOCK]
-Barista
+Barkeep
 [ENDBLOCK]
 Welcome!
 [ENDBLOCK]
-Barista
+Barkeep
+[ENDBLOCK]
+Your Majesty! It's an honor to have
+you visit my establishment!
+[ENDBLOCK]
+Barkeep
+[ENDBLOCK]
+Welcome!
+[ENDBLOCK]
+Barkeep
 [ENDBLOCK]
 We'll be fine.
-Good luck, Your Majesty!
+Give 'em Hell, Your Majesty!
 [ENDBLOCK]
-Barista
+Barkeep
 [ENDBLOCK]
-We've survived the <Greybum> Rebellion.
-Nothing can scare us at this point.
+We survived the <Greybum> Rebellion.
+Nothing can scare us at this point!
 [ENDBLOCK]
-Barista
+Barkeep
 [ENDBLOCK]
-The rebels come here often, too.
-Don't say too much about them.
+The rebels come here a lot
+too. Best mind your mouth
+around them.
 [ENDBLOCK]
-Barista
-[ENDBLOCK]
-Welcome!
-[ENDBLOCK]
-Barista
-[ENDBLOCK]
-Your Majesty! We are honored to have
-you visit us in this kind of establishment.
-[ENDBLOCK]
-Barista
+Barkeep
 [ENDBLOCK]
 Welcome!
 [ENDBLOCK]
-Barista
+Barkeep
+[ENDBLOCK]
+Your Majesty! It's an honor to have
+you visit my establishment!
+[ENDBLOCK]
+Barkeep
+[ENDBLOCK]
+Welcome!
+[ENDBLOCK]
+Barkeep
 [ENDBLOCK]
 We'll be fine.
-Good luck, Your Majesty!
+Give 'em Hell, Your Majesty!
 [ENDBLOCK]
-Barista
+Barkeep
 [ENDBLOCK]
-We've survived the <Greybum> Rebellion.
-Nothing can scare us at this point.
+We survived the <Greybum> Rebellion.
+Nothing can scare us at this point!
 [ENDBLOCK]
 Worker
 [ENDBLOCK]
-The rebels are great customers too,
-as long as they pay their bills on time.
+As long as they pay their bill,
+I don't mind serving the rebels.
 [ENDBLOCK]
 Worker
 [ENDBLOCK]
 I have nothing against the people
-of Cyril. And they paid well.
+of Cyril. They tip well, too!
 [ENDBLOCK]
 Worker
 [ENDBLOCK]
-Oh, my. You look like
-His Majesty, don't you?
+Oh hey, you kinda remind
+me of the king, you know?
+I bet you get that a lot!
 [ENDBLOCK]
 Worker
 [ENDBLOCK]
-Oh, your companion
-looks like His Majesty.
+Your buddy there kinda
+looks like our king.
+I bet he gets that a lot!
 [ENDBLOCK]
 Worker
 [ENDBLOCK]
-Seinegald was attacked, wasn't it?
-When will this country be targeted...?
+Seinegald was attacked, right?
+When will our country be targeted...?
 [ENDBLOCK]
 Worker
 [ENDBLOCK]
@@ -86,40 +90,42 @@ lightning will strike again...
 [ENDBLOCK]
 Worker
 [ENDBLOCK]
-Y-Your Majesty! You
-weren't a look-alike!
+Y-Your Majesty!
+It really was you!
 [ENDBLOCK]
 Worker
 [ENDBLOCK]
-I'm sorry. I'm so sorry!
+I'm sorry!
+I'm so sorry!
 [ENDBLOCK]
 Worker
 [ENDBLOCK]
-Good luck, everyone.
+Do your best, you guys!
 [ENDBLOCK]
 Customer
 [ENDBLOCK]
-<Greybum> you... won't get
-away with this... Hiccup.
+D-Damn you, <Greybum>...
+Y-You won't get away
+with this... *HICC*
 [ENDBLOCK]
 Customer
 [ENDBLOCK]
-King <Woodrow>, congratulations
-on your enthronement... Hiccup.
+Three cheers for our new
+King <Woodrow>! *HICCUP*
 [ENDBLOCK]
 Customer
 [ENDBLOCK]
-What's Belcrant? I don't know
-anything about that... Hiccup.
+What's a Belcrant? I don't know
+anything about that... *HIC*
 [ENDBLOCK]
 Customer
 [ENDBLOCK]
-What the... hell, why is it still night
-outside all the time? ...Hiccup.
+Ugh... why's it... still nighttime?
+What's going on out there? *HICK*
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Current Gald: <TAG_033>Gald
+<TAG_007>Current Gald: <TAG_033> Gald
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 Yes
@@ -127,9 +133,9 @@ No
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x47><xC4><x80></color> 
 [ENDBLOCK]
-has joined the Party.
+has joined the party.
 [ENDBLOCK]
-is now an active 
+is now an active
 party member.
 [ENDBLOCK]
 can join the battle.
@@ -152,9 +158,9 @@ has left the party.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x47><xE8><x98><x80>
+<center>[<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x47><xE8><x98><x80>
 [ENDBLOCK]
-<x18><x65><x57><xE4><x00><x80></color>.
+<x18><x65><x57><xE4><x00><x80></color>]
 
 [ENDBLOCK]
 <x19><x69><x47><xD8><x80>'s party received
@@ -185,7 +191,7 @@ the <turquoise>Strongest Titles
 [ENDBLOCK]
 the <turquoise>Quiz Titles
 [ENDBLOCK]
-<x19><x69><x47><xD8><x80> has received
+<x19><x69><x47><xD8><x80> has received the title:
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -266,53 +272,49 @@ can now be used.
 notice
 [ENDBLOCK]
 <TAG_007>[Titles Description]
-Titles are one of the character parameters
-that can be set on a character. The
-specific set method is as follows.
+Titles are one of the character
+parameters that can be set. 
+The specific method is as follows.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>After opening the main menu,
 the character status will display.
-On this screen, hit <Square_ani> and you'll
-be able to change the character status.
+On this screen, press <Square_ani> to 
+change the character status.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>At the top of this screen, you'll see
-[Titles] On this screen, press <Triangle_ani> 
-and it'll let you pick from all the titles
-you've acquired.
+<TAG_007>At the top of this screen will be
+[Titles]. Press <Triangle_ani> to pick
+from all aquired titles.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>There are two purposes to titles. 
-The first is to [Set your title and 
-talk to the townspeople].
+<TAG_007>Titles serve two purposes:
+The first is to [affect dialogue 
+when talking to NPCs].
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>By setting a title, certain townspeople
-will take interest in you. When you talk
-to them several times, you might get
-interesting responses. When that
-happens, reset the title you have on
-and try talking to them again.
+<TAG_007>Set a title to have certain NPCs interested
+while passing them. When talking with NPCs
+multiple times you may get different responses.
+Change the title and try talking to them again.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Hint: When talking to townspeople, a
-[?] will appear over your character's
-head. If this happens, set a title that
-seems to be related to the dialogue, 
-and try talking to them again. 
+<TAG_007>Hint: When talking to certain NPCs, a [?] will 
+appear over the character's head. If this 
+happens, set a title that seems to be related
+to the dialogue, and try talking to them again.
 Something fun may happen.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>The second purpose of titles is...
+<TAG_007>The second purpose for titles is...
 to make your status screen look cool!
 When collecting titles, you might pick
 up one you like, so you can set it on
@@ -320,15 +322,15 @@ your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>[Rock Rally] is a game in which 
-players kick rocks on the field 
+<TAG_007>[Rock Rally] is a game in which
+players kick rocks on the field
 to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
-1: Kicking a rock outside the 
+1: Kicking a rock outside the
 	city will start the game.
 2: Battles don't affect the clearing
 	objective of the Rock Rally game.

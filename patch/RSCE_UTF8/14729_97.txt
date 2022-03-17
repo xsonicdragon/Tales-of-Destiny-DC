@@ -19,10 +19,10 @@
 よんでるよ
 
 [ENDBLOCK]
-aa 
+aa
 
 [ENDBLOCK]
-bb 
+bb
 
 [ENDBLOCK]
 あたったよ
@@ -70,33 +70,33 @@ Damage
 
 [ENDBLOCK]
 Looks like a gas vent.
-Is this gas flammable...?
+Could the gas be flammable...?
 [ENDBLOCK]
 It's a gas vent. You can't
 use any fire in this place.
 [ENDBLOCK]
-It looks like a gas vent. 
-If I use fire... it'll explode♪
+It looks like a gas vent.
+If you use fire... it'll explode!
 [ENDBLOCK]
-Looks like a gas vent. Should
-we be careful with fire?
+Looks like a gas vent. 
+Should we be careful with fire?
 [ENDBLOCK]
 Looks like a gas vent.
 [ENDBLOCK]
-Looks like a gas vent. Should
-we be careful with fire?
+Looks like a gas vent. 
+Should we be careful with fire?
 [ENDBLOCK]
 It's a gas vent.
-So If you light it... it will...?
+So if you ignite it...
 [ENDBLOCK]
 Looks like a gas vent. If you use
 fire, you're gonna get smoked.
 [ENDBLOCK]
-It looks like a gas vent. 
+It looks like a gas vent.
 Can't use fire here...
 [ENDBLOCK]
-A gas vent. You
-can't use fire here...
+A gas vent.
+You can't use fire here...
 [ENDBLOCK]
 Default
 [ENDBLOCK]
@@ -104,7 +104,7 @@ Default
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Current Gald: <TAG_033>Gald
+<TAG_007>Current Gald: <TAG_033> Gald
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 Yes
@@ -112,9 +112,9 @@ No
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x4A><xB0><x80></color> 
 [ENDBLOCK]
-has joined the Party.
+has joined the party.
 [ENDBLOCK]
-is now an active 
+is now an active
 party member.
 [ENDBLOCK]
 can join the battle.
@@ -137,9 +137,9 @@ has left the party.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x4A><xD4><x98><x80>
+<center>[<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x4A><xD4><x98><x80>
 [ENDBLOCK]
-<x18><x65><x5A><xD0><x00><x80></color>.
+<x18><x65><x5A><xD0><x00><x80></color>]
 
 [ENDBLOCK]
 <x19><x69><x4A><xC4><x80>'s party received
@@ -170,7 +170,7 @@ the <turquoise>Strongest Titles
 [ENDBLOCK]
 the <turquoise>Quiz Titles
 [ENDBLOCK]
-<x19><x69><x4A><xC4><x80> has received
+<x19><x69><x4A><xC4><x80> has received the title:
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -251,53 +251,49 @@ can now be used.
 notice
 [ENDBLOCK]
 <TAG_007>[Titles Description]
-Titles are one of the character parameters
-that can be set on a character. The
-specific set method is as follows.
+Titles are one of the character
+parameters that can be set. 
+The specific method is as follows.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>After opening the main menu,
 the character status will display.
-On this screen, hit <Square_ani> and you'll
-be able to change the character status.
+On this screen, press <Square_ani> to 
+change the character status.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>At the top of this screen, you'll see
-[Titles] On this screen, press <Triangle_ani> 
-and it'll let you pick from all the titles
-you've acquired.
+<TAG_007>At the top of this screen will be
+[Titles]. Press <Triangle_ani> to pick
+from all aquired titles.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>There are two purposes to titles. 
-The first is to [Set your title and 
-talk to the townspeople].
+<TAG_007>Titles serve two purposes:
+The first is to [affect dialogue 
+when talking to NPCs].
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>By setting a title, certain townspeople
-will take interest in you. When you talk
-to them several times, you might get
-interesting responses. When that
-happens, reset the title you have on
-and try talking to them again.
+<TAG_007>Set a title to have certain NPCs interested
+while passing them. When talking with NPCs
+multiple times you may get different responses.
+Change the title and try talking to them again.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Hint: When talking to townspeople, a
-[?] will appear over your character's
-head. If this happens, set a title that
-seems to be related to the dialogue, 
-and try talking to them again. 
+<TAG_007>Hint: When talking to certain NPCs, a [?] will 
+appear over the character's head. If this 
+happens, set a title that seems to be related
+to the dialogue, and try talking to them again.
 Something fun may happen.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>The second purpose of titles is...
+<TAG_007>The second purpose for titles is...
 to make your status screen look cool!
 When collecting titles, you might pick
 up one you like, so you can set it on
@@ -305,15 +301,15 @@ your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>[Rock Rally] is a game in which 
-players kick rocks on the field 
+<TAG_007>[Rock Rally] is a game in which
+players kick rocks on the field
 to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
-1: Kicking a rock outside the 
+1: Kicking a rock outside the
 	city will start the game.
 2: Battles don't affect the clearing
 	objective of the Rock Rally game.

@@ -227,7 +227,7 @@ Everyone, please...
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-You sure took your time!
+<center>You sure took your time!
 What were you even doing!?
 [ENDBLOCK]
 <Stahn>
@@ -237,12 +237,12 @@ give me a break!
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-<Dymlos>, please calm down.
+<center><Dymlos>, please calm down.
 They don't know what's going on.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-...
+<center>...
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
@@ -280,7 +280,7 @@ Yes. That is priority number one.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-You got that right! This is my 
+You got that right! This is my
 chance to finally become a knight!
 [ENDBLOCK]
 <Dymlos>
@@ -289,13 +289,14 @@ That's not even in the top ten!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Well it should be! Don't rain 
+Well it should be! Don't rain
 on my parade, here!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Stop talking like I've
-accepted all this for nothing!
+Stop talking like
+I've accepted all
+this for nothing!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -312,7 +313,7 @@ Awhuh?
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-As compensation for a job well 
+As compensation for a job well
 done, of course. How about it?
 [ENDBLOCK]
 <Rutee>
@@ -444,7 +445,7 @@ some strange stuff to me.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-He called me "a dear friend".
+He called me "a dear friend."
 I mean, who talks like that?
 [ENDBLOCK]
 <Marian>
@@ -502,7 +503,7 @@ give me that kind smile.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_007>As time passed and I grew 
+<TAG_007>As time passed and I grew
 older, I no longer needed to look up
 for that smile.
 [ENDBLOCK]
@@ -554,7 +555,8 @@ Oh, Emilio, don't tease me like that.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-By the way, are you on duty today?
+By the way, are you
+on duty today?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -562,28 +564,29 @@ No, I don't have any duties today.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-So, I think I'll just take 
+So, I think I'll just take
 it easy at home today.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-Oh, come on. Someone as young as you
-shouldn't be saying things like that.
+Oh, come on. Someone as
+young as you shouldn't be
+saying things like that.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
 What are you saying, <Marian>?
-You're not that much older 
+You're not that much older
 than I am.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-Although I'm happy to 
+Although I'm happy to
 hear that from you...
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-It's not like our age 
+It's not like our age
 gap will ever close.
 [ENDBLOCK]
 <Lion>
@@ -601,9 +604,9 @@ there is an urgent task for you.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Even if it's an emergency,
-who gave you permission to
-barge into my home like this?
+Even if it's an emergency, who
+gave you permission to barge
+into my home like this?
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
@@ -613,7 +616,8 @@ However...
 <Lion>
 [ENDBLOCK]
 Never mind. Out with it.
-What do they want with me?
+What do they want with 
+me?
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
@@ -631,12 +635,13 @@ have been found.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-What's so special about these thieves
-that would require my presence?
+What's so special about these
+thieves that would require my
+presence?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-You should be able to
+Shouldn't you be able to
 handle this on your own.
 [ENDBLOCK]
 Soldier
@@ -647,8 +652,8 @@ should handle it, Sir <Lion>.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-<Hugo>? In that case,
-who are these thieves?
+<Hugo>? In that case, who
+are these thieves?
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
@@ -661,29 +666,31 @@ and <Mary> Argent.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-They're a pair of female thieves.
-Extortion is also among their crimes.
+They're a pair of female
+thieves. Extortion is also
+among their crimes.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-It also appears that this time,
-another person has joined their ranks.
+It also appears that this
+time, another person has
+joined their ranks.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-According to the report, <Rutee>
-Katrea seems to be in possession 
-of a mysterious sword.
+According to the report, It appears
+<Rutee> Katrea is in possession of a
+mysterious sword.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-Because of that, they've been
-able to evade capture up until now.
+Because of that, they've been able
+to evade capture up until now.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-A mysterious sword?
-I see, so that's how it is.
+A mysterious sword? I 
+see, so that's how it is.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -696,8 +703,9 @@ The Village of Harmentz.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-The advance team has already departed,
-it is requested that you depart at once.
+The advance team has already
+departed, it is requested that
+you depart at once.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
@@ -709,12 +717,12 @@ Did you hear that, Chal?
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-Yes, I've heard enough,
+<center>Yes, I've heard enough,
 young master.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-The "mysterious sword" they mentioned...
+<center>The "mysterious sword" they mentioned...
 it's probably a Swordian.
 [ENDBLOCK]
 <Lion>
@@ -724,28 +732,30 @@ wanted criminal <Rutee> Katrea...
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-But, if I remember correctly, isn't 
-<Rutee> your long lost sister,
-young master?
+<center>But, if I remember correctly,
+isn't <Rutee> your long lost
+sister, young master?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-No, we can't be sure yet. Besides, 
-I've yet to meet her.
+No, we can't be sure 
+yet. Besides, I've yet
+to meet her.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-At any rate, she's probably too much
-for those useless soldiers to handle.
+At any rate, she's probably
+too much for those useless
+soldiers to handle.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Chal, let's hurry on
-to Harmentz.
+Chal, let's hurry
+on to Harmentz.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-Yes, young master.
+<center>Yes, young master.
 [ENDBLOCK]
 
 [ENDBLOCK]
@@ -755,12 +765,12 @@ Yes, young master.
 [ENDBLOCK]
 <x06><xD8><x00><x00><x00><TAG_007>"...To become an adult..."
 [ENDBLOCK]
-<x06><x15><x01><x00><x40><x06><x2A><x01><x00><x20>I wonder if I really
+<x06><x15><x01><x00><x40><x06><x2A><x01><x00><x20><center>I wonder if I really
 got what I was after...
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_007>Ironically, I got something
+<TAG_007><center>Ironically, I got something
 else on this journey. something
 I didn't even know I wanted.
 [ENDBLOCK]
@@ -768,21 +778,21 @@ I didn't even know I wanted.
 [ENDBLOCK]
 <x06><xD8><x00><x00><x00><TAG_007> "...Friendship..."
 [ENDBLOCK]
-<x06><x15><x01><x00><x40><x06><x2A><x01><x00><x20>Now I get it, what had
-been growing within me every day...
+<x06><x15><x01><x00><x40><x06><x2A><x01><x00><x20><center>Now I get it, what had been
+growing within me every day...
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_007>Chal said something to me
+<TAG_007><center>Chal said something to me
 in the middle of the journey.
 [ENDBLOCK]
-"You shouldn't be so focused
+ "You shouldn't be so focused
 only on serious things like that."
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_007>I wonder if I'll
-ever be able to admit it...
+<TAG_007>I wonder if I'll ever
+be able to admit it...
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -790,13 +800,13 @@ Good morning, <Marian>.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-Well! You're up
-early today, Emilio.
+Well! You're up early
+today, Emilio.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-I'll hurry and
-get breakfast ready.
+I'll hurry and get 
+breakfast ready.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -810,13 +820,13 @@ but I believe I will pass.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-I'm expected at
-the castle, today.
+I'm expected at the
+castle, today.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-You seem to have
-become very busy, lately.
+You seem to have become
+very busy, lately.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -825,14 +835,14 @@ the world, this is nothing.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-It's already been two
-months since then, hasn't it?
+It's already been two months
+since then, hasn't it?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-It feels like yesterday that
-I was saying goodbye to
-<Stahn> and the others...
+It feels like yesterday that I 
+was saying goodbye to <Stahn>
+and the others...
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
@@ -841,13 +851,13 @@ your friends aren't with you?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-...Oh come on.
-You know I'm not like that.
+...Oh come on. You know
+I'm not like that.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-Hehehe~! You've
-changed so much, Emilio.
+Hehehe~! You've changed
+so much, Emilio.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -856,8 +866,8 @@ Did you like me better before?
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-Not at all. The way
-you are now is wonderful.
+Not at all. The way you
+are now is wonderful.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -888,7 +898,7 @@ he said something weird to me.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-He said he considered me a "good friend".
+He said he considered me a "good friend."
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
@@ -993,7 +1003,7 @@ See you soon!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Current Gald: <TAG_033>Gald
+<TAG_007>Current Gald: <TAG_033> Gald
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 Yes
@@ -1001,9 +1011,9 @@ No
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x48><x88><x80></color> 
 [ENDBLOCK]
-has joined the Party.
+has joined the party.
 [ENDBLOCK]
-is now an active 
+is now an active
 party member.
 [ENDBLOCK]
 can join the battle.
@@ -1026,9 +1036,9 @@ has left the party.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xAC><x98><x80>
+[<center><turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xAC><x98><x80>
 [ENDBLOCK]
-<x18><x65><x58><xA8><x00><x80></color>.
+<x18><x65><x58><xA8><x00><x80></color>]
 
 [ENDBLOCK]
 <x19><x69><x48><x9C><x80>'s party received
@@ -1059,7 +1069,7 @@ the <turquoise>Strongest Titles
 [ENDBLOCK]
 the <turquoise>Quiz Titles
 [ENDBLOCK]
-<x19><x69><x48><x9C><x80> has received
+<x19><x69><x48><x9C><x80> has received the title:
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -1140,53 +1150,49 @@ can now be used.
 notice
 [ENDBLOCK]
 <TAG_007>[Titles Description]
-Titles are one of the character parameters
-that can be set on a character. The
-specific set method is as follows.
+Titles are one of the character
+parameters that can be set. 
+The specific method is as follows.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>After opening the main menu,
 the character status will display.
-On this screen, hit <Square_ani> and you'll
-be able to change the character status.
+On this screen, press <Square_ani> to 
+change the character status.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>At the top of this screen, you'll see
-[Titles] On this screen, press <Triangle_ani> 
-and it'll let you pick from all the titles
-you've acquired.
+<TAG_007>At the top of this screen will be
+[Titles]. Press <Triangle_ani> to pick
+from all aquired titles.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>There are two purposes to titles. 
-The first is to [Set your title and 
-talk to the townspeople].
+<TAG_007>Titles serve two purposes:
+The first is to [affect dialogue 
+when talking to NPCs].
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>By setting a title, certain townspeople
-will take interest in you. When you talk
-to them several times, you might get
-interesting responses. When that
-happens, reset the title you have on
-and try talking to them again.
+<TAG_007>Set a title to have certain NPCs interested
+while passing them. When talking with NPCs
+multiple times you may get different responses.
+Change the title and try talking to them again.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Hint: When talking to townspeople, a
-[?] will appear over your character's
-head. If this happens, set a title that
-seems to be related to the dialogue, 
-and try talking to them again. 
+<TAG_007>Hint: When talking to certain NPCs, a [?] will 
+appear over the character's head. If this 
+happens, set a title that seems to be related
+to the dialogue, and try talking to them again.
 Something fun may happen.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>The second purpose of titles is...
+<TAG_007>The second purpose for titles is...
 to make your status screen look cool!
 When collecting titles, you might pick
 up one you like, so you can set it on
@@ -1194,15 +1200,15 @@ your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>[Rock Rally] is a game in which 
-players kick rocks on the field 
+<TAG_007>[Rock Rally] is a game in which
+players kick rocks on the field
 to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
-1: Kicking a rock outside the 
+1: Kicking a rock outside the
 	city will start the game.
 2: Battles don't affect the clearing
 	objective of the Rock Rally game.

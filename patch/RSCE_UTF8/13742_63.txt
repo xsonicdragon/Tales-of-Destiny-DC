@@ -496,7 +496,7 @@ Thank you!
 [ENDBLOCK]
 Item Shop
 [ENDBLOCK]
-The only secret Calvalesians 
+The only secret Calvalesians
 I know are in Janos, I believe.
 [ENDBLOCK]
 Item Shop
@@ -516,7 +516,7 @@ Calvalese, they'll lose their livelihood.
 [ENDBLOCK]
 Item Shop
 [ENDBLOCK]
-The only secret Calvalesians 
+The only secret Calvalesians
 I know are in Janos, I believe.
 [ENDBLOCK]
 Item Shop
@@ -540,7 +540,8 @@ woman at <Hugo>'s Mansion.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-I'm pretty sure her name is <Marian>...
+I'm pretty sure her
+name is <Marian>...
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -657,7 +658,7 @@ We can't lose to our neighbors!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Current Gald: <TAG_033>Gald
+<TAG_007>Current Gald: <TAG_033> Gald
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 Yes
@@ -665,9 +666,9 @@ No
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x49><xC4><x80></color> 
 [ENDBLOCK]
-has joined the Party.
+has joined the party.
 [ENDBLOCK]
-is now an active 
+is now an active
 party member.
 [ENDBLOCK]
 can join the battle.
@@ -690,9 +691,9 @@ has left the party.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x49><xE8><x98><x80>
+<center>[<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x49><xE8><x98><x80>
 [ENDBLOCK]
-<x18><x65><x59><xE4><x00><x80></color>.
+<x18><x65><x59><xE4><x00><x80></color>]
 
 [ENDBLOCK]
 <x19><x69><x49><xD8><x80>'s party received
@@ -723,7 +724,7 @@ the <turquoise>Strongest Titles
 [ENDBLOCK]
 the <turquoise>Quiz Titles
 [ENDBLOCK]
-<x19><x69><x49><xD8><x80> has received
+<x19><x69><x49><xD8><x80> has received the title:
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -804,9 +805,9 @@ can now be used.
 notice
 [ENDBLOCK]
 <TAG_007>[Titles Description]
-Titles are one of the character parameters
-that can be set on a character. The
-specific set method is as follows.
+Titles are one of the character
+parameters that can be set. 
+The specific method is as follows.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -819,7 +820,7 @@ On this screen, hit <Square_ani> and you'll
 notice
 [ENDBLOCK]
 <TAG_007>At the top of this screen, you'll see
-[Titles]On this screen, press <Triangle_ani> 
+[Titles]On this screen, press <Triangle_ani>
 and it'll let you pick from all the
 titles you've acquired.
 
@@ -860,15 +861,15 @@ little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>[Rock Rally] is a game in which 
-players kick rocks on the field 
+<TAG_007>[Rock Rally] is a game in which
+players kick rocks on the field
 to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
-1: Kicking a rock outside the 
+1: Kicking a rock outside the
 	city will start the game.
 2: Battles don't affect the clearing
 	objective of the Rock Rally game.
@@ -924,7 +925,7 @@ You're a true country bumpkin!
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-But seeing honest country folk 
+But seeing honest country folk
 like you does put me at ease...
 [ENDBLOCK]
 Man
@@ -934,11 +935,11 @@ in the sticks is doing.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-Hey, hear me out pal.
+Hey, hear me out, pal.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-I'm selling gummies in 
+I'm selling gummies in
 my sick mother's stead.
 [ENDBLOCK]
 Man
@@ -947,7 +948,7 @@ Could you buy one? Pretty please?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Ehhh…
+Ehhh...
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -965,11 +966,11 @@ Well, aren't you fortunate!
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-One of the members of the
-Seven Generals is... incompetent.
+One of the members of the Seven
+Generals is... incompetent.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
 Oh, you wanna know who?
-Their name is <Ashley>.<x00>
+His name is <Ashley>.<x00>
 [ENDBLOCK]

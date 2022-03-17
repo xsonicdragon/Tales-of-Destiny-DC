@@ -30,7 +30,7 @@ building a nest?
 [ENDBLOCK]
 Clerk
 [ENDBLOCK]
-Yeah, that's right. Every year, 
+Yeah, that's right. Every year,
 they lay their eggs on our roof.
 [ENDBLOCK]
 <Mary>
@@ -80,13 +80,14 @@ both strange kids.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-But, <Mary>, that bird 
+But, <Mary>, that bird
 is still a newlywed.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
 What are you saying, <Stahn>?
-These birds are more than we expected.
+These birds are more than
+we expected.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -140,22 +141,22 @@ two eggs?
 [ENDBLOCK]
 Clerk
 [ENDBLOCK]
-The other egg 
+The other egg
 didn't make it.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Is that so...
+Is that so...?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-I hope that at least the 
+I hope that at least the
 remaining chicks will leave
 the nest in good health.
 [ENDBLOCK]
 Clerk
 [ENDBLOCK]
-I think it's time for 
+I think it's time for
 you to leave the nest.
 [ENDBLOCK]
 <Mary>
@@ -190,8 +191,8 @@ They don't join their children.
 [ENDBLOCK]
 Clerk
 [ENDBLOCK]
-The chicks' parents will fly
-off and find a place to die together.
+The chicks' parents will fly off
+and find a place to die together.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -199,10 +200,9 @@ What? Why?
 [ENDBLOCK]
 Clerk
 [ENDBLOCK]
-I don't know why, but I guess 
-once they've finished raising
-their chicks, they no longer
-have a role in this world.
+I don't know why, but I guess once
+they've finished raising their chicks,
+they have no purpose in this world.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -210,14 +210,13 @@ I see...
 [ENDBLOCK]
 Clerk
 [ENDBLOCK]
-Even the birds that just
-left the nest will share
-the same fate next year.
+Even the birds that just left the nest
+will share the same fate next year.
 [ENDBLOCK]
 Clerk
 [ENDBLOCK]
-Through this cycle, the
-future of their lineage is made.
+Through this cycle, the future
+of their lineage is made.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -225,9 +224,9 @@ Yeah, it's not sad.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Thoughts connect lives and
-create the future. I wonder 
-if that's what our role is.
+Thoughts connect lives and create 
+the future. I wonder if that's what
+our role is.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -237,9 +236,8 @@ in the nest.
 
 [ENDBLOCK]
 <TAG_005><center>The Harmentz Newspaper
-"Exclusive report! Former lens hunter
-talks about the dark
-side of the industry"
+"Exclusive report! Former lens hunter talks
+about the dark side of the industry"
 [ENDBLOCK]
 
 [ENDBLOCK]
@@ -300,13 +298,15 @@ Ladies, are you travelers?
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-This is Harmentz, a village 
-full of greenery and water.
+This is Harmentz, a village
+where crystal clear water
+flows and plant life grows.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-This is Harmentz, a village 
-full of greenery and water.
+This is Harmentz, a village
+where crystal clear water
+flows and plant life grows.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -332,13 +332,15 @@ Ladies, are you travelers?
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-This is Harmentz, a village 
-full of greenery and water.
+This is Harmentz, a village
+where crystal clear water
+flows and plant life grows.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-This is Harmentz, a village 
-full of greenery and water.
+This is Harmentz, a village
+where crystal clear water
+flows and plant life grows.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -380,26 +382,26 @@ continue to run this store.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-If you want to go to the royal
-capital Darilsheid, simply
-leave this village and go east.
+If you want to go to the royal capital
+Darilsheid, simply leave this village
+and go east.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-I was also surprised that 
-only three guys took 
-out that many soldiers...
+I was also surprised that
+only three guys took out
+that many soldiers...
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-I'm even more amazed 
+I'm even more amazed
 that you caught them.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-If you want to go to the royal
-capital Darilsheid, simply
-leave this village and go east.
+If you want to go to the royal capital
+Darilsheid, simply leave this village
+and go east.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
@@ -421,7 +423,7 @@ I hope you guys win.
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-Thanks to <Walt>,
+It's thanks to <Walt> that
 this village is thriving.
 [ENDBLOCK]
 Young Man
@@ -431,17 +433,17 @@ that guy, but I'm grateful to him.
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-Thanks to <Walt>,
+It's thanks to <Walt> that
 this village is thriving.
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-Thanks to Mr. <Walt>'s decision,
-the peace of the village was preserved.
+Thanks to Mr. <Walt>'s decision, the
+peace of the village was preserved.
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-Thanks to <Walt>,
+It's thanks to <Walt> that
 this village is thriving.
 [ENDBLOCK]
 Young Man
@@ -466,14 +468,15 @@ safe. I knew we could rely on him.
 [ENDBLOCK]
 Grandma
 [ENDBLOCK]
-The people of Seinegald are deeply
-devout. That is why the Straylize
-Temple was built.
+The people of Seinegald are
+deeply devout. That is why the
+Straylize Temple was built.
 [ENDBLOCK]
 Grandma
 [ENDBLOCK]
-I thought this was a time of peace, 
-but I didn't realize these kids were fighting.
+I thought this was a time of
+peace, but I didn't realize 
+these kids were fighting.
 [ENDBLOCK]
 Grandma
 [ENDBLOCK]
@@ -482,9 +485,9 @@ us save Seinegald...
 [ENDBLOCK]
 Grandma
 [ENDBLOCK]
-The people of Seinegald are deeply
-devout. That is why the Straylize
-Temple was built.
+The people of Seinegald are
+deeply devout. That is why the
+Straylize Temple was built.
 [ENDBLOCK]
 Grandma
 [ENDBLOCK]
@@ -494,7 +497,7 @@ us save Seinegald...
 Grandma
 [ENDBLOCK]
 Not only do we have to ask God
-for help, but we also have to 
+for help, but we also have to
 make an effort ourselves.
 [ENDBLOCK]
 <Rutee>
@@ -515,7 +518,7 @@ town did you come from?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-It's not in the backwoods! 
+It's not in the backwoods!
 It's Lienea! In Fitzgald!
 [ENDBLOCK]
 <Rutee>
@@ -526,23 +529,23 @@ I saw it when we were on the Draconis.
 <Stahn>
 [ENDBLOCK]
 Yeah, well. It's got fresh air
-and the people are friendly. 
+and the people are friendly.
 It's a great town, okay?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-So you admit it. 
+So you admit it.
 You are a hick!
 [ENDBLOCK]
 Village Woman
 [ENDBLOCK]
-It's rare for travelers to 
+It's rare for travelers to
 visit this village. Are you
 looking for someone?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-I need to get to <Walt>'s house. 
+I need to get to <Walt>'s house.
 Do you know where that is?
 [ENDBLOCK]
 What? Are you associates of his?
@@ -558,7 +561,7 @@ on her whole demeanor just now.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Welp, at any rate, let's head 
+Welp, at any rate, let's head
 to the biggest house in town.
 [ENDBLOCK]
 Soldier
@@ -569,12 +572,12 @@ What is this...!?
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-<Rutee> Katrea! You 
+<Rutee> Katrea! You
 are under arrest!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-How in the world 
+How in the world
 did I get into this?
 [ENDBLOCK]
 <Rutee>
@@ -597,7 +600,7 @@ of the cash reward...
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Walt, you bastard! Selling 
+Walt, you bastard! Selling
 me out for a quick buck!?
 [ENDBLOCK]
 <Stahn>
@@ -635,7 +638,8 @@ Isn't that definitely a crime?
 <Rutee>
 [ENDBLOCK]
 B-But! You usually don't arrest
-someone over something that minor, right?
+someone over something that
+minor, right?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -643,12 +647,12 @@ Right, got it.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Rutee> doesn't seem to know what 
-you're talking about. Maybe you've 
+<Rutee> doesn't seem to know what
+you're talking about. Maybe you've
 got the wrong person?
 [ENDBLOCK]
-You'll be charged with obstruction 
-of justice if you don't move aside 
+You'll be charged with obstruction
+of justice if you don't move aside
 at once!
 [ENDBLOCK]
 <Stahn>
@@ -687,8 +691,8 @@ What kind of idiot are you?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I'm no idiot!
-I'm <Stahn> Aileron!
+I'm no idiot! I'm
+<Stahn> Aileron!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -709,8 +713,8 @@ No way...!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-I knew it...
-We've run into another Swordian.
+I knew it... We've run into
+another Swordian.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -752,8 +756,9 @@ to Darilsheid.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-You there. Give me an
-update on those criminals.
+You there. Give me 
+an update on those
+criminals.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
@@ -765,7 +770,7 @@ S-Sir <Lion>!
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-Well well, if it isn't
+Well, well. If it isn't
 Mr. Hedge Knight,
 himself!
 [ENDBLOCK]
@@ -786,12 +791,12 @@ Right after what <Marian> told me, too...
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-"Remember what's expected of
+<center>"Remember what's expected of
 someone of your rank."
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-You haven't forgotten,
+<center>You haven't forgotten, 
 have you, Master <Lion>?
 [ENDBLOCK]
 <Lion>
@@ -804,13 +809,13 @@ You...!
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-Young master, please restrain
-yourself. You have more important
+<center>Young master, please restrain yourself.
+You have more important
 things to do right now.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-I don't need you to 
+I don't need you to
 tell me that. I know.
 [ENDBLOCK]
 <Lion>
@@ -827,19 +832,19 @@ surrounded them.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-Therefore, it doesn't look like we need 
+Therefore, it doesn't look like we need
 our mighty Hedge Knight after all, huh?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Rutee> doesn't seem to know what 
-you're talking about. Maybe you've 
+<Rutee> doesn't seem to know what
+you're talking about. Maybe you've
 got the wrong person?
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-You'll be charged with obstruction 
-of justice if you don't move aside 
+You'll be charged with obstruction
+of justice if you don't move aside
 at once!
 [ENDBLOCK]
 <Stahn>
@@ -849,8 +854,8 @@ Let's talk about this, first.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-I'll not tolerate that
-arrogant attitude of yours!
+I'll not tolerate that arrogant
+attitude of yours!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -859,7 +864,7 @@ arrogant attitude of yours!
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-I hear a voice...That's definitely <Atwight>.
+<center>I hear a voice...That's definitely <Atwight>.
 ...Huh? <Dymlos> is here too!?
 [ENDBLOCK]
 <Lion>
@@ -869,7 +874,7 @@ another Swordian here?
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-Ohhh noooo...I've never 
+<center>Ohhh noooo...I've never
 been fond of him...
 [ENDBLOCK]
 <Lion>
@@ -898,9 +903,9 @@ need a little time to nap.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Still, the fact remains that
-they were all knocked out by
-a mere three people.
+Still, the fact remains that they
+were all knocked out by a mere
+three people.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -916,8 +921,8 @@ You bastard...!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-What a pathetic display.
-I can't watch this anymore.
+What a pathetic display. I 
+can't watch this anymore.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -929,8 +934,8 @@ Yes sir. I'll be off, now.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-<Rutee> Katrea, huh.
-She definitely resembled me...
+<Rutee> Katrea, huh. She 
+definitely resembled me...
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -938,29 +943,29 @@ I have to admit, I'm relieved...
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-I don't know what I would have done
-if I couldn't bring myself to fight her...
+I don't know what I would have
+done if I couldn't bring myself
+to fight her...
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-...Chal, what's wrong? You've been
-silent for a while now.
+...Chal, what's wrong? You've
+been silent for a while now.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-Ughhh, you bet I have. We just 
+<center>Ughhh, you bet I have. We just
 fought against <Dymlos>!
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-On top of that, we beat up
+<center>On top of that, we beat up
 his new Master as well!
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-I have no idea what
-I'm going to say to
-them after this...
+<center>I have no idea what I'm going
+to say to them after this...
 [ENDBLOCK]
 ????
 [ENDBLOCK]
@@ -973,20 +978,18 @@ supposed to be?
 [ENDBLOCK]
 <Walt>
 [ENDBLOCK]
-You can call me <Walt>.
-Consider me a...
-representative of Harmentz.
+You can call me <Walt>. Consider me
+a... representative of Harmentz.
 [ENDBLOCK]
 <Walt>
 [ENDBLOCK]
-Enough about me, though.
-You're quite strong, aren't you?
+Enough about me, though. You're
+quite strong, aren't you?
 [ENDBLOCK]
 <Walt>
 [ENDBLOCK]
-You must be, to have bested
-the Greedy Witch, <Rutee>
-like that.
+You must be, to have bested the
+Greedy Witch, <Rutee> like that.
 [ENDBLOCK]
 <Walt>
 [ENDBLOCK]
@@ -995,8 +998,8 @@ of great renown, but I...
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-You don't need to know my name.
-Your business.
+You don't need to know my
+name. Your business.
 [ENDBLOCK]
 <Walt>
 [ENDBLOCK]
@@ -1022,40 +1025,40 @@ who tipped us off.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Don't worry.
-An envoy with your money
-will visit you soon enough.
+Don't worry. An envoy with
+your money will visit you 
+soon enough.
 [ENDBLOCK]
 <Walt>
 [ENDBLOCK]
-O-Oh, I see!
-W-Well then, if you will excuse me...
+O-Oh, I see! W-Well then,
+if you will excuse me...
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-Young Master, what's wrong?
+<center>Young Master, what's wrong?
 You lost your cool for a moment, there.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-For some time, I've been surrounded
-by people who only want to butter me up.
+For some time, I've been surrounded by
+people who only want to butter me up.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-I'm completely fed up with it.
-You should know this by now, Chal.
+I'm completely fed up with
+it. You should know this by
+now, Chal.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-That's certainly how it's been...
+<center>That's certainly how it's been...
 Still, for you to treat him so coldly...
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Well, whatever.
-Our mission is complete. Let's head
-back to Darilsheid.
+Well, whatever. Our mission is complete.
+Let's head back to Darilsheid.
 [ENDBLOCK]
 Bird's Nest Growth
 [ENDBLOCK]
@@ -1068,7 +1071,7 @@ Departure
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Current Gald: <TAG_033>Gald
+<TAG_007>Current Gald: <TAG_033> Gald
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 Yes
@@ -1076,9 +1079,9 @@ No
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x48><xA8><x80></color> 
 [ENDBLOCK]
-has joined the Party.
+has joined the party.
 [ENDBLOCK]
-is now an active 
+is now an active
 party member.
 [ENDBLOCK]
 can join the battle.
@@ -1101,9 +1104,9 @@ has left the party.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xCC><x98><x80>
+<center>[<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xCC><x98><x80>
 [ENDBLOCK]
-<x18><x65><x58><xC8><x00><x80></color>.
+<x18><x65><x58><xC8><x00><x80></color>]
 
 [ENDBLOCK]
 <x19><x69><x48><xBC><x80>'s party received
@@ -1134,7 +1137,7 @@ the <turquoise>Strongest Titles
 [ENDBLOCK]
 the <turquoise>Quiz Titles
 [ENDBLOCK]
-<x19><x69><x48><xBC><x80> has received
+<x19><x69><x48><xBC><x80> has received the title:
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -1215,53 +1218,49 @@ can now be used.
 notice
 [ENDBLOCK]
 <TAG_007>[Titles Description]
-Titles are one of the character parameters
-that can be set on a character. The
-specific set method is as follows.
+Titles are one of the character
+parameters that can be set. 
+The specific method is as follows.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>After opening the main menu,
 the character status will display.
-On this screen, hit <Square_ani> and you'll
-be able to change the character status.
+On this screen, press <Square_ani> to 
+change the character status.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>At the top of this screen, you'll see
-[Titles] On this screen, press <Triangle_ani> 
-and it'll let you pick from all the titles
-you've acquired.
+<TAG_007>At the top of this screen will be
+[Titles]. Press <Triangle_ani> to pick
+from all aquired titles.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>There are two purposes to titles. 
-The first is to [Set your title and 
-talk to the townspeople].
+<TAG_007>Titles serve two purposes:
+The first is to [affect dialogue 
+when talking to NPCs].
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>By setting a title, certain townspeople
-will take interest in you. When you talk
-to them several times, you might get
-interesting responses. When that
-happens, reset the title you have on
-and try talking to them again.
+<TAG_007>Set a title to have certain NPCs interested
+while passing them. When talking with NPCs
+multiple times you may get different responses.
+Change the title and try talking to them again.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Hint: When talking to townspeople, a
-[?] will appear over your character's
-head. If this happens, set a title that
-seems to be related to the dialogue, 
-and try talking to them again. 
+<TAG_007>Hint: When talking to certain NPCs, a [?] will 
+appear over the character's head. If this 
+happens, set a title that seems to be related
+to the dialogue, and try talking to them again.
 Something fun may happen.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>The second purpose of titles is...
+<TAG_007>The second purpose for titles is...
 to make your status screen look cool!
 When collecting titles, you might pick
 up one you like, so you can set it on
@@ -1269,15 +1268,15 @@ your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>[Rock Rally] is a game in which 
-players kick rocks on the field 
+<TAG_007>[Rock Rally] is a game in which
+players kick rocks on the field
 to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
-1: Kicking a rock outside the 
+1: Kicking a rock outside the
 	city will start the game.
 2: Battles don't affect the clearing
 	objective of the Rock Rally game.

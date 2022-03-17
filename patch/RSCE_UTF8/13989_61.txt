@@ -406,23 +406,23 @@ Don't be like that. Listen!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Yesterday, when I didn't
-eat my veggies, my mom got mad!
+Yesterday, when I didn't eat my
+veggies, my mom got mad!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-She was all, "You
-won't grow if you don't
-eat your veggies".
+She was all, "You won't 
+grow if you don't eat 
+your veggies."
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-So I have
-a question for you.
+So I have a question for you.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Is there any food that you don't like?
+Is there any food 
+that you don't like?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -435,13 +435,13 @@ Oh, reaaally~?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Yes, really. 
-You don't believe me?
+Yes, really. You 
+don't believe me?
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-I saw you staring at the
-Softy Kreem stand, you know.
+I saw you staring at the Softy
+Kreem stand, you know.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -450,8 +450,9 @@ disgust, that's all!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Hmmm... So basically, I can
-grow big if I eat lots of sweets!
+Hmmm... So basically, 
+I can grow big if I eat
+lots of sweets!
 [ENDBLOCK]
 <x17><x24><x0B><x14><x2F><x80>, <x17><x28><x44><x02><x14><x2F><x80>
 [ENDBLOCK]
@@ -505,8 +506,8 @@ it's unmanly to like sweets.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Yeah, that definitely
-sounds like someone I know...
+Yeah, that definitely sounds
+like someone I know...
 [ENDBLOCK]
 Softy Kreem Shop
 [ENDBLOCK]
@@ -646,7 +647,7 @@ the director's instructions.
 notice
 [ENDBLOCK]
 After the Director's instructions are given,
-press the correct acting button while the 
+press the correct acting button while the
 clock is ticking, and you will succeed.
 [ENDBLOCK]
 notice
@@ -691,7 +692,7 @@ I know you can do it.
 [ENDBLOCK]
 Rookie Director
 [ENDBLOCK]
-Alright, you're up!
+All right, you're up!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -814,7 +815,7 @@ actor someday! A true star!
 Rookie Director
 [ENDBLOCK]
 Well, for your first performance,
-it was alright.
+it was all right.
 [ENDBLOCK]
 Rookie Director
 [ENDBLOCK]
@@ -881,19 +882,20 @@ It's Neustadt's specialty!
 [ENDBLOCK]
 Traveler
 [ENDBLOCK]
-I lost all my Gald in the arena. 
+I lost all my Gald in the arena.
 I can't even buy lunch, now!
 [ENDBLOCK]
 Traveler
 [ENDBLOCK]
-I'll have to rely
-on what I can catch.
-Oh! Do I have one!?
+I'll have to rely on what I
+can catch. Oh! Did I get
+a bite!?
 [ENDBLOCK]
 Traveler
 [ENDBLOCK]
 I thought I had a fish...
-Guess it was my imagination.
+Guess it was just my
+imagination.
 [ENDBLOCK]
 Traveler
 [ENDBLOCK]
@@ -902,14 +904,15 @@ back up and running so quickly.
 [ENDBLOCK]
 Traveler
 [ENDBLOCK]
-If I were to fish in the harbor, the
-fishermen would give me the evil eye.
+If I were to fish in the harbor,
+the fishermen would give me 
+the evil eye.
 [ENDBLOCK]
 Traveler
 [ENDBLOCK]
 Did you guys hear a voice
-from somewhere?
-It really startled me.
+from somewhere? It really
+startled me.
 [ENDBLOCK]
 Traveler
 [ENDBLOCK]
@@ -919,7 +922,8 @@ never know when a monster'll attack.
 Traveler
 [ENDBLOCK]
 You guys are collecting lens?
-What are you going to use them for?
+What are you going to use 
+them for?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -938,18 +942,18 @@ sister the other day...
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-I hope I'm
-not misunderstood...
+I hope I'm not misunderstood...
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-I wonder how she's feeling right now.
-I want to go check on her, but... hmmm.
+I wonder how she's feeling right
+now. I want to go check on her,
+but... hmmm.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-I heard it's not
-safe downtown now.
+I heard going downtown is
+dangerous nowadays.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -962,14 +966,15 @@ I hate dealing with those hoodlums.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-It was this square that
-suffered the most damage.
+It was this square
+that suffered the 
+most damage.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-However, it's fortunate
-the damage was concentrated.
-It was easier to fix, that way.
+However, it's fortunate the damage
+was concentrated. It was easier to
+fix, that way.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
@@ -1004,13 +1009,13 @@ Leave me alone!
 Boy
 [ENDBLOCK]
 I have my Softy Kreem Shop
-back. I'm so happy! 
+back. I'm so happy!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-I had to buy another Softy 
-Kreem because it melted after
-all of the excitement.
+I had to buy another Softy Kreem
+because it melted after all of the
+excitement.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -1019,13 +1024,13 @@ hanging around here these days.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-I feel like Neustadt's
-the only place that gets attacked!
+I feel like Neustadt's the only
+place that gets attacked!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-I wanna ask Papa to
-move us somewhere brighter.
+I wanna ask Papa to move
+us somewhere brighter.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -1043,8 +1048,8 @@ lady is okay...
 [ENDBLOCK]
 Poor Child
 [ENDBLOCK]
-I haven't seen that
-nice lady at all lately...
+I haven't seen that nice
+lady at all lately...
 [ENDBLOCK]
 Poor Child
 [ENDBLOCK]
@@ -1053,13 +1058,15 @@ too. I'm sure I'd be happy.
 [ENDBLOCK]
 Poor Child
 [ENDBLOCK]
-I wonder what's going on 
-on top of that thing in the sky?
+I wonder what's happening
+on top of that thing in the
+sky?
 [ENDBLOCK]
 Poor Child
 [ENDBLOCK]
 I've collected lens too.
-I hope you find them useful.
+I hope you find them
+useful.
 [ENDBLOCK]
 Softy Kreem Shop
 [ENDBLOCK]
@@ -1082,7 +1089,7 @@ Thank you.
 [ENDBLOCK]
 Softy Kreem Shop
 [ENDBLOCK]
-You can't carry 
+You can't carry
 any more <ITEM_006>.
 [ENDBLOCK]
 Softy Kreem Shop
@@ -1101,7 +1108,7 @@ Thank you for your patronage.
 [ENDBLOCK]
 Softy Kreem Shop
 [ENDBLOCK]
-You can't carry 
+You can't carry
 any more <ITEM_006>.
 [ENDBLOCK]
 Softy Kreem Shop
@@ -1116,8 +1123,8 @@ This is the Softy Kreem stand
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Excuse me,
-can I get five, please?
+Excuse me, can I
+get five, please?
 [ENDBLOCK]
 Softy Kreem Stand
 [ENDBLOCK]
@@ -1127,8 +1134,8 @@ would you like?
 <Stahn>
 [ENDBLOCK]
 Woah, there's a lot
-to pick from.
-Hmm, which one...
+to pick from. Hmm, 
+which one...
 [ENDBLOCK]
 ???
 [ENDBLOCK]
@@ -1137,8 +1144,8 @@ Mmmh, which should I pick?
 ???
 [ENDBLOCK]
 The standard mocha flavor, or the
-limited cherry? Which one should
-I choose...? Oh dear...
+limited cherry? Which one should I
+choose...? Oh dear...
 [ENDBLOCK]
 ???
 [ENDBLOCK]
@@ -1226,8 +1233,7 @@ Would you like some, too?
 Sir, I'd like one for these children
 here, if you please. All of them.
 [ENDBLOCK]
-Are you sure
-that's alright, miss?
+Are you sure that's all right, miss?
 [ENDBLOCK]
 ???
 [ENDBLOCK]
@@ -1254,14 +1260,13 @@ Yeah.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Hah!
-Do you think so?
+Hah! Do you think so?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-You sure a rich lady like that isn't
-just trying to bask in her sense of
-superiority?
+You sure a rich lady like that
+isn't just trying to bask in her
+sense of superiority?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -1298,13 +1303,12 @@ Y'all hangin' in there?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Well ain't that sweet! 
-Must feel good to give to the poor!
+Well ain't that sweet! Must
+feel good to give to the poor!
 [ENDBLOCK]
 ???
 [ENDBLOCK]
-I don't think
-of it as charity.
+I don't think of it as charity.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
@@ -1324,8 +1328,8 @@ that name is definitely...
 <Ilene>
 [ENDBLOCK]
 I've explained the Oberon
-Corporation's intentions
-to you many times already.
+Corporation's intentions to
+you many times already.
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
@@ -1334,9 +1338,9 @@ the hopes of developing Fitzgald.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Hah! You're just tryin' to turn a profit!
-The people who've lived here
-from the start are still poor!
+Hah! You're just tryin' to turn a
+profit! The people who've lived
+here from the start are still poor!
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
@@ -1399,13 +1403,14 @@ Okay...?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Would you care to
-share an energy drink?
-Or we could do squats together!
+Would you care to share an
+energy drink? Or we could
+do squats together!
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-Well well, some pickup artist this fellow is.
+Well, well. Some pickup
+artist this fellow is.
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
@@ -1417,13 +1422,12 @@ Ah? Uh, that's, um, I...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Cut it out,
-you're scaring <Philia>!
+Cut it out, you're
+scaring <Philia>!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Butt out, kid!
-Who's she to ya!
+Butt out, kid! Who's she to ya?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -1445,19 +1449,18 @@ I'll see you at my arena!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Why do we
-have to duel!?
+Why do we have to duel!?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-<Stahn>, you don't have to play
-along. We don't have time for games.
+<Stahn>, you don't have to play along.
+We don't have time for games.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Have you lost your nerve, boy?
-Is that sword hanging at your
-waist too dull?
+Have you lost your nerve,
+boy? Is that sword hanging
+at your waist too dull?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
@@ -1465,13 +1468,12 @@ What did you say, you insolent-!?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-If you're a real man,
-you'll duel me!
+If you're a real man, you'll duel me!
 IF you're a real man, that is!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Alright... If it means that
+All right... If it means that
 much to you, I'll do it!
 [ENDBLOCK]
 <Dymlos>
@@ -1486,8 +1488,8 @@ Afterwards, we will toast my victory!
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-<Dymlos>... If you won't stop
-him, what are we going to do?
+<Dymlos>... If you won't stop him,
+what are we going to do?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
@@ -1510,14 +1512,14 @@ It was a decision I made myself.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-So, where is
-the arena anyway?
+So, where is the
+arena, anyway?
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-If you go up the main street in
-town to the north, there's an
-entrance at the end.
+If you go up the main street
+in town to the north, there's
+an entrance at the end.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -1534,7 +1536,8 @@ My Softy Kreem...
 [ENDBLOCK]
 Softy Kreem Stand
 [ENDBLOCK]
-Welcome. Which flavor would you like?
+Welcome. Which flavor 
+would you like?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -1554,8 +1557,8 @@ Excuse me, sir!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Ah, never mind.
-I don't want anything.
+Ah, never mind. I don't
+want anything.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
@@ -1568,7 +1571,8 @@ That's true...
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Excuse me. I'll have one Softy Kree-
+Excuse me. I'll have
+one Softy Kree-
 [ENDBLOCK]
 Young Woman
 [ENDBLOCK]
@@ -1584,7 +1588,8 @@ A-A monster...!
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-Master <Lion>, we need to help her!
+Master <Lion>, we need
+to help her!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -1596,7 +1601,7 @@ Thank you so much!
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-I'm worried about the rest
+<center>I'm worried about the rest
 of the city. Let's hurry!
 [ENDBLOCK]
 notice
@@ -1609,9 +1614,9 @@ No
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x49><xC8><x80></color> 
 [ENDBLOCK]
-has joined the Party.
+has joined the party.
 [ENDBLOCK]
-is now an active 
+is now an active
 party member.
 [ENDBLOCK]
 can join the battle.
@@ -1634,9 +1639,9 @@ has left the party.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x49><xEC><x98><x80>
+<center>[<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x49><xEC><x98><x80>
 [ENDBLOCK]
-<x18><x65><x59><xE8><x00><x80></color>.
+<x18><x65><x59><xE8><x00><x80></color>]
 
 [ENDBLOCK]
 <x19><x69><x49><xDC><x80>'s party received
@@ -1667,7 +1672,7 @@ the <turquoise>Strongest Titles
 [ENDBLOCK]
 the <turquoise>Quiz Titles
 [ENDBLOCK]
-<x19><x69><x49><xDC><x80> has received 
+<x19><x69><x49><xDC><x80> has received the title:
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -1751,53 +1756,49 @@ can now be used.
 notice
 [ENDBLOCK]
 <TAG_007>[Titles Description]
-Titles are one of the character parameters
-that can be set on a character. The
-specific set method is as follows.
+Titles are one of the character
+parameters that can be set. 
+The specific method is as follows.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>After opening the main menu,
 the character status will display.
-On this screen, hit <Square_ani> and you'll
-be able to change the character status.
+On this screen, press <Square_ani> to 
+change the character status.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>At the top of this screen, you'll see
-[Titles] On this screen, press <Triangle_ani> 
-and it'll let you pick from all the titles
-you've acquired.
+<TAG_007>At the top of this screen will be
+[Titles]. Press <Triangle_ani> to pick
+from all aquired titles.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>There are two purposes to titles. 
-The first is to [Set your title and 
-talk to the townspeople].
+<TAG_007>Titles serve two purposes:
+The first is to [affect dialogue 
+when talking to NPCs].
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>By setting a title, certain townspeople
-will take interest in you. When you talk
-to them several times, you might get
-interesting responses. When that
-happens, reset the title you have on
-and try talking to them again.
+<TAG_007>Set a title to have certain NPCs interested
+while passing them. When talking with NPCs
+multiple times you may get different responses.
+Change the title and try talking to them again.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Hint: When talking to townspeople, a
-[?] will appear over your character's
-head. If this happens, set a title that
-seems to be related to the dialogue, 
-and try talking to them again. 
+<TAG_007>Hint: When talking to certain NPCs, a [?] will 
+appear over the character's head. If this 
+happens, set a title that seems to be related
+to the dialogue, and try talking to them again.
 Something fun may happen.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>The second purpose of titles is...
+<TAG_007>The second purpose for titles is...
 to make your status screen look cool!
 When collecting titles, you might pick
 up one you like, so you can set it on
@@ -1805,15 +1806,15 @@ your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>[Rock Rally] is a game in which 
-players kick rocks on the field 
+<TAG_007>[Rock Rally] is a game in which
+players kick rocks on the field
 to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
-1: Kicking a rock outside the 
+1: Kicking a rock outside the
 	city will start the game.
 2: Battles don't affect the clearing
 	objective of the Rock Rally game.

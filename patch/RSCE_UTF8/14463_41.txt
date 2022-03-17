@@ -1,6 +1,6 @@
 <Woodrow>
 [ENDBLOCK]
-There he is!
+Is that...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -8,8 +8,8 @@ There he is!
 [ENDBLOCK]
 ???
 [ENDBLOCK]
-I didn't expect you to
-chase me this far.
+I didn't expect you
+to be so persistent.
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
@@ -17,9 +17,9 @@ That voice...
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-We already know who
-you are. Why don't you take 
-off that hideous disguise?
+We already know who you are.
+Why don't you take off that
+hideous disguise?
 [ENDBLOCK]
 ???
 [ENDBLOCK]
@@ -31,59 +31,59 @@ off that hideous disguise?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-You were the mastermind behind all
-of this, weren't you? What are you going
-to do with the Eye of Atamoni?
+So you were the mastermind behind
+all of this. What vile purpose do you
+have for the Eye of Atamoni?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Are you gonna be like <Greybum>
-and act like some kinda "monster king"?
+Now what? Gonna be the king
+of the monsters like <Greybum>?
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-Being able to control monsters
-is just a side benefit of the true
-power of the Eye of Atamoni...
+Total control over monsters is
+but one of the powers bestowed
+by the Eye of Atamoni.
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-Hahahahaha... What if I told you
-this was all my plan all along?
+Hahahahaha... Did it ever occur
+to you he was a pawn all along?
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-Tempting <Greybum> and convincing
-him to steal the Eye of Atamoni...
+Tempting <Greybum> to steal
+the Eye of Atamoni...
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-Having him take it all over the world...
-What if that was all part of my plan?
+Running amuck across the globe...
+All according to my grand design!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-What...!?
+It can't be...!
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-I was going to get rid of <Greybum> 
-when I was done with him, anyway.
+Once he outlived his usefulness, I
+was going to dispose of <Greybum>.
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-In disposing of him for me, you saved
-me some effort. I'm quite grateful!
+I must thank you for
+doing that for me. 
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
 We didn't do it for you!
-Don't be getting carried away!
+Don't make me laugh!
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-That angry face of yours...
-Just like your dear mother.
+That enraged face of yours... It's
+just like your dear mother's.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -91,34 +91,31 @@ Huh...?
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
-Well! I'm a busy man, with little time.
-I'm sorry to leave you, but 
-I must be on my way, now!
+Well, our time together is up.
+I must bid you farewell.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-...<Lion>!
-Stop <Hugo>, please!
+...<Lion>! Stop <Hugo>, please!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Lion>, I knew it! You had 
-to have a plan, didn't you?
+You're just pretending,
+yeah!? You planned this
+all along, right, <Lion>?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Right? That's right,
-isn't it, <Lion>!?
+...Right?
+<Lion>!!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Lion>!
-I knew it...!
+<Lion>! I knew it...!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-...Go on ahead.
-I'll hold them here.
+...Go on ahead. I'll hold them here.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -135,8 +132,8 @@ Answer me, <Chaltier>!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Lion>, you're kidding, right?
-It's...just a joke, right?
+<Lion>, I can't believe this.
+It's... just a joke, right?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -145,53 +142,50 @@ what you're doing!?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Oh yes, I understand exactly what
-I'm doing, far more than you do!
+Oh, I understand what I'm
+doing. Far more than you
+ever could, in fact!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Hah...Hah...
-I...won...?
+Hah... Hah...
+I... won...?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Damn it! Why won't
-you just stay down!?
+Damn it! Why won't you
+just stay down!?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Lion>!	Hey!
-Stay with me!
+<Lion>!	Hey! Stay with me!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Hmph... One on one, I 
+Hmph... One on one, I
 wouldn't have lost...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-You idiot...! Why are 
+You idiot...! Why are
 you doing this...?
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-Please don't blame
-Master <Lion>!
+Please don't blame Master <Lion>!
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-He had no choice but to do 
+He had no choice but to do
 this to protect <Marian>!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-<Chaltier>, now you
-say something...
+<Chaltier>, now you say something...?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Chal! You're
-saying too much!
+Chal! You're saying too much!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -199,22 +193,21 @@ saying too much!
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-You all saw her at <Hugo>'s 
+You saw her at <Hugo>'s
 manor, remember?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-The maid who brought me <Dymlos>!
-<Lion>, you...
+The maid who brought
+me <Dymlos>! <Lion>, you...
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-So they've taken her hostage,
-haven't they?
+So they've taken her hostage...
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-But that doesn't mean you're
+Still, that doesn't mean you're
 doing the right thing.
 [ENDBLOCK]
 <Dymlos>
@@ -223,17 +216,19 @@ You're still a Swordian Master!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Say whatever you want!
+It doesn't matter
+what you say...
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-...I don't have a shred of
-regret for what I've done.
+I don't have a shred of
+regret for what I've done!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Even if I were reborn a hundred times
-over, I would still choose the same path!
+Even if I were reborn a hundred
+times over, I would still choose
+the same path!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -241,8 +236,7 @@ over, I would still choose the same path!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-I'm not letting
-you through!
+I can't let you pass!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -250,27 +244,27 @@ This person you've become...
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-Why go that far...?
+Why go this far...?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-You stupid idiot!
-Why are you so stubborn!?
+You stupid idiot! Why
+are you so stubborn!?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-You're making a mistake!
-Do you hear me, <Lion>!? You're wrong!
+You're making a mistake! You
+hear me, <Lion>!? You're wrong!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Shut up! I've already decided
-this on my own!
+Enough! This decision was
+mine alone to make.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-That's why I'm saying you're 
-wrong about being alone!
+That's where you're wrong!
+You're not alone!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -290,29 +284,29 @@ Stay back...!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Why didn't you talk to me 
-about it!? Why did you try to
-do it all by yourself!?
+Why didn't you tell me!? Why
+try and do it all by yourself!?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
 We're friends! Friends!
-Why didn't you tell me? Why!?
+Why...? Why did you
+keep this from me!?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-I said, stay back...!
+I said stay back!!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-You're on your own!
+Here you are on your own!
 Suffering alone!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Why are you the only one having
-a hard time!? Why are you the only 
-one getting hurt!?
+Why should you suffer alone?
+Why should you bear this
+burden alone!?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -325,8 +319,9 @@ How could you not know that!?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-...Even after all this, you can still
-consider me your friend...?
+Even after all this...
+You still consider
+me your friend...?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -334,7 +329,7 @@ Of course!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-...Hey, <Lion>, it's not too late.
+...<Lion>, it's not too late.
 You can still come with us.
 [ENDBLOCK]
 <Lion>
@@ -343,9 +338,9 @@ What...?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-We're going to take it all back.
+We're going to make things right.
 We'll take back the Eye of Atamoni,
-and <Marian>!
+and rescue <Marian>!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -353,12 +348,12 @@ You...
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Seriously...
-You're a real piece of work...
+Seriously... You're a
+real piece of work...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Lion>! You understand me, right!?
+<Lion>! You understand me, right...?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -367,12 +362,12 @@ You're a real piece of work...
 <Stahn>
 [ENDBLOCK]
 First, let's shake hands
-to make up. Come on!
+to make up! C'mon!
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-An earthquake? In the
-middle of nowhere?
+An earthquake? In
+a place like this?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -381,12 +376,12 @@ He's already begun!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Begun...? Are you saying that 
-<Hugo> is causing this earthquake?
+Begun...? Are you saying that <Hugo>
+is causing this earthquake?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-Even though you're still here?
+Even though you're still here!?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -395,8 +390,8 @@ person <Hugo> is...
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-<Chelsea>, go see if 
-the elevator is safe.
+<Chelsea>, go see if the
+elevator is safe.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
@@ -409,8 +404,8 @@ We can't get back to the elevator!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-What're we gonna do!?
-We're gonna be buried alive!
+What're we gonna do!? We're
+gonna be buried alive!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -418,7 +413,7 @@ What's that sound...?
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-Seems the cave is collapsing, and 
+Seems the cave is collapsing, and
 the seawater is flowing in.
 [ENDBLOCK]
 <Atwight>
@@ -441,8 +436,7 @@ It's an emergency lift.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-There's something
-like that here?
+I can't believe how lucky we are!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -458,17 +452,18 @@ I can't come with you.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-To move the lift, someone needs
-to operate the lever here.
+Someone has to pull this
+lever for the lift to move.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Lion>, what are you talking about?
+<Lion>, what are saying?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-<Rutee>, I'll tell you what 
-you deserve to know, now.
+<Rutee>. There's something I
+need to tell you. Something
+you deserve to know.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -476,12 +471,12 @@ Huh...?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-<Hugo>'s deceased wife. 
-Her name was Chris Katrea.
+<Hugo>'s deceased wife...Her
+name was Chris Katrea.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Chris was...also my mother.
+Chris was... also my mother.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -489,12 +484,13 @@ Wh-What...!?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-As much as I hate to admit it, 
-the same blood flows through our veins.
+As much as I hate to admit
+it, the same blood flows
+through our veins.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-You're...lying...!
+You're... lying...!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -512,13 +508,13 @@ remember ever agreeing to that.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-I...can't stand laid-back, careless,
+I... can't stand laid-back, careless,
 overly-friendly people like you...!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-And that's why...
-I leave the rest to you.
+And that's why... I leave
+the rest to you.
 [ENDBLOCK]
 Oberon Secret Factory
 [ENDBLOCK]
@@ -526,50 +522,50 @@ Oberon Secret Factory
 [ENDBLOCK]
 ???
 [ENDBLOCK]
-With the stolen Eye of Atamoni 
-returned, peace came to the world 
-once again.
+With the Eye of Atamoni
+returned, the world can
+once again be at "peace."
 [ENDBLOCK]
 ???
 [ENDBLOCK]
-Let us first offer our blessings.
+A blessing should be offered...
 [ENDBLOCK]
 ???
 [ENDBLOCK]
-However, you must realize that it
-is only a temporary peace.
+However, they must realize that
+this peace is a false one.
 [ENDBLOCK]
 ???
 [ENDBLOCK]
-It must change. In order for 
-this world to have true peace.
+In order for this world to know true
+peace, everything must change.
 [ENDBLOCK]
 ???
 [ENDBLOCK]
-The time is now. I want you 
-to entrust me with your lives.
+The time has come. Entrust unto me
+everything, including your lives.
 [ENDBLOCK]
 ???
 [ENDBLOCK]
-I was prepared for this 
-from the beginning...
+I have been preparing for
+this moment all my life...
 [ENDBLOCK]
 ???
 [ENDBLOCK]
-I will gladly give my life for yours.
+I gladly place my life in your hands.
 [ENDBLOCK]
 ???
 [ENDBLOCK]
-Whatever you say.
+As you wish.
 [ENDBLOCK]
 ???
 [ENDBLOCK]
-I have high hopes for you, my friends.
-For the realization of our ideals...
+I expect great things from you all.
+We will finally realize our ideals...
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Current Gald: <TAG_033>Gald
+<TAG_007>Current Gald: <TAG_033> Gald
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 Yes
@@ -577,9 +573,9 @@ No
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x47><xE8><x80></color> 
 [ENDBLOCK]
-has joined the Party.
+has joined the party.
 [ENDBLOCK]
-is now an active 
+is now an active
 party member.
 [ENDBLOCK]
 can join the battle.
@@ -602,9 +598,9 @@ has left the party.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><x0C><x98><x80>
+<center>[<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><x0C><x98><x80>
 [ENDBLOCK]
-<x18><x65><x58><x08><x00><x80></color>.
+<x18><x65><x58><x08><x00><x80></color>]
 
 [ENDBLOCK]
 <x19><x69><x47><xFC><x80>'s party received
@@ -635,7 +631,7 @@ the <turquoise>Strongest Titles
 [ENDBLOCK]
 the <turquoise>Quiz Titles
 [ENDBLOCK]
-<x19><x69><x47><xFC><x80> has received
+<x19><x69><x47><xFC><x80> has received the title:
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -716,53 +712,49 @@ can now be used.
 notice
 [ENDBLOCK]
 <TAG_007>[Titles Description]
-Titles are one of the character parameters
-that can be set on a character. The
-specific set method is as follows.
+Titles are one of the character
+parameters that can be set. 
+The specific method is as follows.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>After opening the main menu,
 the character status will display.
-On this screen, hit <Square_ani> and you'll
-be able to change the character status.
+On this screen, press <Square_ani> to 
+change the character status.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>At the top of this screen, you'll see
-[Titles] On this screen, press <Triangle_ani> 
-and it'll let you pick from all the titles
-you've acquired.
+<TAG_007>At the top of this screen will be
+[Titles]. Press <Triangle_ani> to pick
+from all aquired titles.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>There are two purposes to titles. 
-The first is to [Set your title and 
-talk to the townspeople].
+<TAG_007>Titles serve two purposes:
+The first is to [affect dialogue 
+when talking to NPCs].
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>By setting a title, certain townspeople
-will take interest in you. When you talk
-to them several times, you might get
-interesting responses. When that
-happens, reset the title you have on
-and try talking to them again.
+<TAG_007>Set a title to have certain NPCs interested
+while passing them. When talking with NPCs
+multiple times you may get different responses.
+Change the title and try talking to them again.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Hint: When talking to townspeople, a
-[?] will appear over your character's
-head. If this happens, set a title that
-seems to be related to the dialogue, 
-and try talking to them again. 
+<TAG_007>Hint: When talking to certain NPCs, a [?] will 
+appear over the character's head. If this 
+happens, set a title that seems to be related
+to the dialogue, and try talking to them again.
 Something fun may happen.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>The second purpose of titles is...
+<TAG_007>The second purpose for titles is...
 to make your status screen look cool!
 When collecting titles, you might pick
 up one you like, so you can set it on
@@ -770,15 +762,15 @@ your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>[Rock Rally] is a game in which 
-players kick rocks on the field 
+<TAG_007>[Rock Rally] is a game in which
+players kick rocks on the field
 to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
-1: Kicking a rock outside the 
+1: Kicking a rock outside the
 	city will start the game.
 2: Battles don't affect the clearing
 	objective of the Rock Rally game.

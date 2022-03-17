@@ -21,8 +21,9 @@
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-You've been in and out of the mansion
-a lot recently. Do you live there?
+You've been in and out of
+the mansion a lot recently.
+Do you live there?
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
@@ -78,8 +79,8 @@ Everyone is relying on you!
 [ENDBLOCK]
 Guard
 [ENDBLOCK]
-It has not been publicly disclosed that
-Master <Lion> is the CEO's son.
+It has not been publicly disclosed
+that Master <Lion> is the CEO's son.
 [ENDBLOCK]
 Guard
 [ENDBLOCK]
@@ -88,9 +89,9 @@ any suspicious individuals.
 [ENDBLOCK]
 Guard
 [ENDBLOCK]
-Every time I hear about Master
-<Lion>'s activities, I want to
-brag about him to someone.
+Every time I hear about Master <Lion>'s
+activities, I want to brag about him to
+someone.
 [ENDBLOCK]
 Guard
 [ENDBLOCK]
@@ -112,7 +113,7 @@ I'm still here.
 Guard
 [ENDBLOCK]
 It was Mr. <Hugo> who was
-broadcasting. As soon as I 
+broadcasting. As soon as I
 heard his voice, I knew.
 [ENDBLOCK]
 Guard
@@ -143,13 +144,15 @@ is waiting for someone to come home.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-A life free from the influence of lens.
-It's not something I can even imagine.
+A life free from the influence of 
+lens. It's not something I can even
+imagine.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-The CEO of Oberon, <Hugo>, has
-so many magnificent achievements.
+The CEO of Oberon, <Hugo>, 
+has so many magnificent 
+achievements.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -158,13 +161,15 @@ found me, I was a lens hunter.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-A life free from the influence of lens.
-It's not something I can even imagine.
+A life free from the influence of 
+lens. It's not something I can even
+imagine.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-The CEO of Oberon, <Hugo>, has
-so many magnificent achievements.
+The CEO of Oberon, <Hugo>, 
+has so many magnificent 
+achievements.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -216,8 +221,8 @@ Ugh. I'm still an apprentice...
 Apprentice
 [ENDBLOCK]
 Did you hear the latest gossip?
-Apparently, Master <Lion> is
-in fact, this mansion's...
+Apparently, Master <Lion> is in
+fact, this mansion's...
 [ENDBLOCK]
 Apprentice
 [ENDBLOCK]
@@ -266,13 +271,13 @@ Welcome home, Master <Lion>.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Alright, I'm pumped up!
-Let's hurry to Hayrise Temple!
+All right, I'm pumped up! Let's
+hurry to Hayrise Temple!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-That's *Straylize*!
-At least remember the name!
+That's "Straylize!" At least
+remember the name!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -285,7 +290,7 @@ That took too long!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Alright. Let's get moving.
+All right. Let's get moving.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -309,7 +314,7 @@ with materials via Rerise.
 <Chaltier>
 [ENDBLOCK]
 Not only can they prevent ailments,
-but they'll also increase your stats, 
+but they'll also increase your stats,
 and some carry other abilities.
 [ENDBLOCK]
 <Chaltier>
@@ -319,8 +324,8 @@ thus increasing their effects on your stats.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-So materials become gems,
-and you can strengthen them, right?
+So materials become gems, and
+you can strengthen them, right?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -332,8 +337,8 @@ I did it!
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-It's a good idea
-to Rerise materials often.
+It's a good idea to Rerise
+materials often.
 [ENDBLOCK]
 <Hugo>
 [ENDBLOCK]
@@ -342,7 +347,8 @@ Wait a moment, <Lion>.
 <Hugo>
 [ENDBLOCK]
 I almost forgot to give you
-your allowance. Here, take this.
+your allowance. Here, take
+this.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -355,7 +361,8 @@ Of course.
 <Stahn>
 [ENDBLOCK]
 He's so polite to his dad.
-My family's completely different...
+My family's completely
+different...
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -392,9 +399,9 @@ Emilio, wait a moment, please.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-Hey, Emilio,
-There's something on my mind,
-if you don't mind me telling you.
+Hey, Emilio, There's something
+on my mind, if you don't mind
+me telling you.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -402,8 +409,9 @@ S-Sure...
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-The way you spoke to that soldier
-ealier, that wasn't very appropriate.
+The way you spoke to that
+soldier ealier, that wasn't
+very appropriate.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
@@ -425,14 +433,14 @@ He was what, exactly?
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-You need to remember
-what's expected of
-someone of your rank.
+You need to remember what's
+expected of someone of your
+rank.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-I... understand.
-I'll be more careful.
+I... understand. I'll
+be more careful.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
@@ -441,12 +449,12 @@ I'm glad that I told you.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-Okay, that's all. Please be
-careful, and come back safe.
+Okay, that's all. Please be careful,
+and come back safe.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Current Gald: <TAG_033>Gald
+<TAG_007>Current Gald: <TAG_033> Gald
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 Yes
@@ -454,9 +462,9 @@ No
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x48><x88><x80></color> 
 [ENDBLOCK]
-has joined the Party.
+has joined the party.
 [ENDBLOCK]
-is now an active 
+is now an active
 party member.
 [ENDBLOCK]
 can join the battle.
@@ -479,9 +487,9 @@ has left the party.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xAC><x98><x80>
+[<center><turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xAC><x98><x80>
 [ENDBLOCK]
-<x18><x65><x58><xA8><x00><x80></color>.
+<x18><x65><x58><xA8><x00><x80></color>]
 
 [ENDBLOCK]
 <x19><x69><x48><x9C><x80>'s party received
@@ -512,7 +520,7 @@ the <turquoise>Strongest Titles
 [ENDBLOCK]
 the <turquoise>Quiz Titles
 [ENDBLOCK]
-<x19><x69><x48><x9C><x80> has received
+<x19><x69><x48><x9C><x80> has received the title:
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -593,53 +601,49 @@ can now be used.
 notice
 [ENDBLOCK]
 <TAG_007>[Titles Description]
-Titles are one of the character parameters
-that can be set on a character. The
-specific set method is as follows.
+Titles are one of the character
+parameters that can be set. 
+The specific method is as follows.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>After opening the main menu,
 the character status will display.
-On this screen, hit <Square_ani> and you'll
-be able to change the character status.
+On this screen, press <Square_ani> to 
+change the character status.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>At the top of this screen, you'll see
-[Titles] On this screen, press <Triangle_ani> 
-and it'll let you pick from all the titles
-you've acquired.
+<TAG_007>At the top of this screen will be
+[Titles]. Press <Triangle_ani> to pick
+from all aquired titles.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>There are two purposes to titles. 
-The first is to [Set your title and 
-talk to the townspeople].
+<TAG_007>Titles serve two purposes:
+The first is to [affect dialogue 
+when talking to NPCs].
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>By setting a title, certain townspeople
-will take interest in you. When you talk
-to them several times, you might get
-interesting responses. When that
-happens, reset the title you have on
-and try talking to them again.
+<TAG_007>Set a title to have certain NPCs interested
+while passing them. When talking with NPCs
+multiple times you may get different responses.
+Change the title and try talking to them again.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Hint: When talking to townspeople, a
-[?] will appear over your character's
-head. If this happens, set a title that
-seems to be related to the dialogue, 
-and try talking to them again. 
+<TAG_007>Hint: When talking to certain NPCs, a [?] will 
+appear over the character's head. If this 
+happens, set a title that seems to be related
+to the dialogue, and try talking to them again.
 Something fun may happen.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>The second purpose of titles is...
+<TAG_007>The second purpose for titles is...
 to make your status screen look cool!
 When collecting titles, you might pick
 up one you like, so you can set it on
@@ -647,15 +651,15 @@ your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>[Rock Rally] is a game in which 
-players kick rocks on the field 
+<TAG_007>[Rock Rally] is a game in which
+players kick rocks on the field
 to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
-1: Kicking a rock outside the 
+1: Kicking a rock outside the
 	city will start the game.
 2: Battles don't affect the clearing
 	objective of the Rock Rally game.

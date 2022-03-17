@@ -62,37 +62,36 @@ Father died in the last war.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-It's fine. I'm actually happy to see
-someone looking for him.
+Don't be. Seeing someone looking
+for him brings me joy.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-Here, take this. As thanks.
+Here, I'd like you to have this.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-Speaking of which, father used to
-say he wanted to be friends with
-someone from Neustadt.
+That reminds me, father always used
+to say there was someone he
+wanted to meet in Neustadt.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-Speaking of which, father used to
-say he wanted to be friends with
-someone from Neustadt.
+That reminds me, father always used
+to say there was someone he
+wanted to meet in Neustadt.
 [ENDBLOCK]
 
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>It may not warm up one's heart, 
-but it will surely warm up 
-one's body
+<TAG_005>It may not warm up one's heart,
+but it will surely warm up one's body.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-Are you travelers? Conduct
-yourselves properly in this town.
+Are you travelers?
+Better not cause any trouble.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
@@ -107,23 +106,22 @@ Your Majesty... King <Woodrow>...?
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-A declaration of war on the entire
-surface...? Are they serious?
+Declaring war on the entire Earth...?
+Are they serious?
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-That thing completely
-cratered the surface...
-Is that Belcrant's power?
+That thing blasted holes all over
+the world...Is that Belcrant's power?
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-Is this the end of humanity?
+Is this mankind's final hour?
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
 I was instructed by captain
-<Dalis> to collect the lens...
+<Dalis> to collect lens...
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
@@ -132,30 +130,30 @@ please save humanity.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-We will make Phandaria into a new
-country with our own hands!
+We will mold Phandaria
+anew by our own hands!
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-Captain <Dalis> has spoken to the
-new king to make sure we are not
-punished.
+Captain <Dalis> negotiated
+with the new king ensuring
+we aren't punished.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-What is this Aeth'er War I hear
-about? What's happening!?
+What are the Aeth'er Wars?
+What's happening!?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-If a city were to be hit by Belcrant...
-How many people would die!?
+I wonder how many would die
+if Belcrant struck the city...
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-I haven't been able to rest lately...
-I keep thinking Belcrant might
-strike again.
+How am I supposed to rest when all
+I can think about is how Belcrant
+may strike at any moment?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -164,14 +162,14 @@ Please, save the world!
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-We were able to win the battle
-because Lord <Greybum> was on our side.
+We won the fight because Lord
+<Greybum> was on our side.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-People were praising Lord <Greybum>
-a little while ago, and now they're
-all badmouthing him.
+People were praising Lord
+<Greybum> before, but now
+they're all badmouthing him.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
@@ -194,13 +192,12 @@ whole sky is blocked?
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-The lens in this city were
-all sent to Heidelberg.
+We sent all our lens to Heidelberg.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-When did we start chumming
-up to that town's people?
+When did we start being
+friendly to outsiders?
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
@@ -209,13 +206,13 @@ we will definitely win.
 [ENDBLOCK]
 Grocer
 [ENDBLOCK]
-Come now, come come, come see!
+Come now, come see my wares!
 [ENDBLOCK]
 Grocer
 [ENDBLOCK]
-People of Cyril thrive in adversity.
-We're not going to be defeated by
-something like this.
+The people of Cyril thrive in
+adversity. We're not going to be
+defeated by something like this.
 [ENDBLOCK]
 Item Shop
 [ENDBLOCK]
@@ -223,15 +220,15 @@ I've lined up some good stuff here.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Want to make a snowman together?
+Do you wanna build a snowman?
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Want to make a snowman together?
+Do you wanna build a snowman?
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Want to make a snowman together?
+Do you wanna build a snowman?
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -239,7 +236,8 @@ It's getting very dark outside.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Is it true that a big crater opened up?
+Is it true the Earth is
+covered in holes now?
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -258,7 +256,7 @@ lens, something good will happen.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-This is Cyril, right?
+So, this is Cyril?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -272,9 +270,9 @@ into rebel hands...?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-I'll be waiting outside for the time
-being. I don't want to be found out
-and cause a commotion.
+I'll wait outside of town
+for now. There could be
+a commotion if I'm seen.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
@@ -293,20 +291,21 @@ Isn't that <Mary>!?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-Do you know me?
+Do I know you?
 [ENDBLOCK]
-What are you saying?
-We fought together, didn't we?
+What are you saying? We 
+were comrades in arms 
+together, remember?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-I did? With you...?
+We... fought together...?
 [ENDBLOCK]
 I thought you died in the battle two
 years ago! Damn, I can't believe it.
 [ENDBLOCK]
-I gotta let the captain know!
-Wait here!
+I gotta let the captain
+know! Wait here!
 [ENDBLOCK]
 ???
 [ENDBLOCK]
@@ -324,13 +323,14 @@ Ma...!
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-Could it be!? You...
+Could you be...
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-They look alike, but that's not her.
+They look alike, but
+it can't be her.
 [ENDBLOCK]
-That can't be... after all...
+It just... isn't possible...
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
@@ -343,9 +343,9 @@ U-Understood.
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-As soon as you are done with
-your business, leave. Get out of 
-this country as soon as possible.
+As soon as you are done with your
+business here, leave. Get out of this
+country as soon as possible.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -358,8 +358,9 @@ Wait a second. You are...
 [ENDBLOCK]
 <Dalis>
 [ENDBLOCK]
-I've warned you. Next
-time I won't let it slide.
+You've been warned.
+Next time there will 
+be no warning.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -381,10 +382,9 @@ little... but I'm fine.
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-This place seems to be strongly
-connected to her. It's stimulating
-the part of her brain that controls
-memory.
+<center>This place seems to be strongly
+connected to her. Being here seems
+to be unlocking her memories.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -393,8 +393,8 @@ This city is...?
 <Lion>
 [ENDBLOCK]
 <Philia>, go call <Woodrow> and the
-others. They can now enter the city
-without drawing attention.
+others. They can now enter the
+city without drawing attention.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -412,12 +412,13 @@ I thought you had died!
 [ENDBLOCK]
 U-...Umm...
 [ENDBLOCK]
-It seems good things keep happening.
-First we win the battle, then Isaac died.
+Good things keep happening!
+We took the capital, and even
+managed to kill Isaac!
 [ENDBLOCK]
 Maybe this is also Lord <Greybum>'s
-influence. He seems to bring good
-luck wherever he goes.
+influence. He seems to be a magnet
+for good fortune.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -434,39 +435,42 @@ My house...?
 [ENDBLOCK]
 <Mary>'s house? Where!?
 [ENDBLOCK]
-It's on the west side. The walls are green,
-so you should notice it right away...
+It's on the west side of
+town, and its walls are
+green. You can't miss it...
 [ENDBLOCK]
-Oh, I was in the middle of shopping.
-Well then, I'll see you later.
+Oh, I was in the middle
+of shopping. Well then,
+I'll see you later.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-It seems people from the royal
-family are not welcome in this city...
+It appears that members of the
+royal family are not welcome in
+this city...
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-That way of talking... it's too harsh...
+The things she said... 
+How horrible...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Best not to mind it. I'm sure
+Don't let it get to you. I'm sure
 <Greybum> deceived everyone.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-The story isn't that simple.
+I'm afraid it isn't that simple.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-What isn't?
+What do you mean?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-This means that there are
-people in this country who
-are receptive to <Greybum>.
+There are people in this country
+who are receptive to <Greybum>.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
@@ -479,44 +483,45 @@ That's...
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-Be that as it may, it's better not
+<center>Be that as it may, it's better not
 to overstay. Let's leave as soon
 as we are done resupplying.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Before that... <Mary>, what do you
-want to do? Want to try going to
-your house?
+Before that... <Mary>, what do
+you want to do? Want to try
+going to your house?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-...I want to. It might help
-my memories to resurface.
+...I do. There's a chance going
+might help me remember.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Certainly. Let's go, guys. We gotta make
-sure what that woman said is true.
+Certainly. Let's go, guys. 
+We gotta make sure what
+that woman said is true.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-<Woodrow> is with us. It's best to
+<center><Woodrow> is with us. It's best to
 avoid unnecessary actions.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-This is not unnecessary. 
+This is not unnecessary.
 It's important.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Yeah, we can't 
+Yeah, we can't
 just leave it be.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-...If it's unavoidable,
+ ...If it's unavoidable,
 then hurry up and go.
 [ENDBLOCK]
 <Chelsea>
@@ -527,7 +532,7 @@ something wrong?
 <Woodrow>
 [ENDBLOCK]
 My father was famously
-known as the "Wise King".
+known as the "Wise King."
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
@@ -550,7 +555,7 @@ throne until I have that answer.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Current Gald: <TAG_033>Gald
+<TAG_007>Current Gald: <TAG_033> Gald
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 Yes
@@ -558,9 +563,9 @@ No
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x48><xA4><x80></color> 
 [ENDBLOCK]
-has joined the Party.
+has joined the party.
 [ENDBLOCK]
-is now an active 
+is now an active
 party member.
 [ENDBLOCK]
 can join the battle.
@@ -583,9 +588,9 @@ has left the party.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xC8><x98><x80>
+<center>[<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xC8><x98><x80>
 [ENDBLOCK]
-<x18><x65><x58><xC4><x00><x80></color>.
+<x18><x65><x58><xC4><x00><x80></color>]
 
 [ENDBLOCK]
 <x19><x69><x48><xB8><x80>'s party received
@@ -616,7 +621,7 @@ the <turquoise>Strongest Titles
 [ENDBLOCK]
 the <turquoise>Quiz Titles
 [ENDBLOCK]
-<x19><x69><x48><xB8><x80> has received
+<x19><x69><x48><xB8><x80> has received the title:
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -697,53 +702,49 @@ can now be used.
 notice
 [ENDBLOCK]
 <TAG_007>[Titles Description]
-Titles are one of the character parameters
-that can be set on a character. The
-specific set method is as follows.
+Titles are one of the character
+parameters that can be set. 
+The specific method is as follows.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>After opening the main menu,
 the character status will display.
-On this screen, hit <Square_ani> and you'll
-be able to change the character status.
+On this screen, press <Square_ani> to 
+change the character status.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>At the top of this screen, you'll see
-[Titles] On this screen, press <Triangle_ani> 
-and it'll let you pick from all the titles
-you've acquired.
+<TAG_007>At the top of this screen will be
+[Titles]. Press <Triangle_ani> to pick
+from all aquired titles.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>There are two purposes to titles. 
-The first is to [Set your title and 
-talk to the townspeople].
+<TAG_007>Titles serve two purposes:
+The first is to [affect dialogue 
+when talking to NPCs].
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>By setting a title, certain townspeople
-will take interest in you. When you talk
-to them several times, you might get
-interesting responses. When that
-happens, reset the title you have on
-and try talking to them again.
+<TAG_007>Set a title to have certain NPCs interested
+while passing them. When talking with NPCs
+multiple times you may get different responses.
+Change the title and try talking to them again.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Hint: When talking to townspeople, a
-[?] will appear over your character's
-head. If this happens, set a title that
-seems to be related to the dialogue, 
-and try talking to them again. 
+<TAG_007>Hint: When talking to certain NPCs, a [?] will 
+appear over the character's head. If this 
+happens, set a title that seems to be related
+to the dialogue, and try talking to them again.
 Something fun may happen.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>The second purpose of titles is...
+<TAG_007>The second purpose for titles is...
 to make your status screen look cool!
 When collecting titles, you might pick
 up one you like, so you can set it on
@@ -751,15 +752,15 @@ your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>[Rock Rally] is a game in which 
-players kick rocks on the field 
+<TAG_007>[Rock Rally] is a game in which
+players kick rocks on the field
 to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
-1: Kicking a rock outside the 
+1: Kicking a rock outside the
 	city will start the game.
 2: Battles don't affect the clearing
 	objective of the Rock Rally game.

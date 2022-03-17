@@ -2,34 +2,34 @@
 [ENDBLOCK]
 Lens Fortuneteller
 [ENDBLOCK]
-I offer my services
-only to the honest.
+My services are only available to
+those who are honest with others.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Are you saying I'm
-not good enough?
+How about me? 
+Do I look honest enough?
 [ENDBLOCK]
 Lens Fortuneteller
 [ENDBLOCK]
-Well well, let's see...Hmm,
-yes, you look honest enough.
+Let me take a closer look at you...
+Yes... you'll do nicely.
 [ENDBLOCK]
 Lens Fortuneteller
 [ENDBLOCK]
-Would you like to
-ask me something?
+What secrets would you like
+for me to reveal?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Sorry, I can't think of
-anything in particular.
+I... I can't think of anything
+specific. I'm sorry.
 [ENDBLOCK]
 Lens Fortuneteller
 [ENDBLOCK]
 I see, in that case let's you and
-I seek favor from the Lens, and
-see what they have to tell us.
+I seek favor from the Lens. We
+shall let their wisdom guide us.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -37,14 +37,14 @@ Ooh, sounds fun!
 [ENDBLOCK]
 Lens Fortuneteller
 [ENDBLOCK]
-Lens are all over and around us,
-but in truth they hold a mysterious power.
+Lens are all over and around us.
+In truth they hold a mysterious power.
 [ENDBLOCK]
 Lens Fortuneteller
 [ENDBLOCK]
-It's very rare, but it's possible for
-a lens that has used up all of it's
-energy to absorb one's feelings.
+On rare occurrences, lens, once
+drained of their natural energy,
+can absorb the feelings of others.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -53,24 +53,23 @@ Absorb... feelings?
 Lens Fortuneteller
 [ENDBLOCK]
 Indeed, things like strong
-wishes, love, memories.
+desires, love, and memories.
 [ENDBLOCK]
 Lens Fortuneteller
 [ENDBLOCK]
-It is said that these sorts of
-things hold the most energy.
+These feelings are the strongest
+form of human energy.
 [ENDBLOCK]
 Lens Fortuneteller
 [ENDBLOCK]
-Among these, those who passed from
-this world with strong emotions are
-the most likely to leave these feelings
-in the lens.
+Those who pass from this world
+with strong emotions in their heart
+are most likely to imprint on the lens.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Haha, I don't get it at all!
-Lens sure are mysterious, huh.
+Wow, I don't get it at all!
+Lens sure are mysterious, huh?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
@@ -78,10 +77,9 @@ Lens sure are mysterious, huh.
 [ENDBLOCK]
 Lens Fortuneteller
 [ENDBLOCK]
-Well well, that sword has a lens in it.
-Hmm, I sense a powerful energy is
-locked within it. ...But...I also sense
-something very strange about it.
+That sword... it's made with lens.
+I sense it holds powerful energy.
+However, a strange aura is present.
 [ENDBLOCK]
 Lens Fortuneteller
 [ENDBLOCK]
@@ -90,46 +88,43 @@ Please be careful.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-Don't you dare call
+How dare she call
 me a cursed sword!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I-It's okay.
+I-I'll be okay.
 [ENDBLOCK]
 Lens Fortuneteller
 [ENDBLOCK]
-Not because of the sword or anything,
-but please be careful if you find
-yourself somewhere that someone
-who had powerful emotions was.
+Unrelated to the nature of the sword,
+be wary if you find yourself in a
+place where strong emotions reside.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Okay, I'll watch out.
-Thank you.
+I will, thank you.
 [ENDBLOCK]
 Lens Fortuneteller
 [ENDBLOCK]
 As I am a wandering Lens Diviner,
-now would be your best chance
-if you happened to want to ask
-me something.
+if you seek my wisdom, now would
+be your best opportunity.
 [ENDBLOCK]
 Lens Fortuneteller
 [ENDBLOCK]
-Do you have anything
-at all in mind now?
+I'm sure there is at least one
+thing you seek knowledge on.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Well actually,
+Well, actually,
 there is one thing...
 [ENDBLOCK]
 Lens Fortuneteller
 [ENDBLOCK]
-I offer my services
-only to the honest.
+My services are only available
+to those who are honest with others.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -261,7 +256,7 @@ The Canvas has been unlocked.
 notice
 [ENDBLOCK]
 In <Chelsea>'s room at <Alba>'s Cabin.
-On the canvas you can see your 
+On the canvas you can see your
 friends' various faces.
 [ENDBLOCK]
 notice
@@ -272,7 +267,7 @@ rocks that fall around the world.
 notice
 [ENDBLOCK]
 At a hut near the center of Fitzgald.
-By examining the pressure points in 
+By examining the pressure points in
 that room, the stone will change.
 [ENDBLOCK]
 notice
@@ -356,7 +351,7 @@ Well, it's nice to meet you.
 Chatty Old Man
 [ENDBLOCK]
 Hmmm. Contact with people is a
-once in a lifetime opportunity. 
+once in a lifetime opportunity.
 Treasure it.
 
 [ENDBLOCK]
@@ -433,18 +428,18 @@ select
 <TAG_007>TOD OUTPUT <x17><x20><x20><x16><x4F><x80><x17><x20><x21><x16><x4F><x80><x17><x20><x24><x02><x16><x4F><x80><x17><x20><x24><x03><x16><x4F><x80><x17><x20><x24><x04><x16><x4F><x80><x17><x20><x24><x05><x16><x4F><x80><x17><x20><x24><x06><x16><x4F><x80><x17><x20><x24><x07><x16><x4F><x80>
 WEB INPUT  <x17><x21><x20><x16><x4F><x80><x17><x21><x21><x16><x4F><x80><x17><x21><x24><x02><x16><x4F><x80><x17><x21><x24><x03><x16><x4F><x80><x17><x21><x24><x04><x16><x4F><x80><x17><x21><x24><x05><x16><x4F><x80><x17><x21><x24><x06><x16><x4F><x80><x17><x21><x24><x07><x16><x4F><x80>
 メニュー内のフェイス絵をPS版ドットキャラに
-チャットの絵を鑑賞できる  
-蹴れる石がおもちゃのアヒルになる  
-フィリアの魔法ひとつ追加  
-スタンの技追加  
-ダリスの悪夢  
-戦闘ランク最高を追加 
+チャットの絵を鑑賞できる
+蹴れる石がおもちゃのアヒルになる
+フィリアの魔法ひとつ追加
+スタンの技追加
+ダリスの悪夢
+戦闘ランク最高を追加
 スタンの技追加２
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Current Gald: <TAG_033>Gald
+<TAG_007>Current Gald: <TAG_033> Gald
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 Yes
@@ -452,9 +447,9 @@ No
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x47><xD8><x80></color> 
 [ENDBLOCK]
-has joined the Party.
+has joined the party.
 [ENDBLOCK]
-is now an active 
+is now an active
 party member.
 [ENDBLOCK]
 can join the battle.
@@ -477,9 +472,9 @@ has left the party.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x47><xFC><x98><x80>
+<center>[<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x47><xFC><x98><x80>
 [ENDBLOCK]
-<x18><x65><x57><xF8><x00><x80></color>.
+<x18><x65><x57><xF8><x00><x80></color>]
 
 [ENDBLOCK]
 <x19><x69><x47><xEC><x80>'s party received
@@ -510,7 +505,7 @@ the <turquoise>Strongest Titles
 [ENDBLOCK]
 the <turquoise>Quiz Titles
 [ENDBLOCK]
-<x19><x69><x47><xEC><x80> has received
+<x19><x69><x47><xEC><x80> has received the title:
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -591,53 +586,49 @@ can now be used.
 notice
 [ENDBLOCK]
 <TAG_007>[Titles Description]
-Titles are one of the character parameters
-that can be set on a character. The
-specific set method is as follows.
+Titles are one of the character
+parameters that can be set. 
+The specific method is as follows.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>After opening the main menu,
 the character status will display.
-On this screen, hit <Square_ani> and you'll
-be able to change the character status.
+On this screen, press <Square_ani> to 
+change the character status.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>At the top of this screen, you'll see
-[Titles] On this screen, press <Triangle_ani> 
-and it'll let you pick from all the titles
-you've acquired.
+<TAG_007>At the top of this screen will be
+[Titles]. Press <Triangle_ani> to pick
+from all aquired titles.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>There are two purposes to titles. 
-The first is to [Set your title and 
-talk to the townspeople].
+<TAG_007>Titles serve two purposes:
+The first is to [affect dialogue 
+when talking to NPCs].
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>By setting a title, certain townspeople
-will take interest in you. When you talk
-to them several times, you might get
-interesting responses. When that
-happens, reset the title you have on
-and try talking to them again.
+<TAG_007>Set a title to have certain NPCs interested
+while passing them. When talking with NPCs
+multiple times you may get different responses.
+Change the title and try talking to them again.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Hint: When talking to townspeople, a
-[?] will appear over your character's
-head. If this happens, set a title that
-seems to be related to the dialogue, 
-and try talking to them again. 
+<TAG_007>Hint: When talking to certain NPCs, a [?] will 
+appear over the character's head. If this 
+happens, set a title that seems to be related
+to the dialogue, and try talking to them again.
 Something fun may happen.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>The second purpose of titles is...
+<TAG_007>The second purpose for titles is...
 to make your status screen look cool!
 When collecting titles, you might pick
 up one you like, so you can set it on
@@ -645,15 +636,15 @@ your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>[Rock Rally] is a game in which 
-players kick rocks on the field 
+<TAG_007>[Rock Rally] is a game in which
+players kick rocks on the field
 to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
-1: Kicking a rock outside the 
+1: Kicking a rock outside the
 	city will start the game.
 2: Battles don't affect the clearing
 	objective of the Rock Rally game.

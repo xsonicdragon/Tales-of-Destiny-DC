@@ -1,17 +1,18 @@
 Man
 [ENDBLOCK]
-I've recently found myself
+I've found myself
 coming here more often lately.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-Perhaps it's because here I can forget
-how bad things are at the moment, and
+Maybe because here I can forget
+how bad things are right now, and
 go back to my childhood days.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-I kinda feel you there, pal.
+I kinda feel
+you there, pal.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
@@ -40,19 +41,19 @@ champion, <Kongman>?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Yeah, I fight with my fists only 
+Yeah, I fight with my fists only
 in homage to that champion.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Yeah. I was very,
-very poor as a child.
+I was real
+poor as a kid, see.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-It was a place where nobody'd
-bat an eye if someone dropped
-dead in front of them.
+I lived somewhere where
+no one'd bat an eye 
+if someone just dropped dead.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
@@ -63,8 +64,7 @@ what gave me life.
 <Kongman>
 [ENDBLOCK]
 That's what I tell everyone,
-at least. Truth is, I never cared
-for 'em at all.
+at least. Truth is, I hated the guy.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
@@ -82,7 +82,7 @@ I saw it with my own eyes.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-It absolutely broke my heart... 
+It absolutely broke my heart...
 but I made a vow right then,
 right there.
 [ENDBLOCK]
@@ -94,23 +94,23 @@ a true hero for all children.
 <Kongman>
 [ENDBLOCK]
 You might say my sheer hatred for
-the false Champion made me 
+the false Champion made me
 what I am today.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Though you may disagree,
-this is my belief.
+Ya might think I'm crazy,
+but that's what I believe.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Whether they admire me or hate me,
-it's fine. As long as... the kids survive.
+It doesn't matter if they love me
+or hate me. As long as they survive.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-So long as you live to become an adult,
-I believe you always have a shot.
+As long as you live to grow up,
+you've got a shot at life...
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -123,18 +123,18 @@ you're right.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Whoops, didn't mean to bore
+Aah, I didn't mean to bore
 you with that sob story.
 Let's get outta here.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-I've recently found myself
+I've found myself
 coming here more often lately.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-It's as if some unseen hand
+It's like some unseen hand
 is guiding me here...
 [ENDBLOCK]
 <Stahn>
@@ -160,7 +160,7 @@ I understand...
 [ENDBLOCK]
 Lady
 [ENDBLOCK]
-I married a wealthy man in
+I married a rich man in
 this city, and now look at me.
 [ENDBLOCK]
 Lady
@@ -170,18 +170,18 @@ pass me by, either.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Sorry about that. If it's too much
+Sorry, my bad. If it's too much
 trouble, we can leave you alone.
 [ENDBLOCK]
 Lady
 [ENDBLOCK]
-That's not it. The old me would've
+No, wait. The old me would've
 helped under any circumstance...
 [ENDBLOCK]
 Lady
 [ENDBLOCK]
-I'm just a little shocked
-at how much I've changed...
+I'm shocked at
+how much I've changed...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -195,8 +195,8 @@ Lady
 [ENDBLOCK]
 Lady
 [ENDBLOCK]
-It's not much, but here.
-Take this with you.
+It's not much,
+but here. Take this.
 [ENDBLOCK]
 Lady
 [ENDBLOCK]
@@ -209,7 +209,7 @@ Well, good luck.
 [ENDBLOCK]
 Lady
 [ENDBLOCK]
-Oh, by the way, there's another
+There's another
 hidden Calvalesian in town.
 [ENDBLOCK]
 Lady
@@ -218,7 +218,7 @@ Well, good luck.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-I always bet on <Kongman>. 
+I always bet on <Kongman>.
 So far, I've never lost.
 [ENDBLOCK]
 Man
@@ -228,8 +228,8 @@ who will I bet on!?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-There're no good fighters
-competing these days.
+There're no good
+fighters these days.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -248,8 +248,8 @@ you're taking a break for a while?
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-So, you're saying the champion is
-working to resolve the current crisis?
+Our champion's out there
+fixin' the world's problems!
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
@@ -264,7 +264,7 @@ title to change hands.
 Lady
 [ENDBLOCK]
 In <Kongman>'s absence, now's
-the time for the new generation
+the time for a new generation
 of fighter to flourish.
 [ENDBLOCK]
 Lady
@@ -314,8 +314,8 @@ flying around on a dragon!?
 [ENDBLOCK]
 Sailor
 [ENDBLOCK]
-...What? You're saying it's
-you guys? Hah! Good one!
+...What? It's you guys?
+Hah! good one!
 [ENDBLOCK]
 Announcer
 [ENDBLOCK]
@@ -335,22 +335,22 @@ not runnin' away! You ready?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I still don't really get
+I still don't get
 why we have to fight.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-<Philia>, please watch me. 
-I will devote the glory 
+<Philia>, please watch me.
+I will devote the glory
 of my victory to you!
 [ENDBLOCK]
 Now, in this very moment, witness
-this very special match!
+this special exhibition!
 [ENDBLOCK]
 Champion <Kongman>!
 VS!	Mr. Pointy Head!
 [ENDBLOCK]
-Oh my! We've reached an 
+Oh my! We've reached an
 unexpected conclusion! The
 challenger has won the match!
 [ENDBLOCK]
@@ -364,8 +364,8 @@ How was that? Do you get it now!?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Don't bother <Philia> 
-anymore, okay? And also...
+Don't bother <Philia> anymore,
+okay? And also...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -403,7 +403,7 @@ You... seem to be close to her.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-...Well, it was a good match.
+...Well, it was a good fight.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -451,7 +451,7 @@ Gahahahaha!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Current Gald: <TAG_033>Gald
+<TAG_007>Current Gald: <TAG_033> Gald
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 Yes
@@ -461,7 +461,7 @@ No
 [ENDBLOCK]
 has joined the party.
 [ENDBLOCK]
-is now an active 
+is now an active
 party member.
 [ENDBLOCK]
 can join the battle.
@@ -484,9 +484,9 @@ has left the party.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x47><xEC><x98><x80>
+<center>[<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x47><xEC><x98><x80>
 [ENDBLOCK]
-<x18><x65><x57><xE8><x00><x80></color>.
+<x18><x65><x57><xE8><x00><x80></color>]
 
 [ENDBLOCK]
 <x19><x69><x47><xDC><x80>'s party received
@@ -517,7 +517,7 @@ the <turquoise>Strongest Titles
 [ENDBLOCK]
 the <turquoise>Quiz Titles
 [ENDBLOCK]
-<x19><x69><x47><xDC><x80> has received
+<x19><x69><x47><xDC><x80> has received the title:
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -598,53 +598,49 @@ can now be used.
 notice
 [ENDBLOCK]
 <TAG_007>[Titles Description]
-Titles are one of the character parameters
-that can be set on a character. The
-specific set method is as follows.
+Titles are one of the character
+parameters that can be set. 
+The specific method is as follows.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>After opening the main menu,
 the character status will display.
-On this screen, hit <Square_ani> and you'll
-be able to change the character status.
+On this screen, press <Square_ani> to 
+change the character status.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>At the top of this screen, you'll see
-[Titles] On this screen, press <Triangle_ani> 
-and it'll let you pick from all the titles
-you've acquired.
+<TAG_007>At the top of this screen will be
+[Titles]. Press <Triangle_ani> to pick
+from all aquired titles.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>There are two purposes to titles. 
-The first is to [Set your title and 
-talk to the townspeople].
+<TAG_007>Titles serve two purposes:
+The first is to [affect dialogue 
+when talking to NPCs].
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>By setting a title, certain townspeople
-will take interest in you. When you talk
-to them several times, you might get
-interesting responses. When that
-happens, reset the title you have on
-and try talking to them again.
+<TAG_007>Set a title to have certain NPCs interested
+while passing them. When talking with NPCs
+multiple times you may get different responses.
+Change the title and try talking to them again.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Hint: When talking to townspeople, a
-[?] will appear over your character's
-head. If this happens, set a title that
-seems to be related to the dialogue, 
-and try talking to them again. 
+<TAG_007>Hint: When talking to certain NPCs, a [?] will 
+appear over the character's head. If this 
+happens, set a title that seems to be related
+to the dialogue, and try talking to them again.
 Something fun may happen.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>The second purpose of titles is...
+<TAG_007>The second purpose for titles is...
 to make your status screen look cool!
 When collecting titles, you might pick
 up one you like, so you can set it on
@@ -652,15 +648,15 @@ your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>[Rock Rally] is a game in which 
-players kick rocks on the field 
+<TAG_007>[Rock Rally] is a game in which
+players kick rocks on the field
 to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
-1: Kicking a rock outside the 
+1: Kicking a rock outside the
 	city will start the game.
 2: Battles don't affect the clearing
 	objective of the Rock Rally game.

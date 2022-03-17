@@ -176,8 +176,8 @@ feel free to shop.
 [ENDBLOCK]
 Produce Merchant
 [ENDBLOCK]
-Welcome.
-Wanna buy something?
+Welcome. Wanna
+buy something?
 [ENDBLOCK]
 Produce Merchant
 [ENDBLOCK]
@@ -220,7 +220,7 @@ in the city has been controversial.
 [ENDBLOCK]
 Lady
 [ENDBLOCK]
-I'm a long-time resident, but I think 
+I'm a long-time resident, but I think
 it's good for the city to develop.
 [ENDBLOCK]
 Lady
@@ -301,14 +301,14 @@ Mighty! Mighty!
 [ENDBLOCK]
 Sister
 [ENDBLOCK]
-Those obsessed with
-material gains are always
-lacking in spiritual fulfillment.
+Those obsessed with material
+gains are always lacking in
+spiritual fulfillment.
 [ENDBLOCK]
 Sister
 [ENDBLOCK]
-More than ever, this city
-needs a branch of Straylize Temple.
+More than ever, this city needs
+a branch of Straylize Temple.
 [ENDBLOCK]
 Sister
 [ENDBLOCK]
@@ -367,8 +367,8 @@ Take this.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-It'll show you how to perform
-a「Definite Strike」on monsters.
+It'll show you how to perform a
+[Definite Strike] on monsters.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -377,16 +377,16 @@ Take good care of it.
 notice
 [ENDBLOCK]
 You can perform a Definite Strike
-by setting [Definite Strike] to 
-"ON" from the Customize menu
-in the Main menu.
+by setting [Definite Strike] to "ON"
+from the Customize menu in the 
+Main menu.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 You can also view each monster's
 Definite Strike in the Monster Book
-if Definite Strike is "ON".
+if Definite Strike is "ON."
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -418,8 +418,8 @@ We gotta find <Greybum>!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-First, we're going
-to visit <Ilene>'s estate.
+First, we're going to
+visit <Ilene>'s estate.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
@@ -438,8 +438,7 @@ strike back at that armada.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Wait!
-I'm going with you!
+Wait! I'm going with you!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -447,29 +446,28 @@ I'm going with you!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-We have to
-protect our town!
+We have to protect our town!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
 <Ilene> is doing her best, too. I'm
-not going to let her out-do me!
+not going to let her outdo me!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-All right!
-Let's fight together!
+All right! Let's
+fight together!
 [ENDBLOCK]
 Captain
 [ENDBLOCK]
-When you're ready, just give me
-a shout, and we'll set sail!
+When you're ready, just give
+me a shout, and we'll set sail!
 [ENDBLOCK]
 Captain
 [ENDBLOCK]
-There's a considerable amount of
-enemy ships. As soon as we leave
-port, we'll attack!
+There's a considerable amount
+of enemy ships. As soon as we
+leave port, we'll attack!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
@@ -478,7 +476,7 @@ last one of 'em to bits!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-Our goal is the flagship. We don't have
+<center>Our goal is the flagship. We don't have
 time to do a thorough search.
 [ENDBLOCK]
 <Stahn>
@@ -492,8 +490,8 @@ so hold on tight!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Thanks for the
-warm welcome, folks!
+Thanks for the warm
+welcome, folks!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
@@ -520,8 +518,8 @@ it all by himself...
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-I'm sick of all this noise.
-Let's head back to <Ilene>'s estate.
+I'm sick of all this noise. Let's
+head back to <Ilene>'s estate.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -544,9 +542,9 @@ older women...
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-N-Not at all! I would never! 
-It's impossible! Completely out
-of the question!
+N-Not at all! I would never!
+It's impossible! Completely
+out of the question!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -563,7 +561,7 @@ with that ship?
 What are you
 talking about?
 [ENDBLOCK]
-while you all were fighting 
+While you all were fighting
 out at sea, a ship from the
 armada came this way...
 [ENDBLOCK]
@@ -577,7 +575,8 @@ A ship...?
 <Ilene>
 [ENDBLOCK]
 When you get close to Aquaveil,
-please use a rowboat to get to land.
+please use a rowboat to get to
+land.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -586,24 +585,24 @@ this up, <Ilene>.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Wahh... <Philia>, you're
-really leaving, aren't you?
+Wahh... <Philia>, you're really
+leaving, aren't you?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-If I weren't helping
-to rebuild the city, I'd
-come with you in a heartbeat!
+If I weren't helping to rebuild
+the city, I'd come with you in 
+a heartbeat!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-There, there. The
-townspeople need you, <Kongman>.
+There, there. The townspeople
+need you, <Kongman>.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-<Philia>, you're so kind!
-What an inspiration! Uwahhhhh!
+<Philia>, you're so kind! What
+an inspiration! Uwahhhhh!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -627,8 +626,8 @@ You can count on me.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Well then, we're off.
-Really, thank you so much!
+Well then, we're off. Really,
+thank you so much!
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
@@ -642,13 +641,14 @@ their ideals first, right?
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
-I hope next time we meet,
-we'll both have made progress.
+I hope next time we meet, we'll
+both have made progress.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Ideals, huh...? Wonder if that's
-something easier said than done?
+Ideals, huh...? Wonder if
+that's something easier 
+said than done?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -692,18 +692,18 @@ right? I'm coming with you!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-You're the champion, though.
-Is it okay for you to leave the city?
+You're the champion, though. Is it
+okay for you to leave the city?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-It'll be fine! Besides,
-I'm worried about you guys.
+It'll be fine! Besides, I'm
+worried about you guys.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-I appreciate the concern, but
-you don't have to push yourself...
+I appreciate the concern, but you
+don't have to push yourself...
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
@@ -731,7 +731,7 @@ Ga-ha-ha-ha!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Current Gald: <TAG_033>Gald
+<TAG_007>Current Gald: <TAG_033> Gald
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 Yes
@@ -741,7 +741,7 @@ No
 [ENDBLOCK]
 has joined the party.
 [ENDBLOCK]
-is now an active 
+is now an active
 party member.
 [ENDBLOCK]
 can join the battle.
@@ -764,9 +764,9 @@ has left the party.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xB0><x98><x80>
+<center>[<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xB0><x98><x80>
 [ENDBLOCK]
-<x18><x65><x58><xAC><x00><x80></color>.
+<x18><x65><x58><xAC><x00><x80></color>]
 
 [ENDBLOCK]
 <x19><x69><x48><xA0><x80>'s party received
@@ -797,7 +797,7 @@ the <turquoise>Strongest Titles
 [ENDBLOCK]
 the <turquoise>Quiz Titles
 [ENDBLOCK]
-<x19><x69><x48><xA0><x80> has received
+<x19><x69><x48><xA0><x80> has received the title:
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -878,53 +878,49 @@ can now be used.
 notice
 [ENDBLOCK]
 <TAG_007>[Titles Description]
-Titles are one of the character parameters
-that can be set on a character. The
-specific set method is as follows.
+Titles are one of the character
+parameters that can be set. 
+The specific method is as follows.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>After opening the main menu,
 the character status will display.
-On this screen, hit <Square_ani> and you'll
-be able to change the character status.
+On this screen, press <Square_ani> to 
+change the character status.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>At the top of this screen, you'll see
-[Titles] On this screen, press <Triangle_ani> 
-and it'll let you pick from all the titles
-you've acquired.
+<TAG_007>At the top of this screen will be
+[Titles]. Press <Triangle_ani> to pick
+from all aquired titles.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>There are two purposes to titles. 
-The first is to [Set your title and 
-talk to the townspeople].
+<TAG_007>Titles serve two purposes:
+The first is to [affect dialogue 
+when talking to NPCs].
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>By setting a title, certain townspeople
-will take interest in you. When you talk
-to them several times, you might get
-interesting responses. When that
-happens, reset the title you have on
-and try talking to them again.
+<TAG_007>Set a title to have certain NPCs interested
+while passing them. When talking with NPCs
+multiple times you may get different responses.
+Change the title and try talking to them again.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Hint: When talking to townspeople, a
-[?] will appear over your character's
-head. If this happens, set a title that
-seems to be related to the dialogue, 
-and try talking to them again. 
+<TAG_007>Hint: When talking to certain NPCs, a [?] will 
+appear over the character's head. If this 
+happens, set a title that seems to be related
+to the dialogue, and try talking to them again.
 Something fun may happen.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>The second purpose of titles is...
+<TAG_007>The second purpose for titles is...
 to make your status screen look cool!
 When collecting titles, you might pick
 up one you like, so you can set it on
@@ -932,15 +928,15 @@ your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>[Rock Rally] is a game in which 
-players kick rocks on the field 
+<TAG_007>[Rock Rally] is a game in which
+players kick rocks on the field
 to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
-1: Kicking a rock outside the 
+1: Kicking a rock outside the
 	city will start the game.
 2: Battles don't affect the clearing
 	objective of the Rock Rally game.
@@ -1052,7 +1048,7 @@ go back to your own country!
 [ENDBLOCK]
 Seinegaldian
 [ENDBLOCK]
-How uncivilized. People 
+How uncivilized. People
 like you make me sick!
 [ENDBLOCK]
 City Person
@@ -1072,7 +1068,7 @@ you that this city will never flourish!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-HEY! Cut it out, all of you! 
+HEY! Cut it out, all of you!
 What's come over you!?
 [ENDBLOCK]
 City Person

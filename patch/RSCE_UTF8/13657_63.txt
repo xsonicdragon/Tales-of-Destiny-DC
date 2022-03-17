@@ -4,8 +4,8 @@ Yo, <Rutee> Katrea.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Oh, you're the one who's been
-looking for me?
+Oh, you're the one who's
+been looking for me?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -30,8 +30,8 @@ Yes... emphasis on the former!
 [ENDBLOCK]
 Ex-lens hunter
 [ENDBLOCK]
-This woman is on the wanted list,
-she's a criminal!
+This woman is on the wanted
+list, she's a criminal!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -82,13 +82,13 @@ Hah!
 [ENDBLOCK]
 Ex-lens hunter
 [ENDBLOCK]
-No way...<Rutee>...
-That girl is totally reckless.
+No way... <Rutee>... That
+girl is totally reckless.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-<Rutee>, this is the bounty
-for assisting in his capture.
+<Rutee>, this is the bounty for
+assisting in his capture.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
@@ -97,9 +97,8 @@ continued service..
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Phew, what a relief. Guys like him 
-from my former associates
-are the worst.
+Phew, what a relief. Guys like him
+from my old crew are the worst.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -109,8 +108,8 @@ former partners did...
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-It's okay, <Stahn>. It's nothing for 
-you to worry about.
+It's okay, <Stahn>. It's nothing
+for you to worry about.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -126,8 +125,8 @@ I'll never deceive you <Rutee>!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-What's that? Of course you won't.
-I'll deceive you before you deceive me.
+What's that? Of course you won't. I'll
+deceive you before you deceive me.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -139,7 +138,7 @@ We can't go this way.
 [ENDBLOCK]
 <Leader>
 [ENDBLOCK]
-Pretty sure...we can't
+Pretty sure... We can't
 get there from here.
 [ENDBLOCK]
 <Leader>
@@ -153,13 +152,14 @@ I don't remember coming here.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-So this is the inside of the temple.
-It's quite magnificent.
+So this is the inside
+of the temple... It's
+amazing...
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-The place where my friend is trapped
-is just ahead. I'm counting on you.
+My friend's just up ahead. 
+I'm counting on you.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -188,7 +188,7 @@ Let's go <Mary>.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Current Gald: <TAG_033>Gald
+<TAG_007>Current Gald: <TAG_033> Gald
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 Yes
@@ -196,9 +196,9 @@ No
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x47><xF0><x80></color> 
 [ENDBLOCK]
-has joined the Party.
+has joined the party.
 [ENDBLOCK]
-is now an active 
+is now an active
 party member.
 [ENDBLOCK]
 can join the battle.
@@ -221,9 +221,9 @@ has left the party.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><x14><x98><x80>
+<center>[<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><x14><x98><x80>
 [ENDBLOCK]
-<x18><x65><x58><x10><x00><x80></color>.
+<x18><x65><x58><x10><x00><x80></color>]
 
 [ENDBLOCK]
 <x19><x69><x48><x04><x80>'s party received
@@ -254,7 +254,7 @@ the <turquoise>Strongest Titles
 [ENDBLOCK]
 the <turquoise>Quiz Titles
 [ENDBLOCK]
-<x19><x69><x48><x04><x80> has received
+<x19><x69><x48><x04><x80> has received the title:
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -335,53 +335,49 @@ can now be used.
 notice
 [ENDBLOCK]
 <TAG_007>[Titles Description]
-Titles are one of the character parameters
-that can be set on a character. The
-specific set method is as follows.
+Titles are one of the character
+parameters that can be set. 
+The specific method is as follows.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>After opening the main menu,
 the character status will display.
-On this screen, hit <Square_ani> and you'll
-be able to change the character status.
+On this screen, press <Square_ani> to 
+change the character status.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>At the top of this screen, you'll see
-[Titles] On this screen, press <Triangle_ani> 
-and it'll let you pick from all the titles
-you've acquired.
+<TAG_007>At the top of this screen will be
+[Titles]. Press <Triangle_ani> to pick
+from all aquired titles.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>There are two purposes to titles. 
-The first is to [Set your title and 
-talk to the townspeople].
+<TAG_007>Titles serve two purposes:
+The first is to [affect dialogue 
+when talking to NPCs].
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>By setting a title, certain townspeople
-will take interest in you. When you talk
-to them several times, you might get
-interesting responses. When that
-happens, reset the title you have on
-and try talking to them again.
+<TAG_007>Set a title to have certain NPCs interested
+while passing them. When talking with NPCs
+multiple times you may get different responses.
+Change the title and try talking to them again.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Hint: When talking to townspeople, a
-[?] will appear over your character's
-head. If this happens, set a title that
-seems to be related to the dialogue, 
-and try talking to them again. 
+<TAG_007>Hint: When talking to certain NPCs, a [?] will 
+appear over the character's head. If this 
+happens, set a title that seems to be related
+to the dialogue, and try talking to them again.
 Something fun may happen.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>The second purpose of titles is...
+<TAG_007>The second purpose for titles is...
 to make your status screen look cool!
 When collecting titles, you might pick
 up one you like, so you can set it on
@@ -389,15 +385,15 @@ your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>[Rock Rally] is a game in which 
-players kick rocks on the field 
+<TAG_007>[Rock Rally] is a game in which
+players kick rocks on the field
 to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
-1: Kicking a rock outside the 
+1: Kicking a rock outside the
 	city will start the game.
 2: Battles don't affect the clearing
 	objective of the Rock Rally game.

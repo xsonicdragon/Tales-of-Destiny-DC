@@ -26,7 +26,7 @@ How was Seinegald?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-I think you may have mistaken 
+I think you may have mistaken
 me for someone else.
 [ENDBLOCK]
 Traveler
@@ -46,7 +46,7 @@ Sorry about that...
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-It's alright. No harm, no foul.
+It's all right. No harm, no foul.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
@@ -80,8 +80,8 @@ for him just like I did.
 Young Person
 [ENDBLOCK]
 Hey, what's your name again...?
-Wait, don't tell me. It's on the tip 
-of my tongue...
+Wait, don't tell me. It's on the
+tip of my tongue...
 [ENDBLOCK]
 Young Person
 [ENDBLOCK]
@@ -101,12 +101,12 @@ Girl
 Can you give her this? It's a
 thank you for my last fortune.
 [ENDBLOCK]
-Kid
+Girl
 [ENDBLOCK]
 The boys in this neighborhood
 are always picking on me.
 [ENDBLOCK]
-Kid
+Girl
 [ENDBLOCK]
 Are you going to use your iron fists
 to beat up the neighborhood boys?
@@ -114,15 +114,14 @@ to beat up the neighborhood boys?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Yeah, Leave it to me! 
-I can't allow them to bully 
-such a beautiful young lady. 
+Yeah, Leave it to me!
+I can't allow them to bully
+such a beautiful young lady.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Kongman>、it's not good 
-for adults to get involved 
-in the problems of children.
+<Kongman>, aren't you a little
+old to get into fights with kids?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -130,59 +129,58 @@ People might get the wrong
 idea and think that you
 like her or something...
 [ENDBLOCK]
-Kid
+Girl
 [ENDBLOCK]
-Uh oh, here they come!
+Oh no, they're here!
 [ENDBLOCK]
 ???
 [ENDBLOCK]
 Hey snot-face, I'm back!
 [ENDBLOCK]
-Kid
+Girl
 [ENDBLOCK]
 Stop calling me that, Joe!
 [ENDBLOCK]
 ???
 [ENDBLOCK]
-Today、we are going to play the
-"happy princess goes on a journey
-of hate because her prince cheated
-on her" game. 
+Let's play "The Princess who
+abandoned her country
+after her prince cheated on her!"
 
 [ENDBLOCK]
-Kid
+Girl
 [ENDBLOCK]
-Please no, Nelson!
-I don't want to do that.
+No way, Nelson!
+Absolutely not!!
 [ENDBLOCK]
-Kid
+Girl
 [ENDBLOCK]
-I only play the "lady with a husband
-and a prince from another country
-who won't leave her alone" game!
+I wanna play "The Princess who
+falls for a foreign prince
+despite being married!"
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I wonder if this is what
-kids are like these days...?
+...What are they
+teaching kids these days?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-I have no idea...
+Beats me...
 [ENDBLOCK]
 Silver Haired Boy
 [ENDBLOCK]
-Who the hell are these people?
+Who the hell are these losers?
 [ENDBLOCK]
-Kid
+Girl
 [ENDBLOCK]
-Hmph. Today, these guys are going
-to punish you with their iron fists!
+These "losers" are gonna
+beat you up, today!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Hey, puny boy. Prepare yourself.
-I'm going to take care of you. 
+That's right, ya better
+say your prayers, brat!
 [ENDBLOCK]
 Nelson
 [ENDBLOCK]
@@ -190,7 +188,7 @@ Lo-Loni this looks bad...
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Ahh! So your name is Loloni! 
+Ahh! So your name is Loloni!
 [ENDBLOCK]
 Loloni
 [ENDBLOCK]
@@ -199,38 +197,39 @@ My name is...
 [ENDBLOCK]
 Loloni
 [ENDBLOCK]
-I ain't afraid of you, cue ball!
+You don't scare me!
+Bring it on, baldy!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Hey! Shape up, 
+Hey! Shape up,
 show some respect!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-He may be a half naked old 
+He may be a half naked old
 man, but he's your elder!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Now apologize to him, 
+Now apologize to him,
 and do it right!
 [ENDBLOCK]
 Loloni
 [ENDBLOCK]
-Ugh...
+Ugh...!
 [ENDBLOCK]
 Loloni
 [ENDBLOCK]
-Screw this!
+S-Screw this!
 [ENDBLOCK]
-Kid
+Girl
 [ENDBLOCK]
-Thank you, sis!
+Thanks, miss!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-It was nothing. 
+It was nothing.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -238,30 +237,31 @@ That's our <Rutee>.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Damn! What about me...
+Damn it!
+What about me...?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Oh, <Kongman>, you were 
-great as well.
+Aw, <Kongman>.
+You tried, at least!
 [ENDBLOCK]
-Kid
+Girl
 [ENDBLOCK]
 Yeah, you did your best!
 [ENDBLOCK]
-Kid
+Girl
 [ENDBLOCK]
-The boys in the neighborhood 
+The boys in the neighborhood
 always pick on me.
 [ENDBLOCK]
-Kid
+Girl
 [ENDBLOCK]
-I want you to beat them up
-with your iron fists!
+I need someone with
+iron fists to beat 'em up!
 [ENDBLOCK]
 select
 [ENDBLOCK]
-Do you want to give up
+Do you want to stop
 looking for the children?
 Yes
 No
@@ -271,7 +271,7 @@ No
 [ENDBLOCK]
 <TAG_005>Please contact Darilsheid
 Real Estate if you would like
-to view this home.  
+to view this home.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -283,102 +283,106 @@ You found me!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-I don't think this is <Rutee>'s house.
+<Rutee>'s house doesn't
+seem to be here.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-Welcome to the city of Cresta!
+Welcome to Cresta!
 Are you travelers?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-Welcome to the city of Cresta!
+Welcome to Cresta!
 Are you travelers?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-What do you mean, where are the
-Seinegald troops stationed?
+Huh? You're looking
+for a soldier from Seinegald?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-Oh, he lives by the Fountain Square.
+Oh yeah, that guy!
+He lives by the Fountain Square.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-Welcome to the city of Cresta!
+Welcome to Cresta!
 Are you travelers?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-Hey. isn't that <Rutee>?
-I thought you were out of
-the lens hunting business.
+Oh! Hello there, <Rutee>.
+Thought you retired
+from lens hunting?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-Welcome to the city of Cresta!
+Welcome to Cresta!
 Are you travelers?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-That aerial city, did it
-come out of the ocean?
+That city in the sky...
+It came out of the ocean!?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-Why are there so many monsters?
+Why are there
+so many monsters?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-If only the reinforcements 
-from the royal capital would come, 
-we could hold out. 
+If we could just get help
+from the capital, we'd
+be able to hold out...
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-I took the lens to the royal capital.
-Please take care, <Rutee>!
+We'll make sure our
+lens reach Darilsheid.
+Be careful out there, <Rutee>!
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-The lens has been transported to
-the capital. Please save the world!
+Our lens made it safely
+to Darilsheid. It's up to you, now!
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-This city is far enough away from
-the royal capital that it has its
-own unique culture.
+We're far enough from
+Darilsheid that we've got
+our own unique culture.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-<Rutee>、tell me about your trip. 
+<Rutee>! Tell me about your trip!
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-This city is far enough away from
-the royal capital that it has its
-own unique culture.
+We're far enough from
+Darilsheid that we've got
+our own unique culture.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
 The sky is getting weirder and
-weirder. It has something to do
-with that broadcast, doesn't it?
+weirder. That voice in the sky
+had something to do with it, right?
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-Please, help me...
+H-Help!!
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-Thanks <Rutee>、
-if you hadn't come along...
+Thank you, <Rutee>!
+If you hadn't been here, I...!
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-Thank you for saving the city.
+Thank you for saving Cresta!
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
@@ -395,16 +399,16 @@ this city is the best place to live.
 [ENDBLOCK]
 Kid
 [ENDBLOCK]
-<Rutee>! Hello big sister.
+Hello, Miss <Rutee>!
 [ENDBLOCK]
 Kid
 [ENDBLOCK]
-My mom always told me, "If you meet 
-someone you don't know..."
+Mother always says that if I
+meet someone I don't know...
 [ENDBLOCK]
 Kid
 [ENDBLOCK]
-She told me to say, "Hello." 
+...That I should say hello!
 [ENDBLOCK]
 Kid
 [ENDBLOCK]
@@ -412,24 +416,24 @@ Is the sky getting smaller?
 [ENDBLOCK]
 Kid
 [ENDBLOCK]
-My mom is gone...
+I can't find mama...!
 [ENDBLOCK]
 Kid
 [ENDBLOCK]
-<Rutee>, are you going to go...?
+<Rutee>, are you leaving...?
 [ENDBLOCK]
 Kid
 [ENDBLOCK]
-Give them hell, <Rutee>!
+Go get 'em, <Rutee>!
 [ENDBLOCK]
 Kid
 [ENDBLOCK]
-Kill the bad guys, <Rutee>.
+Get those bad guys, miss <Rutee>!
 [ENDBLOCK]
 Kid
 [ENDBLOCK]
-Just like you protected the city,
-you must protect the world. 
+You gotta save the world,
+just like you saved Cresta!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -441,21 +445,22 @@ Is this <Rutee>'s hometown?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Yeah, that's what I heard.
+Yeah. That's what
+she said, at least.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-It doesn't look that big, so let's 
-split up and look for <Rutee>.
+It doesn't look like a big town.
+Let's split up and look for her.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-We can meet up in the square over 
-there after we finish searching.
+We'll meet up at the fountain
+once we're done searching.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Current Gald: <TAG_033>Gald
+<TAG_007>Current Gald: <TAG_033> Gald
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 Yes
@@ -463,9 +468,9 @@ No
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x48><xE4><x80></color> 
 [ENDBLOCK]
-has joined the Party.
+has joined the party.
 [ENDBLOCK]
-is now an active 
+is now an active
 party member.
 [ENDBLOCK]
 can join the battle.
@@ -488,9 +493,9 @@ has left the party.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x49><x08><x98><x80>
+<center>[<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x49><x08><x98><x80>
 [ENDBLOCK]
-<x18><x65><x59><x04><x00><x80></color>.
+<x18><x65><x59><x04><x00><x80></color>]
 
 [ENDBLOCK]
 <x19><x69><x48><xF8><x80>'s party received
@@ -521,7 +526,7 @@ the <turquoise>Strongest Titles
 [ENDBLOCK]
 the <turquoise>Quiz Titles
 [ENDBLOCK]
-<x19><x69><x48><xF8><x80> has received
+<x19><x69><x48><xF8><x80> has received the title:
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -602,53 +607,49 @@ can now be used.
 notice
 [ENDBLOCK]
 <TAG_007>[Titles Description]
-Titles are one of the character parameters
-that can be set on a character. The
-specific set method is as follows.
+Titles are one of the character
+parameters that can be set. 
+The specific method is as follows.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>After opening the main menu,
 the character status will display.
-On this screen, hit <Square_ani> and you'll
-be able to change the character status.
+On this screen, press <Square_ani> to 
+change the character status.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>At the top of this screen, you'll see
-[Titles] On this screen, press <Triangle_ani> 
-and it'll let you pick from all the titles
-you've acquired.
+<TAG_007>At the top of this screen will be
+[Titles]. Press <Triangle_ani> to pick
+from all aquired titles.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>There are two purposes to titles. 
-The first is to [Set your title and 
-talk to the townspeople].
+<TAG_007>Titles serve two purposes:
+The first is to [affect dialogue 
+when talking to NPCs].
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>By setting a title, certain townspeople
-will take interest in you. When you talk
-to them several times, you might get
-interesting responses. When that
-happens, reset the title you have on
-and try talking to them again.
+<TAG_007>Set a title to have certain NPCs interested
+while passing them. When talking with NPCs
+multiple times you may get different responses.
+Change the title and try talking to them again.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Hint: When talking to townspeople, a
-[?] will appear over your character's
-head. If this happens, set a title that
-seems to be related to the dialogue, 
-and try talking to them again. 
+<TAG_007>Hint: When talking to certain NPCs, a [?] will 
+appear over the character's head. If this 
+happens, set a title that seems to be related
+to the dialogue, and try talking to them again.
 Something fun may happen.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>The second purpose of titles is...
+<TAG_007>The second purpose for titles is...
 to make your status screen look cool!
 When collecting titles, you might pick
 up one you like, so you can set it on
@@ -656,15 +657,15 @@ your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>[Rock Rally] is a game in which 
-players kick rocks on the field 
+<TAG_007>[Rock Rally] is a game in which
+players kick rocks on the field
 to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
-1: Kicking a rock outside the 
+1: Kicking a rock outside the
 	city will start the game.
 2: Battles don't affect the clearing
 	objective of the Rock Rally game.
@@ -686,7 +687,7 @@ notice
 Hello, my name is <TAG_053>. I manage
 the trading here in <TAG_054>.
 [ENDBLOCK]
-You're not done yet? Please 
+You're not done yet? Please
 don't tell me you're quitting.
 [ENDBLOCK]
 If you're not too busy, maybe you
@@ -716,7 +717,7 @@ Want the job?
 Accept
 Decline
 [ENDBLOCK]
-In the meantime, I'll advance 
+In the meantime, I'll advance
 you a portion of the reward.
 
 [ENDBLOCK]
@@ -745,13 +746,14 @@ It's a no brainer, right?
 [ENDBLOCK]
 You could at least give me an answer.
 [ENDBLOCK]
-I see you've received a job from
-<TAG_055> at <x18><x66><x50><x20><x00><x80>.
+I see you've received a job
+from <TAG_055> at <x18><x66><x50><x20><x00><x80>.
 [ENDBLOCK]
 The request is for <TAG_035> <x1A><x72><x0C><x80>.
 
 [ENDBLOCK]
-I'll be quick about it.
+I promise I won't take 
+too much of your time.
 
 [ENDBLOCK]
 <x18><x66><x50><x20><x00><x80> is located in
@@ -759,7 +761,8 @@ the town of <x18><x66><x50><x24><x00><x80>.
 
 [ENDBLOCK]
 Please obtain <TAG_035> <x1A><x72><x0C><x80>,
-and deliver it as soon as you can.
+and deliver it as soon as
+you can.
 
 [ENDBLOCK]
 Good job, getting what I needed!
@@ -780,11 +783,11 @@ You don't have the necessary
 number of items...
 
 [ENDBLOCK]
-Please bring me  <TAG_075> <x1A><x72><x40><x10><x80>.
+Please bring me <TAG_075> <x1A><x72><x40><x10><x80>.
 [ENDBLOCK]
-If you back out and don't
-finish a job, you'll have to pay
-a penalty for breach of contract.
+If you back out and don't finish
+a job, you'll have to pay a penalty
+for breach of contract.
 [ENDBLOCK]
 You know you have to pay a penalty
 due to a breach of contract, right?
@@ -797,7 +800,8 @@ You can't be serious. You're not
 having second thoughts, are you?
 [ENDBLOCK]
 I must say,
-I'm a little disappointed...
+I must say, I'm a little
+disappointed...
 
 [ENDBLOCK]
 I am charging a cancellation
@@ -814,7 +818,7 @@ The contract cannot be cancelled until
 the breach of contract fee is paid.
 [ENDBLOCK]
 In the meantime, I'm going to ask
-you to pay me the money you 
+you to pay me the money you
 have as an annoyance fee.
 [ENDBLOCK]
 notice
@@ -854,7 +858,7 @@ you have as an annoyance fee.
 notice
 [ENDBLOCK]
 <TAG_007>I charged <TAG_075> Gald
-for cancelling. 
+for cancelling.
 
 [ENDBLOCK]
 Get the Gald together
@@ -865,9 +869,9 @@ Well, good luck.
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>Continue the job
+<TAG_007>Continue the Job
 Confirm Details
-Quit the job
+Quit the Job
 
 [ENDBLOCK]
 Janos

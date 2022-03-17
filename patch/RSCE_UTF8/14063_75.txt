@@ -31,12 +31,12 @@ What's the matter?
 [ENDBLOCK]
 Child
 [ENDBLOCK]
-My dad...he never says
+My dad... He never says
 anything nice to me...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Come on, don't cry. 
+Come on, don't cry.
 ...Cheer up!
 [ENDBLOCK]
 <Stahn>
@@ -54,8 +54,8 @@ But <Lion>...
 [ENDBLOCK]
 Child
 [ENDBLOCK]
-You're so mean!
-You don't know a thing about-
+You're so mean! You don't
+know a thing about-
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -93,7 +93,7 @@ your own way of thinking.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Yes...That's the
+Yes... That's the
 right thing to do...
 [ENDBLOCK]
 <Stahn>
@@ -254,7 +254,7 @@ rocks that fall around the world.
 notice
 [ENDBLOCK]
 At a hut near the center of Fitzgald.
-By examining the pressure points in 
+By examining the pressure points in
 that room, the stone will change.
 [ENDBLOCK]
 notice
@@ -347,7 +347,7 @@ Cher...ry..shed?
 <Dymlos>
 [ENDBLOCK]
 He means to socialize with others for
-you may never encounter them agian. 
+you may never encounter them again.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -387,7 +387,7 @@ though, where's that girly man?
 [ENDBLOCK]
 Uhm...
 [ENDBLOCK]
-Man
+Child
 [ENDBLOCK]
 I wanted to thank him!
 [ENDBLOCK]
@@ -407,7 +407,7 @@ Hey, do you like this "new" dad?
 Child
 [ENDBLOCK]
 Yeah, and I think it's because
-I've grown up a little. 
+I've grown up a little.
 [ENDBLOCK]
 Child
 [ENDBLOCK]
@@ -456,8 +456,9 @@ greatest nation in Aquaveil!
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-I can tell you're not from around here.
-You a smuggler? Don't try anything funny.
+I can tell you're not from around
+here. You a smuggler? Don't try
+anything funny.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -467,7 +468,8 @@ greatest nation in Aquaveil!
 Man
 [ENDBLOCK]
 You're looking for a rope?
-Can't think of where some could be.
+Can't think of where some
+could be.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -476,8 +478,9 @@ greatest nation in Aquaveil!
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-I can tell you're not from around here.
-You a smuggler? Don't try anything funny.
+I can tell you're not from around
+here. You a smuggler? Don't try
+anything funny.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -486,7 +489,7 @@ greatest nation in Aquaveil!
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-This is Shiden territory... 
+This is Shiden territory...
 Hey, what the hell is going on?
 [ENDBLOCK]
 Man
@@ -505,8 +508,7 @@ Nice to meet you, young man!
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-Everyone, please take
-care of this world.
+Everyone, please protect this world.
 [ENDBLOCK]
 Item Shop
 [ENDBLOCK]
@@ -537,13 +539,13 @@ something, now is the time.
 [ENDBLOCK]
 Accessory Shop
 [ENDBLOCK]
-It's good for decoration!
-It's good for practical use!
-May I interest you in some jewelry?
+It's good for decoration! It's good
+for practical use! May I interest 
+you in some jewelry?
 [ENDBLOCK]
 Accessory Shop
 [ENDBLOCK]
-We are an Accessory Shop,
+We are an Accessory Shop.
 We don't have rope.
 [ENDBLOCK]
 Accessory Shop
@@ -553,9 +555,10 @@ a look at the jewelry.
 [ENDBLOCK]
 Accessory Shop
 [ENDBLOCK]
-It's good for decoration!
-It's good for practical use!
-May I interest you in some jewelry?
+It's good for decoration! It's good
+for practical use! May I interest 
+you in some jewelry?
+some jewelry?
 [ENDBLOCK]
 Weapon Shop
 [ENDBLOCK]
@@ -567,8 +570,8 @@ Rope?
 [ENDBLOCK]
 Weapon Shop
 [ENDBLOCK]
-I'm sorry, but you'll 
-have to look elsewhere.
+I'm sorry, but you'll have
+to look elsewhere.
 [ENDBLOCK]
 Weapon Shop
 [ENDBLOCK]
@@ -589,8 +592,8 @@ Rope?
 [ENDBLOCK]
 Weapon Shop
 [ENDBLOCK]
-I'm sorry, but you'll
-have to look elsewhere.
+I'm sorry, but you'll have
+to look elsewhere.
 [ENDBLOCK]
 Weapon Shop
 [ENDBLOCK]
@@ -614,9 +617,10 @@ a monster.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-After we managed to escape, my
-whole body became numb. It was
-really hard to make it back to town.
+After we managed to escape, 
+my whole body became numb.
+It was really hard to make it
+back to town.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -625,13 +629,13 @@ Moreau territory was captured.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-The other day I asked <Johnny> 
-to build a fleet in Shiden as well.
+The other day I asked <Johnny> to
+build a fleet in Shiden as well.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
 I heard a strange voice in the sky.
-Is it true that this is the work of 
+Is it true that this is the work of
 Seinegald?
 [ENDBLOCK]
 Boy
@@ -641,7 +645,7 @@ Please do something!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-I'm begging you, 
+I'm begging you,
 please do something!
 [ENDBLOCK]
 Boy
@@ -688,29 +692,33 @@ the rocks outside of town.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-First you need to get
-more than 32 times.
+First, you need to kick a
+rock at least 32 times.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-Well, now it's more than 64 times.
+Let's see... you need to kick
+it at least 64 times.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-Well, it's more than 96 times now.
+Let's see... you need to kick
+it at least 96 times.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-Well, it's more than 128 times.
+Let's see... you need to kick
+it at least 128 times.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-Wow, now you need over 160 times.
+Wow! You're doing great! Now the
+ultimate challenge - at least 160 times.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-Well, from now on, it's okay
-to have more than 48 times.
+Hmmm. I'm thinking at least
+48 more times will do the trick.
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
@@ -719,9 +727,10 @@ but don't enter it carelessly.
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-The ground is loose, there are a lot 
-of monsters, and if you're not
-careful, you'll never come out again.
+The ground is loose, there are
+a lot of monsters, and if you're
+not careful, you'll never come 
+out again.
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
@@ -744,9 +753,10 @@ but don't enter it carelessly.
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-The ground is loose, there are a lot 
-of monsters, and if you're not
-careful, you'll never come out again.
+The ground is loose, there are
+a lot of monsters, and if you're
+not careful, you'll never come 
+out again.
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
@@ -766,7 +776,7 @@ formation across the sky, right?
 [ENDBLOCK]
 Young Man
 [ENDBLOCK]
-How much of the earth is being
+How much of the Earth is being
 pulled up to block out the sky?
 [ENDBLOCK]
 Man
@@ -781,8 +791,8 @@ Take this.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-It'll show you how to perform
-a「Definite Strike」on monsters.
+It'll show you how to perform a
+[Definite Strike] on monsters.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -791,15 +801,15 @@ Take good care of it.
 notice
 [ENDBLOCK]
 You can perform a Definite Strike
-by setting [Definite Strike] to 
-"ON" from the Customize menu
-in the Main menu.
+by setting [Definite Strike] to "ON"
+from the Customize menu in the 
+Main menu.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-You can also view each monster's 
+You can also view each monster's
 Definite Strike in the Monster Book
-if Definite Strike is "ON".
+if Definite Strike is "ON."
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -816,8 +826,9 @@ honed your skills more.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Wow, this is Shiden? The buildings
-are all so different.
+Wow, this is Shiden?
+The buildings are all
+so different.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -837,11 +848,13 @@ policy of national isolation.
 <Philia>
 [ENDBLOCK]
 Incidentally, there's no
-Straylize Temple here, either.
+Straylize Temple here, 
+either.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Well then, what do we do now?
+Well then, what 
+do we do now?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -850,7 +863,8 @@ try to scout out some information.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-You guys lay low in this area.
+You guys lay low 
+in this area.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -859,7 +873,7 @@ it's just you two?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-We'll be okay because it's just us
+We'll be better off if it's just us
 two. We'll be too conspicuous if
 we all try to go together.
 [ENDBLOCK]
@@ -871,17 +885,20 @@ Man
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-<Tiberius> carried out the military
-suppression of Moreau?
+<Tiberius> carried out the
+military suppression of
+Moreau?
 [ENDBLOCK]
 The Moreau port has been blockaded.
 What will become of our trade routes?
 [ENDBLOCK]
-It seems <Tiberius> called in an
-outsider as his military advisor.
+It seems <Tiberius> called in
+an outsider as his military
+advisor.
 [ENDBLOCK]
-I've heard about that. His name
-was Grey... something.
+I've heard about that. 
+His name was Grey... 
+something.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -891,13 +908,15 @@ was Grey... something.
 [ENDBLOCK]
 Shh! Be quiet!
 [ENDBLOCK]
-There are also rumors that the third
-prince is heading toward Moreau.
+There are also rumors
+that the third prince is
+heading toward Moreau.
 [ENDBLOCK]
 Isn't he just sightseeing as usual?
-That helpless libertine.
+That helpless libertine...
 [ENDBLOCK]
-He used to be a sensible person.
+He used to be a 
+sensible person.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
@@ -906,8 +925,9 @@ the information we wanted.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-So <Greybum> isn't here. We should
-go check out Moreau.
+So <Greybum> isn't here. 
+We should go check out
+Moreau.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -923,8 +943,9 @@ lot must be the backup.
 [ENDBLOCK]
 Huh?
 [ENDBLOCK]
-You must go to Moreau at once. 
-I will send word to the young Prince.
+You must go to Moreau at
+once. I will send word to 
+the Young Prince.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -936,8 +957,8 @@ us for someone else?
 Indeed, we are the backup. What's
 the best way to get to Moreau?
 [ENDBLOCK]
-You can use the sea cave. 
-There's an entrance to it 
+You can use the sea cave.
+There's an entrance to it
 to the south of town.
 [ENDBLOCK]
 <Lion>
@@ -963,7 +984,7 @@ such a careless mistake.
 <Rutee>
 [ENDBLOCK]
 We're back. We heard some things
-from the townspeople. It seems 
+from the townspeople. It seems
 like <Greybum> is in Moreau.
 [ENDBLOCK]
 <Dymlos>
@@ -981,8 +1002,9 @@ Yeah, we heard that too.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-W-Well, do you know about the 
-Prince? He's in Moreau right now.
+W-Well, do you know about
+the Prince? He's in Moreau
+right now.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -990,7 +1012,7 @@ Yes, we know.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Hey <Mary>. I feel like screaming
+Hey, <Mary>. I feel like screaming
 at the top of my lungs right now.
 [ENDBLOCK]
 <Mary>
@@ -1008,8 +1030,9 @@ Yeah, yeah, whatever.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Look anywhere there might be
-some rope. Leave no stone unturned.
+Look anywhere there might
+be some rope. Leave no 
+stone unturned.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -1031,7 +1054,7 @@ No
 [ENDBLOCK]
 has joined the party.
 [ENDBLOCK]
-is now an active 
+is now an active
 party member.
 [ENDBLOCK]
 can join the battle.
@@ -1054,9 +1077,9 @@ has left the party.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x49><x14><x98><x80>
+<center>[<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x49><x14><x98><x80>
 [ENDBLOCK]
-<x18><x65><x59><x10><x00><x80></color>.
+<x18><x65><x59><x10><x00><x80></color>]
 
 [ENDBLOCK]
 <x19><x69><x49><x04><x80>'s party received
@@ -1087,7 +1110,7 @@ the <turquoise>Strongest Titles
 [ENDBLOCK]
 the <turquoise>Quiz Titles
 [ENDBLOCK]
-<x19><x69><x49><x04><x80> has received
+<x19><x69><x49><x04><x80> has received the title:
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -1168,53 +1191,49 @@ can now be used.
 notice
 [ENDBLOCK]
 <TAG_007>[Titles Description]
-Titles are one of the character parameters
-that can be set on a character. The
-specific set method is as follows.
+Titles are one of the character
+parameters that can be set. 
+The specific method is as follows.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>After opening the main menu,
 the character status will display.
-On this screen, hit <Square_ani> and you'll
-be able to change the character status.
+On this screen, press <Square_ani> to 
+change the character status.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>At the top of this screen, you'll see
-[Titles] On this screen, press <Triangle_ani> 
-and it'll let you pick from all the titles
-you've acquired.
+<TAG_007>At the top of this screen will be
+[Titles]. Press <Triangle_ani> to pick
+from all aquired titles.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>There are two purposes to titles. 
-The first is to [Set your title and 
-talk to the townspeople].
+<TAG_007>Titles serve two purposes:
+The first is to [affect dialogue 
+when talking to NPCs].
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>By setting a title, certain townspeople
-will take interest in you. When you talk
-to them several times, you might get
-interesting responses. When that
-happens, reset the title you have on
-and try talking to them again.
+<TAG_007>Set a title to have certain NPCs interested
+while passing them. When talking with NPCs
+multiple times you may get different responses.
+Change the title and try talking to them again.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Hint: When talking to townspeople, a
-[?] will appear over your character's
-head. If this happens, set a title that
-seems to be related to the dialogue, 
-and try talking to them again. 
+<TAG_007>Hint: When talking to certain NPCs, a [?] will 
+appear over the character's head. If this 
+happens, set a title that seems to be related
+to the dialogue, and try talking to them again.
 Something fun may happen.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>The second purpose of titles is...
+<TAG_007>The second purpose for titles is...
 to make your status screen look cool!
 When collecting titles, you might pick
 up one you like, so you can set it on
@@ -1222,15 +1241,15 @@ your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>[Rock Rally] is a game in which 
-players kick rocks on the field 
+<TAG_007>[Rock Rally] is a game in which
+players kick rocks on the field
 to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
-1: Kicking a rock outside the 
+1: Kicking a rock outside the
 	city will start the game.
 2: Battles don't affect the clearing
 	objective of the Rock Rally game.

@@ -20,14 +20,14 @@ glory...it was supposed to be mine...
 [ENDBLOCK]
 <TAG_005>My only desire is to be supreme...
 [ENDBLOCK]
-<TAG_005>The weakest are most 
+<TAG_005>The weakest are most
 prone to evil deeds...
 [ENDBLOCK]
 <TAG_005> "Justice" determined by piles of corpses...
 [ENDBLOCK]
 <TAG_005>You will NEVER know forgiveness!
 [ENDBLOCK]
-<TAG_005>Though time marches on, 
+<TAG_005>Though time marches on,
 my resentment is eternal...
 [ENDBLOCK]
 <TAG_005><Dymlos>...Here you will find eternal rest!
@@ -57,14 +57,14 @@ Arcana Ruins
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-Treasure chests have special effects
-within the <x18><x66><x1C><x00><x80>.
+Treasure chests have special
+effects within the <x18><x66><x1C><x00><x80>.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 Some will restore your strength and
-replenish your food supply, while 
+replenish your food supply, whilst
 others will deplete your strength
 and leave you hungry.
 
@@ -72,8 +72,8 @@ and leave you hungry.
 notice
 [ENDBLOCK]
 All chests that share a color on a
-floor have the same effect. 
-Open one to discover what it is.
+floor have the same effect. Open
+one to discover what it is.
 
 [ENDBLOCK]
 ×	ActExTBox時に無効な値が発生	<x17><x66><x50><x10><x07><x66><x10><x0B><x70><x08><xAB><x8B><xE8><xCF><x70><x00><xAA><x80>	×
@@ -91,8 +91,8 @@ Treasure Chest: HP Reduction
 <center>Chests of this color seem
 to drain your strength.
 [ENDBLOCK]
-<center>Chests of this color seem to
-<center>increase EX Points. 
+<center>Chests of this color seem
+to <center>increase EX Points.
 [ENDBLOCK]
 Treasure Chest: EX Points Increase
 Amount: <TAG_032>	Current: <TAG_034>
@@ -134,19 +134,22 @@ you assistance on your journey.
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-Of course it may cost you EX Points, 
-or maybe I'll just give you a present.
+Of course, it'll cost you some of
+your EX Points. But who knows?
+If I feel like it, I might just help
+you out for free.
 
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-Either way, don't forget you can 
-spend your EX Points at the entrance.
+Either way, don't forget
+you can spend your EX
+Points at the entrance.
 
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-Whether or not you take my offer, as 
+Whether or not you take my offer, as
 soon as this conversation ends, I'm gone.
 
 [ENDBLOCK]
@@ -213,7 +216,7 @@ enough to regret that choice.
 ★HP Recovery Complete.
 
 [ENDBLOCK]
-★Item → EP 
+★Item → EP
 
 [ENDBLOCK]
 <x1A><x72><x40><x14><x80><x17><x72><x40><x24><x80>個を代価に<TAG_077>が貰えます
@@ -224,19 +227,19 @@ I want your <x17><x72><x40><x20><x80>.
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-<TAG_007>If you give me <x17><x72><x40><x24><x80>x [<x1A><x72><x40><x14><x80>], 
+<TAG_007>If you give me <x17><x72><x40><x24><x80>x [<x1A><x72><x40><x14><x80>],
 I will increase your EX Points.
 
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-How may I be of assistance?
+Are you interested in my offer?
 [ENDBLOCK]
 select
 [ENDBLOCK]
 Exchange <x17><x72><x40><x24><x80>x [<x1A><x72><x40><x14><x80>]	 (Current Stock: <x17><x72><x40><x14><x20><x24><x02><x15><x40><x80>）
-Please
-No, thank you
+Deal.
+No deal.
 
 [ENDBLOCK]
 Cyglorg
@@ -302,13 +305,13 @@ to purchase <TAG_034> [<x1A><x72><x40><x14><x80>].
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-How may I be of assistance?
+Are you interested in my offer?
 [ENDBLOCK]
 select
 [ENDBLOCK]
 EX Points Remaining	<x17><x72><x40><x20><x80>
-Please
-No, thank you
+Deal.
+No deal.
 
 [ENDBLOCK]
 Cyglorg
@@ -321,7 +324,7 @@ Hopefully we'll see each other soon.
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-Alright, I'll take <TAG_077> EX Points.
+All right, I'll take <TAG_077> EX Points.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -360,9 +363,9 @@ Gives EX Points
 [ENDBLOCK]
 Reduces EX Points
 [ENDBLOCK]
-Adds Food
+Adds food to the sack.
 [ENDBLOCK]
-Removes Food.
+Diminishes food supply.
 [ENDBLOCK]
 この値<x17><x66><x50><x20><x07><x72><x40><x10><x8B><xE8><xCF><x70><x00><xAA><x80>は無効の値です。
 [ENDBLOCK]
@@ -374,7 +377,7 @@ about the chests on this floor.
 Cyglorg
 [ENDBLOCK]
 On this floor, <TAG_054> colored chests</color> provide the
-following effect: <TAG_055>.
+following effect: <TAG_055>
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
@@ -399,13 +402,13 @@ I can replenish all your food.
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-How may I be of assistance?
+Are you interested in my offer?
 [ENDBLOCK]
 select
 [ENDBLOCK]
 Exchange <TAG_075> <x1A><x72><x40><x1C><x80>?  Current Stock: <x17><x72><x40><x1C><x20><x24><x02><x15><x40><x80>）
-Please
-No, thank you
+Deal.
+No deal.
 
 [ENDBLOCK]
 Cyglorg
@@ -422,7 +425,7 @@ Fabulous, I'll take <x1A><x72><x40><x1C><x80>(x <TAG_075>)
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-Your Food is now full.
+Your Food Sack is now full.
 
 [ENDBLOCK]
 Cyglorg
@@ -439,7 +442,7 @@ Hopefully we'll see each other soon.
 [ENDBLOCK]
 Cyglorg
 [ENDBLOCK]
-「<x18><x66><x10><x00><x80>」のイベントは
+[<x18><x66><x10><x00><x80>]のイベントは
 用意されていません。
 [ENDBLOCK]
 <TAG_031>は無効値です。アップルグミの番号を返却します。
@@ -590,7 +593,7 @@ Party Selection
 [ENDBLOCK]
 <grey1>Commit
 [ENDBLOCK]
-	
+
 
 [ENDBLOCK]
 
@@ -640,7 +643,7 @@ No
 [ENDBLOCK]
 select
 [ENDBLOCK]
-Is <TAG_007><x18><x66><x50><x58><x00><x80> correct?
+Is <TAG_007><x18><x66><x50><x58><x00><x80> your support of choice?
 Yes
 No
 
@@ -778,9 +781,9 @@ j = <x17><x6A><x02><x80>	HPを１に変更
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-Some platforms on this floor
-are different than others.
-They react to additional weight.
+Some platforms on this floor are
+different than others. They react
+to additional weight.
 
 [ENDBLOCK]
 notice
@@ -792,8 +795,9 @@ to the added weight.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-However, some platforms are linked.
-Lowering one will cause another to rise.
+However, some platforms
+are linked. Lowering one
+will cause another to rise.
 
 [ENDBLOCK]
 
@@ -805,7 +809,7 @@ Lowering one will cause another to rise.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Current Gald: <TAG_033>Gald
+<TAG_007>Current Gald: <TAG_033> Gald
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 Yes
@@ -813,9 +817,9 @@ No
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x4D><x74><x80></color> 
 [ENDBLOCK]
-has joined the Party.
+has joined the party.
 [ENDBLOCK]
-is now an active 
+is now an active
 party member.
 [ENDBLOCK]
 can join the battle.
@@ -838,9 +842,9 @@ has left the party.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x4D><x98><x98><x80>
+<center>[<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x4D><x98><x98><x80>
 [ENDBLOCK]
-<x18><x65><x5D><x94><x00><x80></color>.
+<x18><x65><x5D><x94><x00><x80></color>]
 
 [ENDBLOCK]
 <x19><x69><x4D><x88><x80>'s party received
@@ -871,7 +875,7 @@ the <turquoise>Strongest Titles
 [ENDBLOCK]
 the <turquoise>Quiz Titles
 [ENDBLOCK]
-<x19><x69><x4D><x88><x80> has received
+<x19><x69><x4D><x88><x80> has received the title:
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -952,53 +956,49 @@ can now be used.
 notice
 [ENDBLOCK]
 <TAG_007>[Titles Description]
-Titles are one of the character parameters
-that can be set on a character. The
-specific set method is as follows.
+Titles are one of the character
+parameters that can be set. 
+The specific method is as follows.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>After opening the main menu,
 the character status will display.
-On this screen, hit <Square_ani> and you'll
-be able to change the character status.
+On this screen, press <Square_ani> to 
+change the character status.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>At the top of this screen, you'll see
-[Titles] On this screen, press <Triangle_ani> 
-and it'll let you pick from all the titles
-you've acquired.
+<TAG_007>At the top of this screen will be
+[Titles]. Press <Triangle_ani> to pick
+from all aquired titles.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>There are two purposes to titles. 
-The first is to [Set your title and 
-talk to the townspeople].
+<TAG_007>Titles serve two purposes:
+The first is to [affect dialogue 
+when talking to NPCs].
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>By setting a title, certain townspeople
-will take interest in you. When you talk
-to them several times, you might get
-interesting responses. When that
-happens, reset the title you have on
-and try talking to them again.
+<TAG_007>Set a title to have certain NPCs interested
+while passing them. When talking with NPCs
+multiple times you may get different responses.
+Change the title and try talking to them again.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Hint: When talking to townspeople, a
-[?] will appear over your character's
-head. If this happens, set a title that
-seems to be related to the dialogue, 
-and try talking to them again. 
+<TAG_007>Hint: When talking to certain NPCs, a [?] will 
+appear over the character's head. If this 
+happens, set a title that seems to be related
+to the dialogue, and try talking to them again.
 Something fun may happen.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>The second purpose of titles is...
+<TAG_007>The second purpose for titles is...
 to make your status screen look cool!
 When collecting titles, you might pick
 up one you like, so you can set it on
@@ -1006,15 +1006,15 @@ your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>[Rock Rally] is a game in which 
-players kick rocks on the field 
+<TAG_007>[Rock Rally] is a game in which
+players kick rocks on the field
 to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
-1: Kicking a rock outside the 
+1: Kicking a rock outside the
 	city will start the game.
 2: Battles don't affect the clearing
 	objective of the Rock Rally game.

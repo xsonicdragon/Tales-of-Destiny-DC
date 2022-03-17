@@ -5,8 +5,8 @@
 get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
 
 [ENDBLOCK]
-<Atwight> and <Dymlos> are more
-than just friends, right?
+<Atwight> and <Dymlos> are
+more than just friends, right?
 [ENDBLOCK]
 They're more than just friends...?
 [ENDBLOCK]
@@ -15,13 +15,13 @@ What makes you think that?
 Mmm, what a boring reaction. I thought
 you'd be more embarrassed or upset.
 [ENDBLOCK]
-I don't want you to underestimate me.
+This woman is too sharp.
 [ENDBLOCK]
 More than just friends...
 [ENDBLOCK]
 I get it!
 [ENDBLOCK]
-They're "best friends"!
+They're "best friends!"
 [ENDBLOCK]
-You. Shut up.<x00>
+Not another word.<x00>
 [ENDBLOCK]

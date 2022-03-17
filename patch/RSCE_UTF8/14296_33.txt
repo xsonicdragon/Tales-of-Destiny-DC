@@ -21,29 +21,29 @@
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-I'm glad we got rid of <Greybum>
-before he made a mess of the city.
+I'm glad we got rid of
+<Greybum> before the city
+was completely trashed.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-The heavens, eh... Does Your
-Majesty know anything about it?
+The Celestial Kingdom...
+Your Majesty, do you know about it?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-The heavens...
+The Celestial Kingdom...
 Did it really exist in the past?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-Your Majesty, the world is really
-going dark...
-
+Your Majesty, the world is
+really getting dark...
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-We're really trapped in the dark.
-Just like they said on the broadcast...
+We truly are trapped in darkness...
+It's just like what that voice said...
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -66,65 +66,67 @@ anything that might happen.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Long live His Majesty <Woodrow>!
-Long live!
+Long live King <Woodrow>!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Long live Phandaria!
+Glory to Phandaria!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-I was told that the strange thing floating
-in the sky is called the Shell.
+Someone told me the big
+thing in the sky's called
+the "eethers fear," or something?
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Where did the lightning strike?
-Near the city?
+Where'd the lightning hit!?
+Was it near the city!?
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-The sky was covered by the Shell.
-Will we stay in the dark forever now?
+The eethers fear's covered
+the sky! Is it ever gonna go away!?
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-A big hole was made in the Shell in
-the neighboring country. I heard
-they used a big weapon!
+I heard they used a HUGE gun
+to make a hole in the eethers fear
+at the kingdom next to ours!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-I wonder what it looks like above
-the Shell. I wish I could go see it.
+I wonder what it looks like
+on the other side of the
+eethers fear? Wish I could see it...
 [ENDBLOCK]
 Elder
 [ENDBLOCK]
-The king supports the country.
-For the people he is an indispensable
-existence.
+The king's job is to keep
+the country united. The
+people truly rely on him.
 [ENDBLOCK]
 Elder
 [ENDBLOCK]
 Oh! Your Majesty!
-To think I could meet him so closely.
+To think I would see you up close!
 [ENDBLOCK]
 Elder
 [ENDBLOCK]
-What is it with you and His Majesty...?
+Who are you for His Majesty
+to keep company with you so...?
 [ENDBLOCK]
 Elder
 [ENDBLOCK]
 I can only imagine what Your
 Majesty must be going through.
-I will not dare to ask anything.
+I dare not pry into your affairs.
 [ENDBLOCK]
 Elder
 [ENDBLOCK]
-The king supports the country.
-For the people he is an indispensable
-existence.
+The king's job is to keep
+the country united. The
+people truly rely on him.
 [ENDBLOCK]
 Elder
 [ENDBLOCK]
@@ -151,13 +153,14 @@ them for cash.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-During the last uprising, my
-family was hurt in the fighting.
+My family was hurt
+during the rebellion...
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-To be honest, I can't accept that the
-people of Cyril came out of this unscathed.
+To be honest, I'm not entirely
+happy that the people of 
+Cyril were let off easy.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
@@ -171,59 +174,63 @@ it all means nothing in the end.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-Please, I beg of you, bring the sun back...
+Please, I beg of you,
+bring back the sun...
 [ENDBLOCK]
 Kid
 [ENDBLOCK]
-Playing outside is the best.
+Playing outside is the best!
 [ENDBLOCK]
 Kid
 [ENDBLOCK]
-Playing outside is boring,
-let's go back home.
+Playing outside is boring.
+Let's go back home.
 [ENDBLOCK]
 Kid
 [ENDBLOCK]
-I'm praying for His Majesty to win.
+I'm praying for
+His Majesty's victory.
 [ENDBLOCK]
 Kid
 [ENDBLOCK]
-I'll pray for the world to be at peace.
+I'm praying
+for world peace!
 [ENDBLOCK]
 Husband
 [ENDBLOCK]
-It seems the new king is a man who
-was very busy practicing archery.
+I hear our new King is quite
+obssessed with archery.
 [ENDBLOCK]
 Husband
 [ENDBLOCK]
-I'm quite worried that he will
+I'm worried that he will
 turn out like King Isaac.
 [ENDBLOCK]
 Husband
 [ENDBLOCK]
 My King! I believe in you!
-I believe in you, I say!
+Believe me when I say it!
+I totally believe in you!!
 [ENDBLOCK]
 Husband
 [ENDBLOCK]
-It seems the new king is a man who
-was very busy practicing archery.
+I hear our new King is quite
+obssessed with archery.
 [ENDBLOCK]
 Husband
 [ENDBLOCK]
-I'm quite worried that he will
+I'm worried that he will
 turn out like King Isaac.
 [ENDBLOCK]
 Husband
 [ENDBLOCK]
-That thing floating in the sky is
-called the Shell, or so Ive heard.
-It looks eerily alive.
+That thing in the sky's called
+the "Aethersphere." At least,
+that's what I was told...
 [ENDBLOCK]
 Husband
 [ENDBLOCK]
-No matter how you cut it,
+No matter how you look at it,
 I don't think this is the time to
 be shoveling snow...
 [ENDBLOCK]
@@ -239,36 +246,45 @@ the King comes back!
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-I want my family to see this snowy
-scenery too. I'm sure they'll be
-surprised.
+I want my family to see this
+beautiful, snowy land. I'm
+sure they'll be enthralled!
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-If at all possible, I'd like to
-go back to my village.
+I'd like to go home to
+my village if possible...
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-I wonder how it's looking down there...
+I wonder how things
+are going back home...
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-I'm worried about my family.
+I'm honestly worried
+about my family.
 [ENDBLOCK]
 Worker
 [ENDBLOCK]
-Do you have <ITEM_065>, <ITEM_066>,
-<ITEM_067>, <ITEM_068>,  and
-<ITEM_069>?
+Do you happen to have 
+the items listed here?
+<center><ITEM_065> 
+<ITEM_066>
+<ITEM_067> 
+<ITEM_068>  
+<ITEM_069>
 [ENDBLOCK]
-If you give me those I'll exchange
-them for an <ITEM_Elixir>.
+If you procure these liquids and bring
+them here, we will mix them together 
+and give you an <ITEM_Elixir>.
 [ENDBLOCK]
-Oh! It seems you have the materials.
+You have all the
+ingredients.
 
 [ENDBLOCK]
-<TAG_007>Exchange materials for an <ITEM_Elixir>s?
+<TAG_007>Would you like to exchange
+the liquids for an <ITEM_Elixir>?
 
 [ENDBLOCK]
 Exchange for 1
@@ -300,7 +316,7 @@ You can't carry any more <ITEM_Elixir>s.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Current Gald: <TAG_033>Gald
+<TAG_007>Current Gald: <TAG_033> Gald
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 Yes
@@ -308,9 +324,9 @@ No
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x48><x84><x80></color> 
 [ENDBLOCK]
-has joined the Party.
+has joined the party.
 [ENDBLOCK]
-is now an active 
+is now an active
 party member.
 [ENDBLOCK]
 can join the battle.
@@ -333,9 +349,9 @@ has left the party.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xA8><x98><x80>
+<center>[<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xA8><x98><x80>
 [ENDBLOCK]
-<x18><x65><x58><xA4><x00><x80></color>.
+<x18><x65><x58><xA4><x00><x80></color>]
 
 [ENDBLOCK]
 <x19><x69><x48><x98><x80>'s party received
@@ -366,7 +382,7 @@ the <turquoise>Strongest Titles
 [ENDBLOCK]
 the <turquoise>Quiz Titles
 [ENDBLOCK]
-<x19><x69><x48><x98><x80> has received
+<x19><x69><x48><x98><x80> has received the title:
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -447,53 +463,49 @@ can now be used.
 notice
 [ENDBLOCK]
 <TAG_007>[Titles Description]
-Titles are one of the character parameters
-that can be set on a character. The
-specific set method is as follows.
+Titles are one of the character
+parameters that can be set. 
+The specific method is as follows.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>After opening the main menu,
 the character status will display.
-On this screen, hit <Square_ani> and you'll
-be able to change the character status.
+On this screen, press <Square_ani> to 
+change the character status.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>At the top of this screen, you'll see
-[Titles] On this screen, press <Triangle_ani> 
-and it'll let you pick from all the titles
-you've acquired.
+<TAG_007>At the top of this screen will be
+[Titles]. Press <Triangle_ani> to pick
+from all aquired titles.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>There are two purposes to titles. 
-The first is to [Set your title and 
-talk to the townspeople].
+<TAG_007>Titles serve two purposes:
+The first is to [affect dialogue 
+when talking to NPCs].
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>By setting a title, certain townspeople
-will take interest in you. When you talk
-to them several times, you might get
-interesting responses. When that
-happens, reset the title you have on
-and try talking to them again.
+<TAG_007>Set a title to have certain NPCs interested
+while passing them. When talking with NPCs
+multiple times you may get different responses.
+Change the title and try talking to them again.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Hint: When talking to townspeople, a
-[?] will appear over your character's
-head. If this happens, set a title that
-seems to be related to the dialogue, 
-and try talking to them again. 
+<TAG_007>Hint: When talking to certain NPCs, a [?] will 
+appear over the character's head. If this 
+happens, set a title that seems to be related
+to the dialogue, and try talking to them again.
 Something fun may happen.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>The second purpose of titles is...
+<TAG_007>The second purpose for titles is...
 to make your status screen look cool!
 When collecting titles, you might pick
 up one you like, so you can set it on
@@ -501,15 +513,15 @@ your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>[Rock Rally] is a game in which 
-players kick rocks on the field 
+<TAG_007>[Rock Rally] is a game in which
+players kick rocks on the field
 to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
-1: Kicking a rock outside the 
+1: Kicking a rock outside the
 	city will start the game.
 2: Battles don't affect the clearing
 	objective of the Rock Rally game.

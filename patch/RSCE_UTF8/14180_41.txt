@@ -478,7 +478,8 @@ powerful it can become.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-So keep your guard up at all times.
+So keep your guard 
+up at all times.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
@@ -516,12 +517,12 @@ craters all over the world?
 [ENDBLOCK]
 Little Girl
 [ENDBLOCK]
-The great king who stole the throne,
-reaching the peak of power is dead...
+The man who stole the throne and attained
+the highest level of power... lies dead...
 [ENDBLOCK]
 Little Girl
 [ENDBLOCK]
-It won't take long before Terazzi.
+It won't take long before Terazzi,
 Shiden and Moreau become united.
 [ENDBLOCK]
 Little Girl
@@ -535,7 +536,7 @@ I suppose we could help collect lens...
 [ENDBLOCK]
 Little Girl
 [ENDBLOCK]
-Um...stay safe, okay?
+Um... Stay safe, okay?
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
@@ -544,12 +545,12 @@ Soldier
 Soldier
 [ENDBLOCK]
 I felt so relieved when the previous
-king died. Serves him right for
-the crimes he had committed.
+king died. Serves him right for the
+crimes he had committed.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-After years of strife 
+After years of strife
 we can finally know peace.
 [ENDBLOCK]
 Soldier
@@ -563,7 +564,7 @@ You've got to win.
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-So you are headed to Phandaria.
+So you're headed to Phandaria...
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
@@ -572,8 +573,7 @@ head for the port town of Frostheim.
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>Do you want
-to go to Frostheim?
+<TAG_007>Do you want to go to Frostheim?
 Yes
 No
 
@@ -612,19 +612,19 @@ Soldier
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-My entire career I have been
+My entire career, I have been
 working to maintain the previous
 King's influence over his people.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-That ends today. From now on
-I will dedicate myself to protecting
-the people of Terazzi.
+That ends today. From now on I will 
+dedicate myself to protecting the
+people of Terazzi.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-Apparently, the former King's was
+Apparently, the former King was
 married to a woman named <Eleanor>.
 [ENDBLOCK]
 Soldier
@@ -640,7 +640,7 @@ about all of this.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-Alright. We have arrived in Terazzi.
+All right. We have arrived in Terazzi.
 [ENDBLOCK]
 Sailor
 [ENDBLOCK]
@@ -653,11 +653,13 @@ Someone from Shiden?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-It's not my doing. It's a pure
-coincidence that they are here.
+It's not my doing. It's a
+pure coincidence that
+they are here.
 [ENDBLOCK]
-I was not informed you'd be coming.
-What the hell is going on?
+I was not informed you'd
+be coming. What the hell
+is going on?
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
@@ -665,17 +667,19 @@ There's no time to explain.
 I need to get into the castle.
 How do I do that?
 [ENDBLOCK]
-The castle gates are sealed.
-Entry through the front is impossible.
+The castle gates are
+sealed. Entry through
+them is impossible.
 [ENDBLOCK]
-We will have to travel by
-boat and enter through the back.
-We will take you there.
+We will have to travel by boat
+and enter through the back. We
+will take you there.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-Just like that time in Moreau.
-Luckily, we have a way to enter.
+Just like that time in Moreau...
+Lucky for us, we have a way 
+to enter.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -683,21 +687,23 @@ Yes, we are.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-It sounds a bit fishy but
-we don't have much a choice.
+It sounds a bit fishy, but we
+don't have much of a choice.
 [ENDBLOCK]
-I will be waiting for you at the 
+I will be waiting for you at the
 pier in the center of the city.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-<Fayte>, get out of here now.
-<Tiberius>'s soldiers are closing in.
+<Fayte>, get out of here
+now. <Tiberius>' soldiers
+are closing in.
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-I'm not leaving you guys behind.
-I'll stay here and wait for your return.
+I'm not leaving you guys
+behind. I'll stay here and
+wait for your return.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
@@ -746,7 +752,7 @@ to my former life of frivolity.
 [ENDBLOCK]
 <Fayte>
 [ENDBLOCK]
-Not so fast. You'll be working 
+Not so fast. You'll be working
 with me to help rebuild Aquaveil.
 [ENDBLOCK]
 <Fayte>
@@ -762,8 +768,9 @@ would hold me hostage like this.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-Who would have thought that the most
-frightening thing would be <Fayte>.
+Who would have thought that
+the most frightening thing of 
+all would be <Fayte>.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -802,7 +809,7 @@ gain a new perspective.
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-These are the ramblings of a man 
+These are the ramblings of a man
 who got a second chance at life.
 ...So, I'll say goodbye for now.
 [ENDBLOCK]
@@ -818,7 +825,7 @@ in trouble, I'll lend you my aid again.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-Young Master, can I 
+ Young Master, may I
 have a word with you?
 [ENDBLOCK]
 <Lion>
@@ -835,7 +842,7 @@ Earlier?
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-When you lent me to <Johnny>.
+When you lent me to <Johnny>...
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
@@ -843,7 +850,7 @@ You gave me a chance to repay him.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-I just...figured you'd
+I just... figured you'd
 appreciate it. That's all.
 [ENDBLOCK]
 <Chaltier>
@@ -866,11 +873,11 @@ It doesn't matter why.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-Yes it does. Please listen.
+Yes, it does. Please listen.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-I felt like I needed to repay <Johnny>
+<center>I felt like I needed to repay <Johnny>
 because of you, Master <Lion>.
 [ENDBLOCK]
 <Lion>
@@ -879,8 +886,8 @@ What...?
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-...So that from now on, you and I
-could continue to be Master and Swordian.
+...So that from now on, you and I could
+ continue to be Master and Swordian.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
@@ -890,7 +897,7 @@ about other people forever...
 <Chaltier>
 [ENDBLOCK]
 ...Because I only want to be
-your sword, Master <Lion>.
+ your sword, Master <Lion>.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -898,7 +905,7 @@ Chal...
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-So, my young master, I'll stay
+ So, my young master, I'll stay
 by your side until the very end.
 [ENDBLOCK]
 <Lion>
@@ -912,7 +919,7 @@ Yeah!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Current Gald: <TAG_033>Gald
+<TAG_007>Current Gald: <TAG_033> Gald
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 Yes
@@ -920,9 +927,9 @@ No
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x49><x24><x80></color> 
 [ENDBLOCK]
-has joined the Party.
+has joined the party.
 [ENDBLOCK]
-is now an active 
+is now an active
 party member.
 [ENDBLOCK]
 can join the battle.
@@ -945,9 +952,9 @@ has left the party.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x49><x48><x98><x80>
+<center>[<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x49><x48><x98><x80>
 [ENDBLOCK]
-<x18><x65><x59><x44><x00><x80></color>.
+<x18><x65><x59><x44><x00><x80></color>]
 
 [ENDBLOCK]
 <x19><x69><x49><x38><x80>'s party received
@@ -978,7 +985,7 @@ the <turquoise>Strongest Titles
 [ENDBLOCK]
 the <turquoise>Quiz Titles
 [ENDBLOCK]
-<x19><x69><x49><x38><x80> has received
+<x19><x69><x49><x38><x80> has received the title:
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -1059,53 +1066,49 @@ can now be used.
 notice
 [ENDBLOCK]
 <TAG_007>[Titles Description]
-Titles are one of the character parameters
-that can be set on a character. The
-specific set method is as follows.
+Titles are one of the character
+parameters that can be set. 
+The specific method is as follows.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>After opening the main menu,
 the character status will display.
-On this screen, hit <Square_ani> and you'll
-be able to change the character status.
+On this screen, press <Square_ani> to 
+change the character status.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>At the top of this screen, you'll see
-[Titles] On this screen, press <Triangle_ani> 
-and it'll let you pick from all the titles
-you've acquired.
+<TAG_007>At the top of this screen will be
+[Titles]. Press <Triangle_ani> to pick
+from all aquired titles.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>There are two purposes to titles. 
-The first is to [Set your title and 
-talk to the townspeople].
+<TAG_007>Titles serve two purposes:
+The first is to [affect dialogue 
+when talking to NPCs].
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>By setting a title, certain townspeople
-will take interest in you. When you talk
-to them several times, you might get
-interesting responses. When that
-happens, reset the title you have on
-and try talking to them again.
+<TAG_007>Set a title to have certain NPCs interested
+while passing them. When talking with NPCs
+multiple times you may get different responses.
+Change the title and try talking to them again.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Hint: When talking to townspeople, a
-[?] will appear over your character's
-head. If this happens, set a title that
-seems to be related to the dialogue, 
-and try talking to them again. 
+<TAG_007>Hint: When talking to certain NPCs, a [?] will 
+appear over the character's head. If this 
+happens, set a title that seems to be related
+to the dialogue, and try talking to them again.
 Something fun may happen.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>The second purpose of titles is...
+<TAG_007>The second purpose for titles is...
 to make your status screen look cool!
 When collecting titles, you might pick
 up one you like, so you can set it on
@@ -1113,15 +1116,15 @@ your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>[Rock Rally] is a game in which 
-players kick rocks on the field 
+<TAG_007>[Rock Rally] is a game in which
+players kick rocks on the field
 to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
-1: Kicking a rock outside the 
+1: Kicking a rock outside the
 	city will start the game.
 2: Battles don't affect the clearing
 	objective of the Rock Rally game.

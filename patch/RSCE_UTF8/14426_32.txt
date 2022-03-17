@@ -1,13 +1,12 @@
 
 [ENDBLOCK]
-<TAG_005>What looks like a portrait
-of <Rutee> hangs on the wall.
+<TAG_005>You see what looks like a portrait
+of <Rutee> hanging on the wall.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-Oh!	That's not...big sis.
-Yuck, yuck, yuck.
-//TODO: get more context here, seems more likely to be crying
+Oh! Where's Miss
+<Rutee>!? Waaah!
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
@@ -25,8 +24,8 @@ we can live here, isn't it?
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-Miss <Rutee> is my big sister
-and I am very proud of her.
+Miss <Rutee> is my big sister!
+I'm super proud of her!
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
@@ -35,52 +34,53 @@ tell you to take it easy?
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-Of course I understand. 
+Of course I understand.
 We are a family.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-If you bully <Rutee>, I'll get mad.
+If you bully Miss <Rutee>,
+I'll never forgive you!
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-We will be fine, so please help
-the rest of the city.
+We'll be fine! Please help
+the rest of the town!
 [ENDBLOCK]
 Sister
 [ENDBLOCK]
-You've come from the royal capital,
+You've come from the capital,
 haven't you? Do you have some
 business with this orphanage?
 [ENDBLOCK]
 Sister
 [ENDBLOCK]
 Take care of yourself, <Rutee>.
-I'm worried about you since you're
-always so reckless.
+You're always so reckless,
+so I can't help but worry...
 [ENDBLOCK]
 Sister
 [ENDBLOCK]
-I used to manage the finances of 
-this house by myself...
+She paid our debt
+entirely by herself...
 [ENDBLOCK]
 Sister
 [ENDBLOCK]
-...I promised not to mention this,
-didn't I? I'm sorry.
+Ah... I promised I wouldn't
+bring it up. Forgive me.
 [ENDBLOCK]
 Sister
 [ENDBLOCK]
-<Rutee>, take care of yourself. 
+<Rutee>, take care of yourself.
 [ENDBLOCK]
 Sister
 [ENDBLOCK]
 Despite her looks, <Rutee> is still
-a child. Please support her.
+a child. Please take care of her.
 [ENDBLOCK]
 Sister
 [ENDBLOCK]
-<Rutee>, I am praying for your 
+<Rutee>, I am praying for your
 safety with all my heart.
 [ENDBLOCK]
 Sister
@@ -90,7 +90,7 @@ the bottom of my heart.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Current Gald: <TAG_033>Gald
+<TAG_007>Current Gald: <TAG_033> Gald
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 Yes
@@ -98,9 +98,9 @@ No
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x47><xE8><x80></color> 
 [ENDBLOCK]
-has joined the Party.
+has joined the party.
 [ENDBLOCK]
-is now an active 
+is now an active
 party member.
 [ENDBLOCK]
 can join the battle.
@@ -123,9 +123,9 @@ has left the party.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><x0C><x98><x80>
+<center>[<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><x0C><x98><x80>
 [ENDBLOCK]
-<x18><x65><x58><x08><x00><x80></color>.
+<x18><x65><x58><x08><x00><x80></color>]
 
 [ENDBLOCK]
 <x19><x69><x47><xFC><x80>'s party received
@@ -156,7 +156,7 @@ the <turquoise>Strongest Titles
 [ENDBLOCK]
 the <turquoise>Quiz Titles
 [ENDBLOCK]
-<x19><x69><x47><xFC><x80> has received
+<x19><x69><x47><xFC><x80> has received the title:
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -237,53 +237,49 @@ can now be used.
 notice
 [ENDBLOCK]
 <TAG_007>[Titles Description]
-Titles are one of the character parameters
-that can be set on a character. The
-specific set method is as follows.
+Titles are one of the character
+parameters that can be set. 
+The specific method is as follows.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>After opening the main menu,
 the character status will display.
-On this screen, hit <Square_ani> and you'll
-be able to change the character status.
+On this screen, press <Square_ani> to 
+change the character status.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>At the top of this screen, you'll see
-[Titles] On this screen, press <Triangle_ani> 
-and it'll let you pick from all the titles
-you've acquired.
+<TAG_007>At the top of this screen will be
+[Titles]. Press <Triangle_ani> to pick
+from all aquired titles.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>There are two purposes to titles. 
-The first is to [Set your title and 
-talk to the townspeople].
+<TAG_007>Titles serve two purposes:
+The first is to [affect dialogue 
+when talking to NPCs].
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>By setting a title, certain townspeople
-will take interest in you. When you talk
-to them several times, you might get
-interesting responses. When that
-happens, reset the title you have on
-and try talking to them again.
+<TAG_007>Set a title to have certain NPCs interested
+while passing them. When talking with NPCs
+multiple times you may get different responses.
+Change the title and try talking to them again.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Hint: When talking to townspeople, a
-[?] will appear over your character's
-head. If this happens, set a title that
-seems to be related to the dialogue, 
-and try talking to them again. 
+<TAG_007>Hint: When talking to certain NPCs, a [?] will 
+appear over the character's head. If this 
+happens, set a title that seems to be related
+to the dialogue, and try talking to them again.
 Something fun may happen.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>The second purpose of titles is...
+<TAG_007>The second purpose for titles is...
 to make your status screen look cool!
 When collecting titles, you might pick
 up one you like, so you can set it on
@@ -291,15 +287,15 @@ your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>[Rock Rally] is a game in which 
-players kick rocks on the field 
+<TAG_007>[Rock Rally] is a game in which
+players kick rocks on the field
 to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
-1: Kicking a rock outside the 
+1: Kicking a rock outside the
 	city will start the game.
 2: Battles don't affect the clearing
 	objective of the Rock Rally game.
@@ -325,29 +321,28 @@ Oh, <Rutee>？
 select
 [ENDBLOCK]
 <TAG_007>What's up?
-（...I didn't say hello, did I...）
+（...I didn't say goodbye to the sister....）
 [ENDBLOCK]
 Sister
 [ENDBLOCK]
-Aren't you going shopping
-with your brothers?
+I thought you were going
+shopping with the kids?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-I had some business to attend to
-and I couldn't make it.
+I had something I needed to do,
+so I couldn't go with them.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Besides, the little ones are so 
-energetic that shopping together
-wears me out♪
+Besides, the little ones are
+so energetic that shopping
+with them wears me out!
 [ENDBLOCK]
 Sister
 [ENDBLOCK]
-What are you talking about?
-You're not old enough to talk 
-like that.
+What are you saying? You're nowhere
+near old enough to talk like that!!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -355,38 +350,37 @@ It is what it is♪
 [ENDBLOCK]
 Sister
 [ENDBLOCK]
-God, this girl.
+By Atamoni, this girl...
 [ENDBLOCK]
 Sister
 [ENDBLOCK]
-OMG, this girl.
-[ENDBLOCK]
-Oh, by the way, I see you had
-some company. 
+Oh, by the way, I see you
+had some company.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-They were the ones I was telling
-you about. And about that, there is 
-something we need to discuss.
-[ENDBLOCK]
-Sister
-...I already know.
-You're going back, aren't you?
+They're the ones I told you about.
+Speaking of which, I need to tell you...
 [ENDBLOCK]
 Sister
 [ENDBLOCK]
-And it is dangerous, right?
+...I already know. You're 
+leaving again, right?
+[ENDBLOCK]
+Sister
+[ENDBLOCK]
+Off on another
+dangerous trip...
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Of course you understand.
-But, sister...
+Of course you'd figure it out.
+But don't worry, sister.
 [ENDBLOCK]
 Sister
 [ENDBLOCK]
-I know I don't have to tell you this.
-But don't forget, <Rutee>.
+I know I don't have to tell you
+this, but remember, <Rutee>.
 [ENDBLOCK]
 Sister
 [ENDBLOCK]
@@ -395,35 +389,37 @@ for you to come home.
 [ENDBLOCK]
 Sister
 [ENDBLOCK]
-If you have the children's best
-interest at heart, the only thing
-you should care about most is...
+If the children are truly important
+to you, then you'll take care of 
+yourself and come home to us.
 [ENDBLOCK]
 Sister
 [ENDBLOCK]
-Don't forget that you are the one
-who has to do this.
+This is something
+only you can do.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Yeah, thanks.
+You're right.
+Thank you.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-I'm off!
+Well... I'm off!
 [ENDBLOCK]
 Sister
 [ENDBLOCK]
-As the children get older, so do
-their belongings.
+As the kids get bigger,
+so do their messes.
 [ENDBLOCK]
 Sister
 [ENDBLOCK]
-This room is such a mess. 
+Seriously. This room
+is such a pigsty!
 [ENDBLOCK]
 Sister
 [ENDBLOCK]
-You've come at the perfect time.
+You've come at a good time.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -431,35 +427,38 @@ Huh？
 [ENDBLOCK]
 Sister
 [ENDBLOCK]
-I was going through some things
-and I found your notebook.
+I was cleaning the room,
+and a notebook with
+your name turned up!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Do I really have such a thing?
+With my name...?
+Did I have something like that?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Why don't your read it and see
-what is inside.
+Won't we know for sure
+if we take a look at it?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-I suppose you are right.
+Yeah.
 [ENDBLOCK]
 ○Month ×Day
 [ENDBLOCK]
-I can't believe it. I found 10 gald!
+Today I picked up 10 gald! Woohoo!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-What is this? Is it a diary from
-when I was a little girl?
+What the heck is this?
+A diary from when I was little?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-It's so cute that you were happy
-finding 10 gald.
+It's kinda adorable
+how happy you
+were to find ten gald...
 [ENDBLOCK]
 ○Month ×Day
 [ENDBLOCK]
@@ -471,28 +470,32 @@ Today I picked up 15 gald.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-It is all about money...
+Looks like it's...
+Only about money..?
 [ENDBLOCK]
 ○Month ×Day
 [ENDBLOCK]
-Today I bought a lot of gels
-with all the money I had saved.
+Today, I bought a buncha
+gels from the money I saved up.
 [ENDBLOCK]
 ○Month ×Day
 [ENDBLOCK]
-When I sold the gels to some
-travellers, I made a profit of 50 gald!
+From selling them to
+that traveler, I made
+a cool 50 gald profit!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-This is so embarrasing...
+Jeez, this is
+kinda embarrassing...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-You were just a kid, but were you 
-keeping a budget?
+You kept a budget
+even as a kid?
 [ENDBLOCK]
 Sister
 [ENDBLOCK]
-No, this is a ledger.<x00>
+It's more like
+a ledger, isn't it?<x00>
 [ENDBLOCK]

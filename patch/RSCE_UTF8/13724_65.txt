@@ -504,7 +504,7 @@ Seven Generals~ Roberto <Leen>!
 [ENDBLOCK]
 <Leen>
 [ENDBLOCK]
-Your tears have summond me,
+Your tears have summoned me,
 to bestow happiness upon you~.
 [ENDBLOCK]
 <Stahn>
@@ -664,7 +664,7 @@ West: Exit
 Weapon Shop
 [ENDBLOCK]
 Buying a weapon in the dead of
-night, are you involved in 
+night, are you involved in
 something dangerous?
 [ENDBLOCK]
 Weapon Shop
@@ -680,29 +680,29 @@ here. Please take a look.
 Weapon Shop
 [ENDBLOCK]
 Business is booming, but... it's
-not exactly an ideal situation, 
+not exactly an ideal situation,
 is it?
 [ENDBLOCK]
 Weapon Shop
 [ENDBLOCK]
 Buying a weapon in the dead of
-night, are you involved in 
+night, are you involved in
 something dangerous?
 [ENDBLOCK]
 Weapon Shop
 [ENDBLOCK]
-We've got some nice weapons 
+We've got some nice weapons
 here. Please take a look.
 [ENDBLOCK]
 Weapon Shop
 [ENDBLOCK]
-We've got some nice weapons 
+We've got some nice weapons
 here. Please take a look.
 [ENDBLOCK]
 Weapon Shop
 [ENDBLOCK]
 Business is booming, but... it's
-not exactly an ideal situation, 
+not exactly an ideal situation,
 is it?
 [ENDBLOCK]
 Sailor
@@ -739,7 +739,7 @@ fleet assist you?
 [ENDBLOCK]
 Sailor
 [ENDBLOCK]
-I didn't expect to work with 
+I didn't expect to work with
 Aquaveil, let alone Phandaria.
 [ENDBLOCK]
 Sailor
@@ -749,14 +749,14 @@ a day would come.
 [ENDBLOCK]
 Sailor
 [ENDBLOCK]
-You have people from all over 
+You have people from all over
 the world rooting for you.
 [ENDBLOCK]
 Catgirl
 [ENDBLOCK]
-The days of the bunny girl 
-are over. Those with cat
-ears will rise up!
+The days of the bunny girl are
+over. Those with cat ears will 
+rise up!
 [ENDBLOCK]
 Catgirl
 [ENDBLOCK]
@@ -769,18 +769,18 @@ Now Catgirls will have the spotlight!
 [ENDBLOCK]
 Catgirl
 [ENDBLOCK]
-You guys have been through a 
+You guys have been through a
 lot. I can see it in your faces.
 [ENDBLOCK]
 Catgirl
 [ENDBLOCK]
-I heard that when lightning 
-strikes a place, it makes a 
+I heard that when lightning
+strikes a place, it makes a
 big hole.
 [ENDBLOCK]
 Catgirl
 [ENDBLOCK]
-At this rate, the world will 
+At this rate, the world will
 be full of holes...
 [ENDBLOCK]
 Catgirl
@@ -796,15 +796,15 @@ I'll give you the "special package."
 [ENDBLOCK]
 Guard
 [ENDBLOCK]
-Once the strongest among
-the nations, the Seven Generals
-might be a thing of the past. 
+Once the strongest among the
+nations, the Seven Generals
+might be a thing of the past.
 [ENDBLOCK]
 Guard
 [ENDBLOCK]
-With <Hugo>'s recent rise in 
-power, they have been gradually
-losing their influence.
+With <Hugo>'s recent rise in power,
+they have been gradually losing 
+their influence.
 [ENDBLOCK]
 Guard
 [ENDBLOCK]
@@ -819,7 +819,7 @@ commonly known as the Seven Generals.
 Guard
 [ENDBLOCK]
 Although the more I hear about <Lion>'s
-skill, the less impressive they seem.
+skill, the less impressive he seems.
 [ENDBLOCK]
 Guard
 [ENDBLOCK]
@@ -869,8 +869,8 @@ is going on?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-You have to tell me what the
-hell is going on!
+You have to tell me what
+the hell is going on!
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -879,7 +879,7 @@ this city is safe!
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-It's safest to be where 
+It's safest to be where
 <Kongman> is, isn't it?
 [ENDBLOCK]
 Man
@@ -921,18 +921,19 @@ Mighty!	Mighty!	Mighty!
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-You can't go south to Phandaria
-without a pass.
+You can't go south to
+Phandaria without a
+pass.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-We can only go as far as the
-border town of Janos.
+We can only go as far as
+the border town of Janos.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
 I've heard that you can now
-travel freely from Janos to 
+travel freely from Janos to
 Phandaria.
 [ENDBLOCK]
 Old Man
@@ -942,7 +943,7 @@ I long for the hot springs...
 Old Man
 [ENDBLOCK]
 Only Phandaria in the south
-can rival our Seinegald. 
+can rival our Seinegald.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
@@ -951,9 +952,8 @@ wise and benevolent ruler.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-I can't wait to see how the
-new King of Phandaria will 
-govern.
+I can't wait to see how the new
+King of Phandaria will govern.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
@@ -962,7 +962,7 @@ please deliver us.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-Does the Goddess Atamoni  
+Does our Goddess Atamoni
 intend to abandon us?
 [ENDBLOCK]
 Old Man
@@ -970,7 +970,7 @@ Old Man
 You will be traveling around the world?
 I hope that you will be able to help.
 [ENDBLOCK]
-Meat merchant
+Meat Merchant
 [ENDBLOCK]
 God only knows if
 this plan will work.
@@ -998,7 +998,7 @@ Protect yourself.
 Armor Shop
 [ENDBLOCK]
 Business is booming, but... it's
-not exactly an ideal situation, 
+not exactly an ideal situation,
 is it?
 [ENDBLOCK]
 Armor Shop
@@ -1019,7 +1019,7 @@ Protect yourself.
 Armor Shop
 [ENDBLOCK]
 Business is booming, but... it's
-not exactly an ideal situation, 
+not exactly an ideal situation,
 is it?
 [ENDBLOCK]
 Sailor
@@ -1034,8 +1034,8 @@ Take this.
 [ENDBLOCK]
 Sailor
 [ENDBLOCK]
-It'll show you how to perform
-a「Definite Strike」on monsters.
+It'll show you how to perform a
+[Definite Strike] on monsters.
 [ENDBLOCK]
 Sailor
 [ENDBLOCK]
@@ -1044,16 +1044,16 @@ Take good care of it.
 notice
 [ENDBLOCK]
 You can perform a Definite Strike
-by setting [Definite Strike] to 
-"ON" from the Customize menu
-in the Main menu.
+by setting [Definite Strike] to "ON"
+from the Customize menu in the 
+Main menu.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 You can also view each monster's
 Definite Strike in the Monster Book
-if Definite Strike is "ON".
+if Definite Strike is "ON."
 
 [ENDBLOCK]
 Sailor
@@ -1090,7 +1090,7 @@ fleet assist you?
 [ENDBLOCK]
 Sailor
 [ENDBLOCK]
-I didn't expect to work with 
+I didn't expect to work with
 Aquaveil, let alone Phandaria.
 [ENDBLOCK]
 Sailor
@@ -1114,7 +1114,7 @@ a little stronger.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Current Gald: <TAG_033>Gald
+<TAG_007>Current Gald: <TAG_033> Gald
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 Yes
@@ -1122,9 +1122,9 @@ No
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x49><x3C><x80></color> 
 [ENDBLOCK]
-has joined the Party.
+has joined the party.
 [ENDBLOCK]
-is now an active 
+is now an active
 party member.
 [ENDBLOCK]
 can join the battle.
@@ -1147,9 +1147,9 @@ has left the party.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x49><x60><x98><x80>
+<center>[<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x49><x60><x98><x80>
 [ENDBLOCK]
-<x18><x65><x59><x5C><x00><x80></color>.
+<x18><x65><x59><x5C><x00><x80></color>]
 
 [ENDBLOCK]
 <x19><x69><x49><x50><x80>'s party received
@@ -1180,7 +1180,7 @@ the <turquoise>Strongest Titles
 [ENDBLOCK]
 the <turquoise>Quiz Titles
 [ENDBLOCK]
-<x19><x69><x49><x50><x80> has received
+<x19><x69><x49><x50><x80> has received the title:
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -1261,53 +1261,49 @@ can now be used.
 notice
 [ENDBLOCK]
 <TAG_007>[Titles Description]
-Titles are one of the character parameters
-that can be set on a character. The
-specific set method is as follows.
+Titles are one of the character
+parameters that can be set. 
+The specific method is as follows.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>After opening the main menu,
 the character status will display.
-On this screen, hit <Square_ani> and you'll
-be able to change the character status.
+On this screen, press <Square_ani> to 
+change the character status.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>At the top of this screen, you'll see
-[Titles] On this screen, press <Triangle_ani> 
-and it'll let you pick from all the titles
-you've acquired.
+<TAG_007>At the top of this screen will be
+[Titles]. Press <Triangle_ani> to pick
+from all aquired titles.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>There are two purposes to titles. 
-The first is to [Set your title and 
-talk to the townspeople].
+<TAG_007>Titles serve two purposes:
+The first is to [affect dialogue 
+when talking to NPCs].
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>By setting a title, certain townspeople
-will take interest in you. When you talk
-to them several times, you might get
-interesting responses. When that
-happens, reset the title you have on
-and try talking to them again.
+<TAG_007>Set a title to have certain NPCs interested
+while passing them. When talking with NPCs
+multiple times you may get different responses.
+Change the title and try talking to them again.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Hint: When talking to townspeople, a
-[?] will appear over your character's
-head. If this happens, set a title that
-seems to be related to the dialogue, 
-and try talking to them again. 
+<TAG_007>Hint: When talking to certain NPCs, a [?] will 
+appear over the character's head. If this 
+happens, set a title that seems to be related
+to the dialogue, and try talking to them again.
 Something fun may happen.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>The second purpose of titles is...
+<TAG_007>The second purpose for titles is...
 to make your status screen look cool!
 When collecting titles, you might pick
 up one you like, so you can set it on
@@ -1315,15 +1311,15 @@ your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>[Rock Rally] is a game in which 
-players kick rocks on the field 
+<TAG_007>[Rock Rally] is a game in which
+players kick rocks on the field
 to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
-1: Kicking a rock outside the 
+1: Kicking a rock outside the
 	city will start the game.
 2: Battles don't affect the clearing
 	objective of the Rock Rally game.

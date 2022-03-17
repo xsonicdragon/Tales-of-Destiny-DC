@@ -18,9 +18,9 @@
 [ENDBLOCK]
 Kid
 [ENDBLOCK]
-The other day, I was
-attacked by a monster on
-my way back to the village.
+The other day, I was on my
+way back to the village and
+got attacked by a monster.
 [ENDBLOCK]
 Kid
 [ENDBLOCK]
@@ -29,8 +29,8 @@ of the Seven Generals.
 [ENDBLOCK]
 Kid
 [ENDBLOCK]
-He was actually
-kind of a jerk, though...
+He was actually kind
+of a jerk, though...
 [ENDBLOCK]
 Traveler
 [ENDBLOCK]
@@ -39,7 +39,7 @@ How was Seinegald?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-I think you may have mistaken 
+I think you may have mistaken
 me for someone else.
 [ENDBLOCK]
 Traveler
@@ -58,7 +58,7 @@ Sorry about that...
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-It's alright. No harm, no foul.
+It's all right. No harm, no foul.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
@@ -101,8 +101,8 @@ could you give him this?
 [ENDBLOCK]
 Chief's Daughter
 [ENDBLOCK]
-Aw, why did you get rid of
-the braid? It really suited you.
+Aw, why did you get rid of the
+braid? It really suited you.
 [ENDBLOCK]
 Mayor's Grandson
 [ENDBLOCK]
@@ -124,7 +124,7 @@ live in our village?
 [ENDBLOCK]
 <Ashley>
 [ENDBLOCK]
-The people of this village, 
+The people of this village,
 they're cheering my name!
 [ENDBLOCK]
 <Ashley>
@@ -140,7 +140,7 @@ a mask anymore!
 [ENDBLOCK]
 <Ashley>
 [ENDBLOCK]
-The people of this village, 
+The people of this village,
 they're cheering my name!
 [ENDBLOCK]
 <Ashley>
@@ -182,7 +182,7 @@ his life was a short one.
 <Ashley>
 [ENDBLOCK]
 Because of that, people expected
-me to be the same as he was, 
+me to be the same as he was,
 rather than my own person.
 [ENDBLOCK]
 <Chelsea>
@@ -207,7 +207,7 @@ wasted a lot of time trying, though.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-In the end, though, 
+In the end, though,
 you're your own man.
 [ENDBLOCK]
 <Ashley>
@@ -222,29 +222,31 @@ protect this village.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>Welcome to Armeida.
-How about a rest at the inn
-before heading out to the temple?
+<TAG_005><center>Welcome to Armeida.
+How about a rest at the inn before
+heading out to the temple?
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-This is the village of Armeida, at
-the foot of Straylize Temple.
+This is the village of Armeida,
+at the foot of Straylize Temple.
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
 How horrible!
-Oh, Atamoni preserve us! 
+Oh, Atamoni
+preserve us!
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-May you all be 
+May you all be
 blessed by the Goddess.
 [ENDBLOCK]
 Grandmother
 [ENDBLOCK]
-Atamoni watches over our
-lives from the temple.
+Atamoni watches
+over our lives
+from the temple.
 [ENDBLOCK]
 Grandmother
 [ENDBLOCK]
@@ -254,7 +256,7 @@ at the temple. It might be true...
 Grandmother
 [ENDBLOCK]
 I've never seen anything like this
-in all my 60 years on this earth...
+in all my 60 years on this Earth...
 [ENDBLOCK]
 Grandmother
 [ENDBLOCK]
@@ -285,7 +287,7 @@ we can accomplish anything.
 Man
 [ENDBLOCK]
 Are you making a pilgrimage
-to Straylize Temple?
+to the Straylize Temple?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -314,14 +316,14 @@ what went down at the temple.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-Even with <Greybum> gone,
-it'll be a while before the
-temple's reputation is restored.
+Even with <Greybum> gone, it'll
+be a while before the temple's
+reputation is restored.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
 Are you making a pilgrimage
-to Straylize Temple?
+to the Straylize Temple?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -340,9 +342,9 @@ what went down at the temple.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-Even with <Greybum> gone,
-it'll be a while before the
-temple's reputation is restored.
+Even with <Greybum> gone, it'll
+be a while before the temple's
+reputation is restored.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -383,13 +385,14 @@ I get to go to the city...
 [ENDBLOCK]
 Kid
 [ENDBLOCK]
-I've decided to stay here after all.
-"Home's where the heart is", you know?
+I've decided to stay here after
+all. "Home's where the heart is,"
+you know?
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-If you're going to Straylize Temple,
-take the east road.
+If you're going to Straylize
+Temple, take the east road.
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
@@ -448,8 +451,8 @@ Take this.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-It'll show you how to perform
-a「Definite Strike」on monsters.
+It'll show you how to perform a
+[Definite Strike] on monsters.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -458,15 +461,15 @@ Take good care of it.
 notice
 [ENDBLOCK]
 You can perform a Definite Strike
-by setting [Definite Strike] to 
-"ON" from the Customize menu
-in the Main menu.
+by setting [Definite Strike] to "ON"
+from the Customize menu in the 
+Main menu.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 You can also view each monster's
 Definite Strike in the Monster Book
-if Definite Strike is "ON".
+if Definite Strike is "ON."
 
 [ENDBLOCK]
 Man
@@ -485,7 +488,7 @@ honed your skills more.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Current Gald: <TAG_033>Gald
+<TAG_007>Current Gald: <TAG_033> Gald
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 Yes
@@ -493,9 +496,9 @@ No
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x47><xE8><x80></color> 
 [ENDBLOCK]
-has joined the Party.
+has joined the party.
 [ENDBLOCK]
-is now an active 
+is now an active
 party member.
 [ENDBLOCK]
 can join the battle.
@@ -518,9 +521,9 @@ has left the party.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><x0C><x98><x80>
+<center>[<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><x0C><x98><x80>
 [ENDBLOCK]
-<x18><x65><x58><x08><x00><x80></color>.
+<x18><x65><x58><x08><x00><x80></color>]
 
 [ENDBLOCK]
 <x19><x69><x47><xFC><x80>'s party received
@@ -551,7 +554,7 @@ the <turquoise>Strongest Titles
 [ENDBLOCK]
 the <turquoise>Quiz Titles
 [ENDBLOCK]
-<x19><x69><x47><xFC><x80> has received
+<x19><x69><x47><xFC><x80> has received the title:
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -632,53 +635,49 @@ can now be used.
 notice
 [ENDBLOCK]
 <TAG_007>[Titles Description]
-Titles are one of the character parameters
-that can be set on a character. The
-specific set method is as follows.
+Titles are one of the character
+parameters that can be set. 
+The specific method is as follows.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>After opening the main menu,
 the character status will display.
-On this screen, hit <Square_ani> and you'll
-be able to change the character status.
+On this screen, press <Square_ani> to 
+change the character status.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>At the top of this screen, you'll see
-[Titles] On this screen, press <Triangle_ani> 
-and it'll let you pick from all the titles
-you've acquired.
+<TAG_007>At the top of this screen will be
+[Titles]. Press <Triangle_ani> to pick
+from all aquired titles.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>There are two purposes to titles. 
-The first is to [Set your title and 
-talk to the townspeople].
+<TAG_007>Titles serve two purposes:
+The first is to [affect dialogue 
+when talking to NPCs].
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>By setting a title, certain townspeople
-will take interest in you. When you talk
-to them several times, you might get
-interesting responses. When that
-happens, reset the title you have on
-and try talking to them again.
+<TAG_007>Set a title to have certain NPCs interested
+while passing them. When talking with NPCs
+multiple times you may get different responses.
+Change the title and try talking to them again.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Hint: When talking to townspeople, a
-[?] will appear over your character's
-head. If this happens, set a title that
-seems to be related to the dialogue, 
-and try talking to them again. 
+<TAG_007>Hint: When talking to certain NPCs, a [?] will 
+appear over the character's head. If this 
+happens, set a title that seems to be related
+to the dialogue, and try talking to them again.
 Something fun may happen.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>The second purpose of titles is...
+<TAG_007>The second purpose for titles is...
 to make your status screen look cool!
 When collecting titles, you might pick
 up one you like, so you can set it on
@@ -686,15 +685,15 @@ your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>[Rock Rally] is a game in which 
-players kick rocks on the field 
+<TAG_007>[Rock Rally] is a game in which
+players kick rocks on the field
 to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
-1: Kicking a rock outside the 
+1: Kicking a rock outside the
 	city will start the game.
 2: Battles don't affect the clearing
 	objective of the Rock Rally game.

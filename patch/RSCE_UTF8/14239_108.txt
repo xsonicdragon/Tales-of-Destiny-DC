@@ -375,7 +375,7 @@ Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-Look at that!
+Look! Over there!
 [ENDBLOCK]
 Rebel Soldier
 [ENDBLOCK]
@@ -390,11 +390,11 @@ Ugh...
 [ENDBLOCK]
 <Chelsea>!?
 [ENDBLOCK]
-Men, capture them!
+Now! Capture them!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Look out, <Woodrow>!
+Watch out, <Woodrow>!
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
@@ -402,14 +402,13 @@ Look out, <Woodrow>!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-She isn't injured, but I think the
-cold has gotten to her! She isn't
- looking too good...
+She's not injured, but... She's
+as cold and pale as a ghost!
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-At this rate, first aid isn't
-going to be enough.
+ In her current condition,
+first aid won't be enough.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -418,18 +417,18 @@ her back to the city.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-After passing through this forest,
-we will reach the city of Cyril.
-Let's head there first.
+We'll reach the town of Cyril on
+the other end of this forest. We
+should go there, first.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Right, let's get going.
+All right. Let's get going.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-I'm not sure if that city
-is still safe or not.
+I can't say for sure if it's
+a safe place to go, but...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -437,71 +436,75 @@ is still safe or not.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-...I'm sorry. I can't 
-even begin to fill you in.
+...I'm sorry. I know very
+little of the situation...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Be sure to catch <Greybum>
-and get our Phandaria back.
+Don't worry! Once we bring
+<Greybum> to justice, Phandaria
+will go back to normal!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-We'll do our best to help you.
+We'll do everything
+we can to help you!
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-<Stahn>, you seem to be
-well on your way to becoming
-a skilled master.
+<Stahn>, you seem well on
+your way to becoming a
+great master.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-Your skill with the sword
-and humanity have both
-grown dramatically.
+Both your skill with the sword
+and your humanity have grown
+a lot since last we met.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Do you think I'm someone
-worthy of being a master?
+Do you really think I've
+got what it takes to be
+a Swordian Master?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-No way.
-You're not ready.
+Absolutely not. You've still got
+  a long way to go until then.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I wasn't asking you, <Dymlos>.
+I wasn't asking you, <Dymlos>!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-Your strength has grown, that's
-for sure. However you don't have
-control over your emotions yet.
+<center>You've gotten stronger physically, I'll
+admit that much. However, you still have
+very poor control over your emotions.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-In those cases, you'll be pushed
-around at a critical moment.
+You'd be very easy to manipulate,
+  especially in a crisis situation.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-So you're not listening.
+Didn't you hear
+what I just said!?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-You guys seem to be very well-matched.
+You two are very well matched.
 I can tell just by looking at you.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Even with all this nagging...?
+But... the nagging...!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-I don't think so.
+You can't be serious!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -509,11 +512,11 @@ I don't think so.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Mary>, what is it?
+<Mary>, what's wrong?
 [ENDBLOCK]
 
 [ENDBLOCK]
-You have nowhere to go.
+You don't have anywhere to go?
 Then why don't you come with me?
 [ENDBLOCK]
 
@@ -523,43 +526,47 @@ I'm...
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-...I was walking through the snowy
-forest with someone, I think.
+I was walking through the forest
+with someone, I think... There was
+a lot of snow then, too... 
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-It's nostalgic, but it's also terrifying.
-I want to remember it, but I don't.
+It's strange... Nostalgic, but
+terrifying... I want to remember,
+but at the same time, I don't...
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-I don't know what is
-wrong with me.
+What's going on...? What's
+wrong with me...? I just
+don't understand...
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-It seems your memories
-are coming back to you.
+<center>It's posssible that her
+memories are coming back.
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-Perhaps the snowy landscape here
-is sparking something in her.
+<center>Perhaps the snowy landscape here
+sparked something within her.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-There's no need to rush.
-You can take your time
-getting your memory back.
+There's no need to rush. You
+can take your time getting
+your memory back, Okay?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-...Thanks, <Rutee>.
+...Thank you, <Rutee>.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-We can't go any further. 
-Snow is blocking the road.
+Looks like the road's blocked
+by snow. Guess we're not going
+this way.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -578,8 +585,8 @@ of being able to generate heat.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-Here, I have a ring 
-with such a lens in it.
+Here, I have a ring with
+such a lens in it.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -593,32 +600,32 @@ in front of you.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Alright, I'll try it out.
+All right, I'll try it out.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007><center>Press <Square_ani> to shoot a beam of energy
-out of the Sorcerer Ring.
+out of the Sorcerer's Ring.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><center>Use the Sorcerer Ring to melt the snow
+<TAG_007><center>Use the Sorcerer's Ring to melt the snow
 blocking the path and move on.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><center><red>Hint</color>: You can use the Sorcerer Ring
+<TAG_007><center><red>Hint</color>: You can use the Sorcerer's Ring
 in other dungeons as well.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><center>If you are stuck in a dungeon,
-try applying the Sorcerer Ring to different
-parts of the dungeon.
+<TAG_007><center>If you find yourself unable to proceed,
+try using the Sorcerer's Ring on anything
+that looks suspicious!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Current Gald: <TAG_033>Gald
+<TAG_007>Current Gald: <TAG_033> Gald
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 Yes
@@ -626,9 +633,9 @@ No
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x49><xF0><x80></color> 
 [ENDBLOCK]
-has joined the Party.
+has joined the party.
 [ENDBLOCK]
-is now an active 
+is now an active
 party member.
 [ENDBLOCK]
 can join the battle.
@@ -651,9 +658,9 @@ has left the party.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x4A><x14><x98><x80>
+<center>[<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x4A><x14><x98><x80>
 [ENDBLOCK]
-<x18><x65><x5A><x10><x00><x80></color>.
+<x18><x65><x5A><x10><x00><x80></color>]
 
 [ENDBLOCK]
 <x19><x69><x4A><x04><x80>'s party received
@@ -684,7 +691,7 @@ the <turquoise>Strongest Titles
 [ENDBLOCK]
 the <turquoise>Quiz Titles
 [ENDBLOCK]
-<x19><x69><x4A><x04><x80> has received
+<x19><x69><x4A><x04><x80> has received the title:
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -765,53 +772,49 @@ can now be used.
 notice
 [ENDBLOCK]
 <TAG_007>[Titles Description]
-Titles are one of the character parameters
-that can be set on a character. The
-specific set method is as follows.
+Titles are one of the character
+parameters that can be set. 
+The specific method is as follows.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>After opening the main menu,
 the character status will display.
-On this screen, hit <Square_ani> and you'll
-be able to change the character status.
+On this screen, press <Square_ani> to 
+change the character status.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>At the top of this screen, you'll see
-[Titles] On this screen, press <Triangle_ani> 
-and it'll let you pick from all the titles
-you've acquired.
+<TAG_007>At the top of this screen will be
+[Titles]. Press <Triangle_ani> to pick
+from all aquired titles.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>There are two purposes to titles. 
-The first is to [Set your title and 
-talk to the townspeople].
+<TAG_007>Titles serve two purposes:
+The first is to [affect dialogue 
+when talking to NPCs].
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>By setting a title, certain townspeople
-will take interest in you. When you talk
-to them several times, you might get
-interesting responses. When that
-happens, reset the title you have on
-and try talking to them again.
+<TAG_007>Set a title to have certain NPCs interested
+while passing them. When talking with NPCs
+multiple times you may get different responses.
+Change the title and try talking to them again.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Hint: When talking to townspeople, a
-[?] will appear over your character's
-head. If this happens, set a title that
-seems to be related to the dialogue, 
-and try talking to them again. 
+<TAG_007>Hint: When talking to certain NPCs, a [?] will 
+appear over the character's head. If this 
+happens, set a title that seems to be related
+to the dialogue, and try talking to them again.
 Something fun may happen.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>The second purpose of titles is...
+<TAG_007>The second purpose for titles is...
 to make your status screen look cool!
 When collecting titles, you might pick
 up one you like, so you can set it on
@@ -819,15 +822,15 @@ your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>[Rock Rally] is a game in which 
-players kick rocks on the field 
+<TAG_007>[Rock Rally] is a game in which
+players kick rocks on the field
 to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
-1: Kicking a rock outside the 
+1: Kicking a rock outside the
 	city will start the game.
 2: Battles don't affect the clearing
 	objective of the Rock Rally game.

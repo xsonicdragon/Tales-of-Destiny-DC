@@ -1,6 +1,6 @@
 
 [ENDBLOCK]
-<TAG_005>The room was filled with
+<TAG_005><center>The room is filled with
 objects of poor taste.
 [ENDBLOCK]
 <IGNORE>
@@ -22,8 +22,8 @@ gathering.
 [ENDBLOCK]
 Secretary
 [ENDBLOCK]
-Finally, I feel like I've done a
-job that's typical of a secretary...
+Finally, I feel like I've done some
+normal secretary work for once...
 [ENDBLOCK]
 Secretary
 [ENDBLOCK]
@@ -33,23 +33,23 @@ gathering.
 [ENDBLOCK]
 <Walt>
 [ENDBLOCK]
-Thank you so much for coming.
-Is...there anything I can do for you?
+Thank you so much for coming. Is...
+there anything I can do for you?
 [ENDBLOCK]
 <Walt>
 [ENDBLOCK]
-Whenever you want
-a job, just come to me.
+Whenever you want a
+job, just come to me.
 [ENDBLOCK]
 <Walt>
 [ENDBLOCK]
-Thank you so much for coming.
-Is...there anything I can do for you?
+Thank you so much for coming. Is...
+there anything I can do for you?
 [ENDBLOCK]
 <Walt>
 [ENDBLOCK]
-Whenever you want
-a job, just come to me.
+Whenever you want a
+job, just come to me.
 [ENDBLOCK]
 <Walt>
 [ENDBLOCK]
@@ -58,8 +58,8 @@ You're always welcome at my place.
 [ENDBLOCK]
 <Walt>
 [ENDBLOCK]
-I got this from my own sources...
-I heard that <Lion> is involved somehow.
+I got this from my own sources... I
+heard that <Lion> is involved somehow.
 [ENDBLOCK]
 <Walt>
 [ENDBLOCK]
@@ -105,8 +105,8 @@ think you're dealing with?
 [ENDBLOCK]
 <Walt>
 [ENDBLOCK]
-...You're <Rutee> Katrea, right?
-I've heard stories of your peculiarity,
+...You're <Rutee> Katrea, right? I've
+heard stories of your peculiarity,
 and you match them to a T.
 [ENDBLOCK]
 <Rutee>
@@ -127,8 +127,8 @@ and pay you before you put a curse on me.
 <Rutee>
 [ENDBLOCK]
 If you really are as "great" as they
-say, I would appreciate if you
-didn't stand there and badmouth me.
+say, I would appreciate it if you
+didn't badmouth me to my face.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
@@ -168,9 +168,9 @@ not the amount per the contract!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-I know what the contract says,
-I can read. Unfortunately the market
-price for this treasure is much higher.
+I know what the contract says, I can
+read. Unfortunately the market price
+for this treasure is much higher.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -183,7 +183,7 @@ You...!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Well, well, things are getting
+Well, well... Things are getting
 serious. Good thing I brought
 along my personal bodyguard.
 [ENDBLOCK]
@@ -241,19 +241,19 @@ you. All right, I'll pay your price.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Thanks for your patronage.
-I'm glad you speak my language.
+Thanks for your patronage. I'm
+glad you speak my language.
 [ENDBLOCK]
 <Walt>
 [ENDBLOCK]
 I now have the treasure I've
-been seeking. How about
-a party to celebrate?
+been seeking. How about a
+party to celebrate?
 [ENDBLOCK]
 <Walt>
 [ENDBLOCK]
-You all must attend.
-I want you to share in my joy.
+You all must attend. I want
+you to share in my joy.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -262,8 +262,9 @@ That's a bit too much trouble.
 [ENDBLOCK]
 <Walt>
 [ENDBLOCK]
-What a shame. I was prepared to 
-offer a huge spread of delicious food.
+What a shame. I was prepared
+to offer a huge spread of
+delicious food.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -299,7 +300,7 @@ You, lead the way.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Current Gald: <TAG_033>Gald
+<TAG_007>Current Gald: <TAG_033> Gald
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 Yes
@@ -307,9 +308,9 @@ No
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x47><xE8><x80></color> 
 [ENDBLOCK]
-has joined the Party.
+has joined the party.
 [ENDBLOCK]
-is now an active 
+is now an active
 party member.
 [ENDBLOCK]
 can join the battle.
@@ -332,9 +333,9 @@ has left the party.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><x0C><x98><x80>
+<center>[<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><x0C><x98><x80>
 [ENDBLOCK]
-<x18><x65><x58><x08><x00><x80></color>.
+<x18><x65><x58><x08><x00><x80></color>]
 
 [ENDBLOCK]
 <x19><x69><x47><xFC><x80>'s party received
@@ -365,7 +366,7 @@ the <turquoise>Strongest Titles
 [ENDBLOCK]
 the <turquoise>Quiz Titles
 [ENDBLOCK]
-<x19><x69><x47><xFC><x80> has received
+<x19><x69><x47><xFC><x80> has received the title:
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -446,53 +447,49 @@ can now be used.
 notice
 [ENDBLOCK]
 <TAG_007>[Titles Description]
-Titles are one of the character parameters
-that can be set on a character. The
-specific set method is as follows.
+Titles are one of the character
+parameters that can be set. 
+The specific method is as follows.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>After opening the main menu,
 the character status will display.
-On this screen, hit <Square_ani> and you'll
-be able to change the character status.
+On this screen, press <Square_ani> to 
+change the character status.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>At the top of this screen, you'll see
-[Titles] On this screen, press <Triangle_ani> 
-and it'll let you pick from all the titles
-you've acquired.
+<TAG_007>At the top of this screen will be
+[Titles]. Press <Triangle_ani> to pick
+from all aquired titles.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>There are two purposes to titles. 
-The first is to [Set your title and 
-talk to the townspeople].
+<TAG_007>Titles serve two purposes:
+The first is to [affect dialogue 
+when talking to NPCs].
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>By setting a title, certain townspeople
-will take interest in you. When you talk
-to them several times, you might get
-interesting responses. When that
-happens, reset the title you have on
-and try talking to them again.
+<TAG_007>Set a title to have certain NPCs interested
+while passing them. When talking with NPCs
+multiple times you may get different responses.
+Change the title and try talking to them again.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Hint: When talking to townspeople, a
-[?] will appear over your character's
-head. If this happens, set a title that
-seems to be related to the dialogue, 
-and try talking to them again. 
+<TAG_007>Hint: When talking to certain NPCs, a [?] will 
+appear over the character's head. If this 
+happens, set a title that seems to be related
+to the dialogue, and try talking to them again.
 Something fun may happen.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>The second purpose of titles is...
+<TAG_007>The second purpose for titles is...
 to make your status screen look cool!
 When collecting titles, you might pick
 up one you like, so you can set it on
@@ -500,15 +497,15 @@ your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>[Rock Rally] is a game in which 
-players kick rocks on the field 
+<TAG_007>[Rock Rally] is a game in which
+players kick rocks on the field
 to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
-1: Kicking a rock outside the 
+1: Kicking a rock outside the
 	city will start the game.
 2: Battles don't affect the clearing
 	objective of the Rock Rally game.

@@ -4,7 +4,7 @@ So this is the heart of Helraios.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-We should be close to our objective. 
+We should be close to our objective.
 [ENDBLOCK]
 <Ilene>
 [ENDBLOCK]
@@ -47,7 +47,7 @@ Neustadt...?
 <Ilene>
 [ENDBLOCK]
 The social inequality between
-the upper and lower 
+the upper and lower
 classes has gotten worse.
 [ENDBLOCK]
 <Ilene>
@@ -58,7 +58,7 @@ with despair and envy as a result.
 <Ilene>
 [ENDBLOCK]
 <Stahn>, in your travels around
-the world, every city you have 
+the world, every city you have
 visited is burdened by this, right?
 [ENDBLOCK]
 <Stahn>
@@ -216,7 +216,7 @@ deal with his anguish.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-I knew <Ilene> too, so I can 
+I knew <Ilene> too, so I can
 understand his shock...
 [ENDBLOCK]
 <Rutee>
@@ -231,12 +231,12 @@ to place <Igtenos>?
 <Clemente>
 [ENDBLOCK]
 That's right. All you have to
-do is activate the device on 
+do is activate the device on
 the control panel over there.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-<Philia>, would you mind going 
+<Philia>, would you mind going
 over to the control panel?
 [ENDBLOCK]
 <Philia>
@@ -245,7 +245,7 @@ over to the control panel?
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-Alright. Let's begin.
+All right. Let's begin.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
@@ -288,7 +288,7 @@ I... don't know who I am anymore.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-So let me ask you, what 
+So let me ask you, what
 are you fighting for?
 [ENDBLOCK]
 <Stahn>
@@ -312,7 +312,7 @@ blindly follows a righteous cause.
 <Rutee>
 [ENDBLOCK]
 Protecting those around you,
-people who are important to you. 
+people who are important to you.
 That's why you fight.
 [ENDBLOCK]
 <Stahn>
@@ -363,7 +363,7 @@ Don't you forget that.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Yes. <Philia>, <Woodrow>, <Mary>, 
+Yes. <Philia>, <Woodrow>, <Mary>,
 <Chelsea>, and <Kongman>.
 [ENDBLOCK]
 <Rutee>
@@ -389,7 +389,7 @@ Right or wrong, just or not...
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-It doesn't matter. 
+It doesn't matter.
 What I need to do is...
 [ENDBLOCK]
 <Stahn>
@@ -408,16 +408,16 @@ I think I finally understand.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Alright, then.
+All right, then.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I realize now how important 
+I realize now how important
 you all are to me.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-For the sake of everyone, 
+For the sake of everyone,
 I have to keep moving forward.
 [ENDBLOCK]
 <Rutee>
@@ -452,17 +452,17 @@ I can hear you.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-You put me in a hard spot 
+You put me in a hard spot
 earlier with <Greybum>.
 [ENDBLOCK]
 <Igtenos>
 [ENDBLOCK]
 I'm sorry that you had to
-endure all of this without me. 
+endure all of this without me.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-Even though you couldn't speak, 
+Even though you couldn't speak,
 you heard us, didn't you?
 [ENDBLOCK]
 <Igtenos>
@@ -506,7 +506,7 @@ Master and King of Phandaria.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-Be with me until I die, and 
+Be with me until I die, and
 become my strength, <Igtenos>!
 [ENDBLOCK]
 <Woodrow>
@@ -525,7 +525,7 @@ the Swordian Team is reunited.
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]
-Well done, everyone. We've just 
+Well done, everyone. We've just
 completed the neutralization device
 here as well.
 [ENDBLOCK]
@@ -546,7 +546,7 @@ Understood.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Current Gald: <TAG_033>Gald
+<TAG_007>Current Gald: <TAG_033> Gald
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 Yes
@@ -554,9 +554,9 @@ No
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x48><x00><x80></color> 
 [ENDBLOCK]
-has joined the Party.
+has joined the party.
 [ENDBLOCK]
-is now an active 
+is now an active
 party member.
 [ENDBLOCK]
 can join the battle.
@@ -579,9 +579,9 @@ has left the party.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><x24><x98><x80>
+<center>[<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><x24><x98><x80>
 [ENDBLOCK]
-<x18><x65><x58><x20><x00><x80></color>.
+<x18><x65><x58><x20><x00><x80></color>]
 
 [ENDBLOCK]
 <x19><x69><x48><x14><x80>'s party received
@@ -612,7 +612,7 @@ the <turquoise>Strongest Titles
 [ENDBLOCK]
 the <turquoise>Quiz Titles
 [ENDBLOCK]
-<x19><x69><x48><x14><x80> has received
+<x19><x69><x48><x14><x80> has received the title:
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -693,53 +693,49 @@ can now be used.
 notice
 [ENDBLOCK]
 <TAG_007>[Titles Description]
-Titles are one of the character parameters
-that can be set on a character. The
-specific set method is as follows.
+Titles are one of the character
+parameters that can be set. 
+The specific method is as follows.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>After opening the main menu,
 the character status will display.
-On this screen, hit <Square_ani> and you'll
-be able to change the character status.
+On this screen, press <Square_ani> to 
+change the character status.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>At the top of this screen, you'll see
-[Titles] On this screen, press <Triangle_ani> 
-and it'll let you pick from all the titles
-you've acquired.
+<TAG_007>At the top of this screen will be
+[Titles]. Press <Triangle_ani> to pick
+from all aquired titles.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>There are two purposes to titles. 
-The first is to [Set your title and 
-talk to the townspeople].
+<TAG_007>Titles serve two purposes:
+The first is to [affect dialogue 
+when talking to NPCs].
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>By setting a title, certain townspeople
-will take interest in you. When you talk
-to them several times, you might get
-interesting responses. When that
-happens, reset the title you have on
-and try talking to them again.
+<TAG_007>Set a title to have certain NPCs interested
+while passing them. When talking with NPCs
+multiple times you may get different responses.
+Change the title and try talking to them again.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Hint: When talking to townspeople, a
-[?] will appear over your character's
-head. If this happens, set a title that
-seems to be related to the dialogue, 
-and try talking to them again. 
+<TAG_007>Hint: When talking to certain NPCs, a [?] will 
+appear over the character's head. If this 
+happens, set a title that seems to be related
+to the dialogue, and try talking to them again.
 Something fun may happen.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>The second purpose of titles is...
+<TAG_007>The second purpose for titles is...
 to make your status screen look cool!
 When collecting titles, you might pick
 up one you like, so you can set it on
@@ -747,15 +743,15 @@ your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>[Rock Rally] is a game in which 
-players kick rocks on the field 
+<TAG_007>[Rock Rally] is a game in which
+players kick rocks on the field
 to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
-1: Kicking a rock outside the 
+1: Kicking a rock outside the
 	city will start the game.
 2: Battles don't affect the clearing
 	objective of the Rock Rally game.

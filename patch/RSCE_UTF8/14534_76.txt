@@ -7,74 +7,73 @@ We've entered Cloudius.
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]
-Copy that. The Guardian Dragon's 
-control unit is at the furthest point
-inside.
+Copy that. The Guardian Dragon's
+control terminal is located in
+the heart of this place.
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]
-I pray for the success of the 
-mission and for your safety.
+Good luck and stay safe.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-So this is an aerial city, too. 
-The atmosphere is different 
-from the previous places.
+This is an aerial city as well?
+It's nothing like the ones 
+we've encountered thus far.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-It's so green, it's like a jungle.
+It like an overgrown verdant jungle.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
-The samples from the experimental
-plants must have overflowed and 
-multiplied naturally over time.
+The experimental plant 
+samples must have had a
+long time to freely propagate.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-Cloudius is one of the most important
-facilities in the airborne city group.
+Of all the Aeropoleis, Cloudius
+is the most important.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-If we don't capture this place,
-we will never win.
+If we cannot seize control of
+it, we can never achieve victory.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Yeah, let's do it.
+We will succeed.
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]
-Can you hear me, everyone?
-I forgot to tell you that I have
-something to report.
+Do you read me, everyone?
+There is an additional detail
+I neglected to report.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-What's going on?
+What is it?
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]
-While you were on your mission,
-I've brought some shops onto Radisrol
-to replenish our supplies.
+Since you've left Radisrol, I have
+been able to establish means for
+you to replenish your supplies.
 [ENDBLOCK]
 <Ritora>
 [ENDBLOCK]
-You don't have to go down to the
-earth anymore. You can make use
-of them if you like.
+As a result, you should no longer
+have to visit the surface. Return
+and stock up as you see fit.
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-That's helpful.
+That should save us precious time.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Current Gald: <TAG_033>Gald
+<TAG_007>Current Gald: <TAG_033> Gald
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 Yes
@@ -82,9 +81,9 @@ No
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x48><x34><x80></color> 
 [ENDBLOCK]
-has joined the Party.
+has joined the party.
 [ENDBLOCK]
-is now an active 
+is now an active
 party member.
 [ENDBLOCK]
 can join the battle.
@@ -107,9 +106,9 @@ has left the party.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><x58><x98><x80>
+<center>[<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><x58><x98><x80>
 [ENDBLOCK]
-<x18><x65><x58><x54><x00><x80></color>.
+<x18><x65><x58><x54><x00><x80></color>]
 
 [ENDBLOCK]
 <x19><x69><x48><x48><x80>'s party received
@@ -140,7 +139,7 @@ the <turquoise>Strongest Titles
 [ENDBLOCK]
 the <turquoise>Quiz Titles
 [ENDBLOCK]
-<x19><x69><x48><x48><x80> has received
+<x19><x69><x48><x48><x80> has received the title:
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -221,53 +220,49 @@ can now be used.
 notice
 [ENDBLOCK]
 <TAG_007>[Titles Description]
-Titles are one of the character parameters
-that can be set on a character. The
-specific set method is as follows.
+Titles are one of the character
+parameters that can be set. 
+The specific method is as follows.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>After opening the main menu,
 the character status will display.
-On this screen, hit <Square_ani> and you'll
-be able to change the character status.
+On this screen, press <Square_ani> to 
+change the character status.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>At the top of this screen, you'll see
-[Titles] On this screen, press <Triangle_ani> 
-and it'll let you pick from all the titles
-you've acquired.
+<TAG_007>At the top of this screen will be
+[Titles]. Press <Triangle_ani> to pick
+from all aquired titles.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>There are two purposes to titles. 
-The first is to [Set your title and 
-talk to the townspeople].
+<TAG_007>Titles serve two purposes:
+The first is to [affect dialogue 
+when talking to NPCs].
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>By setting a title, certain townspeople
-will take interest in you. When you talk
-to them several times, you might get
-interesting responses. When that
-happens, reset the title you have on
-and try talking to them again.
+<TAG_007>Set a title to have certain NPCs interested
+while passing them. When talking with NPCs
+multiple times you may get different responses.
+Change the title and try talking to them again.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Hint: When talking to townspeople, a
-[?] will appear over your character's
-head. If this happens, set a title that
-seems to be related to the dialogue, 
-and try talking to them again. 
+<TAG_007>Hint: When talking to certain NPCs, a [?] will 
+appear over the character's head. If this 
+happens, set a title that seems to be related
+to the dialogue, and try talking to them again.
 Something fun may happen.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>The second purpose of titles is...
+<TAG_007>The second purpose for titles is...
 to make your status screen look cool!
 When collecting titles, you might pick
 up one you like, so you can set it on
@@ -275,15 +270,15 @@ your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>[Rock Rally] is a game in which 
-players kick rocks on the field 
+<TAG_007>[Rock Rally] is a game in which
+players kick rocks on the field
 to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
-1: Kicking a rock outside the 
+1: Kicking a rock outside the
 	city will start the game.
 2: Battles don't affect the clearing
 	objective of the Rock Rally game.

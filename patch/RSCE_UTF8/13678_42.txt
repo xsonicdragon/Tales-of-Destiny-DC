@@ -486,8 +486,8 @@ I'd like to take the quiz.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-I'd say I'm not bad, myself.
-Please go ahead with the question.
+I'm not too bad, myself. Please
+go ahead with the question.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -516,8 +516,8 @@ heard something like that.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Don't overthink it. Consider it
-an official way to start the quiz.
+Don't overthink it. Consider it an
+official way to start the quiz.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -540,7 +540,7 @@ Boy
 The first King of Seinegald, known as
 Ravell, achieved much during his reign,
 causing the people to remember him
-in legend as the "King of _____".
+in legend as the "King of _____."
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -554,13 +554,13 @@ How about you, <Woodrow>?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-My answer is this: 
-"The King of Fresh Blood".
+My answer is this:
+"The King of Fresh Blood."
 That's right, isn't it, <Philia>?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-No, my answer is "The King of Happiness".
+No, my answer is "The King of Happiness."
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -568,13 +568,13 @@ Oh! Two totally different answers.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-"The King of Happiness"? This is
+"The King of Happiness?" This is
 the first time I've heard that one.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
 Likewise, I've never heard him be
-called "The King of Fresh Blood".
+called "The King of Fresh Blood."
 Are you sure you aren't thinking
 of a different king entirely?
 [ENDBLOCK]
@@ -592,17 +592,17 @@ Huh? Really?
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Yep! Radell is known as both 
-"The King of Happiness" as well 
-as "The King of Fresh Blood".
+Yep! Radell is known as both
+"The King of Happiness" as well
+as "The King of Fresh Blood."
 As well as...
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-"The King of High Walls",
-"The King of the People",
-"The King of Crossed Spears",
-and also "The King of Executions"
+"The King of High Walls,"
+"The King of the People,"
+"The King of Crossed Spears,"
+and also "The King of Executions."
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -639,19 +639,21 @@ How is that?
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Y'see, each country actually has 
+Y'see, each country actually has
 their own name for King Radell.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Phandaria calls him "The King of Fresh Blood", 
-Seinegald knows him as "The King of Happiness".
+Phandaria calls him 
+"The King of Fresh Blood,"
+Seinegald knows him as 
+"The King of Happiness."
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Calvalese calls him "The King of Crossed Spears", 
-and long ago, the old ruined country called him
-"The King of Executions".
+Calvalese calls him "The King of Crossed
+Spears," and long ago, the old ruined 
+country called him "The King of Executions."
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -669,8 +671,8 @@ It's kind of a trick question, I guess.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-However, I wanted you to realize
-that regardless of how much you know,
+However, I wanted you to realize that
+regardless of how much you know,
 yours is still only a single interpretation.
 [ENDBLOCK]
 <Stahn>
@@ -679,9 +681,9 @@ Interpretation...?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-Basically, what you know
-is only what you've seen
-from your own perspective.
+Basically, what you know is
+only what you've seen from
+your own perspective.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -730,7 +732,7 @@ I think you're right.
 [ENDBLOCK]
 Well then, we should form a group
 where we quiz one another, a
-"Quiz Study Club"! How about it?
+"Quiz Study Club!" How about it?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
@@ -819,7 +821,7 @@ Yeah...
 [ENDBLOCK]
 <Lewein>
 [ENDBLOCK]
-Well well, I came because I was
+Well, well. I came because I was
 worried about you two, but it
 seems my concern was unnecessary.
 [ENDBLOCK]
@@ -895,7 +897,7 @@ Y-You've been rather diligent.
 [ENDBLOCK]
 Kratos
 [ENDBLOCK]
-Alright... how about my trump card!
+All right... how about my trump card!
 [ENDBLOCK]
 Kratos
 [ENDBLOCK]
@@ -912,7 +914,7 @@ would ever come to use this question.
 [ENDBLOCK]
 Kratos
 [ENDBLOCK]
-Alright, but see if you know this!!
+All right, but see if you know this!!
 [ENDBLOCK]
 Kratos
 [ENDBLOCK]
@@ -1117,7 +1119,7 @@ bat_no++があがりました
 結果発表
 
 [ENDBLOCK]
-今の回数：<x17><x71><x49><xB8><x80>      最大数：<x17><x71><x49><xB4><x80> 
+今の回数：<x17><x71><x49><xB8><x80>      最大数：<x17><x71><x49><xB4><x80>
 
 [ENDBLOCK]
 一番↓
@@ -1217,7 +1219,7 @@ A.The Tower of Good Sense
 B.The Tower of Knowledge
 C.The Tower of Erudition
 [ENDBLOCK]
-Q. Where is there a traveller's cabin?
+Q. Where is there a traveler's cabin?
 
 [ENDBLOCK]
 A. Fitzgald
@@ -1584,34 +1586,37 @@ The door is locked.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-I heard that the number of lens hunters
-raiding the ruins has increased recently.
+I heard that the number of lens
+hunters raiding the ruins has
+increased recently.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-Apparently, the central government 
+Apparently, the central government
 is taking the situation very seriously
 and is strengthening security.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-I heard that the number of lens hunters
-raiding the ruins has increased recently.
+I heard that the number of lens
+hunters raiding the ruins has 
+increased recently.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-Have you ever heard of the lens hunter
-known as the "Greedy Witch"?
+Have you ever heard of
+the lens hunter known
+as the "Greedy Witch?"
 [ENDBLOCK]
 Man
 [ENDBLOCK]
 You haven't been around lately...
-Have you retired?
+Did you retire or something?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
 Is there any truth to the rumor that
-the President of Oberon Corp. is the
+the president of Oberon Corp. is the
 one who caused this situation?
 [ENDBLOCK]
 Man
@@ -1631,18 +1636,18 @@ than I imagined it would be.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-Apparently, a young swordsman 
+Apparently, a young swordsman
 named <Lion> Magnus has been
 very active in these parts recently.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-I'm a fan of <Lion> Magnus.
-Keep up the good work!
+I'm a big fan <Lion>. Keep
+up the good work!
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-Apparently, a young swordsman 
+Apparently, a young swordsman
 named <Lion> Magnus has been
 very active in these parts recently.
 [ENDBLOCK]
@@ -1673,7 +1678,7 @@ tell him to hang in there.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Current Gald: <TAG_033>Gald
+<TAG_007>Current Gald: <TAG_033> Gald
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 Yes
@@ -1681,9 +1686,9 @@ No
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x4B><x2C><x80></color> 
 [ENDBLOCK]
-has joined the Party.
+has joined the party.
 [ENDBLOCK]
-is now an active 
+is now an active
 party member.
 [ENDBLOCK]
 can join the battle.
@@ -1706,9 +1711,9 @@ has left the party.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x4B><x50><x98><x80>
+<center>[<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x4B><x50><x98><x80>
 [ENDBLOCK]
-<x18><x65><x5B><x4C><x00><x80></color>.
+<x18><x65><x5B><x4C><x00><x80></color>]
 
 [ENDBLOCK]
 <x19><x69><x4B><x40><x80>'s party received
@@ -1739,7 +1744,7 @@ the <turquoise>Strongest Titles
 [ENDBLOCK]
 the <turquoise>Quiz Titles
 [ENDBLOCK]
-<x19><x69><x4B><x40><x80> has received
+<x19><x69><x4B><x40><x80> has received the title:
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -1820,53 +1825,49 @@ can now be used.
 notice
 [ENDBLOCK]
 <TAG_007>[Titles Description]
-Titles are one of the character parameters
-that can be set on a character. The
-specific set method is as follows.
+Titles are one of the character
+parameters that can be set. 
+The specific method is as follows.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>After opening the main menu,
 the character status will display.
-On this screen, hit <Square_ani> and you'll
-be able to change the character status.
+On this screen, press <Square_ani> to 
+change the character status.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>At the top of this screen, you'll see
-[Titles] On this screen, press <Triangle_ani> 
-and it'll let you pick from all the titles
-you've acquired.
+<TAG_007>At the top of this screen will be
+[Titles]. Press <Triangle_ani> to pick
+from all aquired titles.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>There are two purposes to titles. 
-The first is to [Set your title and 
-talk to the townspeople].
+<TAG_007>Titles serve two purposes:
+The first is to [affect dialogue 
+when talking to NPCs].
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>By setting a title, certain townspeople
-will take interest in you. When you talk
-to them several times, you might get
-interesting responses. When that
-happens, reset the title you have on
-and try talking to them again.
+<TAG_007>Set a title to have certain NPCs interested
+while passing them. When talking with NPCs
+multiple times you may get different responses.
+Change the title and try talking to them again.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Hint: When talking to townspeople, a
-[?] will appear over your character's
-head. If this happens, set a title that
-seems to be related to the dialogue, 
-and try talking to them again. 
+<TAG_007>Hint: When talking to certain NPCs, a [?] will 
+appear over the character's head. If this 
+happens, set a title that seems to be related
+to the dialogue, and try talking to them again.
 Something fun may happen.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>The second purpose of titles is...
+<TAG_007>The second purpose for titles is...
 to make your status screen look cool!
 When collecting titles, you might pick
 up one you like, so you can set it on
@@ -1874,15 +1875,15 @@ your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>[Rock Rally] is a game in which 
-players kick rocks on the field 
+<TAG_007>[Rock Rally] is a game in which
+players kick rocks on the field
 to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
-1: Kicking a rock outside the 
+1: Kicking a rock outside the
 	city will start the game.
 2: Battles don't affect the clearing
 	objective of the Rock Rally game.

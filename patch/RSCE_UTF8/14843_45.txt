@@ -12,7 +12,7 @@ Step up
 [ENDBLOCK]
 <yellow>★</color>
 [ENDBLOCK]
- 
+
 [ENDBLOCK]
 Play His Majesty's Drums
 [ENDBLOCK]
@@ -25,7 +25,7 @@ Return
 [ENDBLOCK]
 How to Play
 [ENDBLOCK]
-What is His Majesty's Drums
+What is His Majesty's Drums?
 Controls
 Song Selection
 How to Change Modes
@@ -42,9 +42,9 @@ Quit
 Change Modes
 [ENDBLOCK]
 Select your difficulty level
-	Easy	
+	Easy
 	Normal
-	Hard	
+	Hard
 [ENDBLOCK]
 
 [ENDBLOCK]
@@ -61,20 +61,19 @@ in time with the music.
 What is His Majesty's Drums
 [ENDBLOCK]
 First, select "Song Selection," then
-select the song you want to play.
+choose the song you want to play.
 [ENDBLOCK]
 What is His Majesty's Drums
 [ENDBLOCK]
-While playing, three colored lens will
-scroll from the right to the left
-within a frame near the center of
-your screen.
+During a song, three colored lens will
+scroll from the right to the left within
+a frame near the center of your screen.
 [ENDBLOCK]
 What is His Majesty's Drums
 [ENDBLOCK]
 The lens will appear at the blue
 circle on the right-hand side of
-the frame. Once it overlaps with the
+the frame. When it overlaps with the
 grey circle, hit the correct button.
 [ENDBLOCK]
 What is His Majesty's Drums
@@ -98,7 +97,7 @@ Large Blue Lens (Ka)：<L1_ani> and <R1_ani> together
 Controls
 [ENDBLOCK]
 Yellow Lens (barrage)：
-Smash 'Ka' and 'Don' repeatedly. 
+Press both 'Ka' and 'Don' repeatedly.
 
 [ENDBLOCK]
 Controls
@@ -108,10 +107,9 @@ song to return to the main menu.
 [ENDBLOCK]
 Song Selection
 [ENDBLOCK]
-When you first play, only two songs
-will be available.  More songs can
-be unlocked by clearing available ones.
-
+At first, only two songs will
+be available. More will be unlocked
+as you clear available songs.
 [ENDBLOCK]
 Song Selection
 [ENDBLOCK]
@@ -127,15 +125,15 @@ mode, only 'Red Lens' will appear.
 [ENDBLOCK]
 How to Change Modes
 [ENDBLOCK]
-When the game mode is set to 
-'Normal,' Yellow Lens and Blue Lens
-will appear with Red Lens.
+On 'Normal' difficulty,
+Yellow Lens and Blue Lens
+will appear along with Red Lens.
 [ENDBLOCK]
 How to Change Modes
 [ENDBLOCK]
-When the game mode is set to
-Hard, 'Large Lens' will appear
-in addition to previous lens types.
+On 'Hard', you will encounter
+'Large Lens', as well as
+the other three lens types.
 [ENDBLOCK]
 <x17><x71><x4A><xF4><x80>
 
@@ -154,71 +152,74 @@ Who's there? Show yourself!
 [ENDBLOCK]
 ???
 [ENDBLOCK]
-It has been ages since anyone
-has been able to sense my presence.
+It has been ages since
+last a human has felt my presence.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Great. now monsters talk!?
+A talking monster!?
 [ENDBLOCK]
-I am a divine being who has watched
-over Aquaveil since the dawn of time.
+I have been long known by the people
+of Aquaveil as the god that
+watches over the dawn and the dusk.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Really? That's amazing.
-RIght, where are my manners...
+Woaah, that's so cool!
+Ah jeez, I'm being rude!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
 My name is...
 [ENDBLOCK]
-Don't waste breath on what is
-already known to me.
+I know your name, already.
+You needn't waste your breath.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Wow, you really ARE a divine being.
+Just like a god!
+Very believable!
 [ENDBLOCK]
-Amusing, who knew you
-were so witty...
-[ENDBLOCK]
-<Stahn>
-[ENDBLOCK]
-Witty...?
-I'm not quite sure what you mean,
-but thank you for the compliment.
+I did not know, however,
+that you were so
+abound with cunning wit.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Wait, could you be the spirit that
-Franz was talking about?
-[ENDBLOCK]
-Perhaps we are one in the same.
-Now, I would like you to assist
-me with something in particular.
+Cunning wit...?
+I don't get it, but thanks!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Sure, I'm happy to help.
+Uhm, are you the ghost
+that Franz was talking about?
 [ENDBLOCK]
-...Over there...
-[ENDBLOCK]
-It is time to feast!
-[ENDBLOCK]
-It is as I had suspected,
-you hold great power witin you.
-[ENDBLOCK]
-This was but a test. Now that you
-have proven worthy, I must truly ask...
+That is certainly possible.
+Forgive my rudeness,
+but I must request something of you.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Truly...ask?
+A request?
+What is it?
+[ENDBLOCK]
+...I wish...
+[ENDBLOCK]
+TO DEVOUR YOU!!!
+[ENDBLOCK]
+It is as I suspected.
+You hold great power within you.
+[ENDBLOCK]
+I will tell you what
+my true request is now.
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Your true request...?
 [ENDBLOCK]
 Ever since the formation of the
 land that covers the sky, the animals
-that dwell in Aquaveil have been dying.
+that dwell in Aquaveil have suffered.
 [ENDBLOCK]
 The smaller, more vulnerable among
 them are especially affected. They
@@ -229,22 +230,22 @@ grow weaker every passing day.
 You don't have to say another word.
 Just leave this to me.
 [ENDBLOCK]
-Are you certain...?
-
+You speak the truth?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-You can count on me!
+Woah!!
 [ENDBLOCK]
-Then I shall entrust this task to you,
-hero of the coming dawn.
+Very well.
+We shall entrust our
+world to you, Hero of the Dawn.
 [ENDBLOCK]
-...Farewell...
+...Farewell.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I sense something. Maybe if
-I focus my senses...
+There's something here, I know it.
+If only my senses were sharper...
 [ENDBLOCK]
 One Year Island
 [ENDBLOCK]
@@ -252,7 +253,7 @@ One Year Island
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Current Gald: <TAG_033>Gald
+<TAG_007>Current Gald: <TAG_033> Gald
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 Yes
@@ -260,9 +261,9 @@ No
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x4B><x2C><x80></color> 
 [ENDBLOCK]
-has joined the Party.
+has joined the party.
 [ENDBLOCK]
-is now an active 
+is now an active
 party member.
 [ENDBLOCK]
 can join the battle.
@@ -285,9 +286,9 @@ has left the party.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x4B><x50><x98><x80>
+<center>[<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x4B><x50><x98><x80>
 [ENDBLOCK]
-<x18><x65><x5B><x4C><x00><x80></color>.
+<x18><x65><x5B><x4C><x00><x80></color>]
 
 [ENDBLOCK]
 <x19><x69><x4B><x40><x80>'s party received
@@ -318,7 +319,7 @@ the <turquoise>Strongest Titles
 [ENDBLOCK]
 the <turquoise>Quiz Titles
 [ENDBLOCK]
-<x19><x69><x4B><x40><x80> has received
+<x19><x69><x4B><x40><x80> has received the title:
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -399,53 +400,49 @@ can now be used.
 notice
 [ENDBLOCK]
 <TAG_007>[Titles Description]
-Titles are one of the character parameters
-that can be set on a character. The
-specific set method is as follows.
+Titles are one of the character
+parameters that can be set. 
+The specific method is as follows.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>After opening the main menu,
 the character status will display.
-On this screen, hit <Square_ani> and you'll
-be able to change the character status.
+On this screen, press <Square_ani> to 
+change the character status.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>At the top of this screen, you'll see
-[Titles] On this screen, press <Triangle_ani> 
-and it'll let you pick from all the titles
-you've acquired.
+<TAG_007>At the top of this screen will be
+[Titles]. Press <Triangle_ani> to pick
+from all aquired titles.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>There are two purposes to titles. 
-The first is to [Set your title and 
-talk to the townspeople].
+<TAG_007>Titles serve two purposes:
+The first is to [affect dialogue 
+when talking to NPCs].
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>By setting a title, certain townspeople
-will take interest in you. When you talk
-to them several times, you might get
-interesting responses. When that
-happens, reset the title you have on
-and try talking to them again.
+<TAG_007>Set a title to have certain NPCs interested
+while passing them. When talking with NPCs
+multiple times you may get different responses.
+Change the title and try talking to them again.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Hint: When talking to townspeople, a
-[?] will appear over your character's
-head. If this happens, set a title that
-seems to be related to the dialogue, 
-and try talking to them again. 
+<TAG_007>Hint: When talking to certain NPCs, a [?] will 
+appear over the character's head. If this 
+happens, set a title that seems to be related
+to the dialogue, and try talking to them again.
 Something fun may happen.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>The second purpose of titles is...
+<TAG_007>The second purpose for titles is...
 to make your status screen look cool!
 When collecting titles, you might pick
 up one you like, so you can set it on
@@ -453,15 +450,15 @@ your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>[Rock Rally] is a game in which 
-players kick rocks on the field 
+<TAG_007>[Rock Rally] is a game in which
+players kick rocks on the field
 to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
-1: Kicking a rock outside the 
+1: Kicking a rock outside the
 	city will start the game.
 2: Battles don't affect the clearing
 	objective of the Rock Rally game.

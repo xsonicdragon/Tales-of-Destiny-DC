@@ -3247,7 +3247,7 @@ created by dwarven craftsmen.[END]
 //Text $1B1378
 #WRITE(ptr,$18ED20)
 These reinforced knuckles are 30%[LINE]
-more durrable than your bare fists![LINE]
+more durable than your bare fists![LINE]
 [END]
 
 
@@ -5157,7 +5157,7 @@ who collected oral traditions into a book.[END]
 #WRITE(ptr,$19138C)
 Leathern Gloves. Somewhat stiff,[LINE]
 but strong. A regular companion[LINE]
-of female travellers.[END]
+of female travelers.[END]
 
 //Text $1B7F18
 #WRITE(ptr,$1913A8)

@@ -472,15 +472,16 @@ reset---------
 [ENDBLOCK]
 Item Shop
 [ENDBLOCK]
-Don't judge my store
-by appearance! My wares
-are renowned for their quality!
+Don't judge my store by the 
+appearance! My wares are 
+renowned for their quality!
 [ENDBLOCK]
 Item Shop
 [ENDBLOCK]
-Even in times like this it's 
-business as usual. I still
-have a family to feed, you know.
+Even in times like this
+it's business as usual.
+I still have a family to
+feed, you know.
 [ENDBLOCK]
 Item Shop
 [ENDBLOCK]
@@ -493,15 +494,16 @@ I won't let that bring me down!
 [ENDBLOCK]
 Item Shop
 [ENDBLOCK]
-Don't judge my store
-by appearance! My wares
-are renowned for their quality!
+Don't judge my store by the 
+appearance! My wares are 
+renowned for their quality!
 [ENDBLOCK]
 Item Shop
 [ENDBLOCK]
-Even in times like this it's 
-business as usual. I still
-have a family to feed, you know.
+Even in times like this
+it's business as usual.
+I still have a family to
+feed, you know.
 [ENDBLOCK]
 Item Shop
 [ENDBLOCK]
@@ -593,24 +595,23 @@ working together like this.
 [ENDBLOCK]
 Old man
 [ENDBLOCK]
-<Kongman> is our pride!
-He's the hero of
-Neustadt, after all!
+<Kongman> is our pride! He's the
+hero of Neustadt, after all!
 [ENDBLOCK]
 Old man
 [ENDBLOCK]
-Hello, Champion!
-Off to conquer another city?
+Hello, Champion! Off to
+conquer another city?
 [ENDBLOCK]
 Old man
 [ENDBLOCK]
-Damned rich folk.
-They think we should just leave!
+Damned rich folk. They think
+we should just leave!
 [ENDBLOCK]
 Old man
 [ENDBLOCK]
-You've come back, Champion! I was
-so anxious without you.
+You've come back, Champion! I 
+was so anxious without you.
 [ENDBLOCK]
 Old man
 [ENDBLOCK]
@@ -624,8 +625,8 @@ Crush that evil overlord!
 [ENDBLOCK]
 Old man
 [ENDBLOCK]
-I'm beggin' you!
-Crush that evil overlord!
+I'm beggin' you! Crush
+that evil overlord!
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -634,9 +635,9 @@ nice to meet you.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-I was actually kind of
-worried about downtown,
-so I came to see it myself.
+I was actually kind of worried
+about downtown, so I came to
+see it myself.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -646,8 +647,8 @@ but I was still able to help.
 Man
 [ENDBLOCK]
 It still doesn't feel safe yet.
-I think I'll watch
-over this place a bit longer.
+I think I'll watch over this
+place a bit longer.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -662,7 +663,7 @@ better if they'd just talk it out.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Current Gald: <TAG_033>Gald
+<TAG_007>Current Gald: <TAG_033> Gald
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 Yes
@@ -670,9 +671,9 @@ No
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x49><xE8><x80></color> 
 [ENDBLOCK]
-has joined the Party.
+has joined the party.
 [ENDBLOCK]
-is now an active 
+is now an active
 party member.
 [ENDBLOCK]
 can join the battle.
@@ -695,9 +696,9 @@ has left the party.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x4A><x0C><x98><x80>
+<center>[<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x4A><x0C><x98><x80>
 [ENDBLOCK]
-<x18><x65><x5A><x08><x00><x80></color>.
+<x18><x65><x5A><x08><x00><x80></color>]
 
 [ENDBLOCK]
 <x19><x69><x49><xFC><x80>'s party received
@@ -728,7 +729,7 @@ the <turquoise>Strongest Titles
 [ENDBLOCK]
 the <turquoise>Quiz Titles
 [ENDBLOCK]
-<x19><x69><x49><xFC><x80> has received
+<x19><x69><x49><xFC><x80> has received the title:
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -809,53 +810,49 @@ can now be used.
 notice
 [ENDBLOCK]
 <TAG_007>[Titles Description]
-Titles are one of the character parameters
-that can be set on a character. The
-specific set method is as follows.
+Titles are one of the character
+parameters that can be set. 
+The specific method is as follows.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>After opening the main menu,
 the character status will display.
-On this screen, hit <Square_ani> and you'll
-be able to change the character status.
+On this screen, press <Square_ani> to 
+change the character status.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>At the top of this screen, you'll see
-[Titles] On this screen, press <Triangle_ani> 
-and it'll let you pick from all the titles
-you've acquired.
+<TAG_007>At the top of this screen will be
+[Titles]. Press <Triangle_ani> to pick
+from all aquired titles.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>There are two purposes to titles. 
-The first is to [Set your title and 
-talk to the townspeople].
+<TAG_007>Titles serve two purposes:
+The first is to [affect dialogue 
+when talking to NPCs].
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>By setting a title, certain townspeople
-will take interest in you. When you talk
-to them several times, you might get
-interesting responses. When that
-happens, reset the title you have on
-and try talking to them again.
+<TAG_007>Set a title to have certain NPCs interested
+while passing them. When talking with NPCs
+multiple times you may get different responses.
+Change the title and try talking to them again.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Hint: When talking to townspeople, a
-[?] will appear over your character's
-head. If this happens, set a title that
-seems to be related to the dialogue, 
-and try talking to them again. 
+<TAG_007>Hint: When talking to certain NPCs, a [?] will 
+appear over the character's head. If this 
+happens, set a title that seems to be related
+to the dialogue, and try talking to them again.
 Something fun may happen.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>The second purpose of titles is...
+<TAG_007>The second purpose for titles is...
 to make your status screen look cool!
 When collecting titles, you might pick
 up one you like, so you can set it on
@@ -863,15 +860,15 @@ your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>[Rock Rally] is a game in which 
-players kick rocks on the field 
+<TAG_007>[Rock Rally] is a game in which
+players kick rocks on the field
 to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
-1: Kicking a rock outside the 
+1: Kicking a rock outside the
 	city will start the game.
 2: Battles don't affect the clearing
 	objective of the Rock Rally game.
@@ -893,7 +890,7 @@ notice
 Hello, my name is <TAG_053>. I manage
 the trading here in <TAG_054>.
 [ENDBLOCK]
-You're not done yet? Please 
+You're not done yet? Please
 don't tell me you're quitting.
 [ENDBLOCK]
 If you're not too busy, maybe you
@@ -923,7 +920,7 @@ Want the job?
 Accept
 Decline
 [ENDBLOCK]
-In the meantime, I'll advance 
+In the meantime, I'll advance
 you a portion of the reward.
 
 [ENDBLOCK]
@@ -952,13 +949,14 @@ It's a no brainer, right?
 [ENDBLOCK]
 You could at least give me an answer.
 [ENDBLOCK]
-I see you've received a job from
-<TAG_055> at <x18><x66><x50><x20><x00><x80>.
+I see you've received a job
+from <TAG_055> at <x18><x66><x50><x20><x00><x80>.
 [ENDBLOCK]
 The request is for <TAG_035> <x1A><x72><x0C><x80>.
 
 [ENDBLOCK]
-I'll be quick about it.
+I promise I won't take 
+too much of your time.
 
 [ENDBLOCK]
 <x18><x66><x50><x20><x00><x80> is located in
@@ -966,7 +964,8 @@ the town of <x18><x66><x50><x24><x00><x80>.
 
 [ENDBLOCK]
 Please obtain <TAG_035> <x1A><x72><x0C><x80>,
-and deliver it as soon as you can.
+and deliver it as soon as
+you can.
 
 [ENDBLOCK]
 Good job, getting what I needed!
@@ -987,11 +986,11 @@ You don't have the necessary
 number of items...
 
 [ENDBLOCK]
-Please bring me  <TAG_075> <x1A><x72><x40><x10><x80>.
+Please bring me <TAG_075> <x1A><x72><x40><x10><x80>.
 [ENDBLOCK]
-If you back out and don't
-finish a job, you'll have to pay
-a penalty for breach of contract.
+If you back out and don't finish
+a job, you'll have to pay a penalty
+for breach of contract.
 [ENDBLOCK]
 You know you have to pay a penalty
 due to a breach of contract, right?
@@ -1004,7 +1003,8 @@ You can't be serious. You're not
 having second thoughts, are you?
 [ENDBLOCK]
 I must say,
-I'm a little disappointed...
+I must say, I'm a little
+disappointed...
 
 [ENDBLOCK]
 I am charging a cancellation
@@ -1021,7 +1021,7 @@ The contract cannot be cancelled until
 the breach of contract fee is paid.
 [ENDBLOCK]
 In the meantime, I'm going to ask
-you to pay me the money you 
+you to pay me the money you
 have as an annoyance fee.
 [ENDBLOCK]
 notice
@@ -1061,7 +1061,7 @@ you have as an annoyance fee.
 notice
 [ENDBLOCK]
 <TAG_007>I charged <TAG_075> Gald
-for cancelling. 
+for cancelling.
 
 [ENDBLOCK]
 Get the Gald together
@@ -1072,9 +1072,9 @@ Well, good luck.
 [ENDBLOCK]
 select
 [ENDBLOCK]
-<TAG_007>Continue the job
+<TAG_007>Continue the Job
 Confirm Details
-Quit the job
+Quit the Job
 
 [ENDBLOCK]
 Janos
@@ -1164,8 +1164,8 @@ Is this about... me?
 [ENDBLOCK]
 Old Woman
 [ENDBLOCK]
-Well well, you're
-a new sight 'round here.
+Well, well. You're a new
+sight 'round here.
 [ENDBLOCK]
 Old Woman
 [ENDBLOCK]
@@ -1179,25 +1179,25 @@ from Straylize Temple?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-I am! How
-did you know?
+I am! How did
+you know?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-There isn't a temple on
-this continent, so I'm 
-surprised you know about us!
+There isn't a temple on this
+continent, so I'm surprised
+you know about us!
 [ENDBLOCK]
 Old Woman
 [ENDBLOCK]
-Well, I wasn't
-certain at first.
+Well, I wasn't 
+sure at first.
 [ENDBLOCK]
 Old Woman
 [ENDBLOCK]
 I didn't think there were any priests
-with such a determined look
-in their eyes like yourself.
+with such a determined look in their
+eyes like yourself.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]

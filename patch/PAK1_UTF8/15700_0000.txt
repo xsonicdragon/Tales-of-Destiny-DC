@@ -10,15 +10,13 @@ ourselves yet! I'm <Stahn> Aileron.
 [ENDBLOCK]
 <Stahn>, got it.
 [ENDBLOCK]
-And these two over here
-are <Mary> and <Rutee>.
+And these two over here are <Mary> and <Rutee>.
 [ENDBLOCK]
-You're <Mary>, and
-this is <Rutee>. Okay.
+You're <Mary>, and this is <Rutee>. Okay.
 [ENDBLOCK]
 Last is <Lion>. He's really
 short, but crazy strong!
 [ENDBLOCK]
-You're just begging for <Lion>
-to zap you, talking like that.<x00>
+Are you crazy? If <Lion> hears you
+talking like that he'll zap us all. <x00>
 [ENDBLOCK]

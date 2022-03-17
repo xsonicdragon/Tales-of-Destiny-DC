@@ -16,19 +16,19 @@ come from!? ...Hm, <Philia>!
 [ENDBLOCK]
 <Greybum>
 [ENDBLOCK]
-To whom do you think you're speaking
-to? You've become quite troublesome,
-<Philia>!
+To whom do you think you're
+speaking to? You've become
+quite troublesome, <Philia>!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-There is nowhere to run.
-Give it up!
+There is nowhere to
+run. Give it up!
 [ENDBLOCK]
 <Greybum>
 [ENDBLOCK]
-That Swordian...!
-You must be <Lion> Magnus.
+That Swordian...! You must
+be <Lion> Magnus.
 [ENDBLOCK]
 <Greybum>
 [ENDBLOCK]
@@ -46,9 +46,9 @@ everything now.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-We're not going to let you fill the
-world with monsters! Give back
-the Eye of Atamoni!
+We're not going to let you fill
+the world with monsters! Give
+back the Eye of Atamoni!
 [ENDBLOCK]
 <Greybum>
 [ENDBLOCK]
@@ -77,8 +77,8 @@ power! Come forth, Basilisks!
 [ENDBLOCK]
 <Greybum>
 [ENDBLOCK]
-I'll do as I please. I think I'll
-start by watching you bleed to death!
+I'll do as I please. I think I'll start
+by watching you bleed to death!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -86,8 +86,8 @@ The Eye of Atamoni is gone...!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-It looks like <Greybum> ran off with
-it while we were fighting.
+It looks like <Greybum> ran off
+with it while we were fighting.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -118,20 +118,20 @@ I don't need your help!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Greybum> has allies, you can't
-do this alone. We have to combine
+<Greybum> has allies, you can't do
+this alone. We have to combine 
 all of our strength!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-You're still treating me like I'm
-your friend? I already told you,
-you disgust me!
+You're still treating me like 
+I'm your friend? I already 
+told you, you disgust me!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-Cut it out, you two! This is not
-the time to be arguing!
+Cut it out, you two! This is
+not the time to be arguing!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -163,17 +163,19 @@ I'm fine... Hurry... <Greybum> is...
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Are you just going to leave him like
-this? Even after he saved you?
+Are you just going to leave
+him like this? Even after he
+saved you?
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-<Rutee>, <Philia>, there's
-more coming!! Gimme a hand!
+<Rutee>, <Philia>, there's more
+coming!! Gimme a hand!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Ughh! How many more can there be!?
+Ughh! How many more
+can there be!?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -181,8 +183,8 @@ Okay, looks like this... eh?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Looks like this
-is the last one. Let's go!
+Looks like this is the
+last one. Let's go!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -190,13 +192,13 @@ Aah! Hey! That's my line!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Hold on a minute, you!
-Where did you run off to!?
+Hold on a minute! Where
+did you run off to!?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-And just why is 
-THAT guy with you?
+And just why is THAT
+guy with you?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -214,8 +216,8 @@ worried! Don't talk like that!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Just get on with it,
-use the Panacea Bottle!
+Just get on with it, use
+the Panacea Bottle!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -227,7 +229,8 @@ O-Okay!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Hey, <Stahn>! Open your eyes, <Stahn>...!
+Hey, <Stahn>! Open 
+your eyes, <Stahn>...!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -248,7 +251,7 @@ Oh, no...
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Current Gald: <TAG_033>Gald
+<TAG_007>Current Gald: <TAG_033> Gald
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 Yes
@@ -256,9 +259,9 @@ No
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x47><xC4><x80></color> 
 [ENDBLOCK]
-has joined the Party.
+has joined the party.
 [ENDBLOCK]
-is now an active 
+is now an active
 party member.
 [ENDBLOCK]
 can join the battle.
@@ -281,9 +284,9 @@ has left the party.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x47><xE8><x98><x80>
+<center>[<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x47><xE8><x98><x80>
 [ENDBLOCK]
-<x18><x65><x57><xE4><x00><x80></color>.
+<x18><x65><x57><xE4><x00><x80></color>]
 
 [ENDBLOCK]
 <x19><x69><x47><xD8><x80>'s party received
@@ -314,7 +317,7 @@ the <turquoise>Strongest Titles
 [ENDBLOCK]
 the <turquoise>Quiz Titles
 [ENDBLOCK]
-<x19><x69><x47><xD8><x80> has received
+<x19><x69><x47><xD8><x80> has received the title:
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -395,53 +398,49 @@ can now be used.
 notice
 [ENDBLOCK]
 <TAG_007>[Titles Description]
-Titles are one of the character parameters
-that can be set on a character. The
-specific set method is as follows.
+Titles are one of the character
+parameters that can be set. 
+The specific method is as follows.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>After opening the main menu,
 the character status will display.
-On this screen, hit <Square_ani> and you'll
-be able to change the character status.
+On this screen, press <Square_ani> to 
+change the character status.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>At the top of this screen, you'll see
-[Titles] On this screen, press <Triangle_ani> 
-and it'll let you pick from all the titles
-you've acquired.
+<TAG_007>At the top of this screen will be
+[Titles]. Press <Triangle_ani> to pick
+from all aquired titles.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>There are two purposes to titles. 
-The first is to [Set your title and 
-talk to the townspeople].
+<TAG_007>Titles serve two purposes:
+The first is to [affect dialogue 
+when talking to NPCs].
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>By setting a title, certain townspeople
-will take interest in you. When you talk
-to them several times, you might get
-interesting responses. When that
-happens, reset the title you have on
-and try talking to them again.
+<TAG_007>Set a title to have certain NPCs interested
+while passing them. When talking with NPCs
+multiple times you may get different responses.
+Change the title and try talking to them again.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Hint: When talking to townspeople, a
-[?] will appear over your character's
-head. If this happens, set a title that
-seems to be related to the dialogue, 
-and try talking to them again. 
+<TAG_007>Hint: When talking to certain NPCs, a [?] will 
+appear over the character's head. If this 
+happens, set a title that seems to be related
+to the dialogue, and try talking to them again.
 Something fun may happen.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>The second purpose of titles is...
+<TAG_007>The second purpose for titles is...
 to make your status screen look cool!
 When collecting titles, you might pick
 up one you like, so you can set it on
@@ -449,15 +448,15 @@ your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>[Rock Rally] is a game in which 
-players kick rocks on the field 
+<TAG_007>[Rock Rally] is a game in which
+players kick rocks on the field
 to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
-1: Kicking a rock outside the 
+1: Kicking a rock outside the
 	city will start the game.
 2: Battles don't affect the clearing
 	objective of the Rock Rally game.

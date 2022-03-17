@@ -470,7 +470,7 @@ How was Seinegald?
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-I think you may have mistaken 
+I think you may have mistaken
 me for someone else.
 [ENDBLOCK]
 Traveler
@@ -489,7 +489,7 @@ Sorry about that...
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-It's alright. No harm, no foul.
+It's all right. No harm, no foul.
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
@@ -559,7 +559,8 @@ Hmph, are you even listening!?
 [ENDBLOCK]
 Royal Soldier
 [ENDBLOCK]
-I await your orders, Master <Lion>!
+I await your orders,
+Master <Lion>!
 [ENDBLOCK]
 Royal Soldier
 [ENDBLOCK]
@@ -578,7 +579,8 @@ in this spot... Is it okay to cry?
 [ENDBLOCK]
 Royal Soldier
 [ENDBLOCK]
-I await your orders, Master <Lion>!
+I await your orders,
+Master <Lion>!
 [ENDBLOCK]
 Royal Soldier
 [ENDBLOCK]
@@ -587,9 +589,9 @@ like myself have to guard the city?
 [ENDBLOCK]
 Royal Soldier
 [ENDBLOCK]
-Master <Lion> isn't with you?
-Whew, my back can finally get
-a break from the constant bowing.
+Master <Lion> isn't with you? Whew,
+my back can finally get a break
+from the constant bowing.
 [ENDBLOCK]
 Royal Soldier
 [ENDBLOCK]
@@ -613,8 +615,8 @@ Please save our world.
 [ENDBLOCK]
 Worker
 [ENDBLOCK]
-Oberon pays its employees pretty well.
-I'm really glad I got the job.
+Oberon pays its employees pretty
+well. I'm really glad I got the job.
 [ENDBLOCK]
 Worker
 [ENDBLOCK]
@@ -623,8 +625,9 @@ has begun rebuilding.
 [ENDBLOCK]
 Worker
 [ENDBLOCK]
-Oberon pays its employees pretty well.
-I'm really glad I got the job.
+Oberon pays its employees pretty
+well. I'm really glad I got the job.
+got the job.
 [ENDBLOCK]
 Worker
 [ENDBLOCK]
@@ -654,12 +657,13 @@ to pierce the outer shell!
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-Hey, do you know where <Lion> lives?
+Hey, do you know
+where <Lion> lives?
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
 The mysterious and handsome knight
-<Lion> is apparently the son of the 
+<Lion> is apparently the son of the
 president who runs that big company!
 [ENDBLOCK]
 Girl
@@ -674,12 +678,13 @@ is <Lion>'s mother?
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
-Hey, do you know where <Lion> lives?
+Hey, do you know
+where <Lion> lives?
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
 The mysterious and handsome knight
-<Lion> is apparently the son of the 
+<Lion> is apparently the son of the
 president who runs that big company!
 [ENDBLOCK]
 Girl
@@ -717,8 +722,9 @@ more, you'll have to find it yourself.
 [ENDBLOCK]
 Peddler
 [ENDBLOCK]
-Wow, I'm just in awe... This city
-sure is huge compared to Cresta.
+Wow, I'm just in awe... 
+This city sure is huge
+compared to Cresta.
 [ENDBLOCK]
 Peddler
 [ENDBLOCK]
@@ -765,13 +771,15 @@ I can't believe it, I bought so much!
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-What do you think about the castle?
-It's really enchanting, isn't it?
+What do you think about the
+castle? It's really enchanting,
+isn't it?
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-Looking at the castle makes me
-feel a sense of pride as a citizen.
+Looking at the castle makes
+me feel a sense of pride as
+a citizen.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
@@ -786,7 +794,7 @@ the castle...
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-The city is no longer safe. It's 
+The city is no longer safe. It's
 best to take refuge in the castle.
 [ENDBLOCK]
 Old Man
@@ -797,12 +805,12 @@ collected at the castle.
 [ENDBLOCK]
 Old Man
 [ENDBLOCK]
-I hope to see the castle bathed 
+I hope to see the castle bathed
 in the sun someday soon!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Current Gald: <TAG_033>Gald
+<TAG_007>Current Gald: <TAG_033> Gald
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 Yes
@@ -810,9 +818,9 @@ No
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x49><xCC><x80></color> 
 [ENDBLOCK]
-has joined the Party.
+has joined the party.
 [ENDBLOCK]
-is now an active 
+is now an active
 party member.
 [ENDBLOCK]
 can join the battle.
@@ -835,9 +843,9 @@ has left the party.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x49><xF0><x98><x80>
+<center>[<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x49><xF0><x98><x80>
 [ENDBLOCK]
-<x18><x65><x59><xEC><x00><x80></color>.
+<x18><x65><x59><xEC><x00><x80></color>]
 
 [ENDBLOCK]
 <x19><x69><x49><xE0><x80>'s party received
@@ -868,7 +876,7 @@ the <turquoise>Strongest Titles
 [ENDBLOCK]
 the <turquoise>Quiz Titles
 [ENDBLOCK]
-<x19><x69><x49><xE0><x80> has received
+<x19><x69><x49><xE0><x80> has received the title:
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -949,53 +957,49 @@ can now be used.
 notice
 [ENDBLOCK]
 <TAG_007>[Titles Description]
-Titles are one of the character parameters
-that can be set on a character. The
-specific set method is as follows.
+Titles are one of the character
+parameters that can be set. 
+The specific method is as follows.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>After opening the main menu,
 the character status will display.
-On this screen, hit <Square_ani> and you'll
-be able to change the character status.
+On this screen, press <Square_ani> to 
+change the character status.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>At the top of this screen, you'll see
-[Titles] On this screen, press <Triangle_ani> 
-and it'll let you pick from all the titles
-you've acquired.
+<TAG_007>At the top of this screen will be
+[Titles]. Press <Triangle_ani> to pick
+from all aquired titles.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>There are two purposes to titles. 
-The first is to [Set your title and 
-talk to the townspeople].
+<TAG_007>Titles serve two purposes:
+The first is to [affect dialogue 
+when talking to NPCs].
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>By setting a title, certain townspeople
-will take interest in you. When you talk
-to them several times, you might get
-interesting responses. When that
-happens, reset the title you have on
-and try talking to them again.
+<TAG_007>Set a title to have certain NPCs interested
+while passing them. When talking with NPCs
+multiple times you may get different responses.
+Change the title and try talking to them again.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Hint: When talking to townspeople, a
-[?] will appear over your character's
-head. If this happens, set a title that
-seems to be related to the dialogue, 
-and try talking to them again. 
+<TAG_007>Hint: When talking to certain NPCs, a [?] will 
+appear over the character's head. If this 
+happens, set a title that seems to be related
+to the dialogue, and try talking to them again.
 Something fun may happen.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>The second purpose of titles is...
+<TAG_007>The second purpose for titles is...
 to make your status screen look cool!
 When collecting titles, you might pick
 up one you like, so you can set it on
@@ -1003,15 +1007,15 @@ your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>[Rock Rally] is a game in which 
-players kick rocks on the field 
+<TAG_007>[Rock Rally] is a game in which
+players kick rocks on the field
 to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
-1: Kicking a rock outside the 
+1: Kicking a rock outside the
 	city will start the game.
 2: Battles don't affect the clearing
 	objective of the Rock Rally game.
@@ -1069,7 +1073,7 @@ also of the Seven Generals!
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-With whom, you ask? Why, a guy from 
+With whom, you ask? Why, a guy from
 the same Seven Generals, <Ascus>.
 [ENDBLOCK]
 Man
@@ -1078,7 +1082,7 @@ Oh, the humanity of it all.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-At the behest of <Lewein>, <Melina> 
+At the behest of <Lewein>, <Melina>
 set up a date with <Ascus>, but...
 [ENDBLOCK]
 Man
@@ -1097,12 +1101,12 @@ Man
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-Oh, listen to this as if it's the 
+Oh, listen to this as if it's the
 voice of <Ascus> himself.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-She replied, "This isn't funny. 
+She replied, "This isn't funny.
 I've been waiting here for hours!"
 [ENDBLOCK]
 Man
@@ -1124,7 +1128,7 @@ either. I'm starting to get impatient."
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-<Melina> shot back, 
+<Melina> shot back,
 "Why are you being so dismissive?
 <Ascus>, you're such an idiot."
 [ENDBLOCK]
@@ -1153,7 +1157,7 @@ Ah, to be young again.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Wait, what? How long 
+Wait, what? How long
 have you been there?
 [ENDBLOCK]
 <Lewein>
@@ -1168,7 +1172,7 @@ on that date.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-<Ascus>' true colors are revealed! 
+<Ascus>' true colors are revealed!
 But what about poor <Melina>...
 [ENDBLOCK]
 <Lewein>

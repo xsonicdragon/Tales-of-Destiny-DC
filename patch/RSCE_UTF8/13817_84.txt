@@ -47,14 +47,13 @@ and the others.
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-<Philia>, I know you have a lot 
-of work to do for the king, 
+<Philia>, I know you have a lot
+of work to do for the king,
 but I'm counting on you.
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
 Thank you all for your hard work.
-
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
@@ -82,25 +81,24 @@ event_happen -> <TAG_031>, talk <x17><x69><x48><x8C><x80>, cond<TAG_032>
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-You who rule from heaven,
-the truth that which
-governs all creation...
+You who rule from heaven, the truth
+that which governs all creation...
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
 The guardian of the ocean
-rising from the silence
-of the deep at dawn...
+rising from the silence of
+the deep at dawn...
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-I beseech thee, our Goddess! 
+I beseech thee, our Goddess!
 Atamoni, show us the way!
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-The Eye of Atamoni is down there.
-Let us continue.
+The Eye of Atamoni is down
+there. Let us continue.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
@@ -108,7 +106,7 @@ Please let it be safe...
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Current Gald: <TAG_033>Gald
+<TAG_007>Current Gald: <TAG_033> Gald
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 Yes
@@ -116,9 +114,9 @@ No
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x48><xA0><x80></color> 
 [ENDBLOCK]
-has joined the Party.
+has joined the party.
 [ENDBLOCK]
-is now an active 
+is now an active
 party member.
 [ENDBLOCK]
 can join the battle.
@@ -141,9 +139,9 @@ has left the party.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xC4><x98><x80>
+<center>[<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xC4><x98><x80>
 [ENDBLOCK]
-<x18><x65><x58><xC0><x00><x80></color>.
+<x18><x65><x58><xC0><x00><x80></color>]
 
 [ENDBLOCK]
 <x19><x69><x48><xB4><x80>'s party received
@@ -174,7 +172,7 @@ the <turquoise>Strongest Titles
 [ENDBLOCK]
 the <turquoise>Quiz Titles
 [ENDBLOCK]
-<x19><x69><x48><xB4><x80> has received
+<x19><x69><x48><xB4><x80> has received the title:
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -255,53 +253,49 @@ can now be used.
 notice
 [ENDBLOCK]
 <TAG_007>[Titles Description]
-Titles are one of the character parameters
-that can be set on a character. The
-specific set method is as follows.
+Titles are one of the character
+parameters that can be set. 
+The specific method is as follows.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>After opening the main menu,
 the character status will display.
-On this screen, hit <Square_ani> and you'll
-be able to change the character status.
+On this screen, press <Square_ani> to 
+change the character status.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>At the top of this screen, you'll see
-[Titles] On this screen, press <Triangle_ani> 
-and it'll let you pick from all the titles
-you've acquired.
+<TAG_007>At the top of this screen will be
+[Titles]. Press <Triangle_ani> to pick
+from all aquired titles.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>There are two purposes to titles. 
-The first is to [Set your title and 
-talk to the townspeople].
+<TAG_007>Titles serve two purposes:
+The first is to [affect dialogue 
+when talking to NPCs].
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>By setting a title, certain townspeople
-will take interest in you. When you talk
-to them several times, you might get
-interesting responses. When that
-happens, reset the title you have on
-and try talking to them again.
+<TAG_007>Set a title to have certain NPCs interested
+while passing them. When talking with NPCs
+multiple times you may get different responses.
+Change the title and try talking to them again.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Hint: When talking to townspeople, a
-[?] will appear over your character's
-head. If this happens, set a title that
-seems to be related to the dialogue, 
-and try talking to them again. 
+<TAG_007>Hint: When talking to certain NPCs, a [?] will 
+appear over the character's head. If this 
+happens, set a title that seems to be related
+to the dialogue, and try talking to them again.
 Something fun may happen.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>The second purpose of titles is...
+<TAG_007>The second purpose for titles is...
 to make your status screen look cool!
 When collecting titles, you might pick
 up one you like, so you can set it on
@@ -309,15 +303,15 @@ your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>[Rock Rally] is a game in which 
-players kick rocks on the field 
+<TAG_007>[Rock Rally] is a game in which
+players kick rocks on the field
 to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
-1: Kicking a rock outside the 
+1: Kicking a rock outside the
 	city will start the game.
 2: Battles don't affect the clearing
 	objective of the Rock Rally game.
@@ -343,14 +337,14 @@ I've returned.
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-Welcome back, <Philia>. 
+Welcome back, <Philia>.
 Did you fulfill the duty
 the King assigned you?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-Yes, but I'm still under obligation
-to the king for now.
+I did, but I have new
+duties to perform.
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
@@ -363,7 +357,7 @@ Bishop <Ayles>.
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-Ahh, Master <Stahn>. 
+Ahh, Master <Stahn>.
 Your assistance was most
 appreciated back then.
 [ENDBLOCK]
@@ -377,19 +371,18 @@ So, you're <Philia>'s boss, right?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-At this time, I would like for
+Good. In that case, I would like for
 you to join <Philia> and I in...
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-W-What are you saying
-Mr. <Kongman>!?
+W-What are you saying, <Kongman>!?
 [ENDBLOCK]
 Priest
 [ENDBLOCK]
-Priestess <Philia>, 
-Excuse me for bothering you
-so soon after you've returned.
+Priestess <Philia>, excuse me
+for bothering you so soon
+after you've returned.
 [ENDBLOCK]
 Priest
 [ENDBLOCK]
@@ -411,8 +404,8 @@ Okay, I don't think I'll be long.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Well, as I was saying,
-I would like you to join us in...
+Well, as I was saying, I would
+like you to join us in...
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
@@ -421,7 +414,7 @@ for <Philia> to get married.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-...whu?
+...wha?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -443,7 +436,7 @@ A-Already... m-m-married!?
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-NOOOOOOOOOOOooooooo.
+NOOOOOOOOOOOooooooo...!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -452,8 +445,8 @@ went out from the shock!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-So anyway, who exactly
-is <Philia> married to?
+So, who exactly is
+<Philia> married to?
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
@@ -461,7 +454,7 @@ The Goddess.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Goddess?
+...The Goddess?
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
@@ -507,14 +500,14 @@ Y-Yes sir!!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Youu... You talked to me like
-I was some kinda demon!
+Youu... You talked down to me
+like I was some kinda demon!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
 If wantin' to get married is
 so evil then what the heck
-was that guy talking about!?
+was that guy talkin' about!?
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
@@ -533,7 +526,7 @@ it onto my subordinates.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Do you hear me, Goddess!
+Graah! Do you hear me, Atamoni!
 I won't lose to the likes of you!
 [ENDBLOCK]
 <Philia>
@@ -565,7 +558,7 @@ What is it?
 Actually, it's a request to the king,
 about the Eye of Atamoni. I would
 like you to arrange for it to be
-dedicated to this temple again.
+enshrined at this temple again.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -580,12 +573,13 @@ take the request seriously.
 <Philia>
 [ENDBLOCK]
 W-Well, the truth is... there's
-something you need to know
+something you need to know.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-It's truly a horrible thing but...
-The Eye of Atamoni has been stolen again...
+It's truly a horrible thing,
+but... The Eye of Atamoni
+has been stolen again...
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
@@ -603,8 +597,7 @@ Surely there's no need...?
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-<Philia>...
-Please listen carefully.
+<Philia>... Please listen carefully.
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
@@ -613,18 +606,19 @@ to hide the Eye of Atamoni.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-That... that's impossible!
+That... That's impossible!
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-You may be right.
-That's only one rumor.
+Actually, you may be right.
+That's only a rumor.
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-However, the more these kinds of
-stories remain, the more important
-the Eye of Atamoni becomes to us.
+However, the more rumors
+like this spread, the more
+important the Eye of
+Atamoni becomes to us.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -638,8 +632,9 @@ that our true purpose is...
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-Absolutely not!
-I don't believe that for an instant!
+Absolutely not! I
+don't believe that
+for an instant!
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
@@ -652,9 +647,9 @@ exists or not...
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-The important thing is
-that the Goddess lives
-on within everyone's hearts!
+The important thing is that
+the Goddess lives on within
+everyone's hearts!
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
@@ -667,7 +662,7 @@ to the happiness of the people.
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-Well then, <Philia> Phillis.
+Well then, <Philia> Felice.
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
@@ -676,17 +671,7 @@ happiness of all people.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-Yes!
-[ENDBLOCK]
-<Ayles>
-[ENDBLOCK]
-Did you happen to come visit 
-the temple the other day?
-[ENDBLOCK]
-<Ayles>
-[ENDBLOCK]
-When I saw you speaking with your
-swords, I knew it had to be you.
+Yes sir!
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
@@ -695,18 +680,29 @@ the temple the other day?
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
+Some of the priests said they
+could tell it was you because
+you spoke to your swords.
+[ENDBLOCK]
+<Ayles>
+[ENDBLOCK]
+Was that you who came
+by the temple the other day?
+[ENDBLOCK]
+<Ayles>
+[ENDBLOCK]
 Oh, of course you did. Who else would
 go around talking to their blades?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-We, uh, haven't had any particular 
+We, uh, haven't had any particular
 reason to come here...?
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
 Huh? But... we gave them the lens
-that we were accumulating...
+that we were collecting...
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -744,18 +740,18 @@ this, my Swordian?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Huh, I'm disappointed. I was
+Huh, I'm surprised. I was
 expecting those Dark Wings guys.
 [ENDBLOCK]
 <Ayles>
 [ENDBLOCK]
-We have no lens for
-the likes of you! Begone!
+We have no lens for the
+likes of you! Begone!
 [ENDBLOCK]
 Ruffian
 [ENDBLOCK]
-You would defy us!?
-We are Swordian Masters!
+You would defy us!? We
+are Swordian Masters!
 [ENDBLOCK]
 Ruffian
 [ENDBLOCK]
@@ -764,8 +760,7 @@ you with our Swordians!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Ooh, really?
-Hey <Stahn>, c'mon.
+Ooh, really? Hey <Stahn>, c'mon.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -773,22 +768,23 @@ Yeah!
 [ENDBLOCK]
 Ruffian
 [ENDBLOCK]
-What're you gonna
-do to us now...
+Wh-What do you think you're-!?
 [ENDBLOCK]
 Ruffian
 [ENDBLOCK]
-WHO ARE YOU GUYS?
+WHO ARE YOU GUYS!?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I am the Master of <Dymlos>
-the Swordian, <Stahn>.
+My name is <Stahn> Aileron, 
+Master of <Dymlos>, the
+Swordian of Fire!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-And I am <Rutee>, the Master
-of <Atwight> the Swordian!
+And I'm <Rutee> Katrea,
+Master of <Atwight>, the
+Swordian of Water!
 [ENDBLOCK]
 Ruffian
 [ENDBLOCK]
@@ -796,13 +792,12 @@ S-Seriously!?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Now, return the lens
-you took at once!
+Return the lens you extorted. Now.
 [ENDBLOCK]
 Ruffian
 [ENDBLOCK]
-I-I'm sorry!!
-We've already used 'em up!!
+I-I'm sorry!! W-We've
+already used 'em up!
 [ENDBLOCK]
 Ruffian
 [ENDBLOCK]
@@ -810,8 +805,8 @@ Please forgive us!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-You ended things decisively,
-without even injuring your opponents.
+You ended things decisively, without
+even injuring your opponents.
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]

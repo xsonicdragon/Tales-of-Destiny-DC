@@ -16,8 +16,7 @@ CUBE0<x17><x72><x00><x21><x8B><x80>の状態
 ×××××××××××××××××××××
 
 [ENDBLOCK]
-A new valve.
-We can use this to
+A new valve. We can use this to
 get the water system working.
 [ENDBLOCK]
 It's a new valve...
@@ -53,9 +52,9 @@ Default
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-There's a device to control
-the water level, but no 
-valve is installed.
+There's a device to control 
+the water level, but no valve
+is installed.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -127,19 +126,19 @@ WALL_2なり!!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-<Batista>!
-You have nowhere left to run!
+<Batista>! There's nowhere
+else you can run!
 [ENDBLOCK]
 <Batista>
 [ENDBLOCK]
-So, you've finally shown 
+So, you've finally shown
 yourselves! You won't get
 me so easily this time!
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
-You don't
-have the tiara...
+You don't have
+the tiara...
 [ENDBLOCK]
 <Batista>
 [ENDBLOCK]
@@ -148,8 +147,8 @@ worthless thing to pieces!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Batista>, it's not too late!
-You can stop helping <Greybum>!
+<Batista>, it's not too late! You
+can stop helping <Greybum>!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -158,15 +157,15 @@ You were such a pious man!
 [ENDBLOCK]
 <Batista>
 [ENDBLOCK]
-Hah! What a naive
-little girl. I never believed
-in that goddess nonsense!
+Hah! What a naive little
+girl. I never believed in
+that goddess nonsense!
 [ENDBLOCK]
 <Batista>
 [ENDBLOCK]
-I follow <Greybum> because
-it feels right! I don't
-need any other reason!
+I follow <Greybum> because it
+feels right! I don't need any 
+other reason!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -174,31 +173,31 @@ Unforgivable...!
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-Hey, what's-your-name, where are
-you keeping <Fayte>?
+Hey, what's-your-name, where
+are you keeping <Fayte>?
 [ENDBLOCK]
 <Batista>
 [ENDBLOCK]
-I have him locked away!
-I need him nice and
-healthy for his execution!
+I have him locked away! I need
+him nice and  healthy for his
+execution!
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-Fine by me. That's a relief,
-in fact. Now I can write your
-funeral march with a clear mind!
+Fine by me. That's a relief, in fact.
+Now I can write your funeral march
+with a clear mind!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-<Batista>... I cannot abide by
-your blasphemy against the goddess!
+<Batista>... I cannot abide by your
+blasphemy against the goddess!
 [ENDBLOCK]
 <Batista>
 [ENDBLOCK]
-Really now, <Philia>
-And just what can an indecisive
-brat like you do about it!?
+Really now, <Philia>? And just
+what can an indecisive brat
+like you do about it!?
 [ENDBLOCK]
 <Batista>
 [ENDBLOCK]
@@ -211,8 +210,8 @@ power... I got from <Greybum>...!
 [ENDBLOCK]
 <Batista>
 [ENDBLOCK]
-Heh... Despite everything,
-you've grown strong, <Philia>...
+Heh... Despite everything, you've
+grown strong, <Philia>...
 [ENDBLOCK]
 <Batista>
 [ENDBLOCK]
@@ -231,13 +230,13 @@ not... Just like I said...
 <Batista>
 [ENDBLOCK]
 You're too soft... You need...
-to become more...  bloodthirsty...
+to become more... bloodthirsty...
 [ENDBLOCK]
 <Johnny>
 [ENDBLOCK]
-Let's go rescue <Fayte>. 
-There's another cell behind
-the door over there.
+Let's go rescue <Fayte>. There's
+another cell behind the door 
+over there.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -255,7 +254,7 @@ Yeah, of course.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-Sorry <Stahn>, I've been
+Sorry, <Stahn>. I've been
 thinking a lot about this.
 [ENDBLOCK]
 <Stahn>
@@ -269,15 +268,15 @@ did is acceptable. But...
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-There was a time when
-this man was a devout
-priest, and a good mentor.
+There was a time when this man
+was a devout priest, and a good
+mentor.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-At least... that's what
-I want to believe.
-Is that wrong of me...?
+At least... that's what I 
+want to believe. Is that
+wrong of me...?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -286,8 +285,8 @@ the way you are.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-You're a very kind person.
-It's what makes you you, <Philia>.
+You're a very kind person. It's
+what makes you... you, <Philia>.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -299,7 +298,7 @@ Thank you...
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Current Gald: <TAG_033>Gald
+<TAG_007>Current Gald: <TAG_033> Gald
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 Yes
@@ -307,9 +306,9 @@ No
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x48><x5C><x80></color> 
 [ENDBLOCK]
-has joined the Party.
+has joined the party.
 [ENDBLOCK]
-is now an active 
+is now an active
 party member.
 [ENDBLOCK]
 can join the battle.
@@ -332,9 +331,9 @@ has left the party.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><x80><x98><x80>
+<center>[<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><x80><x98><x80>
 [ENDBLOCK]
-<x18><x65><x58><x7C><x00><x80></color>.
+<x18><x65><x58><x7C><x00><x80></color>]
 
 [ENDBLOCK]
 <x19><x69><x48><x70><x80>'s party received
@@ -365,7 +364,7 @@ the <turquoise>Strongest Titles
 [ENDBLOCK]
 the <turquoise>Quiz Titles
 [ENDBLOCK]
-<x19><x69><x48><x70><x80> has received
+<x19><x69><x48><x70><x80> has received the title:
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -446,53 +445,49 @@ can now be used.
 notice
 [ENDBLOCK]
 <TAG_007>[Titles Description]
-Titles are one of the character parameters
-that can be set on a character. The
-specific set method is as follows.
+Titles are one of the character
+parameters that can be set. 
+The specific method is as follows.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>After opening the main menu,
 the character status will display.
-On this screen, hit <Square_ani> and you'll
-be able to change the character status.
+On this screen, press <Square_ani> to 
+change the character status.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>At the top of this screen, you'll see
-[Titles] On this screen, press <Triangle_ani> 
-and it'll let you pick from all the titles
-you've acquired.
+<TAG_007>At the top of this screen will be
+[Titles]. Press <Triangle_ani> to pick
+from all aquired titles.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>There are two purposes to titles. 
-The first is to [Set your title and 
-talk to the townspeople].
+<TAG_007>Titles serve two purposes:
+The first is to [affect dialogue 
+when talking to NPCs].
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>By setting a title, certain townspeople
-will take interest in you. When you talk
-to them several times, you might get
-interesting responses. When that
-happens, reset the title you have on
-and try talking to them again.
+<TAG_007>Set a title to have certain NPCs interested
+while passing them. When talking with NPCs
+multiple times you may get different responses.
+Change the title and try talking to them again.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Hint: When talking to townspeople, a
-[?] will appear over your character's
-head. If this happens, set a title that
-seems to be related to the dialogue, 
-and try talking to them again. 
+<TAG_007>Hint: When talking to certain NPCs, a [?] will 
+appear over the character's head. If this 
+happens, set a title that seems to be related
+to the dialogue, and try talking to them again.
 Something fun may happen.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>The second purpose of titles is...
+<TAG_007>The second purpose for titles is...
 to make your status screen look cool!
 When collecting titles, you might pick
 up one you like, so you can set it on
@@ -500,15 +495,15 @@ your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>[Rock Rally] is a game in which 
-players kick rocks on the field 
+<TAG_007>[Rock Rally] is a game in which
+players kick rocks on the field
 to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
-1: Kicking a rock outside the 
+1: Kicking a rock outside the
 	city will start the game.
 2: Battles don't affect the clearing
 	objective of the Rock Rally game.

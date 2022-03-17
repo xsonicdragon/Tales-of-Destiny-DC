@@ -486,8 +486,8 @@ It's locked.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005><center>The temple's private property 
-is off-limits to all visitors 
+<TAG_005><center>The temple's private property
+is off-limits to all visitors
 except those concerned.
 [ENDBLOCK]
 Youth
@@ -536,9 +536,9 @@ you guys are gods!
 [ENDBLOCK]
 Elder
 [ENDBLOCK]
-I believe that our
-Gods will punish this
-foreign insolence!
+I believe that our Gods
+will punish this foreign
+insolence!
 [ENDBLOCK]
 Elder
 [ENDBLOCK]
@@ -562,8 +562,9 @@ in were not about real gods...
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-I was told that if I saw a foreigner,
-I should throw a rock at them.
+I was told that if I saw
+a foreigner, I should 
+throw a rock at them.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -579,8 +580,9 @@ Boy
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-I was told that if I saw a foreigner,
-I should throw a rock at them.
+I was told that if I saw
+a foreigner, I should 
+throw a rock at them.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -594,20 +596,24 @@ along with foreigners now...
 [ENDBLOCK]
 Worker
 [ENDBLOCK]
-Do you have a <ITEM_065>, 
-<ITEM_066>, <ITEM_067>, 
-<ITEM_068> and a <ITEM_069>?
+Do you happen to have 
+the items listed here?
+<center><ITEM_065> 
+<ITEM_066>
+<ITEM_067> 
+<ITEM_068>  
+<ITEM_069>
 [ENDBLOCK]
-If you procure the necessary items
-and bring them here, we will mix them
-together and give you an <ITEM_Elixir>.
+If you procure these liquids and bring
+them here, we will mix them together 
+and give you an <ITEM_Elixir>.
 [ENDBLOCK]
-You have all
-the ingredients.
+You have all the
+ingredients.
 
 [ENDBLOCK]
-<TAG_007>Would you like to replace the
-material with an <ITEM_Elixir>?
+<TAG_007>Would you like to exchange
+the liquids for an <ITEM_Elixir>?
 
 [ENDBLOCK]
 Exchange One
@@ -637,24 +643,27 @@ have the ingredients.
 
 
 [ENDBLOCK]
-[<ITEM_Elixir>] acquired but 
-you can hold any more.
+[<ITEM_Elixir>] acquired but you
+can't hold any more.
 
 [ENDBLOCK]
 Priest
 [ENDBLOCK]
-Due to preparations for the festival,
-the temple is closed to the public.
+Due to preparations for
+the festival, the temple
+is closed to the public.
 [ENDBLOCK]
 Priest
 [ENDBLOCK]
-I'm sorry, but you'll have to
-come back another time.
+I'm sorry, but you'll
+have to come back
+another time.
 [ENDBLOCK]
 Priest
 [ENDBLOCK]
-The temple is
-off-limits at night.
+The temple
+is off-limits
+at night.
 [ENDBLOCK]
 Priest
 [ENDBLOCK]
@@ -667,17 +676,17 @@ Temple over there?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-Yes, it is. There's no
-mistaking it.
+Yes, it is. There's
+no mistaking it.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Alright!
-Let's get in there!
+All right! Let's
+get in there!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-Wait! It would be foolish
+<center>Wait! It would be foolish
 to just rush in!
 [ENDBLOCK]
 <Philia>
@@ -687,8 +696,9 @@ could be going on in there.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-I'll pretend to be a pilgrim 
-and go on ahead.
+I'll pretend to be on
+a pilgrimage and go
+on ahead.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -697,19 +707,20 @@ I'll unlock the back door for you.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Will it be okay
-for you to do that?
+Will it be okay for
+you to do that?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-Yes. It's not unusual for
+Yes. It's common practice for
 pilgrims to request sanctuary
 in holy places like this.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-During the day, I'll be quiet as a 
-mouse. They won't suspect a thing.
+During the day, I'll be quiet as
+a mouse. They won't suspect a
+thing.
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -731,8 +742,9 @@ Let's go wait at the inn, then.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-Hey, <Lion>, aren't you gonna zap
-him awake, like you usually do?
+Hey, <Lion>, aren't you
+gonna zap him awake, 
+like you usually do?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -757,8 +769,8 @@ the ground like this...
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-Well, we can't help that
-he's such a heavy sleeper...
+Well, we can't help that he's
+such a heavy sleeper...
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -816,9 +828,9 @@ Baruk, why are you here?
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-I heard you all had left
-Cherik. I got worried and
-followed after you.
+I heard you all left Cherik.
+I got worried and followed
+after you.
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
@@ -847,16 +859,17 @@ have been in real danger.
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-I unexpectedly met up with
-<Lion> when we arrived in town.
+I unexpectedly met up with <Lion>
+when we arrived in town.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Is that so...
+Is that so...?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-You saved all of us. Thanks, <Lion>.
+You saved all of us.
+Thanks, <Lion>.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -865,19 +878,21 @@ You're all a burden.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-If I had worked with <Baruk> from the
-beginning, <Greybum> would already have
-been caught.
+If I had worked with <Baruk> from
+the beginning, <Greybum> would 
+have already been caught.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Because of this, we have to
-start over. How utterly foolish.
+Because of this, we
+have to start over. 
+How utterly foolish.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
 Did you hear me, <Stahn>?
-I said we have to start over.
+I said we have to start 
+over.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -885,8 +900,9 @@ O-Oh, yeah.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-The next time <Greybum> shows himself,
-things will not go this way.
+The next time <Greybum>
+shows himself, things will
+not go this way.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -914,9 +930,9 @@ in the direction of Neustadt.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-We'll have to pursue him by ship then...
-Baruk, I'm relying on you for the
-preparations.
+We'll have to pursue him by ship
+then... <Baruk>, I'm relying on you 
+for the preparations.
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -930,7 +946,7 @@ in my power to help you.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Alright! Everyone, let's go!
+All right! Everyone, let's go!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -939,7 +955,8 @@ Don't just rush off!
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
-Oh my, they're in such a hurry.
+Oh my, they're in
+such a hurry.
 [ENDBLOCK]
 <Baruk>
 [ENDBLOCK]
@@ -961,7 +978,7 @@ you were right.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Current Gald: <TAG_033>Gald
+<TAG_007>Current Gald: <TAG_033> Gald
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 Yes
@@ -969,9 +986,9 @@ No
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x49><x48><x80></color> 
 [ENDBLOCK]
-has joined the Party.
+has joined the party.
 [ENDBLOCK]
-is now an active 
+is now an active
 party member.
 [ENDBLOCK]
 can join the battle.
@@ -994,9 +1011,9 @@ has left the party.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x49><x6C><x98><x80>
+<center>[<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x49><x6C><x98><x80>
 [ENDBLOCK]
-<x18><x65><x59><x68><x00><x80></color>.
+<x18><x65><x59><x68><x00><x80></color>]
 
 [ENDBLOCK]
 <x19><x69><x49><x5C><x80>'s party received
@@ -1027,7 +1044,7 @@ the <turquoise>Strongest Titles
 [ENDBLOCK]
 the <turquoise>Quiz Titles
 [ENDBLOCK]
-<x19><x69><x49><x5C><x80> has received
+<x19><x69><x49><x5C><x80> has received the title:
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -1108,53 +1125,49 @@ can now be used.
 notice
 [ENDBLOCK]
 <TAG_007>[Titles Description]
-Titles are one of the character parameters
-that can be set on a character. The
-specific set method is as follows.
+Titles are one of the character
+parameters that can be set. 
+The specific method is as follows.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>After opening the main menu,
 the character status will display.
-On this screen, hit <Square_ani> and you'll
-be able to change the character status.
+On this screen, press <Square_ani> to 
+change the character status.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>At the top of this screen, you'll see
-[Titles] On this screen, press <Triangle_ani> 
-and it'll let you pick from all the titles
-you've acquired.
+<TAG_007>At the top of this screen will be
+[Titles]. Press <Triangle_ani> to pick
+from all aquired titles.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>There are two purposes to titles. 
-The first is to [Set your title and 
-talk to the townspeople].
+<TAG_007>Titles serve two purposes:
+The first is to [affect dialogue 
+when talking to NPCs].
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>By setting a title, certain townspeople
-will take interest in you. When you talk
-to them several times, you might get
-interesting responses. When that
-happens, reset the title you have on
-and try talking to them again.
+<TAG_007>Set a title to have certain NPCs interested
+while passing them. When talking with NPCs
+multiple times you may get different responses.
+Change the title and try talking to them again.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Hint: When talking to townspeople, a
-[?] will appear over your character's
-head. If this happens, set a title that
-seems to be related to the dialogue, 
-and try talking to them again. 
+<TAG_007>Hint: When talking to certain NPCs, a [?] will 
+appear over the character's head. If this 
+happens, set a title that seems to be related
+to the dialogue, and try talking to them again.
 Something fun may happen.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>The second purpose of titles is...
+<TAG_007>The second purpose for titles is...
 to make your status screen look cool!
 When collecting titles, you might pick
 up one you like, so you can set it on
@@ -1162,15 +1175,15 @@ your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>[Rock Rally] is a game in which 
-players kick rocks on the field 
+<TAG_007>[Rock Rally] is a game in which
+players kick rocks on the field
 to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
-1: Kicking a rock outside the 
+1: Kicking a rock outside the
 	city will start the game.
 2: Battles don't affect the clearing
 	objective of the Rock Rally game.

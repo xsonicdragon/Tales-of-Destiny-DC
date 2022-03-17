@@ -93,40 +93,44 @@ j = <TAG_032>
 箱からNPC作成→update_senpc_fly(&g_Npc[<x17><x72><x40><x74><x80>], &g_NpcManage);	<x17><x45><x5E><xB8><xEF><x72><x40><x74><x8B><xE8><xD0><xEF><x70><x40><x5C><xAA><x80>
 
 [ENDBLOCK]
-We can't get through. You'll need
-scaffolding to get across.
+We can't reach that. We need to
+create a "bridge" to get to it.
 
 [ENDBLOCK]
-It's too far  to jump over. We're going
-to need scaffolding.
+No way we can jump there. We need
+to find something to bridge the gap.
 
 [ENDBLOCK]
-If you have a scaffold, 
-you can cross it.
+If only we had a something to
+bridge the gap, we could cross.
 
 [ENDBLOCK]
-It's too far  to jump over. We're going
-to need scaffolding.
-[ENDBLOCK]
-Without scaffolding...
+No way we can jump there. We need
+to find something to bridge the gap.
 
 [ENDBLOCK]
-If there was a scaffold,
-I could cross it.
+Without a way to cross...
 
 [ENDBLOCK]
-You can't get through. You need
-a scaffold to cross.
-[ENDBLOCK]
-It's too far to jump over.
-We're going to need scaffolding.
-[ENDBLOCK]
-I can't jump over it, as expected.
-I'll have to get a foothold somewhere.
+If there was a bridge,
+we could get across.
 
 [ENDBLOCK]
-There's no way I can jump over 
-this thing. What's going on?
+We can't reach that. We need to
+create a "bridge" to get to it.
+
+[ENDBLOCK]
+No way we can jump there. We need
+to find something to bridge the gap.
+
+[ENDBLOCK]
+It's impossible to jump over this.
+We'll have to find a way across.
+
+[ENDBLOCK]
+There is no way we can make that
+jump. What are we going to do?
+
 [ENDBLOCK]
 <Leader>
 [ENDBLOCK]
@@ -135,44 +139,46 @@ this thing. What's going on?
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-In Rodeon, pressing the switch will 
-cause a foothold to the warp device.
+There are switches in Rodeon that,
+once pressed, will create paths to
+warp points otherwise inaccessable.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-Use bombs to destroy obstacles and 
-find switches in various ways.
+Bombs can be used to stun your
+enemies or destroy obstacles
+to open paths to switches.
 
 [ENDBLOCK]
 Rodeon
 [ENDBLOCK]
-Bombs and bomb generators
-are located on this level.
+Bombs are available on top of
+bomb generators found throughout.
 
 [ENDBLOCK]
-Bombs can be kicked farther
-away with <Cross_ani> or moved 
-closer and smaller.
+Bombs can be kicked a far distance
+with <Cross_ani> or the can be moved
+short distances by pushing them.
 
 [ENDBLOCK]
-The bombs that start to move will 
-turn red over time and finally flicker
-and explode.
+Once a bomb has been moved, they
+will turn a darker red over time.
+Once flickering, they're about to blow.
 
 [ENDBLOCK]
-Be careful, as you will take 
-damage if you are too close.
+Be careful. You will take damage if
+you're too close when they explode.
 
 [ENDBLOCK]
-The bomb generator creates
-a bomb when the bomb you were
-carrying explodes.
+After a bomb explodes,
+the bomb generators will
+create another bomb.
 
 [ENDBLOCK]
-Note, however, that if you
-are on top of the generator, 
-it will not create a bomb.
+Watch where you stand. If you're
+standing on a bomb generator
+it will not create another bomb.
 
 [ENDBLOCK]
 
@@ -199,17 +205,17 @@ X拡大：<x17><x66><x10><x07><x70><x00><xAB><x80>
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Current Gald: <TAG_033>Gald
+<TAG_007>Current Gald: <TAG_033> Gald
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 Yes
 No
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x80><x84><x12><x80><x3C><x2F><x63>olor> 
+<TAG_007><S03><turquoise><x19><x71><x80><x84><x12><x80><x3C><x2F><x63>olor>
 [ENDBLOCK]
-has joined the Party.
+has joined the party.
 [ENDBLOCK]
-is now an active 
+is now an active
 party member.
 [ENDBLOCK]
 can join the battle.
@@ -224,7 +230,7 @@ notice
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007><S03><turquoise><x19><x71><x80><x84><x12><x80><x3C><x2F><x63>olor> 
+<TAG_007><S03><turquoise><x19><x71><x80><x84><x12><x80><x3C><x2F><x63>olor>
 [ENDBLOCK]
 has left the party.
 [ENDBLOCK]
@@ -232,9 +238,9 @@ has left the party.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x80><xA8><x98><x80>
+<center>[<turquoise><x1A><x2C><x00><x00><x05><x00><x71><x80><xA8><x98><x80>
 [ENDBLOCK]
-<x18><x65><x90><xA4><x12><x00><x80></color>.
+<x18><x65><x90><xA4><x12><x00><x80></color>]
 
 [ENDBLOCK]
 <x19><x69><x80><x98><x12><x80><x99><xC6><x99><xC8>は
@@ -265,7 +271,7 @@ the <turquoise>Strongest Titles
 [ENDBLOCK]
 the <turquoise>Quiz Titles
 [ENDBLOCK]
-<x19><x69><x80><x98><x80> has received
+<x19><x69><x80><x98><x80> has received the title:
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -346,53 +352,49 @@ notice
 notice
 [ENDBLOCK]
 <TAG_007>[Titles Description]
-Titles are one of the character parameters
-that can be set on a character. The
-specific set method is as follows.
+Titles are one of the character
+parameters that can be set. 
+The specific method is as follows.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>After opening the main menu,
 the character status will display.
-On this screen, hit <Square_ani> and you'll
-be able to change the character status.
+On this screen, press <Square_ani> to 
+change the character status.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>At the top of this screen, you'll see
-[Titles] On this screen, press <Triangle_ani> 
-and it'll let you pick from all the titles
-you've acquired.
+<TAG_007>At the top of this screen will be
+[Titles]. Press <Triangle_ani> to pick
+from all aquired titles.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>There are two purposes to titles. 
-The first is to [Set your title and 
-talk to the townspeople].
+<TAG_007>Titles serve two purposes:
+The first is to [affect dialogue 
+when talking to NPCs].
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>By setting a title, certain townspeople
-will take interest in you. When you talk
-to them several times, you might get
-interesting responses. When that
-happens, reset the title you have on
-and try talking to them again.
+<TAG_007>Set a title to have certain NPCs interested
+while passing them. When talking with NPCs
+multiple times you may get different responses.
+Change the title and try talking to them again.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Hint: When talking to townspeople, a
-[?] will appear over your character's
-head. If this happens, set a title that
-seems to be related to the dialogue, 
-and try talking to them again. 
+<TAG_007>Hint: When talking to certain NPCs, a [?] will 
+appear over the character's head. If this 
+happens, set a title that seems to be related
+to the dialogue, and try talking to them again.
 Something fun may happen.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>The second purpose of titles is...
+<TAG_007>The second purpose for titles is...
 to make your status screen look cool!
 When collecting titles, you might pick
 up one you like, so you can set it on
@@ -400,15 +402,15 @@ your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>[Rock Rally] is a game in which 
-players kick rocks on the field 
+<TAG_007>[Rock Rally] is a game in which
+players kick rocks on the field
 to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
-1: Kicking a rock outside the 
+1: Kicking a rock outside the
 	city will start the game.
 2: Battles don't affect the clearing
 	objective of the Rock Rally game.

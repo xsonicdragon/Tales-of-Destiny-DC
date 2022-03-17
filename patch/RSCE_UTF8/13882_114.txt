@@ -2,14 +2,14 @@
 [ENDBLOCK]
 <IGNORE>
 [ENDBLOCK]
-Use your idiot powers
-to do something about it.
+Use your idiot powers to
+do something about it.
 [ENDBLOCK]
 <IGNORE>
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Alright, leave it to me!
+All right, leave it to me!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -23,7 +23,8 @@ You pried the door open.
 notice
 [ENDBLOCK]
 It seems to be stuck.
-You can't open it by hand.
+You can't open it by 
+hand.
 [ENDBLOCK]
 現在の拡大率：<x1D><x75><x48><x74><x80>
 
@@ -82,8 +83,8 @@ all over the world, Nyan!
 [ENDBLOCK]
 Retired Katz
 [ENDBLOCK]
-Mrrow!? Purrhaps I 
-remind you of someone? 
+Mrrow!? Purrhaps I
+remind you of someone?
 [ENDBLOCK]
 Retired Katz
 [ENDBLOCK]
@@ -114,8 +115,8 @@ all over the world, Nyan!
 [ENDBLOCK]
 Retired Katz
 [ENDBLOCK]
-Mrrow!? Purrhaps I 
-remind you of someone? 
+Mrrow!? Purrhaps I
+remind you of someone?
 [ENDBLOCK]
 Retired Katz
 [ENDBLOCK]
@@ -135,8 +136,8 @@ all over the world, Nyan!
 [ENDBLOCK]
 Retired Katz
 [ENDBLOCK]
-Mrrow!? Purrhaps I 
-remind you of someone? 
+Mrrow!? Purrhaps I
+remind you of someone?
 [ENDBLOCK]
 Retired Katz
 [ENDBLOCK]
@@ -155,7 +156,7 @@ isn't it? Nyan!
 [ENDBLOCK]
 Retired Man
 [ENDBLOCK]
-After finding myself, 
+After finding myself,
 I ended up coming back here...
 [ENDBLOCK]
 Retired Man
@@ -181,7 +182,7 @@ journey in search of freedom.
 [ENDBLOCK]
 Retired Man
 [ENDBLOCK]
-After finding myself, 
+After finding myself,
 I ended up coming back here...
 [ENDBLOCK]
 Retired Man
@@ -191,12 +192,12 @@ free and travel around the world!
 [ENDBLOCK]
 Retired Man
 [ENDBLOCK]
-Well, it looks like you're 
+Well, it looks like you're
 enjoying your freedom.
 [ENDBLOCK]
 Retired Man
 [ENDBLOCK]
-After finding myself, 
+After finding myself,
 I ended up coming back here...
 [ENDBLOCK]
 Retired Man
@@ -260,7 +261,7 @@ of freedom at least once in their life.
 [ENDBLOCK]
 Retired Man
 [ENDBLOCK]
-Well, it looks like you're 
+Well, it looks like you're
 enjoying your freedom.
 [ENDBLOCK]
 Retired Man
@@ -289,7 +290,7 @@ is a good thing.
 [ENDBLOCK]
 Retired Man
 [ENDBLOCK]
-Oh! ...At last, you've seen 
+Oh! ...At last, you've seen
 all that this world has to offer!
 [ENDBLOCK]
 Retired Man
@@ -490,18 +491,18 @@ you have the freedom to choose.
 [ENDBLOCK]
 Retired Man
 [ENDBLOCK]
-Just promise me something. 
+Just promise me something.
 No matter how much time has passed,
 don't forget that I was here.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
 This is the military vessel that
-<Clemente> is enshrined within.
+ <Clemente> is enshrined within.
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-It's called Radisrol. This ship
+<center>It's called Radisrol. This ship
 used to be very famous.
 [ENDBLOCK]
 <Stahn>
@@ -524,7 +525,7 @@ Okay... well, we're off.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-Alright. Please be
+All right. Please be
 careful, everyone.
 [ENDBLOCK]
 <Philia>
@@ -534,15 +535,15 @@ A fourth Swordian...
 <Philia>
 [ENDBLOCK]
 If only... if only I had
-that power, I..!
+that power, I...!
 [ENDBLOCK]
 ????
 [ENDBLOCK]
-<Philia>...hear me, <Philia>...
+<Philia>... Hear me, <Philia>...
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-That voice... that's definitly the
+That voice... that's definitely the
 same voice I heard on the ship!
 [ENDBLOCK]
 <Philia>
@@ -552,9 +553,8 @@ Where are you?
 [ENDBLOCK]
 ????
 [ENDBLOCK]
-I await you further
-within this place.
-Come to me, young <Philia>.
+I await you further within this
+place. Come to me, young <Philia>.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -562,13 +562,13 @@ Further... within...?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-That reminds me, <Philia>. You sure
-caught up to us easily.
+That reminds me, <Philia>. You
+sure caught up to us easily.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-How'd you get past all the danger
-without a Swordian?
+How'd you get past all the
+danger without a Swordian?
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
@@ -580,7 +580,7 @@ I managed just fine with this.
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-I wanted to be of assistance, so I 
+I wanted to be of assistance, so I
 came up with some new weapons.
 [ENDBLOCK]
 <Philia>
@@ -594,9 +594,9 @@ Woah, she killed it in one hit!
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]
-I may have been chosen by <Clemente>,
-but I think I'll continue to make use 
-of these.
+I may have been chosen
+by <Clemente>, but I think
+I'll continue to use these.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
@@ -609,7 +609,7 @@ even without you, old man.
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-W-Well then, shall we get 
+W-Well then, shall we get
 back on the Leviathan?
 [ENDBLOCK]
 <Woodrow>
@@ -619,21 +619,20 @@ So this is Radisrol...
 <Ritora>
 [ENDBLOCK]
 I await you in the
-heart of Radisrol. 
+heart of Radisrol.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-...Hey, <Atwight>.
-I have a question about <Lion>.
+...Hey, <Atwight>. I have a
+question about <Lion>.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-What he said...
-Is it true?
+What he said... Is it true?
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-...I don't have clear evidence, 
+...I don't have clear evidence,
 but I think it's very likely.
 [ENDBLOCK]
 <Atwight>
@@ -643,7 +642,7 @@ after all. Besides...
 [ENDBLOCK]
 <Atwight>
 [ENDBLOCK]
-...I don't think he'd lie in 
+...I don't think he'd lie in
 a situation like that.
 [ENDBLOCK]
 <Rutee>
@@ -666,13 +665,13 @@ elevator is up and running.
 <Dymlos>
 [ENDBLOCK]
 It's used to travel between here
-and the surface. It can
-also transport supplies.
+and the surface. It can also
+transport supplies.
 [ENDBLOCK]
 <Reynolds>
 [ENDBLOCK]
-When you enter, it will take 
-you to Darilsheid.
+When you enter, it will
+take you to Darilsheid.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -680,7 +679,7 @@ Got it. Thank you!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Current Gald: <TAG_033>Gald
+<TAG_007>Current Gald: <TAG_033> Gald
 [ENDBLOCK]
 <TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
 Yes
@@ -688,9 +687,9 @@ No
 [ENDBLOCK]
 <TAG_007><S03><turquoise><x19><x71><x48><x88><x80></color> 
 [ENDBLOCK]
-has joined the Party.
+has joined the party.
 [ENDBLOCK]
-is now an active 
+is now an active
 party member.
 [ENDBLOCK]
 can join the battle.
@@ -713,9 +712,9 @@ has left the party.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-the Title: <turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xAC><x98><x80>
+[<center><turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xAC><x98><x80>
 [ENDBLOCK]
-<x18><x65><x58><xA8><x00><x80></color>.
+<x18><x65><x58><xA8><x00><x80></color>]
 
 [ENDBLOCK]
 <x19><x69><x48><x9C><x80>'s party received
@@ -746,7 +745,7 @@ the <turquoise>Strongest Titles
 [ENDBLOCK]
 the <turquoise>Quiz Titles
 [ENDBLOCK]
-<x19><x69><x48><x9C><x80> has received
+<x19><x69><x48><x9C><x80> has received the title:
 [ENDBLOCK]
 notice
 [ENDBLOCK]
@@ -827,53 +826,49 @@ can now be used.
 notice
 [ENDBLOCK]
 <TAG_007>[Titles Description]
-Titles are one of the character parameters
-that can be set on a character. The
-specific set method is as follows.
+Titles are one of the character
+parameters that can be set. 
+The specific method is as follows.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007>After opening the main menu,
 the character status will display.
-On this screen, hit <Square_ani> and you'll
-be able to change the character status.
+On this screen, press <Square_ani> to 
+change the character status.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>At the top of this screen, you'll see
-[Titles] On this screen, press <Triangle_ani> 
-and it'll let you pick from all the titles
-you've acquired.
+<TAG_007>At the top of this screen will be
+[Titles]. Press <Triangle_ani> to pick
+from all aquired titles.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>There are two purposes to titles. 
-The first is to [Set your title and 
-talk to the townspeople].
+<TAG_007>Titles serve two purposes:
+The first is to [affect dialogue 
+when talking to NPCs].
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>By setting a title, certain townspeople
-will take interest in you. When you talk
-to them several times, you might get
-interesting responses. When that
-happens, reset the title you have on
-and try talking to them again.
+<TAG_007>Set a title to have certain NPCs interested
+while passing them. When talking with NPCs
+multiple times you may get different responses.
+Change the title and try talking to them again.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>Hint: When talking to townspeople, a
-[?] will appear over your character's
-head. If this happens, set a title that
-seems to be related to the dialogue, 
-and try talking to them again. 
+<TAG_007>Hint: When talking to certain NPCs, a [?] will 
+appear over the character's head. If this 
+happens, set a title that seems to be related
+to the dialogue, and try talking to them again.
 Something fun may happen.
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>The second purpose of titles is...
+<TAG_007>The second purpose for titles is...
 to make your status screen look cool!
 When collecting titles, you might pick
 up one you like, so you can set it on
@@ -881,15 +876,15 @@ your status for a little flair!
 [ENDBLOCK]
 notice
 [ENDBLOCK]
-<TAG_007>[Rock Rally] is a game in which 
-players kick rocks on the field 
+<TAG_007>[Rock Rally] is a game in which
+players kick rocks on the field
 to clear certain objectives.
 
 [ENDBLOCK]
 notice
 [ENDBLOCK]
 <TAG_007><x0E><x01><x00><x00><x00>Here are the basic rules.
-1: Kicking a rock outside the 
+1: Kicking a rock outside the
 	city will start the game.
 2: Battles don't affect the clearing
 	objective of the Rock Rally game.
